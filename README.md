@@ -19,7 +19,20 @@ Curated NER training data for [LatinCy](https://huggingface.co/latincy) Latin la
 | ud | ud-dev.json | 2,069 | 4,304 |
 | **Total** | **11 files** | **20,108** | **34,110** |
 
-Entity labels: `PERSON`, `LOC`, `NORP`
+### Corpus Summary
+
+| | Count |
+|---|---|
+| Sentences | 20,108 |
+| Tokens | ~380,000 |
+| Entities | 34,110 |
+
+| Label | Count | % |
+|---|---|---|
+| PERSON | 26,507 | 77.7% |
+| LOC | 5,016 | 14.7% |
+| NORP | 2,560 | 7.5% |
+| CORE | 27 | 0.1% |
 
 ## Setup
 
