@@ -1,6 +1,6 @@
-def main():
-    print("Hello from latincy-ner!")
+"""Entry point — delegates to scripts/build_training_data.py."""
 
+from scripts.build_training_data import main
 
 if __name__ == "__main__":
     main()

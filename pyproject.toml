@@ -1,7 +1,9 @@
 [project]
 name = "latincy-ner"
 version = "0.1.0"
-description = "Add your description here"
+description = "Curated NER training data and pipeline for LatinCy Latin language models"
 readme = "README.md"
 requires-python = ">=3.11"
-dependencies = []
+dependencies = [
+    "spacy>=3.8.11",
+]
