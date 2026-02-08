@@ -318,13 +318,7 @@
     },
     {
       "text": "Ab his talaria et galeam magicam accepit.",
-      "spans": [
-        {
-          "start": 33,
-          "end": 40,
-          "label": "CORE"
-        }
-      ]
+      "spans": []
     },
     {
       "text": "Apollo autem et Minerva falcem et speculum dederunt.",
@@ -343,13 +337,7 @@
     },
     {
       "text": "Tum postquam talaria pedibus induit, in aera ascendit.",
-      "spans": [
-        {
-          "start": 21,
-          "end": 28,
-          "label": "CORE"
-        }
-      ]
+      "spans": []
     },
     {
       "text": "Diu per aera volabat;",
@@ -433,13 +421,7 @@
     },
     {
       "text": "Tum falce sua caput eius uno ictu abscidit.",
-      "spans": [
-        {
-          "start": 34,
-          "end": 42,
-          "label": "CORE"
-        }
-      ]
+      "spans": []
     },
     {
       "text": "Ceterae Gorgones statim e somno excitatae sunt, et ubi rem viderunt, ira commotae sunt.",
@@ -516,23 +498,11 @@
     },
     {
       "text": "Hoc cottidie e mari veniebat et homines devorabat.",
-      "spans": [
-        {
-          "start": 40,
-          "end": 49,
-          "label": "CORE"
-        }
-      ]
+      "spans": []
     },
     {
       "text": "Ob hanc causam pavor animos omnium occupaverat.",
-      "spans": [
-        {
-          "start": 21,
-          "end": 27,
-          "label": "CORE"
-        }
-      ]
+      "spans": []
     },
     {
       "text": "Cepheus igitur oraculum dei Hammonis consuluit, atque a deo iussus est filiam monstro tradere.",
@@ -581,13 +551,7 @@
     },
     {
       "text": "Tum rex diem certam dixit et omnia paravit.",
-      "spans": [
-        {
-          "start": 35,
-          "end": 42,
-          "label": "CORE"
-        }
-      ]
+      "spans": []
     },
     {
       "text": "Ubi ea dies venit, Andromeda ad litus deducta est, et in conspectu omnium ad rupem adligata est.",
@@ -601,13 +565,7 @@
     },
     {
       "text": "Omnes fatum eius deplorabant, nec lacrimas tenebant.",
-      "spans": [
-        {
-          "start": 43,
-          "end": 51,
-          "label": "CORE"
-        }
-      ]
+      "spans": []
     },
     {
       "text": "At subito, dum monstrum exspectant, Perseus accurrit;",
@@ -625,13 +583,7 @@
     },
     {
       "text": "Illi rem totam exponunt et puellam demonstrant.",
-      "spans": [
-        {
-          "start": 35,
-          "end": 46,
-          "label": "CORE"
-        }
-      ]
+      "spans": []
     },
     {
       "text": "Dum haec geruntur, fremitus terribilis auditur;",
@@ -643,23 +595,11 @@
     },
     {
       "text": "Eius conspectus timorem maximum omnibus iniecit.",
-      "spans": [
-        {
-          "start": 40,
-          "end": 47,
-          "label": "CORE"
-        }
-      ]
+      "spans": []
     },
     {
       "text": "Monstrum magna celeritate ad litus contendit, iamque ad locum appropinquabat ubi puella stabat.",
-      "spans": [
-        {
-          "start": 88,
-          "end": 94,
-          "label": "CORE"
-        }
-      ]
+      "spans": []
     },
     {
       "text": "At Perseus ubi haec vidit, gladium suum eduxit, et postquam talaria induit, in aera sublatus est.",
@@ -673,33 +613,15 @@
     },
     {
       "text": "Tum desuper in monstrum impetum subito fecit, et gladio suo collum eius graviter vulneravit.",
-      "spans": [
-        {
-          "start": 49,
-          "end": 55,
-          "label": "CORE"
-        }
-      ]
+      "spans": []
     },
     {
       "text": "Monstrum ubi sensit vulnus, fremitum horribilem edidit, et sine mora totum corpus in aquam mersit.",
-      "spans": [
-        {
-          "start": 0,
-          "end": 8,
-          "label": "CORE"
-        }
-      ]
+      "spans": []
     },
     {
       "text": "Mare autem interea undique sanguine inficitur.",
-      "spans": [
-        {
-          "start": 19,
-          "end": 26,
-          "label": "CORE"
-        }
-      ]
+      "spans": []
     },
     {
       "text": "Post breve tempus belua rursus caput sustulit;",
@@ -707,13 +629,7 @@
     },
     {
       "text": "Tum iterum se in undas mersit, neque postea visa est.",
-      "spans": [
-        {
-          "start": 37,
-          "end": 43,
-          "label": "CORE"
-        }
-      ]
+      "spans": []
     },
     {
       "text": "Perseus postquam ad litus descendit, primum talaria exuit;",
@@ -737,33 +653,15 @@
     },
     {
       "text": "Ille vincula statim solvit, et puellam patri reddidit.",
-      "spans": [
-        {
-          "start": 39,
-          "end": 44,
-          "label": "CORE"
-        }
-      ]
+      "spans": []
     },
     {
       "text": "Ille libenter hoc donum accepit et puellam duxit.",
-      "spans": [
-        {
-          "start": 43,
-          "end": 48,
-          "label": "CORE"
-        }
-      ]
+      "spans": []
     },
     {
       "text": "Magnopere tamen matrem suam rursus videre cupiebat.",
-      "spans": [
-        {
-          "start": 42,
-          "end": 50,
-          "label": "CORE"
-        }
-      ]
+      "spans": []
     },
     {
       "text": "Postquam Perseus ad insulam navem appulit, se ad locum contulit ubi mater olim habitaverat, sed domum invenit vacuam et omnino desertam.",
@@ -971,13 +869,7 @@
     },
     {
       "text": "Hic omnium hominum validissimus fuisse dicitur.",
-      "spans": [
-        {
-          "start": 39,
-          "end": 46,
-          "label": "CORE"
-        }
-      ]
+      "spans": []
     },
     {
       "text": "At Iuno, regina deorum, Alcmenam oderat et Herculem adhuc infantem necare voluit.",
@@ -1192,13 +1084,7 @@
     },
     {
       "text": "Tum nuntios dimisit et diem sacrificio edixit.",
-      "spans": [
-        {
-          "start": 39,
-          "end": 45,
-          "label": "CORE"
-        }
-      ]
+      "spans": []
     },
     {
       "text": "Mox ea dies appetebat, et omnia rite parata sunt.",
@@ -1361,13 +1247,7 @@
     },
     {
       "text": "Legati autem apud omnis gentis sancti habentur.",
-      "spans": [
-        {
-          "start": 38,
-          "end": 46,
-          "label": "CORE"
-        }
-      ]
+      "spans": []
     },
     {
       "text": "Erginus, rex Minyarum, ob haec vehementer iratus statim cum omnibus copiis in finis Thebanorum contendit.",
@@ -1428,13 +1308,7 @@
     },
     {
       "text": "Locum idoneum delegit et aciem instruxit.",
-      "spans": [
-        {
-          "start": 14,
-          "end": 21,
-          "label": "CORE"
-        }
-      ]
+      "spans": []
     },
     {
       "text": "Tum Thebani e superiore loco impetum in hostis fecerunt.",
@@ -1513,13 +1387,7 @@
     },
     {
       "text": "Nolebant enim cives sermonem cum eo habere.",
-      "spans": [
-        {
-          "start": 36,
-          "end": 42,
-          "label": "CORE"
-        }
-      ]
+      "spans": []
     },
     {
       "text": "Hercules tantum scelus expiare magnopere cupiebat.",
@@ -1592,13 +1460,7 @@
     },
     {
       "text": "Tum rem totam exposuit, neque scelus celavit.",
-      "spans": [
-        {
-          "start": 14,
-          "end": 22,
-          "label": "CORE"
-        }
-      ]
+      "spans": []
     },
     {
       "text": "Ubi Hercules finem fecit, Pythia primo tacebat;",
@@ -1625,13 +1487,7 @@
     },
     {
       "text": "Multa tamen quae poetae narrant vix credibilia sunt.",
-      "spans": [
-        {
-          "start": 36,
-          "end": 46,
-          "label": "CORE"
-        }
-      ]
+      "spans": []
     },
     {
       "text": "Mox feram vidit, et arcum, quem secum attulerat, intendit;",
@@ -1651,13 +1507,7 @@
     },
     {
       "text": "Tum demum collum monstri bracchiis suis complexus est et faucis eius omnibus viribus compressit.",
-      "spans": [
-        {
-          "start": 85,
-          "end": 95,
-          "label": "CORE"
-        }
-      ]
+      "spans": []
     },
     {
       "text": "Hoc modo leo brevi tempore exanimatus est;",
@@ -1707,23 +1557,11 @@
     },
     {
       "text": "Deinde arbores succidere et ignem accendere constituit.",
-      "spans": [
-        {
-          "start": 44,
-          "end": 54,
-          "label": "CORE"
-        }
-      ]
+      "spans": []
     },
     {
       "text": "Hoc celeriter fecit, et postquam ligna ignem comprehenderunt, face ardente colla adussit, unde capita exoriebantur.",
-      "spans": [
-        {
-          "start": 90,
-          "end": 94,
-          "label": "CORE"
-        }
-      ]
+      "spans": []
     },
     {
       "text": "Nec tamen sine magno labore haec fecit;",

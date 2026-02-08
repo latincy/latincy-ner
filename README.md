@@ -12,12 +12,12 @@ Curated NER training data for [LatinCy](https://huggingface.co/latincy) Latin la
 | bootstrap | bootstrap-neral-dev.json | 111 | 247 |
 | nt | nt-matthew.json | 1,069 | 619 |
 | ot | ot-genesis.json | 1,522 | 1,962 |
-| primer | primer-ritchies.json | 889 | 759 |
+| primer | primer-ritchies.json | 889 | 732 |
 | primer | primer-sonnenschein_1902.json | 503 | 385 |
 | primer | primer-sonnenschein_1903.json | 332 | 361 |
 | ud | ud-train.json | 8,992 | 17,530 |
 | ud | ud-dev.json | 2,069 | 4,304 |
-| **Total** | **11 files** | **20,108** | **34,110** |
+| **Total** | **11 files** | **20,108** | **34,083** |
 
 ### Corpus Summary
 
@@ -25,14 +25,13 @@ Curated NER training data for [LatinCy](https://huggingface.co/latincy) Latin la
 |---|---|
 | Sentences | 20,108 |
 | Tokens | ~380,000 |
-| Entities | 34,110 |
+| Entities | 34,083 |
 
 | Label | Count | % |
 |---|---|---|
-| PERSON | 26,507 | 77.7% |
+| PERSON | 26,507 | 77.8% |
 | LOC | 5,016 | 14.7% |
 | NORP | 2,560 | 7.5% |
-| CORE | 27 | 0.1% |
 
 ## Setup
 
