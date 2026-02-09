@@ -1,0 +1,2074 @@
+{
+  "metadata": {
+    "title": "Metamorphoses - Book 1",
+    "author": "Ovid",
+    "source": "https://github.com/cltk/lat_text_tesserae/blob/master/texts/ovid.metamorphoses.part.1.tess",
+    "latincy-ner-project": "tesserae",
+    "latincy-ner-project-subset": "ovid.metamorphoses.1-train",
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "bootstrap_sources": [
+      "neral-silver"
+    ],
+    "bootstrap_citations": [
+      "Fantoli, Margherita and Evelien De Graaf. 2022. \"Linking the LASLA Corpus in the LiLa Knowledge Base of Interoperable Linguistic Resources for Latin.\" In Proceedings of LDL 2022. https://aclanthology.org/2022.ldl-1.4"
+    ],
+    "bootstrap_urls": [
+      "https://github.com/NER-AncientLanguages/Ner-Latin-RANLP"
+    ],
+    "split_from": "tesserae-ovid.metamorphoses.1.json"
+  },
+  "annotation": {
+    "spacy_model": "la_core_web_lg",
+    "spacy_model_version": "3.8.0",
+    "tagset": [
+      "PERSON",
+      "LOC",
+      "NORP"
+    ],
+    "annotators": [
+      "Patrick J. Burns"
+    ],
+    "review_level": "silver"
+  },
+  "data": [
+    {
+      "text": "In nova fert animus mutatas dicere formas corpora;",
+      "spans": []
+    },
+    {
+      "text": "di, coeptis (nam vos mutastis et illas) adspirate meis primaque ab origine mundi ad mea perpetuum deducite tempora carmen.",
+      "spans": []
+    },
+    {
+      "text": "rudis indigestaque moles nec quicquam nisi pondus iners congestaque eodem non bene iunctarum discordia semina rerum.",
+      "spans": []
+    },
+    {
+      "text": "nullus adhuc mundo praebebat lumina Titan, nec nova crescendo reparabat cornua Phoebe, nec circumfuso pendebat in aere tellus ponderibus librata suis, nec bracchia longo margine terrarum porrexerat Amphitrite;",
+      "spans": [
+        {
+          "start": 36,
+          "end": 41,
+          "label": "PERSON"
+        },
+        {
+          "start": 79,
+          "end": 85,
+          "label": "PERSON"
+        },
+        {
+          "start": 198,
+          "end": 208,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "utque aer, tellus illic et pontus et aether.",
+      "spans": []
+    },
+    {
+      "text": "Sic erat instabilis tellus, innabilis unda, lucis egens aer:",
+      "spans": []
+    },
+    {
+      "text": "Hanc deus et melior litem natura diremit.",
+      "spans": []
+    },
+    {
+      "text": "Nam caelo terras et terris abscidit undas, et liquidum spisso secrevit ab aere caelum.",
+      "spans": []
+    },
+    {
+      "text": "Quae postquam evolvit caecoque exemit acervo, dissociata locis concordi pace ligavit.",
+      "spans": []
+    },
+    {
+      "text": "Ignea convexi vis et sine pondere caeli emicuit summaque locum sibi fecit in arce:",
+      "spans": []
+    },
+    {
+      "text": "densior his tellus, elementaque grandia traxit et pressa est gravitate sua:",
+      "spans": []
+    },
+    {
+      "text": "circumfluus umor ultima possedit solidumque coercuit orbem.",
+      "spans": []
+    },
+    {
+      "text": "Tum freta diffudit rapidisque tumescere ventis iussit et ambitae circumdare litora terrae.",
+      "spans": []
+    },
+    {
+      "text": "Addidit et fontes et stagna inmensa lacusque fluminaque obliquis cinxit declivia ripis, quae, diversa locis, partim sorbentur ab ipsa, in mare perveniunt partim campoque recepta liberioris aquae pro ripis litora pulsant.",
+      "spans": []
+    },
+    {
+      "text": "Iussit et extendi campos, subsidere valles, fronde tegi silvas, lapidosos surgere montes.",
+      "spans": []
+    },
+    {
+      "text": "Utque duae dextra caelum totidemque sinistra parte secant zonae, quinta est ardentior illis, sic onus inclusum numero distinxit eodem cura dei, totidemque plagae tellure premuntur.",
+      "spans": []
+    },
+    {
+      "text": "Quarum quae media est, non est habitabilis aestu:",
+      "spans": []
+    },
+    {
+      "text": "nix tegit alta duas:",
+      "spans": []
+    },
+    {
+      "text": "totidem inter utrumque locavit temperiemque dedit mixta cum frigore flamma.",
+      "spans": []
+    },
+    {
+      "text": "Inminet his aer.",
+      "spans": []
+    },
+    {
+      "text": "Qui quanto est pondere terrae, pondere aquae levior tanto est onerosior igni.",
+      "spans": []
+    },
+    {
+      "text": "Illic et nebulas, illic consistere nubes iussit et humanas motura tonitrua mentes et cum fulminibus facientes fulgura ventos.",
+      "spans": []
+    },
+    {
+      "text": "His quoque non passim mundi fabricator habendum aera permisit:",
+      "spans": []
+    },
+    {
+      "text": "tanta est discordia fratrum.",
+      "spans": []
+    },
+    {
+      "text": "Eurus ad Auroram Nabataeaque regna recessit Persidaque et radiis iuga subdita matutinis;",
+      "spans": [
+        {
+          "start": 0,
+          "end": 5,
+          "label": "PERSON"
+        },
+        {
+          "start": 9,
+          "end": 16,
+          "label": "LOC"
+        },
+        {
+          "start": 17,
+          "end": 25,
+          "label": "LOC"
+        },
+        {
+          "start": 44,
+          "end": 51,
+          "label": "LOC"
+        }
+      ]
+    },
+    {
+      "text": "vesper et occiduo quae litora sole tepescunt, proxima sunt Zephyro:",
+      "spans": [
+        {
+          "start": 59,
+          "end": 66,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Scythiam septemque triones horrifer invasit Boreas:",
+      "spans": [
+        {
+          "start": 0,
+          "end": 8,
+          "label": "LOC"
+        },
+        {
+          "start": 44,
+          "end": 50,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "contraria tellus nubibus adsiduis pluviaque madescit ab Austro.",
+      "spans": [
+        {
+          "start": 56,
+          "end": 62,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Haec super inposuit liquidum et gravitate carentem aethera nec quicquam terrenae faecis habentem.",
+      "spans": []
+    },
+    {
+      "text": "Vix ita limitibus dissaepserat omnia certis, cum, quae pressa diu massa latuere sub illa, sidera coeperunt toto effervescere caelo.",
+      "spans": []
+    },
+    {
+      "text": "Sanctius his animal mentisque capacius altae deerat adhuc et quod dominari in cetera posset.",
+      "spans": []
+    },
+    {
+      "text": "Natus homo est, sive hunc divino semine fecit ille opifex rerum, mundi melioris origo, sive recens tellus seductaque nuper ab alto aethere cognati retinebat semina caeli;",
+      "spans": []
+    },
+    {
+      "text": "quam satus Iapeto mixtam pluvialibus undis finxit in effigiem moderantum cuncta deorum.",
+      "spans": [
+        {
+          "start": 11,
+          "end": 17,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Pronaque cum spectent animalia cetera terram, os homini sublime dedit, caelumque videre iussit et erectos ad sidera tollere vultus.",
+      "spans": []
+    },
+    {
+      "text": "Sic, modo quae fuerat rudis et sine imagine, tellus induit ignotas hominum conversa figuras.",
+      "spans": []
+    },
+    {
+      "text": "Aurea prima sata est aetas, quae vindice nullo, sponte sua, sine lege fidem rectumque colebat.",
+      "spans": []
+    },
+    {
+      "text": "Poena metusque aberant, nec verba minantia fixo aere legebantur, nec supplex turba timebat iudicis ora sui, sed erant sine vindice tuti.",
+      "spans": []
+    },
+    {
+      "text": "Nondum caesa suis, peregrinum ut viseret orbem, montibus in liquidas pinus descenderat undas, nullaque mortales praeter sua litora norant.",
+      "spans": []
+    },
+    {
+      "text": "Nondum praecipites cingebant oppida fossae;",
+      "spans": []
+    },
+    {
+      "text": "non tuba directi, non aeris cornua flexi, non galeae, non ensis erat:",
+      "spans": []
+    },
+    {
+      "text": "ipsa quoque inmunis rastroque intacta nec ullis saucia vomeribus per se dabat omnia tellus;",
+      "spans": []
+    },
+    {
+      "text": "contentique cibis nullo cogente creatis arbuteos fetus montanaque fraga legebant cornaque et in duris haerentia mora rubetis et quae deciderant patula Iovis arbore glandes.",
+      "spans": [
+        {
+          "start": 151,
+          "end": 156,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Ver erat aeternum, placidique tepentibus auris mulcebant zephyri natos sine semine flores.",
+      "spans": []
+    },
+    {
+      "text": "Mox etiam fruges tellus inarata ferebat, nec renovatus ager gravidis canebat aristis;",
+      "spans": []
+    },
+    {
+      "text": "flumina iam lactis, iam flumina nectaris ibant, flavaque de viridi stillabant ilice mella.",
+      "spans": []
+    },
+    {
+      "text": "Postquam, Saturno tenebrosa in Tartara misso, sub Iove mundus erat, subiit argentea proles, auro deterior, fulvo pretiosior aere.",
+      "spans": [
+        {
+          "start": 10,
+          "end": 17,
+          "label": "PERSON"
+        },
+        {
+          "start": 31,
+          "end": 38,
+          "label": "LOC"
+        },
+        {
+          "start": 50,
+          "end": 54,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Iuppiter antiqui contraxit tempora veris perque hiemes aestusque et inaequalis autumnos et breve ver spatiis exegit quattuor annum.",
+      "spans": [
+        {
+          "start": 0,
+          "end": 8,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Tum primum siccis aer fervoribus ustus canduit, et ventis glacies adstricta pependit.",
+      "spans": []
+    },
+    {
+      "text": "Tum primum subiere domus (domus antra fuerunt et densi frutices et vinctae cortice virgae).",
+      "spans": []
+    },
+    {
+      "text": "Protinus inrupit venae peioris in aevum omne nefas:",
+      "spans": []
+    },
+    {
+      "text": "fugere pudor verumque fidesque;",
+      "spans": []
+    },
+    {
+      "text": "In quorum subiere locum fraudesque dolique insidiaeque et vis et amor sceleratus habendi.",
+      "spans": []
+    },
+    {
+      "text": "Vela dabat ventis (nec adhuc bene noverat illos) navita;",
+      "spans": []
+    },
+    {
+      "text": "quaeque diu steterant in montibus altis, fluctibus ignotis insultavere carinae, communemque prius ceu lumina solis et auras cautus humum longo signavit limite mensor.",
+      "spans": []
+    },
+    {
+      "text": "Nec tantum segetes alimentaque debita dives poscebatur humus, sed itum est in viscera terrae:",
+      "spans": []
+    },
+    {
+      "text": "quasque recondiderat Stygiisque admoverat umbris, effodiuntur opes, inritamenta malorum.",
+      "spans": []
+    },
+    {
+      "text": "Iamque nocens ferrum ferroque nocentius aurum prodierat:",
+      "spans": []
+    },
+    {
+      "text": "prodit bellum, quod pugnat utroque, sanguineaque manu crepitantia concutit arma.",
+      "spans": []
+    },
+    {
+      "text": "Vivitur ex rapto:",
+      "spans": []
+    },
+    {
+      "text": "non hospes ab hospite tutus, non socer a genero;",
+      "spans": []
+    },
+    {
+      "text": "fratrum quoque gratia rara est.",
+      "spans": []
+    },
+    {
+      "text": "Inminet exitio vir coniugis, illa mariti;",
+      "spans": []
+    },
+    {
+      "text": "lurida terribiles miscent aconita novercae;",
+      "spans": []
+    },
+    {
+      "text": "filius ante diem patrios inquirit in annos.",
+      "spans": []
+    },
+    {
+      "text": "Victa iacet pietas, et virgo caede madentis, ultima caelestum terras Astraea reliquit.",
+      "spans": [
+        {
+          "start": 69,
+          "end": 76,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Neve foret terris securior arduus aether, adfectasse ferunt regnum caeleste Gigantas altaque congestos struxisse ad sidera montes.",
+      "spans": [
+        {
+          "start": 76,
+          "end": 84,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Sed et illa propago contemptrix superum saevaeque avidissima caedis et violenta fuit:",
+      "spans": []
+    },
+    {
+      "text": "scires e sanguine natos.",
+      "spans": []
+    },
+    {
+      "text": "Quae pater ut summa vidit Saturnius arce, ingemit et, facto nondum vulgata recenti, foeda Lycaoniae referens convivia mensae, ingentes animo et dignas Iove concipit iras, conciliumque vocat:",
+      "spans": [
+        {
+          "start": 90,
+          "end": 99,
+          "label": "PERSON"
+        },
+        {
+          "start": 151,
+          "end": 155,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "tenuit mora nulla vocatos.",
+      "spans": []
+    },
+    {
+      "text": "Est via sublimis, caelo manifesta sereno:",
+      "spans": []
+    },
+    {
+      "text": "lactea nomen habet, candore notabilis ipso.",
+      "spans": []
+    },
+    {
+      "text": "Dextra laevaque deorum atria nobilium valvis celebrantur apertis (plebs habitat diversa locis):",
+      "spans": []
+    },
+    {
+      "text": "Ergo ubi marmoreo superi sedere recessu, celsior ipse loco sceptroque innixus eburno terrificam capitis concussit terque quaterque caesariem, cum qua terram, mare, sidera movit.",
+      "spans": []
+    },
+    {
+      "text": "Talibus inde modis ora indignantia solvit:",
+      "spans": []
+    },
+    {
+      "text": "\"Non ego pro mundi regno magis anxius illa tempestate fui, qua centum quisque parabat inicere anguipedum captivo bracchia caelo.",
+      "spans": []
+    },
+    {
+      "text": "Nam quamquam ferus hostis erat, tamen illud ab uno corpore et ex una pendebat origine bellum.",
+      "spans": []
+    },
+    {
+      "text": "Nunc mihi, qua totum Nereus circumsonat orbem, perdendum est mortale genus:",
+      "spans": [
+        {
+          "start": 21,
+          "end": 27,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "per flumina iuro infera, sub terras Stygio labentia luco!",
+      "spans": []
+    },
+    {
+      "text": "cuncta prius temptata:",
+      "spans": []
+    },
+    {
+      "text": "sed inmedicabile corpus ense recidendum est, ne pars sincera trahatur.",
+      "spans": []
+    },
+    {
+      "text": "quos quoniam caeli nondum dignamur honore, quas dedimus certe terras habitare sinamus.",
+      "spans": []
+    },
+    {
+      "text": "An satis, o superi, tutos fore creditis illos, cum mihi, qui fulmen, qui vos habeoque regoque, struxerit insidias notus feritate Lycaon?",
+      "spans": [
+        {
+          "start": 129,
+          "end": 135,
+          "label": "LOC"
+        }
+      ]
+    },
+    {
+      "text": "\" Confremuere omnes studiisque ardentibus ausum talia deposcunt.",
+      "spans": []
+    },
+    {
+      "text": "Sic, cum manus inpia saevit sanguine Caesareo Romanum exstinguere nomen, attonitum tanto subitae terrore ruinae humanum genus est totusque perhorruit orbis:",
+      "spans": []
+    },
+    {
+      "text": "nec tibi grata minus pietas, Auguste, tuorum est, quam fuit illa Iovi.",
+      "spans": [
+        {
+          "start": 29,
+          "end": 36,
+          "label": "PERSON"
+        },
+        {
+          "start": 65,
+          "end": 69,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Substitit ut clamor pressus gravitate regentis, Iuppiter hoc iterum sermone silentia rupit:",
+      "spans": [
+        {
+          "start": 48,
+          "end": 56,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "\"Ille quidem poenas, curam hanc dimittite, solvit.",
+      "spans": []
+    },
+    {
+      "text": "Quod tamen admissum, quae sit vindicta, docebo.",
+      "spans": []
+    },
+    {
+      "text": "Contigerat nostras infamia temporis aures;",
+      "spans": []
+    },
+    {
+      "text": "quam cupiens falsam summo delabor Olympo et deus humana lustro sub imagine terras.",
+      "spans": [
+        {
+          "start": 34,
+          "end": 40,
+          "label": "LOC"
+        }
+      ]
+    },
+    {
+      "text": "Longa mora est, quantum noxae sit ubique repertum, enumerare:",
+      "spans": []
+    },
+    {
+      "text": "minor fuit ipsa infamia vero.",
+      "spans": []
+    },
+    {
+      "text": "Maenala transieram latebris horrenda ferarum et cum Cyllene gelidi pineta Lycaei:",
+      "spans": [
+        {
+          "start": 0,
+          "end": 7,
+          "label": "LOC"
+        },
+        {
+          "start": 52,
+          "end": 59,
+          "label": "LOC"
+        },
+        {
+          "start": 74,
+          "end": 80,
+          "label": "LOC"
+        }
+      ]
+    },
+    {
+      "text": "Arcadis hinc sedes et inhospita tecta tyranni ingredior, traherent cum sera crepuscula noctem.",
+      "spans": [
+        {
+          "start": 0,
+          "end": 7,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Signa dedi venisse deum, vulgusque precari coeperat:",
+      "spans": []
+    },
+    {
+      "text": "inridet primo pia vota Lycaon, mox ait \"experiar deus hic, discrimine aperto, an sit mortalis.",
+      "spans": [
+        {
+          "start": 23,
+          "end": 29,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Nec erit dubitabile verum.",
+      "spans": []
+    },
+    {
+      "text": "\" Nocte gravem somno necopina perdere morte me parat:",
+      "spans": []
+    },
+    {
+      "text": "haec illi placet experientia veri.",
+      "spans": []
+    },
+    {
+      "text": "missi de gente Molossa obsidis unius iugulum mucrone resolvit, atque ita semineces partim ferventibus artus mollit aquis, partim subiecto torruit igni.",
+      "spans": [
+        {
+          "start": 15,
+          "end": 22,
+          "label": "LOC"
+        }
+      ]
+    },
+    {
+      "text": "Quod simul inposuit mensis, ego vindice flamma in domino dignos everti tecta penates.",
+      "spans": []
+    },
+    {
+      "text": "ab ipso conligit os rabiem, solitaeque cupidine caedis vertitur in pecudes et nunc quoque sanguine gaudet.",
+      "spans": []
+    },
+    {
+      "text": "fit lupus et veteris servat vestigia formae.",
+      "spans": []
+    },
+    {
+      "text": "Canities eadem est, eadem violentia vultus, idem oculi lucent, eadem feritatis imago est.",
+      "spans": []
+    },
+    {
+      "text": "Occidit una domus.",
+      "spans": []
+    },
+    {
+      "text": "Sed non domus una perire digna fuit:",
+      "spans": []
+    },
+    {
+      "text": "qua terra patet, fera regnat Erinys.",
+      "spans": [
+        {
+          "start": 29,
+          "end": 35,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "In facinus iurasse putes.",
+      "spans": []
+    },
+    {
+      "text": "Dent ocius omnes quas meruere pati (sic stat sententia) poenas.",
+      "spans": []
+    },
+    {
+      "text": "\" Dicta Iovis pars voce probant stimulosque frementi adiciunt, alii partes adsensibus inplent.",
+      "spans": [
+        {
+          "start": 8,
+          "end": 13,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Talia quaerentes (sibi enim fore cetera curae) rex superum trepidare vetat subolemque priori dissimilem populo promittit origine mira.",
+      "spans": []
+    },
+    {
+      "text": "Iamque erat in totas sparsurus fulmina terras:",
+      "spans": []
+    },
+    {
+      "text": "esse quoque in fatis reminiscitur, adfore tempus, quo mare, quo tellus correptaque regia caeli ardeat et mundi moles obsessa laboret.",
+      "spans": []
+    },
+    {
+      "text": "Tela reponuntur manibus fabricata Cyclopum:",
+      "spans": [
+        {
+          "start": 34,
+          "end": 42,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "poena placet diversa, genus mortale sub undis perdere et ex omni nimbos demittere caelo.",
+      "spans": []
+    },
+    {
+      "text": "Protinus Aeoliis Aquilonem claudit in antris et quaecumque fugant inductas flamina nubes emittitque Notum.",
+      "spans": [
+        {
+          "start": 17,
+          "end": 26,
+          "label": "PERSON"
+        },
+        {
+          "start": 100,
+          "end": 105,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "barba gravis nimbis, canis fluit unda capillis;",
+      "spans": []
+    },
+    {
+      "text": "fronte sedent nebulae, rorant pennaeque sinusque.",
+      "spans": []
+    },
+    {
+      "text": "Utque manu late pendentia nubila pressit, fit fragor:",
+      "spans": []
+    },
+    {
+      "text": "Sternuntur segetes et deplorata coloni vota iacent, longique perit labor inritus anni.",
+      "spans": []
+    },
+    {
+      "text": "Nec caelo contenta suo est Iovis ira, sed illum caeruleus frater iuvat auxiliaribus undis.",
+      "spans": [
+        {
+          "start": 27,
+          "end": 32,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Convocat hic amnes.",
+      "spans": []
+    },
+    {
+      "text": "Qui postquam tecta tyranni intravere sui, \"non est hortamine longo nunc\" ait \"utendum.",
+      "spans": []
+    },
+    {
+      "text": "Vires effundite vestras:",
+      "spans": []
+    },
+    {
+      "text": "sic opus est!",
+      "spans": []
+    },
+    {
+      "text": "aperite domos ac mole remota fluminibus vestris totas inmittite habenas!",
+      "spans": []
+    },
+    {
+      "text": "\" Iusserat;",
+      "spans": []
+    },
+    {
+      "text": "hi redeunt ac fontibus ora relaxant et defrenato volvuntur in aequora cursu.",
+      "spans": []
+    },
+    {
+      "text": "Ipse tridente suo terram percussit:",
+      "spans": []
+    },
+    {
+      "text": "Exspatiata ruunt per apertos flumina campos cumque satis arbusta simul pecudesque virosque tectaque cumque suis rapiunt penetralia sacris.",
+      "spans": []
+    },
+    {
+      "text": "Siqua domus mansit potuitque resistere tanto indeiecta malo, culmen tamen altior huius unda tegit, pressaeque latent sub gurgite turres.",
+      "spans": []
+    },
+    {
+      "text": "omnia pontus erant;",
+      "spans": []
+    },
+    {
+      "text": "deerant quoque litora ponto.",
+      "spans": []
+    },
+    {
+      "text": "Occupat hic collem, cumba sedet alter adunca et ducit remos illic, ubi nuper ararat, ille supra segetes aut mersae culmina villae navigat, hic summa piscem deprendit in ulmo.",
+      "spans": []
+    },
+    {
+      "text": "Mirantur sub aqua lucos urbesque domosque Nereides, silvasque tenent delphines et altis incursant ramis agitataque robora pulsant.",
+      "spans": [
+        {
+          "start": 42,
+          "end": 50,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Quaesitisque diu terris, ubi sistere possit, in mare lassatis volucris vaga decidit alis.",
+      "spans": []
+    },
+    {
+      "text": "Obruerat tumulos inmensa licentia ponti, pulsabantque novi montana cacumina fluctus.",
+      "spans": []
+    },
+    {
+      "text": "Maxima pars unda rapitur;",
+      "spans": []
+    },
+    {
+      "text": "quibus unda pepercit, illos longa domant inopi ieiunia victu.",
+      "spans": []
+    },
+    {
+      "text": "Mons ibi verticibus petit arduus astra duobus, nomine Parnasus, superantque cacumina nubes.",
+      "spans": [
+        {
+          "start": 54,
+          "end": 62,
+          "label": "LOC"
+        }
+      ]
+    },
+    {
+      "text": "Hic ubi Deucalion (nam cetera texerat aequor) cum consorte tori parva rate vectus adhaesit, Corycidas nymphas et numina montis adorant fatidicamque Themin, quae tunc oracla tenebat.",
+      "spans": [
+        {
+          "start": 8,
+          "end": 17,
+          "label": "PERSON"
+        },
+        {
+          "start": 148,
+          "end": 154,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Non illo melior quisquam nec amantior aequi vir fuit aut illa metuentior ulla deorum.",
+      "spans": []
+    },
+    {
+      "text": "Nec maris ira manet, positoque tricuspide telo mulcet aquas rector pelagi supraque profundum exstantem atque umeros innato murice tectum caeruleum Tritona vocat conchaeque sonanti inspirare iubet fluctusque et flumina signo iam revocare dato.",
+      "spans": [
+        {
+          "start": 147,
+          "end": 154,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Cava bucina sumitur illi, tortilis, in latum quae turbine crescit ab imo, bucina, quae medio concepit ubi aera ponto, litora voce replet sub utroque iacentia Phoebo.",
+      "spans": [
+        {
+          "start": 158,
+          "end": 164,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Tunc quoque, ut ora dei madida rorantia barba contigit et cecinit iussos inflata receptus, omnibus audita est telluris et aequoris undis, et quibus est undis audita, coercuit omnes.",
+      "spans": []
+    },
+    {
+      "text": "Redditus orbis erat.",
+      "spans": []
+    },
+    {
+      "text": "\"O soror, o coniunx, o femina sola superstes, quam commune mihi genus et patruelis origo, deinde torus iunxit, nunc ipsa pericula iungunt, terrarum, quascumque vident occasus et ortus, nos duo turba sumus;",
+      "spans": []
+    },
+    {
+      "text": "Haec quoque adhuc vitae non est fiducia nostrae certa satis;",
+      "spans": []
+    },
+    {
+      "text": "terrent etiam nunc nubila mentem.",
+      "spans": []
+    },
+    {
+      "text": "Quis tibi, si sine me fatis erepta fuisses, nunc animus, miseranda, foret?",
+      "spans": []
+    },
+    {
+      "text": "quo sola timorem ferre modo posses?",
+      "spans": []
+    },
+    {
+      "text": "Namque ego (crede mihi) si te quoque pontus haberet, te sequerer, coniunx, et me quoque pontus haberet.",
+      "spans": []
+    },
+    {
+      "text": "O utinam possim populos reparare paternis artibus atque animas formatae infundere terrae!",
+      "spans": []
+    },
+    {
+      "text": "Nunc genus in nobis restat mortale duobus (sic visum superis) hominumque exempla manemus.",
+      "spans": []
+    },
+    {
+      "text": "Placuit caeleste precari numen et auxilium per sacras quaerere sortes.",
+      "spans": []
+    },
+    {
+      "text": "Nulla mora est:",
+      "spans": []
+    },
+    {
+      "text": "adeunt pariter Cephisidas undas, ut nondum liquidas, sic iam vada nota secantes.",
+      "spans": []
+    },
+    {
+      "text": "Inde ubi libatos inroravere liquores vestibus et capiti, flectunt vestigia sanctae ad delubra deae, quorum fastigia turpi pallebant musco stabantque sine ignibus arae.",
+      "spans": []
+    },
+    {
+      "text": "Ut templi tetigere gradus, procumbit uterque pronus humi gelidoque pavens dedit oscula saxo atque ita \"si precibus\" dixerunt \"numina iustis victa remollescunt, si flectitur ira deorum, dic, Themi, qua generis damnum reparabile nostri arte sit, et mersis fer opem, mitissima, rebus.",
+      "spans": [
+        {
+          "start": 190,
+          "end": 195,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "\"Discedite",
+      "spans": []
+    },
+    {
+      "text": "templo et velate caput cinctasque resolvite vestes ossaque post tergum magnae iactate parentis.",
+      "spans": []
+    },
+    {
+      "text": "\" Obstipuere diu, rumpitque silentia voce Pyrrha prior iussisque deae parere recusat, detque sibi veniam pavido rogat ore, pavetque laedere iactatis maternas ossibus umbras.",
+      "spans": [
+        {
+          "start": 42,
+          "end": 48,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Interea repetunt caecis obscura latebris verba datae sortis secum inter seque volutant.",
+      "spans": []
+    },
+    {
+      "text": "Inde Promethides placidis Epimethida dictis mulcet et \"aut fallax\" ait \"est sollertia nobis, aut pia sunt nullumque nefas oracula suadent.",
+      "spans": [
+        {
+          "start": 5,
+          "end": 16,
+          "label": "PERSON"
+        },
+        {
+          "start": 26,
+          "end": 36,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Magna parens terra est, lapides in corpore terrae ossa reor dici;",
+      "spans": []
+    },
+    {
+      "text": "iacere hos post terga iubemur.",
+      "spans": []
+    },
+    {
+      "text": "\" Coniugis augurio quamquam Titania mota est, spes tamen in dubio est:",
+      "spans": [
+        {
+          "start": 28,
+          "end": 35,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "adeo caelestibus ambo diffidunt monitis.",
+      "spans": []
+    },
+    {
+      "text": "Sed quid temptare nocebit?",
+      "spans": []
+    },
+    {
+      "text": ") ponere duritiem coepere suumque rigorem mollirique mora mollitaque ducere formam.",
+      "spans": []
+    },
+    {
+      "text": "Quae tamen ex illis aliquo pars umida suco et terrena fuit, versa est in corporis usum;",
+      "spans": []
+    },
+    {
+      "text": "quod solidum est flectique nequit, mutatur in ossa;",
+      "spans": []
+    },
+    {
+      "text": "inque brevi spatio superorum numine saxa missa viri manibus faciem traxere virorum, et de femineo reparata est femina iactu.",
+      "spans": []
+    },
+    {
+      "text": "Cetera diversis tellus animalia formis sponte sua peperit, postquam vetus umor ab igne percaluit solis, caenumque udaeque paludes intumuere aestu, fecundaque semina rerum vivaci nutrita solo ceu matris in alvo creverunt faciemque aliquam cepere morando.",
+      "spans": []
+    },
+    {
+      "text": "et eodem in corpore saepe altera pars vivit, rudis est pars altera tellus.",
+      "spans": []
+    },
+    {
+      "text": "cumque sit ignis aquae pugnax, vapor umidus omnes res creat, et discors concordia fetibus apta est.",
+      "spans": []
+    },
+    {
+      "text": "Ergo ubi diluvio tellus lutulenta recenti solibus aetheriis altoque recanduit aestu, edidit innumeras species, partimque figuras rettulit antiquas, partim nova monstra creavit.",
+      "spans": []
+    },
+    {
+      "text": "Illa quidem nollet, sed te quoque, maxime Python, tum genuit, populisque novis, incognite serpens, terror eras:",
+      "spans": []
+    },
+    {
+      "text": "tantum spatii de monte tenebas.",
+      "spans": []
+    },
+    {
+      "text": "Hunc deus arquitenens, et numquam talibus armis ante nisi in dammis capreisque fugacibus usus, mille gravem telis exhausta paene pharetra perdidit effuso per vulnera nigra veneno.",
+      "spans": []
+    },
+    {
+      "text": "Neve operis famam posset delere vetustas, instituit sacros celebri certamine ludos, Pythia perdomitae serpentis nomine dictos.",
+      "spans": []
+    },
+    {
+      "text": "nondum laurus erat, longoque decentia crine tempora cingebat de qualibet arbore Phoebus.",
+      "spans": [
+        {
+          "start": 80,
+          "end": 87,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Primus amor Phoebi Daphne Peneia, quem non fors ignara dedit, sed saeva Cupidinis ira.",
+      "spans": [
+        {
+          "start": 12,
+          "end": 18,
+          "label": "PERSON"
+        },
+        {
+          "start": 19,
+          "end": 25,
+          "label": "PERSON"
+        },
+        {
+          "start": 72,
+          "end": 81,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Tu face nescio quos esto contentus amores inritare tua, nec laudes adsere nostras.",
+      "spans": []
+    },
+    {
+      "text": "\" Filius huic Veneris \"figat tuus omnia, Phoebe, te meus arcus:",
+      "spans": [
+        {
+          "start": 14,
+          "end": 21,
+          "label": "PERSON"
+        },
+        {
+          "start": 41,
+          "end": 47,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "\" ait \"quantoque animalia cedunt cuncta deo tanto minor est tua gloria nostra.",
+      "spans": []
+    },
+    {
+      "text": "fugat hoc, facit illud amorem.",
+      "spans": []
+    },
+    {
+      "text": "Quod facit, auratum est et cuspide fulget acuta;",
+      "spans": []
+    },
+    {
+      "text": "quod fugat, obtusum est et habet sub harundine plumbum.",
+      "spans": []
+    },
+    {
+      "text": "Hoc deus in nympha Peneide fixit, at illo laesit Apollineas traiecta per ossa medullas.",
+      "spans": [
+        {
+          "start": 19,
+          "end": 26,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Protinus alter amat, fugit altera nomen amantis silvarum tenebris captivarumque ferarum exuviis gaudens innuptaeque aemula Phoebes.",
+      "spans": [
+        {
+          "start": 123,
+          "end": 130,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Vitta coercebat positos sine lege capillos.",
+      "spans": []
+    },
+    {
+      "text": "Multi illam petiere, illa aversata petentes inpatiens expersque viri nemora avia lustrat, nec quid Hymen, quid Amor, quid sint conubia curat.",
+      "spans": [
+        {
+          "start": 99,
+          "end": 104,
+          "label": "PERSON"
+        },
+        {
+          "start": 111,
+          "end": 115,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Saepe pater dixit \"generum mihi, filia, debes,\" saepe pater dixit \"debes mihi nata, nepotes:",
+      "spans": []
+    },
+    {
+      "text": "\" illa, velut crimen taedas exosa iugales, pulchra verecundo suffunditur ora rubore, inque patris blandis haerens cervice lacertis \"da mihi perpetua, genitor carissime,\" dixit \"virginitate frui:",
+      "spans": []
+    },
+    {
+      "text": "dedit hoc pater ante Dianae.",
+      "spans": [
+        {
+          "start": 21,
+          "end": 27,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Votoque tuo tua forma repugnat:",
+      "spans": []
+    },
+    {
+      "text": "Utque leves stipulae demptis adolentur aristis, ut facibus saepes ardent, quas forte viator vel nimis admovit vel iam sub luce reliquit, sic deus in flammas abiit, sic pectore toto uritur et sterilem sperando nutrit amorem.",
+      "spans": []
+    },
+    {
+      "text": "Spectat inornatos collo pendere capillos et \"quid, si comantur?",
+      "spans": []
+    },
+    {
+      "text": "\" ait.",
+      "spans": []
+    },
+    {
+      "text": "Videt igne micantes sideribus similes oculos, videt oscula, quae non est vidisse satis;",
+      "spans": []
+    },
+    {
+      "text": "laudat digitosque manusque bracchiaque et nudos media plus parte lacertos.",
+      "spans": []
+    },
+    {
+      "text": "Fugit ocior aura illa levi neque ad haec revocantis verba resistit:",
+      "spans": []
+    },
+    {
+      "text": "\"Nympha, precor, Penei, mane!",
+      "spans": [
+        {
+          "start": 17,
+          "end": 22,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Non insequor hostis:",
+      "spans": []
+    },
+    {
+      "text": "nympha, mane!",
+      "spans": []
+    },
+    {
+      "text": "sic agna lupum, sic cerva leonem, sic aquilam penna fugiunt trepidante columbae, hostes quaeque suos:",
+      "spans": []
+    },
+    {
+      "text": "amor est mihi causa sequendi.",
+      "spans": []
+    },
+    {
+      "text": "ne prona cadas indignave laedi crura notent sentes et sim tibi causa doloris.",
+      "spans": []
+    },
+    {
+      "text": "Aspera, qua properas, loca sunt.",
+      "spans": []
+    },
+    {
+      "text": "Moderatius, oro, curre fugamque inhibe;",
+      "spans": []
+    },
+    {
+      "text": "Cui placeas, inquire tamen.",
+      "spans": []
+    },
+    {
+      "text": "Non incola montis, non ego sum pastor, non hic armenta gregesque horridus observo.",
+      "spans": []
+    },
+    {
+      "text": "Nescis, temeraria, nescis quem fugias, ideoque fugis.",
+      "spans": []
+    },
+    {
+      "text": "Mihi Delphica tellus et Claros et Tenedos Patareaque regia servit, Iuppiter est genitor;",
+      "spans": [
+        {
+          "start": 34,
+          "end": 41,
+          "label": "LOC"
+        },
+        {
+          "start": 67,
+          "end": 75,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Certa quidem nostra est, nostra tamen una sagitta certior, in vacuo quae vulnera pectore fecit.",
+      "spans": []
+    },
+    {
+      "text": "Inventum medicina meum est, opiferque per orbem dicor, et herbarum subiecta potentia nobis:",
+      "spans": []
+    },
+    {
+      "text": "ei mihi, quod nullis amor est sanabilis herbis nec prosunt domino, quae prosunt omnibus, artes.",
+      "spans": []
+    },
+    {
+      "text": "\" Plura locuturum timido Peneia cursu fugit cumque ipso verba inperfecta reliquit, tum quoque visa decens.",
+      "spans": [
+        {
+          "start": 25,
+          "end": 31,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Sed enim non sustinet ultra perdere blanditias iuvenis deus, utque monebat ipse Amor, admisso sequitur vestigia passu.",
+      "spans": [
+        {
+          "start": 80,
+          "end": 84,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Ut canis in vacuo leporem cum Gallicus arvo vidit, et hic praedam pedibus petit, ille salutem:",
+      "spans": [
+        {
+          "start": 30,
+          "end": 38,
+          "label": "NORP"
+        }
+      ]
+    },
+    {
+      "text": "alter inhaesuro similis iam iamque tenere sperat et extento stringit vestigia rostro, alter in ambiguo est, an sit conprensus, et ipsis morsibus eripitur tangentiaque ora relinquit:",
+      "spans": []
+    },
+    {
+      "text": "sic deus et virgo est hic spe celer, illa timore.",
+      "spans": []
+    },
+    {
+      "text": "Qui tamen insequitur pennis adiutus Amoris, ocior est requiemque negat tergoque fugacis inminet et crinem sparsum cervicibus adflat.",
+      "spans": [
+        {
+          "start": 36,
+          "end": 42,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Viribus absumptis expalluit illa citaeque victa labore fugae spectans Peneidas undas \"fer pater\" inquit \"opem si flumina numen habetis.",
+      "spans": [
+        {
+          "start": 70,
+          "end": 78,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Qua nimium placui, mutando perde figuram!",
+      "spans": []
+    },
+    {
+      "text": "\" Vix prece finita torpor gravis occupat artus:",
+      "spans": []
+    },
+    {
+      "text": "mollia cinguntur tenui praecordia libro, in frondem crines, in ramos bracchia crescunt, pes modo tam velox pigris radicibus haeret, ora cacumen habet;",
+      "spans": []
+    },
+    {
+      "text": "remanet nitor unus in illa.",
+      "spans": []
+    },
+    {
+      "text": "Hanc quoque Phoebus amat, positaque in stipite dextra sentit adhuc trepidare novo sub cortice pectus conplexusque suis ramos, ut membra, lacertis oscula dat ligno:",
+      "spans": [
+        {
+          "start": 12,
+          "end": 19,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "refugit tamen oscula lignum.",
+      "spans": []
+    },
+    {
+      "text": "Cui deus \"at quoniam coniunx mea non potes esse, arbor eris certe\" dixit \"mea.",
+      "spans": []
+    },
+    {
+      "text": "Semper habebunt te coma, te citharae, te nostrae, laure, pharetrae:",
+      "spans": []
+    },
+    {
+      "text": "tu ducibus Latiis aderis, cum laeta triumphum vox canet et visent longas Capitolia pompas:",
+      "spans": [
+        {
+          "start": 11,
+          "end": 17,
+          "label": "NORP"
+        },
+        {
+          "start": 73,
+          "end": 82,
+          "label": "LOC"
+        }
+      ]
+    },
+    {
+      "text": "\" Finierat Paean:",
+      "spans": []
+    },
+    {
+      "text": "factis modo laurea ramis adnuit utque caput visa est agitasse cacumen.",
+      "spans": []
+    },
+    {
+      "text": "vocant Tempe.",
+      "spans": [
+        {
+          "start": 7,
+          "end": 12,
+          "label": "LOC"
+        }
+      ]
+    },
+    {
+      "text": "Per quae Peneus ab imo effusus Pindo spumosis volvitur undis, deiectuque gravi tenues agitantia fumos nubila conducit summisque adspergine silvis inpluit et sonitu plus quam vicina fatigat.",
+      "spans": [
+        {
+          "start": 9,
+          "end": 15,
+          "label": "LOC"
+        },
+        {
+          "start": 31,
+          "end": 36,
+          "label": "LOC"
+        }
+      ]
+    },
+    {
+      "text": "Haec domus, haec sedes, haec sunt penetralia magni amnis;",
+      "spans": []
+    },
+    {
+      "text": "in his residens facto de cautibus antro, undis iura dabat nymphisque colentibus undas.",
+      "spans": []
+    },
+    {
+      "text": "Conveniunt illuc popularia flumina primum, nescia, gratentur consolenturne parentem, populifer Sperchios et inrequietus Enipeus Apidanusque senex lenisque Amphrysos et Aeas, moxque amnes alii, qui, qua tulit impetus illos, in mare deducunt fessas erroribus undas.",
+      "spans": [
+        {
+          "start": 95,
+          "end": 104,
+          "label": "LOC"
+        },
+        {
+          "start": 120,
+          "end": 127,
+          "label": "LOC"
+        },
+        {
+          "start": 128,
+          "end": 136,
+          "label": "LOC"
+        },
+        {
+          "start": 155,
+          "end": 164,
+          "label": "LOC"
+        },
+        {
+          "start": 168,
+          "end": 172,
+          "label": "LOC"
+        }
+      ]
+    },
+    {
+      "text": "Inachus unus abest imoque reconditus antro fletibus auget aquas natamque miserrimus Io luget ut amissam.",
+      "spans": [
+        {
+          "start": 0,
+          "end": 7,
+          "label": "PERSON"
+        },
+        {
+          "start": 84,
+          "end": 86,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Nescit, vitane fruatur, an sit apud manes;",
+      "spans": []
+    },
+    {
+      "text": "sed quam non invenit usquam.",
+      "spans": []
+    },
+    {
+      "text": "Viderat a patrio redeuntem Iuppiter illam flumine et \"o virgo Iove digna tuoque beatum nescio quem factura toro, pete\" dixerat \"umbras altorum nemorum\" (et nemorum monstraverat umbras), \"dum calet et medio sol est altissimus orbe.",
+      "spans": [
+        {
+          "start": 27,
+          "end": 35,
+          "label": "PERSON"
+        },
+        {
+          "start": 62,
+          "end": 66,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Quodsi sola times latebras intrare ferarum, praeside tuta deo nemorum secreta subibis, nec de plebe deo, sed qui caelestia magna sceptra manu teneo, sed qui vaga fulmina mitto.",
+      "spans": []
+    },
+    {
+      "text": "Ne fuge me!\"---fugiebat enim.",
+      "spans": []
+    },
+    {
+      "text": "Iam pascua Lernae consitaque arboribus Lyrcea reliquerat arva, cum deus inducta latas caligine terras occuluit tenuitque fugam rapuitque pudorem.",
+      "spans": [
+        {
+          "start": 11,
+          "end": 17,
+          "label": "LOC"
+        }
+      ]
+    },
+    {
+      "text": "Interea medios Iuno despexit in agros et noctis faciem nebulas fecisse volucres sub nitido mirata die, non fluminis illas esse, nec umenti sensit tellure remitti;",
+      "spans": [
+        {
+          "start": 15,
+          "end": 19,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "atque suus coniunx ubi sit circumspicit, ut quae deprensi totiens iam nosset furta mariti.",
+      "spans": []
+    },
+    {
+      "text": "Coniugis adventum praesenserat inque nitentem Inachidos vultus mutaverat ille iuvencam.",
+      "spans": [
+        {
+          "start": 46,
+          "end": 55,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Bos quoque formosa est.",
+      "spans": []
+    },
+    {
+      "text": "Speciem Saturnia vaccae, quamquam invita, probat, nec non et cuius et unde quove sit armento, veri quasi nescia quaerit.",
+      "spans": [
+        {
+          "start": 8,
+          "end": 16,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Iuppiter e terra genitam mentitur, ut auctor desinat inquiri.",
+      "spans": [
+        {
+          "start": 0,
+          "end": 8,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Petit hanc Saturnia munus.",
+      "spans": [
+        {
+          "start": 11,
+          "end": 19,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Quid faciat?",
+      "spans": []
+    },
+    {
+      "text": "Pudor est qui suadeat illinc, hinc dissuadet amor.",
+      "spans": []
+    },
+    {
+      "text": "Victus pudor esset amore;",
+      "spans": []
+    },
+    {
+      "text": "Paelice donata non protinus exuit omnem diva metum timuitque Iovem et fuit anxia furti, donec Arestoridae servandam tradidit Argo.",
+      "spans": [
+        {
+          "start": 61,
+          "end": 66,
+          "label": "PERSON"
+        },
+        {
+          "start": 94,
+          "end": 105,
+          "label": "PERSON"
+        },
+        {
+          "start": 125,
+          "end": 129,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "inde suis vicibus capiebant bina quietem, cetera servabant atque in statione manebant.",
+      "spans": []
+    },
+    {
+      "text": "Constiterat quocumque modo, spectabat ad Io:",
+      "spans": [
+        {
+          "start": 41,
+          "end": 43,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "ante oculos Io, quamvis aversus, habebat.",
+      "spans": [
+        {
+          "start": 12,
+          "end": 14,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Luce sinit pasci;",
+      "spans": []
+    },
+    {
+      "text": "cum sol tellure sub alta est, claudit et indigno circumdat vincula collo.",
+      "spans": []
+    },
+    {
+      "text": "Venit et ad ripas, ubi ludere saepe solebat, Inachidas ripas;",
+      "spans": []
+    },
+    {
+      "text": "at illa patrem sequitur sequiturque sorores et patitur tangi seque admirantibus offert.",
+      "spans": []
+    },
+    {
+      "text": "Decerptas senior porrexerat Inachus herbas:",
+      "spans": [
+        {
+          "start": 28,
+          "end": 35,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "illa manus lambit patriisque dat oscula palmis nec retinet lacrimas et, si modo verba sequantur, oret opem nomenque suum casusque loquatur.",
+      "spans": []
+    },
+    {
+      "text": "\"Me miserum!",
+      "spans": []
+    },
+    {
+      "text": "\" exclamat pater Inachus inque gementis cornibus et niveae pendens cervice iuvencae \"me miserum!",
+      "spans": [
+        {
+          "start": 17,
+          "end": 24,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "\" ingeminat, \"tune es quaesita per omnes nata, mihi terras?",
+      "spans": []
+    },
+    {
+      "text": "tu non inventa reperta luctus eras levior.",
+      "spans": []
+    },
+    {
+      "text": "Retices nec mutua nostris dicta refers, alto tantum suspiria ducis pectore, quodque unum potes, ad mea verba remugis.",
+      "spans": []
+    },
+    {
+      "text": "At tibi ego ignarus thalamos taedasque parabam, spesque fuit generi mihi prima, secunda nepotum.",
+      "spans": []
+    },
+    {
+      "text": "De grege nunc tibi vir, nunc de grege natus habendus.",
+      "spans": []
+    },
+    {
+      "text": "Nec finire licet tantos mihi morte dolores, sed nocet esse deum, praeclusaque ianua leti aeternum nostros luctus extendit in aevum?",
+      "spans": []
+    },
+    {
+      "text": "\" Talia maerentem stellatus submovet Argus ereptamque patri diversa in pascua natam abstrahit.",
+      "spans": [
+        {
+          "start": 37,
+          "end": 42,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Ipse procul montis sublime cacumen occupat, unde sedens partes speculatur in omnes.",
+      "spans": []
+    },
+    {
+      "text": "Nec superum rector mala tanta Phoronidos ultra ferre potest natumque vocat, quem lucida partu Pleias enixa est, letoque det imperat Argum.",
+      "spans": [
+        {
+          "start": 30,
+          "end": 40,
+          "label": "PERSON"
+        },
+        {
+          "start": 94,
+          "end": 100,
+          "label": "PERSON"
+        },
+        {
+          "start": 132,
+          "end": 137,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Parva mora est alas pedibus virgamque potenti somniferam sumpsisse manu tegimenque capillis.",
+      "spans": []
+    },
+    {
+      "text": "Haec ubi disposuit, patria Iove natus ab arce desilit in terras.",
+      "spans": [
+        {
+          "start": 27,
+          "end": 31,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Hac agit, ut pastor, per devia rura capellas, dum venit, adductas et structis cantat avenis.",
+      "spans": []
+    },
+    {
+      "text": "Voce nova captus custos Iunonius \"at tu, quisquis es, hoc poteras mecum considere saxo,\" Argus ait, \"neque enim pecori fecundior ullo herba loco est, aptamque vides pastoribus umbram.",
+      "spans": [
+        {
+          "start": 89,
+          "end": 94,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "\" Sedit Atlantiades et euntem multa loquendo detinuit sermone diem iunctisque canendo vincere harundinibus servantia lumina temptat.",
+      "spans": [
+        {
+          "start": 8,
+          "end": 19,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Ille tamen pugnat molles evincere somnos et, quamvis sopor est oculorum parte receptus, parte tamen vigilat.",
+      "spans": []
+    },
+    {
+      "text": "Quaerit quoque (namque reperta fistula nuper erat), qua sit ratione reperta.",
+      "spans": []
+    },
+    {
+      "text": "Tum deus \"Arcadiae",
+      "spans": [
+        {
+          "start": 9,
+          "end": 18,
+          "label": "LOC"
+        }
+      ]
+    },
+    {
+      "text": "gelidis in montibus\" inquit \"inter hamadryadas celeberrima Nonacrinas naias una fuit;",
+      "spans": []
+    },
+    {
+      "text": "nymphae Syringa vocabant.",
+      "spans": [
+        {
+          "start": 8,
+          "end": 15,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Non semel et satyros eluserat illa sequentes et quoscumque deos umbrosaque silva feraxque rus habet.",
+      "spans": []
+    },
+    {
+      "text": "Ortygiam studiis ipsaque colebat virginitate deam.",
+      "spans": []
+    },
+    {
+      "text": "Ritu quoque cincta Dianae falleret et posset credi Latonia, si non corneus huic arcus, si non foret aureus illi.",
+      "spans": [
+        {
+          "start": 19,
+          "end": 25,
+          "label": "PERSON"
+        },
+        {
+          "start": 51,
+          "end": 58,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Sic quoque fallebat.",
+      "spans": []
+    },
+    {
+      "text": "Redeuntem colle Lycaeo Pan videt hanc pinuque caput praecinctus acuta talia verba refert\"---restabat verba referre et precibus spretis fugisse per avia nympham, donec harenosi placidum Ladonis ad amnem venerit.",
+      "spans": [
+        {
+          "start": 23,
+          "end": 26,
+          "label": "PERSON"
+        },
+        {
+          "start": 185,
+          "end": 192,
+          "label": "LOC"
+        }
+      ]
+    },
+    {
+      "text": "Arte nova vocisque deum dulcedine captum \"hoc mihi concilium tecum\" dixisse \"manebit!",
+      "spans": []
+    },
+    {
+      "text": "\" atque ita disparibus calamis conpagine cerae inter se iunctis nomen tenuisse puellae.",
+      "spans": []
+    },
+    {
+      "text": "Talia dicturus vidit Cyllenius omnes succubuisse oculos adopertaque lumina somno.",
+      "spans": [
+        {
+          "start": 21,
+          "end": 30,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Supprimit extemplo vocem firmatque soporem languida permulcens medicata lumina virga.",
+      "spans": []
+    },
+    {
+      "text": "Nec mora, falcato nutantem vulnerat ense qua collo est confine caput, saxoque cruentum deicit et maculat praeruptam sanguine rupem.",
+      "spans": []
+    },
+    {
+      "text": "Arge, iaces, quodque in tot lumina lumen habebas, exstinctum est, centumque oculos nox occupat una.",
+      "spans": [
+        {
+          "start": 0,
+          "end": 4,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Excipit hos volucrisque suae Saturnia pennis collocat et gemmis caudam stellantibus inplet.",
+      "spans": [
+        {
+          "start": 29,
+          "end": 37,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Protinus exarsit nec tempora distulit irae horriferamque oculis animoque obiecit Erinyn paelicis Argolicae stimulosque in pectore caecos condidit et profugam per totum terruit orbem.",
+      "spans": [
+        {
+          "start": 81,
+          "end": 87,
+          "label": "PERSON"
+        },
+        {
+          "start": 97,
+          "end": 106,
+          "label": "NORP"
+        }
+      ]
+    },
+    {
+      "text": "Ultimus inmenso restabas, Nile, labori.",
+      "spans": [
+        {
+          "start": 26,
+          "end": 30,
+          "label": "LOC"
+        }
+      ]
+    },
+    {
+      "text": "Quem simul ac tetigit, positis in margine ripae procubuit genibus resupinoque ardua collo, quos potuit solos, tollens ad sidera vultus et gemitu et lacrimis et luctisono mugitu cum Iove visa queri finemque orare malorum.",
+      "spans": [
+        {
+          "start": 181,
+          "end": 185,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Coniugis ille suae conplexus colla lacertis, finiat ut poenas tandem, rogat \"in\" que \"futurum pone metus\" inquit;",
+      "spans": []
+    },
+    {
+      "text": "\"numquam tibi causa doloris haec erit:",
+      "spans": []
+    },
+    {
+      "text": "\" et Stygias iubet hoc audire paludes.",
+      "spans": []
+    },
+    {
+      "text": "Ut lenita dea est, vultus capit illa priores fitque quod ante fuit:",
+      "spans": []
+    },
+    {
+      "text": "de bove nil superest formae nisi candor in illa.",
+      "spans": []
+    },
+    {
+      "text": "Officioque pedum nymphe contenta duorum erigitur metuitque loqui, ne more iuvencae mugiat, et timide verba intermissa retemptat.",
+      "spans": []
+    },
+    {
+      "text": "Nunc dea linigera colitur celeberrima turba, nunc Epaphus magni genitus de semine tandem creditur esse Iovis, perque urbes iuncta parenti templa tenet.",
+      "spans": [
+        {
+          "start": 50,
+          "end": 57,
+          "label": "PERSON"
+        },
+        {
+          "start": 103,
+          "end": 108,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Quem quondam magna loquentem nec sibi cedentem Phoeboque parente superbum non tulit Inachides, \"matri\" que ait \"omnia demens credis et es tumidus genitoris imagine falsi.",
+      "spans": [
+        {
+          "start": 47,
+          "end": 53,
+          "label": "PERSON"
+        },
+        {
+          "start": 84,
+          "end": 93,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "\" Erubuit Phaethon iramque pudore repressit et tulit ad Clymenen Epaphi convicia matrem;",
+      "spans": [
+        {
+          "start": 10,
+          "end": 18,
+          "label": "PERSON"
+        },
+        {
+          "start": 56,
+          "end": 64,
+          "label": "PERSON"
+        },
+        {
+          "start": 65,
+          "end": 71,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "\"quo\" que \"magis doleas genetrix,\" ait \"ille ego liber, ille ferox tacui.",
+      "spans": []
+    },
+    {
+      "text": "Pudet haec opprobria nobis et dici potuisse et non potuisse refelli.",
+      "spans": []
+    },
+    {
+      "text": "At tu, si modo sum caelesti stirpe creatus, ede notam tanti generis meque adsere caelo.",
+      "spans": []
+    },
+    {
+      "text": "\" Dixit et inplicuit materno bracchia collo perque suum Meropisque caput taedasque sororum traderet oravit veri sibi signa parentis.",
+      "spans": [
+        {
+          "start": 56,
+          "end": 63,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Ambiguum, Clymene, precibus Phaethontis an ira mota magis dicti sibi criminis utraque caelo bracchia porrexit spectansque ad lumina solis \"per iubar hoc\" inquit \"radiis insigne coruscis, nate, tibi iuro, quod nos auditque videtque, hoc te, quem spectas, hoc te, qui temperat orbem, Sole satum.",
+      "spans": [
+        {
+          "start": 10,
+          "end": 17,
+          "label": "PERSON"
+        },
+        {
+          "start": 28,
+          "end": 39,
+          "label": "PERSON"
+        },
+        {
+          "start": 282,
+          "end": 286,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Si ficta loquor, neget ipse videndum se mihi, sitque oculis lux ista novissima nostris.",
+      "spans": []
+    },
+    {
+      "text": "Nec longus patrios labor est tibi nosse penates:",
+      "spans": []
+    },
+    {
+      "text": "unde oritur, domus est terrae contermina nostrae.",
+      "spans": []
+    },
+    {
+      "text": "Si modo fert animus, gradere et scitabere ab ipso.",
+      "spans": []
+    },
+    {
+      "text": "\" Emicat extemplo laetus post talia matris dicta suae Phaethon et concipit aethera mente, Aethiopasque suos positosque sub ignibus Indos sidereis transit patriosque adit inpiger ortus.",
+      "spans": [
+        {
+          "start": 54,
+          "end": 62,
+          "label": "PERSON"
+        },
+        {
+          "start": 90,
+          "end": 99,
+          "label": "LOC"
+        },
+        {
+          "start": 131,
+          "end": 136,
+          "label": "LOC"
+        }
+      ]
+    }
+  ]
+}

@@ -42,6 +42,7 @@ def build(
     collections_dir: Path,
     output_dir: Path,
     unsplit_to: str,
+    dedup: bool = True,
 ) -> None:
     """Scan collections, build DocBins, write to output."""
     nlp = spacy.blank("la")
@@ -51,22 +52,54 @@ def build(
         print(f"No JSON files found in {collections_dir}")
         return
 
+    # Phase 1: Load all items into split buckets with per-file dedup
+    raw_splits: dict[str, list[dict]] = {"train": [], "dev": []}
+    file_counts: dict[str, int] = {"train": 0, "dev": 0}
+    within_dedup_count = 0
+
+    for path in files:
+        split = classify_file(path, unsplit_to)
+        data = load_single(path)
+        file_counts[split] += 1
+
+        if dedup:
+            seen_in_file: set[str] = set()
+            for item in data:
+                text = item["text"]
+                if text in seen_in_file:
+                    within_dedup_count += 1
+                    continue
+                seen_in_file.add(text)
+                raw_splits[split].append(item)
+        else:
+            raw_splits[split].extend(data)
+
+    # Phase 2: Cross-split dedup (dev-priority)
+    cross_dedup_count = 0
+    if dedup:
+        dev_texts = {item["text"] for item in raw_splits["dev"]}
+        filtered_train = []
+        for item in raw_splits["train"]:
+            if item["text"] in dev_texts:
+                cross_dedup_count += 1
+            else:
+                filtered_train.append(item)
+        raw_splits["train"] = filtered_train
+
+    # Phase 3: Build DocBins
     splits: dict[str, DocBin] = {"train": DocBin(), "dev": DocBin()}
     counts: dict[str, dict] = {
         "train": {"files": 0, "sents": 0, "ents": 0},
         "dev": {"files": 0, "sents": 0, "ents": 0},
     }
 
-    for path in files:
-        split = classify_file(path, unsplit_to)
-        data = load_single(path)
-        counts[split]["files"] += 1
-
-        for item in data:
+    for split_name in ("train", "dev"):
+        counts[split_name]["files"] = file_counts[split_name]
+        for item in raw_splits[split_name]:
             doc = make_doc(nlp, item)
-            splits[split].add(doc)
-            counts[split]["sents"] += 1
-            counts[split]["ents"] += len(doc.ents)
+            splits[split_name].add(doc)
+            counts[split_name]["sents"] += 1
+            counts[split_name]["ents"] += len(doc.ents)
 
     output_dir.mkdir(parents=True, exist_ok=True)
 
@@ -81,6 +114,11 @@ def build(
             f"  {split_name}: {c['files']} files, "
             f"{c['sents']} sentences, {c['ents']} entities"
         )
+
+    if dedup:
+        print(f"\n  Dedup: {within_dedup_count} within-file duplicates removed")
+        print(f"  Dedup: {cross_dedup_count} train/dev overlaps removed from train")
+
     print(f"\nOutput: {output_dir}/train.spacy, {output_dir}/dev.spacy")
 
 
@@ -106,8 +144,13 @@ def main() -> None:
         default=Path("assets/processed"),
         help="Output directory (default: assets/processed)",
     )
+    parser.add_argument(
+        "--no-dedup",
+        action="store_true",
+        help="Disable deduplication (within-file and cross-split)",
+    )
     args = parser.parse_args()
-    build(args.collections_dir, args.output_dir, args.unsplit_to)
+    build(args.collections_dir, args.output_dir, args.unsplit_to, dedup=not args.no_dedup)
 
 
 if __name__ == "__main__":

@@ -1,0 +1,3469 @@
+{
+  "metadata": {
+    "title": "De Civitate Dei - Book 1",
+    "author": "Augustine of Hippo",
+    "source": "https://www.thelatinlibrary.com/augustine/civ1.shtml",
+    "latincy-ner-project": "catena",
+    "latincy-ner-project-subset": "dcd.1",
+    "language": "la",
+    "genre": "theology",
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "author_wikidata": "https://www.wikidata.org/wiki/Q8018",
+    "work_wikidata": "https://www.wikidata.org/wiki/Q212318"
+  },
+  "annotation": {
+    "spacy_model": "la_core_web_lg",
+    "spacy_model_version": "3.8.0",
+    "tagset": [
+      "PERSON",
+      "LOC",
+      "NORP"
+    ],
+    "annotators": [
+      "Patrick J. Burns"
+    ],
+    "review_level": "silver"
+  },
+  "data": [
+    {
+      "text": "Ex hac namque existunt inimici, aduersus quos defendenda est Dei ciuitas, quorum tamen multi correcto impietatis errore ciues in ea fiunt satis idonei;",
+      "spans": []
+    },
+    {
+      "text": "multi uero in eam tantis exardescunt ignibus odiorum tamque manifestis beneficiis redemptoris eius ingrati sunt, ut hodie contra eam linguas non mouerent, nisi ferrum hostile fugientes in sacratis eius locis uitam, de qua superbiunt, inuenirent.",
+      "spans": []
+    },
+    {
+      "text": "An non etiam illi Romani Christi nomini infesti sunt, quibus propter Christum barbari pepercerunt?",
+      "spans": [
+        {
+          "start": 18,
+          "end": 24,
+          "label": "NORP"
+        },
+        {
+          "start": 25,
+          "end": 32,
+          "label": "PERSON"
+        },
+        {
+          "start": 69,
+          "end": 77,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Testantur hoc martyrum loca et basilicae apostolorum, quae in illa uastatione Vrbis ad se confugientes suos alienosque receperunt.",
+      "spans": []
+    },
+    {
+      "text": "Huc usque cruentus saeuiebat inimicus, ibi accipiebat limitem trucidatoris furor, illo ducebantur a miserantibus hostibus, quibus etiam extra ipsa loca pepercerant, ne in eos incurrerent, qui similem misericordiam non habebant.",
+      "spans": []
+    },
+    {
+      "text": "Qui tamen etiam ipsi alibi truces atque hostili more saeuientes posteaquam ad loca illa ueniebant, ubi fuerat interdictum quod alibi belli iure licuisset, et tota feriendi refrenabatur inmanitas et captiuandi cupiditas frangebatur.",
+      "spans": []
+    },
+    {
+      "text": "Sic euaserunt multi, qui nunc Christianis temporibus detrahunt et mala, quae illa ciuitas pertulit, Christo inputant;",
+      "spans": [
+        {
+          "start": 30,
+          "end": 41,
+          "label": "NORP"
+        },
+        {
+          "start": 100,
+          "end": 107,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "bona uero, quae in eos ut uiuerent propter Christi nonorem facta sunt, non inputant Christo nostro, sed fato suo, cum potius deberent, si quid recti saperent, ila, quae ab hostibus aspera et dura perpessi sunt, illi prouidentiae diuinae tribuere, quae solet corruptos hominum mores bellis emendare atque conterere itemque uitam mortalium iustam atque laudabilem talibus adflictionibus exercere probatamque uel in meliora transferre uel in his adhuc terris propter usus alios detinere;",
+      "spans": [
+        {
+          "start": 43,
+          "end": 50,
+          "label": "PERSON"
+        },
+        {
+          "start": 84,
+          "end": 91,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "illud uero, quod eis uel ubicumque propter Christi nomen uel in locis Christi nomini dicatissimis et amplissimis ac pro largiore misericordia ad capacitatem multitudinis electis praeter bellorum morem truculenti barbari pepercerunt, hoc tribuere temporibus Christianis, hinc Deo agere gratias, hinc ad eius nomen ueraciter currere, ut effugiant poenas ignis aeterni, quod nomen multi eorum mendaciter usurparunt, ut effugerent poenas praesentis exitii.",
+      "spans": [
+        {
+          "start": 43,
+          "end": 50,
+          "label": "PERSON"
+        },
+        {
+          "start": 70,
+          "end": 77,
+          "label": "PERSON"
+        },
+        {
+          "start": 257,
+          "end": 268,
+          "label": "NORP"
+        }
+      ]
+    },
+    {
+      "text": "Nam quos uides petulanter et procaciter insultare seruis Christi, sunt in eis plurimi, qui illum interitum clademque non euasissent, nisi seruos Christi se esse finxissent.",
+      "spans": [
+        {
+          "start": 57,
+          "end": 64,
+          "label": "PERSON"
+        },
+        {
+          "start": 145,
+          "end": 152,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Et nunc ingrata superbia atque impiissima insania eius nomini resistunt corde peruerso, ut sempiternis tenebris puniantur, ad quod nomen ore uel subdolo confugerunt, ut temporali luce fruerentur.",
+      "spans": []
+    },
+    {
+      "text": "Tot bella gesta conscripta sunt uel ante conditam Romam uel ab eius exortu et imperio:",
+      "spans": [
+        {
+          "start": 50,
+          "end": 55,
+          "label": "LOC"
+        }
+      ]
+    },
+    {
+      "text": "legant et proferant sic aut ab alienigenis aliquam captam esse ciuitatem, ut hostes, qui ceperant, parcerent eis, quos ad deorum suorum templa confugisse compererant, aut aliquem ducem barbarorum praecepisse, ut inrupto oppido nullus feriretur, qui in illo uel illo templo fuisset inuentus.",
+      "spans": []
+    },
+    {
+      "text": "Nonne uidit Aeneas Priamum per aras Sanguine foedantem quos ipse sacrauerat ignes?",
+      "spans": [
+        {
+          "start": 12,
+          "end": 18,
+          "label": "PERSON"
+        },
+        {
+          "start": 19,
+          "end": 26,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Nonne Diomedes et Vlixes caesis summae custodibus arcis.",
+      "spans": [
+        {
+          "start": 6,
+          "end": 14,
+          "label": "PERSON"
+        },
+        {
+          "start": 18,
+          "end": 24,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Corripuere sacram effigiem manibusque cruentis Virgineas ausi diuae contingere uittas?",
+      "spans": []
+    },
+    {
+      "text": "Nec tamen quod sequitur uerum est:",
+      "spans": []
+    },
+    {
+      "text": "Ex illo fluere ac retro sublapsa referri Spes Danaum.",
+      "spans": [
+        {
+          "start": 46,
+          "end": 52,
+          "label": "NORP"
+        }
+      ]
+    },
+    {
+      "text": "Postea quippe uicerunt, postea Troiam ferro ignibusque delerunt, postea confugientem ad aras Priamum obtruncauerunt.",
+      "spans": [
+        {
+          "start": 31,
+          "end": 37,
+          "label": "LOC"
+        },
+        {
+          "start": 93,
+          "end": 100,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Nec ideo Troia periit, quia Mineruam perdidit.",
+      "spans": [
+        {
+          "start": 9,
+          "end": 14,
+          "label": "LOC"
+        },
+        {
+          "start": 28,
+          "end": 36,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Quid enim prius ipsa Minerua perdiderat, ut periret?",
+      "spans": [
+        {
+          "start": 21,
+          "end": 28,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "an forte custodes suos?",
+      "spans": []
+    },
+    {
+      "text": "Hoc sane uerum est;",
+      "spans": []
+    },
+    {
+      "text": "illis quippe interemptis potuit auferri.",
+      "spans": []
+    },
+    {
+      "text": "Neque enim homines a simulacro, sed simulacrum ab hominibus seruabatur.",
+      "spans": []
+    },
+    {
+      "text": "Quomodo ergo colebatur, ut patriam custodiret et ciues, quae suos non ualuit custodire custodes?",
+      "spans": []
+    },
+    {
+      "text": "Ecce qualibus diis Vrbem Romani seruandam se commisisse gaudebant!",
+      "spans": [
+        {
+          "start": 25,
+          "end": 31,
+          "label": "NORP"
+        }
+      ]
+    },
+    {
+      "text": "O nimium miserabilem errorem!",
+      "spans": []
+    },
+    {
+      "text": "Et nobis suscensent, cum de diis eorum talia dicimus;",
+      "spans": []
+    },
+    {
+      "text": "nec suscensent auctoribus suis, quos ut ediscerent mercedem dederunt doctoresque ipsos insuper et salario publico et honoribus dignissimos habuerunt.",
+      "spans": []
+    },
+    {
+      "text": "Nempe apud Vergilium, quem propterea paruuli legunt, ut uidelicet poeta magnus omniumque praeclarissimus atque optimus teneris ebibitus animis non facile obliuione possit aboleri, secundum illud Horatii:",
+      "spans": [
+        {
+          "start": 11,
+          "end": 20,
+          "label": "PERSON"
+        },
+        {
+          "start": 195,
+          "end": 202,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Quo semel est inbuta recens seruabit odorem Teste diu — apud hunc ergo Vergilium nempe Iuno inducitur infesta Troianis Aeolo uentorum regi aduersus eos inritando dicere:",
+      "spans": [
+        {
+          "start": 71,
+          "end": 80,
+          "label": "PERSON"
+        },
+        {
+          "start": 87,
+          "end": 91,
+          "label": "PERSON"
+        },
+        {
+          "start": 110,
+          "end": 118,
+          "label": "NORP"
+        },
+        {
+          "start": 119,
+          "end": 124,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Gens inimica mihi Tyrrhenum nauigat aequor Ilium in Italiam portans uictosque penates.",
+      "spans": [
+        {
+          "start": 18,
+          "end": 27,
+          "label": "LOC"
+        },
+        {
+          "start": 43,
+          "end": 48,
+          "label": "LOC"
+        },
+        {
+          "start": 52,
+          "end": 59,
+          "label": "LOC"
+        }
+      ]
+    },
+    {
+      "text": "Itane istis penatibus uictis Romam, ne uinceretur, prudenter commendare debuerunt?",
+      "spans": [
+        {
+          "start": 29,
+          "end": 34,
+          "label": "LOC"
+        }
+      ]
+    },
+    {
+      "text": "Sed haec Iuno dicebat uelut irata mulier, quid loqueretur ignorans.",
+      "spans": [
+        {
+          "start": 9,
+          "end": 13,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Quid Aeneas ipse, pius totiens appellatus, nonne ita narrat:",
+      "spans": [
+        {
+          "start": 5,
+          "end": 11,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Panthus Othryades, arcis Phoebique sacerdos, Sacra manu uictosque deos paruumque nepotem Ipse trahit cursuque amens ad liimina tendit?",
+      "spans": [
+        {
+          "start": 0,
+          "end": 17,
+          "label": "PERSON"
+        },
+        {
+          "start": 25,
+          "end": 31,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Nonne deos ipsos, quos uictos non dubitat dicere, sibi potius quam se illis perhibet commendatos, cum ei dicitur:",
+      "spans": []
+    },
+    {
+      "text": "Sacra suosque tibi commendat Troia penates?",
+      "spans": [
+        {
+          "start": 29,
+          "end": 34,
+          "label": "LOC"
+        }
+      ]
+    },
+    {
+      "text": "Si igitur Vergilius tales deos et uictos dicit et, ut uel uicti quoquo modo euaderent, homini commendatos:",
+      "spans": [
+        {
+          "start": 10,
+          "end": 19,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "quae dementia est existimare his tutoribus Romam sapienter fuisse commissam et nisi eos amisisset non potuisse uastari?",
+      "spans": [
+        {
+          "start": 43,
+          "end": 48,
+          "label": "LOC"
+        }
+      ]
+    },
+    {
+      "text": "Immo uero uictos deos tamquam praesides ac defensores colere, quid est aliud quam tenere non numina bona, sed nomina mala?",
+      "spans": []
+    },
+    {
+      "text": "Quanto enim sapientius creditur, non Romam ad istam cladem non fuisse uenturam, nisi prius illi perissent, sed illos potius olim fuisse perituros, nisi eos quantum potuisset Roma seruasset!",
+      "spans": [
+        {
+          "start": 37,
+          "end": 42,
+          "label": "LOC"
+        },
+        {
+          "start": 174,
+          "end": 178,
+          "label": "LOC"
+        }
+      ]
+    },
+    {
+      "text": "Nam quis non, cum aduerterit, uideat quanta sit uanitate praesumptum non posse uinci sub defensoribus uictis et ideo perisse, quia custodes perdidit deos, cum uel sola esse potuerit causa pereundi custodes habere uoluisse perituros?",
+      "spans": []
+    },
+    {
+      "text": "Non itaque, cum de diis uictis illa conscriberentur atque canerentur, poetas libebat mentiri, sed cordatos homines cogebat ueritas confiteri.",
+      "spans": []
+    },
+    {
+      "text": "Verum ista oportunius alio loco diligenter copioseque tractanda sunt:",
+      "spans": []
+    },
+    {
+      "text": "nunc, quod institueram de ingratis hominibus dicere, parumper expediam ut possum, qui ea mala, quae pro suorum morum peruersitate merito patiuntur, blasphemantes Christo inputant;",
+      "spans": [
+        {
+          "start": 162,
+          "end": 169,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "quod autem illis etiam talibus propter Christum parcitur, nec dignantur adtendere et eas linguas aduersus eius nomen dementia sacrilegae peruersitatis exercent, quibus linguis usurpauerunt mendaciter ipsum nomen, ut uiuerent, uel quas linguas in locis ei sacratis metuendo presserunt, ut illic tuti atque muniti, ubi propter eum inlaesi ab hostibus fuerant, inde in eum maledictis hostilibus prosilirent.",
+      "spans": [
+        {
+          "start": 39,
+          "end": 47,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Ipsa, ut dixi, Troia, mater populi Romani, sacratis locis deorum suorum munire non potuit ciues suos ab ignibus ferroque Graecorum, eosdem ipsos deos colentium;",
+      "spans": [
+        {
+          "start": 15,
+          "end": 20,
+          "label": "LOC"
+        },
+        {
+          "start": 35,
+          "end": 41,
+          "label": "NORP"
+        },
+        {
+          "start": 121,
+          "end": 130,
+          "label": "NORP"
+        }
+      ]
+    },
+    {
+      "text": "quin etiam Iunonis asylo Custodes lecti, Phoenix et dirus Vlixes, Praedam adseruabant;",
+      "spans": [
+        {
+          "start": 11,
+          "end": 18,
+          "label": "PERSON"
+        },
+        {
+          "start": 41,
+          "end": 48,
+          "label": "PERSON"
+        },
+        {
+          "start": 58,
+          "end": 64,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "huc undique Troia gaza Incensis erepta adytis mensaeque deorum Crateresque auro solidi captiuaque uestis Congeritur.",
+      "spans": [
+        {
+          "start": 12,
+          "end": 17,
+          "label": "LOC"
+        }
+      ]
+    },
+    {
+      "text": "Pueri et pauidae longo ordine matres Stant circum.",
+      "spans": []
+    },
+    {
+      "text": "Electus est uidelicet locus tantae deae sacratus, non unde captiuos non liceret educere, sed ubi captiuos liberet includere.",
+      "spans": []
+    },
+    {
+      "text": "Compara nunc asylum illud non cuiuslibet dei gregalis uel de turba plebis, sed Iouis ipsius sororis et coniugis et reginae omnium deorum cum memoriiis nostrorum apostolorum.",
+      "spans": [
+        {
+          "start": 79,
+          "end": 84,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Illuc incensis templis et diis ereptae spolia portabantur, non donanda uictis, sed diuidenda uictoribus;",
+      "spans": []
+    },
+    {
+      "text": "huc autem et quod alibi ad ea loca pertinere compertum est cum honore et obsequio religiosissimo reportatum est.",
+      "spans": []
+    },
+    {
+      "text": "Ibi amissa, hic seruata libertas;",
+      "spans": []
+    },
+    {
+      "text": "ibi clausa, hic interdicta captiuitas;",
+      "spans": []
+    },
+    {
+      "text": "ibi possidendi a dominantibus hostibus premebantur, huc liberandi a miserantibus ducebantur:",
+      "spans": []
+    },
+    {
+      "text": "postremo illud Iunonis templum sibi elegerat auaritia et superbia leuium Graeculorum, istas Christi basilicas misericordia et humilitas etiam inmanium barbarorum.",
+      "spans": [
+        {
+          "start": 15,
+          "end": 22,
+          "label": "PERSON"
+        },
+        {
+          "start": 73,
+          "end": 84,
+          "label": "NORP"
+        },
+        {
+          "start": 92,
+          "end": 99,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Nisi forte Graeci quidem in illa sua uictoria templis deorum communium pepercerunt atque illo confugientes miseros uictosque Troianos ferire uel captiuare non ausi sunt, sed Vergilius poetarum more illa mentitus est.",
+      "spans": [
+        {
+          "start": 11,
+          "end": 17,
+          "label": "NORP"
+        },
+        {
+          "start": 125,
+          "end": 133,
+          "label": "NORP"
+        },
+        {
+          "start": 174,
+          "end": 183,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Immo uero morem hostium ciuitates euertentium ille descripsit.",
+      "spans": []
+    },
+    {
+      "text": "Quem morem etiam Cato, sicut scribit Sallustius, nobilitatae ueritatis historicus, sententia sua, quam de coniuratis in senatu habuit, commemorare non praetermittit:",
+      "spans": [
+        {
+          "start": 17,
+          "end": 21,
+          "label": "PERSON"
+        },
+        {
+          "start": 37,
+          "end": 47,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "\"Rapi uirgines pueros, diuelli liberos a parentum complexu, matres familiarum pati quae uictoribus conlibuisset, fana atque domos spoliari, caedem incendia fieri:",
+      "spans": []
+    },
+    {
+      "text": "postremo armis cadaueribus cruore atque luctu omnia compleri.",
+      "spans": []
+    },
+    {
+      "text": "\" Hic si fana tacuisset, deorum sedibus solere hostes parcere putaremus.",
+      "spans": []
+    },
+    {
+      "text": "Et haec non ab alienigenis hostibus, sed a Catilina et sociis eius, nobilissimis senatoribus et Romanis ciuibus, Romana templa metuebant.",
+      "spans": [
+        {
+          "start": 43,
+          "end": 51,
+          "label": "PERSON"
+        },
+        {
+          "start": 96,
+          "end": 103,
+          "label": "NORP"
+        },
+        {
+          "start": 113,
+          "end": 119,
+          "label": "NORP"
+        }
+      ]
+    },
+    {
+      "text": "Sed hi uidelicet perditi et patriae parricidae.",
+      "spans": []
+    },
+    {
+      "text": "Quid ergo per multas gentes, quae inter se bella gesserunt et nusquam uictis in deorum suorum sedibus pepercerunt, noster sermo discurrat?",
+      "spans": []
+    },
+    {
+      "text": "Romanos ipsos uideamus, ipsos, inquam, recolamus respiciamusque Romanos, de quorum praecipua laude dictum est:",
+      "spans": [
+        {
+          "start": 0,
+          "end": 7,
+          "label": "NORP"
+        },
+        {
+          "start": 64,
+          "end": 71,
+          "label": "NORP"
+        }
+      ]
+    },
+    {
+      "text": "Parcere subiectis et debellare superbos, et quod accepta iniuria ignoscere quam persequi malebant:",
+      "spans": []
+    },
+    {
+      "text": "quando tot tantasque urbes, ut late dominarentur, expugnatas captasque euerterunt, legatur nobis quae templa excipere solebant, ut ad ea quisquis confugisset liberaretur.",
+      "spans": []
+    },
+    {
+      "text": "An illi faciebant et scriptores earundem rerum gestarum sita reticebant?",
+      "spans": []
+    },
+    {
+      "text": "Ita uero, qui ea quae laudarent maxime requirebant, ista praeclarissima secundum ipsos pietatis indicia praeterirent?",
+      "spans": []
+    },
+    {
+      "text": "Egregius Romani nominis Marcus Marcellus, qui Syracusas urbem ornatissimam cepit, refertur eam prius fleuisse ruituram et ante eius sanguinem suas illi lacrimas effudisse.",
+      "spans": [
+        {
+          "start": 9,
+          "end": 15,
+          "label": "NORP"
+        },
+        {
+          "start": 24,
+          "end": 40,
+          "label": "PERSON"
+        },
+        {
+          "start": 46,
+          "end": 55,
+          "label": "LOC"
+        }
+      ]
+    },
+    {
+      "text": "Gessit et curam pudicitiae etiam in hoste seruandae.",
+      "spans": []
+    },
+    {
+      "text": "Nam priusquam oppidum uictor iussisset inuadi, constituit edicto, ne quis corpus liberum uiolaret.",
+      "spans": []
+    },
+    {
+      "text": "Euersa est tamen ciuitas more bellorum, nec uspiam legitur ab imperatore tam casto atque clementi fuisse praeceptum, ut quisquis ad illud uel illud templum fugisset haberetur inlaesus.",
+      "spans": []
+    },
+    {
+      "text": "Quod utique nullo modo praeteriretur, quando nec eius fletus nec quod edixerat pro pudicitia minime uiolanda potuit taceri.",
+      "spans": []
+    },
+    {
+      "text": "Fabius, Tarentinae urbis euersor, a simulacrorum depraedatione se abstinuisse laudatur.",
+      "spans": [
+        {
+          "start": 0,
+          "end": 6,
+          "label": "PERSON"
+        },
+        {
+          "start": 8,
+          "end": 18,
+          "label": "LOC"
+        }
+      ]
+    },
+    {
+      "text": "Nam cum ei scriba suggessisset quid de signis deorum, quae multa capta fuerant, fieri iuberet, continentiam suam etiam iocando condiuit.",
+      "spans": []
+    },
+    {
+      "text": "Quaesiuit enim cuius modi essent, et cum ei non solum multa grandia, uerum etiam renuntiarentur armata:",
+      "spans": []
+    },
+    {
+      "text": "\"Relinquamus, inquit, Tarentinis deos iratos.",
+      "spans": [
+        {
+          "start": 22,
+          "end": 32,
+          "label": "NORP"
+        }
+      ]
+    },
+    {
+      "text": "\" Cum igitur nec illius fletum nec huius risum, nec illius castam misericordiam nec huius facetam continentiam Romanarum rerum gestarum scriptores tacere potuerint:",
+      "spans": [
+        {
+          "start": 111,
+          "end": 120,
+          "label": "NORP"
+        }
+      ]
+    },
+    {
+      "text": "quando praetermitteretur, si aliquibus hominibus in honorem cuiuspiam deorum suorum sic pepercissent, ut in quoquam templo caedem uel captiuitatem fieri prohiberent?",
+      "spans": []
+    },
+    {
+      "text": "Quidquid ergo uastationis trucidationis depraedationis concremationis adflictionis in ista recentissima Romana clade commissum est, fecit hoc consuetudo bellorum;",
+      "spans": [
+        {
+          "start": 104,
+          "end": 110,
+          "label": "NORP"
+        }
+      ]
+    },
+    {
+      "text": "quod autem nouo more factum est, quod inusitata rerum facie inmanitas barbara tam mitis apparuit, ut amplissimae basilicae implendae populo cui parceretur eligerentur et decernerentur, ubi nemo feriretur, unde nemo raperetur, quo liberandi multi a miserantibus hostibus ducerentur, unde captiuandi ulli nec a crudelibus hostibus abducerentur:",
+      "spans": []
+    },
+    {
+      "text": "hoc Christi nomini, hoc Christiano tempori tribuendum quisquis non uidet, caecus, quisquis uidet nec laudat, ingratus, quisquis laudanti reluctatur, insanus est.",
+      "spans": [
+        {
+          "start": 4,
+          "end": 11,
+          "label": "PERSON"
+        },
+        {
+          "start": 24,
+          "end": 34,
+          "label": "NORP"
+        }
+      ]
+    },
+    {
+      "text": "Absit, ut prudens quisquam hoc feritati inputet barbarorum.",
+      "spans": []
+    },
+    {
+      "text": "Truculentissimas et saeuisimas mentes ille terruit, ille frenauit, ille mirabiliter temperauit, qui per prophetam tanto ante dixit:",
+      "spans": []
+    },
+    {
+      "text": "Visitabo in uirga iniquitates eorum et in flagellis peccata eorum;",
+      "spans": []
+    },
+    {
+      "text": "misericordiam autem meam non dispergam ab eis.",
+      "spans": []
+    },
+    {
+      "text": "Dicet aliquis:",
+      "spans": []
+    },
+    {
+      "text": "\"Cur ergo ista diuina misericordia etiam ad impios ingratosque peruenit?",
+      "spans": []
+    },
+    {
+      "text": "\" Cur putamus, nisi quia eam ille praebuit, qui cotidie facit oriri solem suum super bonos et malos et pluit super iustos et iniustos?",
+      "spans": []
+    },
+    {
+      "text": "Quamuis enim quidam eorum ista cogitantes paenitendo ab impietate se corrigant, quidam uero, sicut apostolus dicit, diuitias bonitatis et longanimitatis Dei contemnentes secundum duritiam cordis sui et cor inpaenitens thesaurizent sibi iram in die irae et reuelationis iusti iudicii Dei, qui reddet unicuique secundum opera eius:",
+      "spans": []
+    },
+    {
+      "text": "tamen patientia Dei ad paenitentiam inuitat malos, sicut flagellum Dei ad patientiam erudit bonos;",
+      "spans": []
+    },
+    {
+      "text": "itemque misericordia Dei fouendos amplectitur bonos, sicut seueritas Dei puniendos corripit malos.",
+      "spans": []
+    },
+    {
+      "text": "Placuit quippe diuinae prouidentiae praeparare in posterum bona iustis, quibus non fruentur iniusti, et mala impiis, quibus non excruciabuntur boni;",
+      "spans": []
+    },
+    {
+      "text": "ista uero temporalia bona et mala utrisque uoluit esse communia, ut nec bona cupidius adpetantur, quae mali quoque habere cernuntur;",
+      "spans": []
+    },
+    {
+      "text": "nec mala turpiter euitentur, quibus et boni plerumque adficiuntur.",
+      "spans": []
+    },
+    {
+      "text": "Interest autem plurimum, qualis sit usus uel earum rerum, quae prosperae, uel earum, quae dicuntur aduersae.",
+      "spans": []
+    },
+    {
+      "text": "Nam bonus temporalibus nec bonis extollitur nec malis frangitur;",
+      "spans": []
+    },
+    {
+      "text": "malus autem ideo huiusce modi infelicitate punitur, quia felicitate corrumpitur.",
+      "spans": []
+    },
+    {
+      "text": "Ostendit tamen Deus saepe etiam in his distribuendis euidentius operationem suam.",
+      "spans": []
+    },
+    {
+      "text": "Nam si nunc omne peccatum manifesta plecteret poena, nihil ultimo iudicio seruari putaretur;",
+      "spans": []
+    },
+    {
+      "text": "rursus si nullum nunc peccatum puniret aperta diuinitas, nulla esse diuina prouidentia crederetur.",
+      "spans": []
+    },
+    {
+      "text": "Similiter in rebus secundis, si non eas Deus quibusdam petentibus euidentissima largitate concederet, non ad eum ista pertinere diceremus;",
+      "spans": []
+    },
+    {
+      "text": "itemque si omnibus eas petentibus daret, non nisi propter talia praemia seruiendum illi esse arbitraremur, nec pios nos faceret talis seruitus, sed potius cupidos et auaros.",
+      "spans": []
+    },
+    {
+      "text": "Haec cum ita sint, quicumque boni et mali pariter adflicti sunt, non ideo ipsi distincti non sunt, quia distinctum non est quod utrique perpessi sunt.",
+      "spans": []
+    },
+    {
+      "text": "Manet enim dissimilitudo passorum etiam in similitudine passionum, et licet sub eodem tormento non est idem uirtus et uitium.",
+      "spans": []
+    },
+    {
+      "text": "Nam sicut sub uno igne aurum rutilat palea fumat, et sub eadem tribula stipulae comminuuntur frumenta purgantur, nec ideo cum oleo amurca confunditur, quia eodem preli pondere exprimitur:",
+      "spans": []
+    },
+    {
+      "text": "ita una eademque uis inruens bonos probat purificat eliquat, malos damnat uastat exterminat.",
+      "spans": []
+    },
+    {
+      "text": "Unde in eadem adflictione mali Deum detestantur atque blasphemant, boni autem precantur et laudant.",
+      "spans": []
+    },
+    {
+      "text": "Tantum interest, non qualia, sed qualis quisque patiatur.",
+      "spans": []
+    },
+    {
+      "text": "Nam pari motu exagitatum et exhalat horribiliter caenum et suauiter fragrat unguentum.",
+      "spans": []
+    },
+    {
+      "text": "Quid igitur in illa rerum uastitate Christiani passi sunt, quod non eis magis fideliter ista considerantibus ad prouectum ualeret?",
+      "spans": [
+        {
+          "start": 36,
+          "end": 46,
+          "label": "NORP"
+        }
+      ]
+    },
+    {
+      "text": "Primum quod ipsa peccata, quibus Deus indignatus impleuit tantis calamitatibus mundum, humiliter cogitantes, quamuis longe absint a facinerosis flagitiosis atque impiis, tamen non usque adeo se a delictis deputant alienos, ut nec temporalio pro eis mala perpeti se iudicent dignos.",
+      "spans": []
+    },
+    {
+      "text": "Excepto enim quod unusquisque quamlibet laudabiliter uiuens cedit in quibusdam carnali concupiscentiae, etsi non ad facinorum inmanitatem et gurgitem flagitiorum atque impietatis abominationem, ad aliqua tamen peccata uel rara uel tanto crebriora, quanto minora -- hoc ergo excepto quis tandem facile reperitur, qui eosdem ipsos, propter quorum horrendam superbiam luxuriamque et auaritiam atque execrabiles iniquitates et impietates Deus, sicut minando praedixit, conterit terras, sic habeat, ut habendi sunt?",
+      "spans": []
+    },
+    {
+      "text": "sic cum eis uiuat, ut cum talibus est uiuendum?",
+      "spans": []
+    },
+    {
+      "text": "Plerumque enim ab eis docendis ac monendis, aliquando etiam obiurgandis et ocrripiendis male dissimulatur, uel cum laboris piget, uel cum os eorum uerecundamur offendere, uel cum inimicitias deuitamus, ne impediant et noceant in istis temporalibus rebus, siue quas adipisci adhuc adpetit nostra cupiditas, siue quas amittere formidat infirmitas, ita ut quamuis bonis malorum uita displiceat et ideo cum eis non incidant in illam damnationem, quae post hanc uitam talibus praeparatur, tamen, quia propterea peccatis eorum damnabilibus parcunt, dum eos in suis licet leuibus et uenialibus metuunt, iure cum eis temporaliter flagellantur, quamuis in aeternum minime puniantur, iure istam uitam, quando diuinitus adfliguntur cum eis, amaram sentiunt, cuius amando dulcedinem peccantibus eis amari esse noluerunt.",
+      "spans": []
+    },
+    {
+      "text": "Nam si propterea quisque obiurgandis et corripiendis male agentibus parcit, quia opportunius tempus inquirit uel eisdem ipsis metuit, ne deteriores ex hoc efficiantur, uel ad bonam uitam et piam erudiendos impediant alios infirmos et premant atque auertant a fide:",
+      "spans": []
+    },
+    {
+      "text": "non uidetur esse cupiditatis occasio, sed consilium caritatis.",
+      "spans": []
+    },
+    {
+      "text": "Illud est culpabile, quod hi, qui dissimiliter uiuunt et a malorum factis abhorrent, parcunt tamen peccatis alienis, quae dedocere aut obiurgare deberent, dum eorum offensiones cauent, ne sibi noceant in his rebus, quibus licite boni atque innocenter utuntur, sed cupidius, quam oportebat eos, qui in hoc mundo peregrinantur et spem supernae patriae prae se gerunt.",
+      "spans": []
+    },
+    {
+      "text": "Non solum quippe infirmiores, uitam ducentes coniugalem, filios habentes uel habere quaerentes, domos ac familias possidentes, (quos apostolus in ecclesiis adloquitur docens et monens quem ad modum uiuere debeant et uxores cum maritis et mariti cum uxoribus, et filii cum parentibus et parentes cum filiis, et serui cum dominis et domini cum seruis) multa temporalia, multa terrena libenter adipiscuntur et moleste amittunt, propter que non audent offendere homines, quorum sibi uita contaminatissima et consceleratissima displicet;",
+      "spans": []
+    },
+    {
+      "text": "uerum etiam hi, qui superiorem uitae gradum tenent nec coniugalibus uinculis inretiti sunt et uictu paruo ac tegimento utuntur, plerumque, suae famae ac saluti dum insidias atque impetus malorum timent, ab eorum reprehensione sese abstinent, et quamuis non in tantum eos metuant, ut ad similia perpetranda quibuslibet eorum terroribus atque inprobitatibus cedant, ea ipsa tamen, quae cum eis non perpetrant, nolunt plerumque corripere, cum fortasse possint aliquos corripiendo corrigere, ne, si non potuerint, sua salus ac fama in periculum exitiumque perueniat, nec ea consideratione, qua suam famam ac salutem uident esse necessariam utilitati erudiendorum hominum, sed ea potius infirmitate, qua delectat lingua blandiens et humanus dies et reformidatur uulgi iudicium et carnis excruciatio uel peremptio, hoc est propter quaedam cupiditatis uincula, non propter officia caritatis.",
+      "spans": []
+    },
+    {
+      "text": "Non mihi itaque uidetur haec parua esse causa, quare cum malis flagellentur et boni, quando Deo placet perditos mores etiam temporalium poenarum adflictione punire.",
+      "spans": []
+    },
+    {
+      "text": "Flagellantur enim simul, non quia simul agunt malam uitam, sed quia simul amant temporalem uitam, non quidem aequaliter, sed tamen simul, quam boni contemnere deberent, ut illi correpti atque correcti consequerentur aeternam, ad quam consequendam si nollent esse socii, ferrentur et diligerentur inimici, quia donec uiuunt semper incertum est utrum uoluntatem sint in melius mutaturi.",
+      "spans": []
+    },
+    {
+      "text": "qua in re non utique parem, sed longe grauiorem habent causam, quibus per prophetam dicitur:",
+      "spans": []
+    },
+    {
+      "text": "Ille quidem in suo peccato morietur, sanguinem autem eius de manu speculatoris requiram.",
+      "spans": []
+    },
+    {
+      "text": "Ad hoc enim speculatores, hoc est populorum praepositi, constituti sunt in ecclesiis, ut non parcant obiurgando peccata.",
+      "spans": []
+    },
+    {
+      "text": "Nec ideo tamen ab huius modi culpa penitus alienus est, qui, licet praepositus non sit, in eis tamen, quibus uitae huius necessitate coniungitur, multa monenda uel arguenda nouit et neglegit, deuitans eorum offensiones propter illa quibus in hac uita non indebitis utitur, sed plus quam debuit delectatur.",
+      "spans": []
+    },
+    {
+      "text": "Deinde habent aliam causam boni, quare temporalibus affligantur malis, qualem habuit Iob:",
+      "spans": [
+        {
+          "start": 85,
+          "end": 88,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "ut sibi ipse humanus animus sit probatus et cognitus, quanta uirtute pietatis gratis Deum diligat.",
+      "spans": []
+    },
+    {
+      "text": "Quibus recte consideratis atque perspectis adtende utrum aliquid mali acciderit fidelibus et piis, quod eis non in bonum uerteretur, nisi forte putandum est apostolicam illam uacare sententiam, ubi ait:",
+      "spans": []
+    },
+    {
+      "text": "Scimus quia diligentibus Deum omnia cooperatur in bonum.",
+      "spans": []
+    },
+    {
+      "text": "Amiserunt omnia quae habebant.",
+      "spans": []
+    },
+    {
+      "text": "Numquid fidem?",
+      "spans": []
+    },
+    {
+      "text": "numquid pietatem?",
+      "spans": []
+    },
+    {
+      "text": "numquid interioris hominis bona, qui est ante Deum diues?",
+      "spans": []
+    },
+    {
+      "text": "Hae sunt opes Christianorum, quibus opulentus dicebat apostolus:",
+      "spans": [
+        {
+          "start": 14,
+          "end": 27,
+          "label": "NORP"
+        }
+      ]
+    },
+    {
+      "text": "Est autem quaestus magnus pietas cum sufficientia.",
+      "spans": []
+    },
+    {
+      "text": "NIhil enim intulimus in hunc mundum, sed nec auferre aliquid possumus.",
+      "spans": []
+    },
+    {
+      "text": "Habentes autem uictum et tegumentum his contenti sumus.",
+      "spans": []
+    },
+    {
+      "text": "Nam qui uolunt diuites fieri, incidunt in temptationem et laqueum et desideria multa <stulta> et noxia, quae mergunt homines in interitum et perditionem.",
+      "spans": []
+    },
+    {
+      "text": "Radix enim est omnium malorum auaritia, quam quidam adpetentes a fide pererrauerunt et inseruerunt se doloribus multis.",
+      "spans": []
+    },
+    {
+      "text": "Quibus ergo terrenae diuitiae in illa uastatione perierunt, si eas sic habebant, quem ad modum ab isto foris paupere, intus diuite audierant, id est, si mundo utebantur tamquam non utentes, potuerunt dicere, quod ille grauiter temptatus et minime superatus:",
+      "spans": []
+    },
+    {
+      "text": "Nudus exiui de utero matris meae, nudus reuertar in terram.",
+      "spans": []
+    },
+    {
+      "text": "Dominus dedit, Dominus abstulit, sicut Domino placuit, ita factum est;",
+      "spans": []
+    },
+    {
+      "text": "sit nomen Domini benedictum;",
+      "spans": []
+    },
+    {
+      "text": "ut bonus eruus magnas facultates haberet ipsam sui Domini uoluntatem, cui pedisequus mente ditesceret, nec contristaretur eis rebus uiuens relictus, quas cito fuerat moriens relicturus.",
+      "spans": []
+    },
+    {
+      "text": "Illi autem infirmiores, qui terrenis his bonis, quamuis ea non praeponerent Christo, aliquantula tamen cupiditate cohaerebant, quantum haec amando peccauerint, perdendo senserunt.",
+      "spans": [
+        {
+          "start": 76,
+          "end": 83,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Tantum quippe doluerunt, quantum se doloribus inseruerant, sicut apostolum dixisse supra commemoraui.",
+      "spans": []
+    },
+    {
+      "text": "Oportebat enim ut eis adderetur etiam experimentorum disciplina, a quibus tam diu fuerat neglecta uerborum.",
+      "spans": []
+    },
+    {
+      "text": "Nam cum dixit apostolus:",
+      "spans": []
+    },
+    {
+      "text": "Qui uolunt diuites fieri, incidunt in temptationem et cetera, profecto in diuitiis cupiditatem reprehendit, non facultatem, quoniam praecepit alibi dicens:",
+      "spans": []
+    },
+    {
+      "text": "Praecipe diuitibus huius mundi non superbe sapere neque sperare in incerto diuitiarum, sed in Deo uiuo, qui praestat nobis omnia abundanter ad fruendum:",
+      "spans": []
+    },
+    {
+      "text": "bene faciant, diuites sint in operibus bonis, facile tribuant, communicent, thesaurizent sibi fundamentum bonum in futurum, ut adprehendant ueram uitam.",
+      "spans": []
+    },
+    {
+      "text": "Haec qui de suis diuitiis faciebant, magnis sunt lucris leuia damna solati plusque laetati ex his, quae facile tribuendo tutius seruauerunt, quam contristati ex his, quae timide retinendo facilius amiserunt.",
+      "spans": []
+    },
+    {
+      "text": "Hoc enim potuit in terra perire, quod piguit inde transferre.",
+      "spans": []
+    },
+    {
+      "text": "Nam qui receperunt consilium Domini sui dicentis:",
+      "spans": []
+    },
+    {
+      "text": "Nolite uobuis condere thesauros in terra, ubi tinea et rubigo exterminant et ubi fures effodiunt et furantur;",
+      "spans": []
+    },
+    {
+      "text": "sed thesaurizate uobis thesaurum in caelo, quo fur non accedit neque tinea corrumpit;",
+      "spans": []
+    },
+    {
+      "text": "ubi enim est thesaurus tuus, illic erit et cor tuum, tribulationis tempore probauerunt quam recte sapuerint non contemnendo ueracissimum praeceptorem et thesauri sui fidelissimum inuictissimumque custodem.",
+      "spans": []
+    },
+    {
+      "text": "Nam si multi gauisi sunt ibi se habuisse diuitias suas, quo contigit ut hostis non accederet:",
+      "spans": []
+    },
+    {
+      "text": "quanto certius et securius gaudere potuerunt, qui monitu Dei sui illuc migrauerunt, quo accedere omnino non posset!",
+      "spans": []
+    },
+    {
+      "text": "Unde Paulinus noster, Nolensis episcopus, ex opulentissimo diuite uoluntate pauperrimus et copiosissime sanctus, quando et ipsam Nolam barbari uastauerunt, cum ab eis teneretur, sic in corde suo, ut ab eo postea cognouimus, precabatur:",
+      "spans": [
+        {
+          "start": 5,
+          "end": 13,
+          "label": "PERSON"
+        },
+        {
+          "start": 129,
+          "end": 134,
+          "label": "LOC"
+        }
+      ]
+    },
+    {
+      "text": "\"Domine, non excrucier propter aurum et argentum;",
+      "spans": []
+    },
+    {
+      "text": "ubi enim sint omnia mea, tu scis.",
+      "spans": []
+    },
+    {
+      "text": "\" Ibi enim habebat omnia sua, ubi eum condere et thesaurizare ille monstrauerat, qui haec mala mundo uentura praedixerat.",
+      "spans": []
+    },
+    {
+      "text": "Ac per hoc qui Domino suo monenti oboedierant, ubi et quo modo tehesaurizare deberent, nec ipsas terrenas diuitias barbaris incursantibus amiserunt.",
+      "spans": []
+    },
+    {
+      "text": "Quos autem non oboedisse paenituit, quid de talibus rebus faciendum esset, si non praecedente sapientia, certe consequente experientia didicerunt.",
+      "spans": []
+    },
+    {
+      "text": "At enim quidam boni etiam Christiani tormentis excruciati sunt, ut bona sua hostibus proderent.",
+      "spans": [
+        {
+          "start": 26,
+          "end": 36,
+          "label": "NORP"
+        }
+      ]
+    },
+    {
+      "text": "Illi uero nec prodere nec perdere potuerunt bonum, quo ipsi boni erant.",
+      "spans": []
+    },
+    {
+      "text": "Si autem torqueri quam mammona iniquitatis prodere maluerunt, boni non erant.",
+      "spans": []
+    },
+    {
+      "text": "Admonendi autem fuerant, qui tanta patiebantur pro auro, quanta essent sustinenda pro Christo, ut eum potius diligere discerent, qui pro se passos aeterna felicitate ditaret, non aurum et argentum, pro quo pati miserrimum fuit, seu mentiendo occultaretur, seu uerum dicendo proderetur.",
+      "spans": [
+        {
+          "start": 86,
+          "end": 93,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Namque inter tormenta nemo Christum confitendo amisit, nemo aurum nisi negando seruauit.",
+      "spans": [
+        {
+          "start": 27,
+          "end": 35,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Quocirca utiliora erant fortasse tormenta, quae bonum incorruptibile amandum docebant, quam illa bona, quae sine ullo utili fructu dominos sui amore torquebant.",
+      "spans": []
+    },
+    {
+      "text": "Sed quidam etiam non habentes quod proderent, dum non creduntur, torti sunt.",
+      "spans": []
+    },
+    {
+      "text": "Et hi forte habere cupiebant nec sancta uoluntate pauperes erant;",
+      "spans": []
+    },
+    {
+      "text": "quibus demonstrandum fuit non facultates, sed ipsas cupiditates talibus dignas esse cruciatibus.",
+      "spans": []
+    },
+    {
+      "text": "Si uero uitae melioris proposito reconditum aurum argentumque non habebant, nescio quidem utrum cuiquam talium acciderit, ut dum habere creditur torqueretur:",
+      "spans": []
+    },
+    {
+      "text": "uerum tamen etiamsi accidit, profecto, qui inter illa tormenta paupertatem sanctam confitebatur, Christum confitebatur.",
+      "spans": [
+        {
+          "start": 97,
+          "end": 105,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Quapropter etsi non meruit ab hostibus credi, non potuit tamen sanctae paupertatis confessor sine caelesti mercede torqueri.",
+      "spans": []
+    },
+    {
+      "text": "Multos, inquiunt, etiam Christianos fames diuturna uastauit.",
+      "spans": [
+        {
+          "start": 24,
+          "end": 35,
+          "label": "NORP"
+        }
+      ]
+    },
+    {
+      "text": "Hoc quoque in usus suos boni fideles pie tolerando uerterunt.",
+      "spans": []
+    },
+    {
+      "text": "Quos enim fames necauit, malis uitae huius, sicut corporis morbus, eripuit:",
+      "spans": []
+    },
+    {
+      "text": "quos autem non necauit, docuit parcius uiuere, docuit productius ieiunare.",
+      "spans": []
+    },
+    {
+      "text": "Sed enim multi etiam Christiani interfecti sunt, multi multarum mortium foeda uarietate consumpti.",
+      "spans": [
+        {
+          "start": 21,
+          "end": 31,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Hoc si aegre ferendum est, omnibus, qui in hanc uitam procreati sunt, utique commune est.",
+      "spans": []
+    },
+    {
+      "text": "Hoc scio, neminem fuisse mortuum, qui non fuerat aliquando moriturus.",
+      "spans": []
+    },
+    {
+      "text": "Finis autem uitae tam longam quam breuem uitam hoc idem facit.",
+      "spans": []
+    },
+    {
+      "text": "Neque enim aliud melius et aliud deterius, aut aliud maius et aliud breuius est, quod iam pariter non est.",
+      "spans": []
+    },
+    {
+      "text": "Quid autem interest, quo mortis genere uita ista finiatur, quando ille, cui finitur, iterum mori non cogitur?",
+      "spans": []
+    },
+    {
+      "text": "Cum autem unicuique mortalium sub cotidianis uitae huius casibus innumerabiles mortes quodam modo comminentur, quamdiu incertum est quaenam earum uentura sit:",
+      "spans": []
+    },
+    {
+      "text": "quaero utrum satius sit unam perpeti moriendo an omnes timere uiuendo.",
+      "spans": []
+    },
+    {
+      "text": "Nec ignoro quam citius eligatur diu uiuere sub timore tot mortium quam semel moriendo nullam deinceps formidare.",
+      "spans": []
+    },
+    {
+      "text": "Sed aliud est quod carnis sensus infirmiter pauidus refigit, aliud quod mentis ratio diligenter enucleata conuincit.",
+      "spans": []
+    },
+    {
+      "text": "Mala mors putanda non est, quam bona uita praecesserit.",
+      "spans": []
+    },
+    {
+      "text": "Neque enim facit malam mortem, nisi quod sequitur mortem.",
+      "spans": []
+    },
+    {
+      "text": "Non itaque multum curandum est eis, qui necessario morituri sunt, quid accidat ut moriantur, sed moriendo quo ire cogantur.",
+      "spans": []
+    },
+    {
+      "text": "Cum igitur Christiani nouerint longe meliorem fuisse religiosi pauperis mortem inter lingentium canum linguas quam impii diuitis in purpura et bysso, horrenda illa genera mortium quid mortuis obfuerunt, qui bene uixerunt?",
+      "spans": [
+        {
+          "start": 11,
+          "end": 21,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "At enim in tanta strage cadauerum nec sepelire potuerunt.",
+      "spans": []
+    },
+    {
+      "text": "Neque istuc pia fides nimium reformidat, tenens praedictum nec absumentes bestias resurrecturis corporibus obfuturas, quorum capillus capitis non peribit.",
+      "spans": []
+    },
+    {
+      "text": "Nullo modo diceret ueritas:",
+      "spans": []
+    },
+    {
+      "text": "Nolite timere eos, qui corpus occidunt, animam autem non possunt occidere, si quicquam obesset futurae uitae, quidquid inimici de corporibus occisorum facere uoluissent.",
+      "spans": []
+    },
+    {
+      "text": "Nisi forte quispiam sic absurdus est, ut contendat eos, qui corpus occidunt, non debere timeri ante mortem, ne corpus occidant, et timeri debere post mortem, ne corpus occisum sepeliri non sinant.",
+      "spans": []
+    },
+    {
+      "text": "Falsum est ergo quod ait <Christus>:",
+      "spans": [
+        {
+          "start": 25,
+          "end": 34,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Qui corpus occidunt, et postea non habent quid faciant, si habent tanta, quae de cadaueribus faciant.",
+      "spans": []
+    },
+    {
+      "text": "Absit, ut falsum sit quod ueritas dixit.",
+      "spans": []
+    },
+    {
+      "text": "Dictum est enim aliquid eos facere cum occidunt, quia in corpore sensus est occidendo;",
+      "spans": []
+    },
+    {
+      "text": "postea uero nihil habere quod faciant, quia nullus sensus est in corpore occiso.",
+      "spans": []
+    },
+    {
+      "text": "Multa itaque corpora Christianorum terra non texit, sed nullum eorum quisquam a caelo et terra separauit, quam totam implet praesentia sui, qui nouit unde resuscitet quod creauit.",
+      "spans": [
+        {
+          "start": 21,
+          "end": 34,
+          "label": "NORP"
+        }
+      ]
+    },
+    {
+      "text": "Dicitur quidem in psalmo:",
+      "spans": []
+    },
+    {
+      "text": "Posuerunt mortalia seruorum tuorum escam uolatilibus caeli, carnes sanctorum tuorum bestiis terrae;",
+      "spans": []
+    },
+    {
+      "text": "effuderunt sanguinem eorum sicut aquam in circuitu Hierusalem, et non erat qui sepeliret, sed magis ad exaggerandam crudelitatem eorum, qui ista fecerunt, non ad eorum infelicitatem, qui ista perpessi sunt.",
+      "spans": [
+        {
+          "start": 51,
+          "end": 61,
+          "label": "LOC"
+        }
+      ]
+    },
+    {
+      "text": "Quamuis enim haec in conspectu hominum dua et dira uideantur, sed pretiosa in conspectu Domini mors sanctorum eius.",
+      "spans": []
+    },
+    {
+      "text": "Proinde ista omnia, <id est> curatio funeris, conditio sepulturae, pompa exequiarum, magis sunt uiuorum solacia quam subsidia mortuorum.",
+      "spans": []
+    },
+    {
+      "text": "Si aliquid prodest impio sepultura pretiosa, oberit pio uilis aut nulla.",
+      "spans": []
+    },
+    {
+      "text": "Praeclaras exequias in conspectu hominum exhibuit purpurato illi diuiti turba famulorum, sed multo clariores in conspectu Domini ulceroso illi pauperi ministerium praebuit angelorum, qui eum non extulerunt in marmoreum tumulum, sed in Abrahae gremium sustulerunt.",
+      "spans": [
+        {
+          "start": 235,
+          "end": 242,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Rident haec illi, contra quos defendendam suscepimus ciuitatem Dei.",
+      "spans": []
+    },
+    {
+      "text": "Verum tamen sepulturae curam etiam eorum philosophi contempserunt.",
+      "spans": []
+    },
+    {
+      "text": "Et saepe uniuersi exercitus, dum pro terrena patria morerentur, ubi postea iacerent uel quibus bestiis esca fierent, non curarunt, licuitque de hac re poetis plausibiliter dicere:",
+      "spans": []
+    },
+    {
+      "text": "Caelo tegitur, qui non habet urnam.",
+      "spans": []
+    },
+    {
+      "text": "Quanto minus debent de corporibus insepultis insultare Christianis, quibus et ipsius carnis membrorumque omnium reformatio non solum ex terra, uerum etiam ex aliorum elementorum secretissimo sinu, quo dilapsa cadauera recesserunt, in temporis puncto reddenda et redintegranda promittitur.",
+      "spans": [
+        {
+          "start": 55,
+          "end": 66,
+          "label": "NORP"
+        }
+      ]
+    },
+    {
+      "text": "Nec ideo tamen contemnenda et abicienda sunt corpora defunctorum maximeque iustorum atque fidelium, quibus tamquam organis et uasis ad omnia bona opera sancte usus est Spiritus.",
+      "spans": []
+    },
+    {
+      "text": "Si enim paterna uestis et anulus, ac si quid huius modi, tanto carius est posteris, quanto erga parentes maior adfectus:",
+      "spans": []
+    },
+    {
+      "text": "nullo modo ipsa spernenda sunt corpora, quae utique multo familiarius atque coniunctius quam quaelibet indumenta gestamus.",
+      "spans": []
+    },
+    {
+      "text": "Haec enim non ad ornamentum uel adiutorium, quod adhibetur extrinsecus, sed ad ipsam naturam hominis pertinent.",
+      "spans": []
+    },
+    {
+      "text": "Unde et antiquorum iustorum funera officiosa pietate curata sunt et exequiae celebratae et sepultura prouisa, ipsique cum uiuerent de sepeliendis uel etiam transferendis suis corporibus filiis mandauerunt, et Tobis sepeliendo mortuios Deum promeruisse teste angelo commendatur.",
+      "spans": [
+        {
+          "start": 209,
+          "end": 214,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Ipse quoque Dominus die tertio resurrecturus religiosae mulieris bonum opus praedicat praedicandumque commendat, quod unguentum pretiosum super membra eius effuderit atque hoc ad eum sepeliendum fecerit.",
+      "spans": []
+    },
+    {
+      "text": "Et laudabiliter commemorantur in euangelio qui corpus eius de cruce acceptum diligenter atque honorifice tegendum sepeliendumque curarunt.",
+      "spans": []
+    },
+    {
+      "text": "Verum istae auctoritates non hoc admonent, quod insit ullus cadaueribus sensus, sed ad Dei prouidentiam, cui placent etiam talia pietatis officia, corpora quoque mortuorum pertinere significant propter fidem resurrectionis astruendam.",
+      "spans": []
+    },
+    {
+      "text": "Vbi et illud salubriter discitur, quanta possit esse remuneratio pro elemosynis, quas uiuentibus et sentientibus exhibemus, si neque hoc apud Deum perit, od exanimis hominum membris officii diligentiaeque persoluitur.",
+      "spans": []
+    },
+    {
+      "text": "Sunt quidem et alia, quae sancti patriarchae de corporibus suis uel condendis uel transferendis prophetico spiritu dicta intellegi uoluerunt;",
+      "spans": []
+    },
+    {
+      "text": "non autem hic locus est, ut ea pertractemus, cum sufficiant ista, quae diximus.",
+      "spans": []
+    },
+    {
+      "text": "Sed si ea, quae sustentandis uiuentibus sunt necessaria, sicut uictus et amictus, quamuis cum graui adflictione desint, non frangunt in bonis perferendi tolerandique uirtutem nec eradicant ex animo pietatem, sed exercitatam faciunt fecundiorem:",
+      "spans": []
+    },
+    {
+      "text": "quanto magis, cum desunt ea, quae curandis funeribus condendisque corporibus defunctorum adhiberi solent, non efficiunt miseros in occultis piorum sedibus iam quietos!",
+      "spans": []
+    },
+    {
+      "text": "Ac per hoc quando ista cadaueribus Christianorum in illa magnae urbis uel etiam aliorum oppidorum uastatione defuerunt, nec uiuorum culpa est, qui non potuerunt ista praebere, nec poena mortuorum, qui non possunt ista sentire.",
+      "spans": [
+        {
+          "start": 35,
+          "end": 48,
+          "label": "NORP"
+        }
+      ]
+    },
+    {
+      "text": "Sed multi, inquiunt, Christiani etiam captiui ducti sunt.",
+      "spans": [
+        {
+          "start": 21,
+          "end": 31,
+          "label": "NORP"
+        }
+      ]
+    },
+    {
+      "text": "Hoc sane miserrimum est, si aliquo duci potuerunt, ubi Deum suum non inuenerunt.",
+      "spans": []
+    },
+    {
+      "text": "Sunt in scripturis sanctis huius etiam cladis magna solacia.",
+      "spans": []
+    },
+    {
+      "text": "Fuerunt in captiuitate tres pueri, fuit Daniel, fuerunt alii prophetae;",
+      "spans": [
+        {
+          "start": 40,
+          "end": 46,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "nec Deus defuit consolator.",
+      "spans": []
+    },
+    {
+      "text": "Sic ergo non deseruit fideles suos sub dominatione gentis, licet barbarae, tamen humanae, qui prophetam non deseruit nec in uisceribus beluae.",
+      "spans": []
+    },
+    {
+      "text": "Haec quoque illi, cum quibus agimus, malunt inridere quam credere, qui tamen suis litteris credunt Arionem Methymnaeum, nobilissimum citharistam, cum esset deiectus e naui, exceptum delphini dorso et ad terras esse peruectum.",
+      "spans": [
+        {
+          "start": 99,
+          "end": 118,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Verum illud nostrum de Iona propheta incredibilius est.",
+      "spans": [
+        {
+          "start": 23,
+          "end": 27,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Plane incredibilius quia mirabilius, et mirabilius quia potentius.",
+      "spans": []
+    },
+    {
+      "text": "Habent tamen isti de captiuitate religionis causa etiam sponte toleranda et in suis praeclaris uiris nobilissimum exemplum.",
+      "spans": []
+    },
+    {
+      "text": "Marcus Regulus, imperator populi Romani, captiuus apud Carthaginienses fuit.",
+      "spans": [
+        {
+          "start": 0,
+          "end": 14,
+          "label": "PERSON"
+        },
+        {
+          "start": 33,
+          "end": 39,
+          "label": "NORP"
+        },
+        {
+          "start": 55,
+          "end": 70,
+          "label": "NORP"
+        }
+      ]
+    },
+    {
+      "text": "Qui cum sibi mallent a Romanis suos reddi quam eorum tenere captiuos, ad hoc impetrandum etiam istum praecipue Regulum cum legatis suis Romam miserunt, prius iuratione constrictum, si quod uolebant minime peregisset, rediturum esse Carthaginem.",
+      "spans": [
+        {
+          "start": 23,
+          "end": 30,
+          "label": "NORP"
+        },
+        {
+          "start": 111,
+          "end": 118,
+          "label": "PERSON"
+        },
+        {
+          "start": 136,
+          "end": 141,
+          "label": "LOC"
+        },
+        {
+          "start": 232,
+          "end": 243,
+          "label": "LOC"
+        }
+      ]
+    },
+    {
+      "text": "Perrexit ille atque in senatu contraria persuasit, quoniam non arbitrabatur utile esse Romanae rei publicae mutare captiuos.",
+      "spans": []
+    },
+    {
+      "text": "Nec post hanc persuasionem a suis ad hostes redire compulsus est, sed quia iurauerat, id sponte compleuit.",
+      "spans": []
+    },
+    {
+      "text": "At illi eum excogitatis atque horrendis cruciatibus necauerunt.",
+      "spans": []
+    },
+    {
+      "text": "Inclusum quippe angusto ligno, ubi stare cogeretur, clauisque acutisimis undique confixo, ut se in nullam eius partem sine poenis atrocissimis inclinaret, etiam uigilando peremerunt.",
+      "spans": []
+    },
+    {
+      "text": "Merito certe laudant uirtutem tam magna infelicitate maiorem.",
+      "spans": []
+    },
+    {
+      "text": "Et per deos ille iurauerat, quorum cultu prohibito has generi humano clades isti opinantur infligi.",
+      "spans": []
+    },
+    {
+      "text": "Qui ergo propterea colebantur, ut istam uitam prosperam redderent, si uerum iuranti has inrogari poenas seu uoluerunt seu permiserunt, quid periuro grauius irati facere potuerunt?",
+      "spans": []
+    },
+    {
+      "text": "Sed cur non ratiocinationem meam potius ad utrumqeu concludam?",
+      "spans": []
+    },
+    {
+      "text": "Deos certe ille sic coluit, ut propter iuris iurandi fidem nec maneret in patria, nec inde quolibet ire, sed ad suos acerrimos inimicos redire minime dubitaret.",
+      "spans": []
+    },
+    {
+      "text": "Hoc si huic uitae utile existimabat, cuius tam horrendum exitum meruit, proculdubio fallebatur.",
+      "spans": []
+    },
+    {
+      "text": "Suo quippe docuit exemplo nihil deos ad istam temporalem felicitatem suis prodesse cultoribus, quando quidem ille eorum deditus cultui et uictus et captiuus abductus et, quia noluit aliter quam per eos iurauerat facere, nouo ac prius inaudito nimiumque horribili supplicii genere cruciatus extinctus est.",
+      "spans": []
+    },
+    {
+      "text": "Si autem deorum cultus post hanc uitam uelut mercedem reddit felicitatem, cur calumniantur temporibus Christianis, ideo dicentes Vrbi accidisse illam calamitatem, quia deos suos colere destitit, cum potuerit etiam illos dili gentissime colens tam infelix fieri, quam ille Regulus fuit?",
+      "spans": [
+        {
+          "start": 272,
+          "end": 279,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Nisi forte contra clarissimam ueritatem tanta quisquam dementia mirae caecitatis obnititur, ut contendere audeat uniuersam ciuitatem deos colentem infelicem esse non posse, unum uero hominem posse, quod uidelicet potentia deorum suorum multos potius sit idonea conseruare quam singulos, cum multitudo constet ex singulis.",
+      "spans": []
+    },
+    {
+      "text": "Si autem dicunt M. Regulum etiam in illa captiuitate illisque cruciatibus corporibus animi uirtute beatum esse potuisse, uirtus potius uera quaeratur, qua beata esse possit et ciuitas.",
+      "spans": [
+        {
+          "start": 16,
+          "end": 26,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Neque enim aliunde beata ciuitas, aliunde homo, cum aliud ciuitas non sit quam concors hominum multitudo.",
+      "spans": []
+    },
+    {
+      "text": "Quam ob rem nondum interim disputo, qualis in Regulo uirtus fuerit;",
+      "spans": [
+        {
+          "start": 46,
+          "end": 52,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "sufficit nunc, quod isto nobilissimo exemplo coguntur fateri non propter corporis bona uel earum rerum, quae extrinsecus homini accidunt, colendos deos, quando quidem ille carere his omnibus maluit quam deos per quos iurauit offendere.",
+      "spans": []
+    },
+    {
+      "text": "Sed quid faciamus hominibus, qui gloriantur se talem habuisse ciuem, qualem timent habere ciuitatem?",
+      "spans": []
+    },
+    {
+      "text": "Quod si non timent, tale ergo aliquid, quale accidit Regulo, etiam ciuitati tam diligenter quam ille deos colenti accidere potuisse fateantur et Christianis temporibus non calumnientur.",
+      "spans": [
+        {
+          "start": 53,
+          "end": 59,
+          "label": "PERSON"
+        },
+        {
+          "start": 145,
+          "end": 156,
+          "label": "NORP"
+        }
+      ]
+    },
+    {
+      "text": "Verum quia de illis Christianis orta quaestio est, qui etiam captiuati sunt, hoc intueantur et taceant, qui saluberrimae religioni hinc inpudenter atque inprudenter inludunt, quia, si diis eorum probro non fuit, quod adtentissimus cultor illorum, dum eis iuris iurandi fidem seruaret, patria caruit, cum aliam non haberet, captiuusque apud hostes per longam mortem supplicio nouae crudelitatis occisus est, multo minus nomen criminandum est Christianum in captiuitate sacratorum suorum, qui supernam patriam ueraci fide expectantes etiam in suis sedibus peregrionos se esse nouerunt.",
+      "spans": [
+        {
+          "start": 20,
+          "end": 31,
+          "label": "NORP"
+        },
+        {
+          "start": 441,
+          "end": 452,
+          "label": "NORP"
+        }
+      ]
+    },
+    {
+      "text": "Magnum sane crimen se putant obicere Christianis, cum eorum exaggerantes captiuitatem addunt etiam stupra commissa, non solum in aliena matrimonia uirginesque nupturas, sed etiam in quasdam sanctimoniales.",
+      "spans": [
+        {
+          "start": 37,
+          "end": 48,
+          "label": "NORP"
+        }
+      ]
+    },
+    {
+      "text": "Hic uero non fides, non pietas, non ipsa uirtus, quae castitas dicitur, sed nostra potius disputatio inter pudorem atque rationem quibusdam coartatur angustiis.",
+      "spans": []
+    },
+    {
+      "text": "Nec tantum hic curamus alienis responsionem redere, quantum ipsis nostris consolationem.",
+      "spans": []
+    },
+    {
+      "text": "Sit igitur in primis positum atque firmatum uirtutem, qua recte uiuitur, ab aanimi sede membris corporis imperare sanctumque corpus usu fieri sanctae uoluntatis, qua inconcussa ac stabili permanente, quidquid alius de corpore uel in corpore fecerit, quod sine peccato proprio non ualeat euitari, praeter culpam esse patientis.",
+      "spans": []
+    },
+    {
+      "text": "Sed quia non solum quod ad dolorem, uerum etiam quod ad libidinem pertinet, in corpore alieno perpetrari potest:",
+      "spans": []
+    },
+    {
+      "text": "quidquid tale factum fuerit, etsi retentam constantissimo animo pudicitiam non excutit, tamen pudorem incutit, ne credatur factum cum mentis etiam uoluntate, quod fieri fortasse sine carnis aliqua uoluptate non potuit.",
+      "spans": []
+    },
+    {
+      "text": "Ac per hoc et quae se occiderunt, ne quicquam huius modi paterentur, quis humanus affectus eis nolit ignosci?",
+      "spans": []
+    },
+    {
+      "text": "et quae se occidere noluerunt, ne suo facinore alienum flagitium deuitarent, quisquis <eis> hoc crimini dederit, ipse crimen insipientiae non cauebit.",
+      "spans": []
+    },
+    {
+      "text": "Nam utique si non licet priuata potestate hominem occidere uel nocentem, cuius occidendi licentiam lex nulla concedit, profecto etiam qui se ipsum occidit homicida est, et tanto fit nocentior, cum se occiderit, quanto innocentior in ea causa fuit, qua se occidendum putauit.",
+      "spans": []
+    },
+    {
+      "text": "Nam si Iudae factum merito detestamur eumque ueritas iudicat, cum se laqueo suspendit, sceleratae illius traditionis auxisse potius quam expiasse commissum, quoniam Dei misericordiam desperando exitiabiliter paenitens nullum sibi salubris paenitentiae locum reliquit:",
+      "spans": [
+        {
+          "start": 7,
+          "end": 12,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "quanto magis a sua nece se abstinere debet, qui tali supplicio quod in se puniat non habet!",
+      "spans": []
+    },
+    {
+      "text": "Iudas enim cum se occidit, sceleratum hominem occidit, et tamen non solum Christi, uerum etiam suae mortis reus finiuit hanc uitam, qua licet propter suum scelus alio suo scelere occisus eis.",
+      "spans": [
+        {
+          "start": 0,
+          "end": 5,
+          "label": "PERSON"
+        },
+        {
+          "start": 74,
+          "end": 81,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Cur autem homo, qui mali nihil fecit, sibi malefaciat et se ipsum interficiendo hominem interficiat innocentem, ne alium patiatur nocentem, atque in se perpetret peccatum proprium, ne in eo perpetretur alienum?",
+      "spans": []
+    },
+    {
+      "text": "At enim, ne uel aliena polluat libido, metuitur.",
+      "spans": []
+    },
+    {
+      "text": "Non polluet, si aliena erit;",
+      "spans": []
+    },
+    {
+      "text": "si autem polluet, aliena non erit.",
+      "spans": []
+    },
+    {
+      "text": "Sed cum pudicitia uirtus sit animi comitemque habeat fortitudinem, qua potius quaelibet mala tolerare quam malo consentire decernit, nullus autem magnamimus et pudicus in potestate habeat, quid de sua carne fiat, sed tantum quid adnuat mente uel renuat:",
+      "spans": []
+    },
+    {
+      "text": "quis eadem sana mente putauerit perdere se pudicitiam, si forte in adprehensa et oppressa carne sua exerceatur et expleatur libido non sua?",
+      "spans": []
+    },
+    {
+      "text": "Si enim hoc modo pudicitia perit, profecto pudicitia uirtus animi non erit, nec pertinebit ad ea bona, quibus bene uiuitur, sed in bnois corporis numerabitur, qualia sunt uires pulchritudo sana ualetudo, ac si quid huius modi est;",
+      "spans": []
+    },
+    {
+      "text": "quae bona, etiamsi minuantur, bonam iustamque uitam omnino non minuunt.",
+      "spans": []
+    },
+    {
+      "text": "Quod si tale aliquid est pudicitia, ut quid pro illa, ne amittatur, etiam <cum> periculo corpris laboratur?",
+      "spans": []
+    },
+    {
+      "text": "Si autem animi bonum est, etiam oppresso corpore non amittitur.",
+      "spans": []
+    },
+    {
+      "text": "Quin etiam sanctae continentiae bonum cum inmunditiae carnalium concupiscentiarum non cedit, et ipsum corpus sanctificatur, et ideo, cum eis non cedere inconcussa intentione persistit, nec de ipso corpore perit sanctitas, quia eo sancte utendi perseuerat uoluntas et, quantum est in ipso, etiam facultas.",
+      "spans": []
+    },
+    {
+      "text": "Neque enim eo corpus sanctum est, quod eius membra sunt integra, aut eo, quod nullo contrectantur adtactu, cum possint diuersis casibus etiam uulnerata uim perpeti, et medici aliquando saluti opitulantes haec ibi faciant, quae horret aspectus.",
+      "spans": []
+    },
+    {
+      "text": "Obstetrix uirginis cuiusdam integritatem manu uelut explorans siue maleuolentia siue inscitia siue casu, dum inspicit, perdidit.",
+      "spans": []
+    },
+    {
+      "text": "Non opinor quemquam tam stulte sapere, ut huic perisse aliquid existimet etiam de ipsius corporis sactitate, quamuis membri illius integritate iam perdita.",
+      "spans": []
+    },
+    {
+      "text": "Quocirca proposito animi permanente, per quod etiam corpus sanctificari meruit, nec ipsi corpori aufert sanctitatem uiolentia libidinis alienae, quam seruat perseuerantia continentiae suae.",
+      "spans": []
+    },
+    {
+      "text": "An uero si aliqua femina mente corrupta uiolatoque proposito, quod Deo uouerat, pergat uitianda ad deceptorem suum, ad hoc eam pergentem sanctam uel corpore dicimus, ea sanctitate animi, per quam corpus sanctificabatur, amissa atque destructa?",
+      "spans": []
+    },
+    {
+      "text": "Absit hic error et hinc potius admoneamur ita non amitti corporis sanctitatem manente animi sanctitate etiam corpore oppresso, sicut amittitur et corporis sanctitas uiolata animi sanctitate etiam corpore intacto.",
+      "spans": []
+    },
+    {
+      "text": "Quam ob rem non habet quod in se morte spontanea puniat femina sine ulla sua consensione uiolenter oppressa et alieno conpressa peccato;",
+      "spans": []
+    },
+    {
+      "text": "quanto minus antequam hoc fiat!",
+      "spans": []
+    },
+    {
+      "text": "ne admittantur homicidium certum, cum ipsum flagitium, quamuis alienum, adhuc pendet incertum.",
+      "spans": []
+    },
+    {
+      "text": "An forte huic perspicuae rationi, qua dicimus corpore oppresso nequaquam proposito castitatis ulla in malum consensione mutato illius tantum esse flagitium, qui opprimens concubuerit, non illius, quae oppressa concumbenti nulla uoluntate consenserit, contradicere audebunt hi, contra quos feminarum Christianarum in captiuitate oppressarum non tantum mentes, uerum etiam corpora sancta defendimus?",
+      "spans": [
+        {
+          "start": 299,
+          "end": 312,
+          "label": "NORP"
+        }
+      ]
+    },
+    {
+      "text": "Lucretiam certe, matronam nobilem ueteremque Romanam, pudicitiae magnis efferunt laudibus.",
+      "spans": [
+        {
+          "start": 0,
+          "end": 9,
+          "label": "PERSON"
+        },
+        {
+          "start": 45,
+          "end": 52,
+          "label": "NORP"
+        }
+      ]
+    },
+    {
+      "text": "Huius corpore cum uiolenter oppresso Tarquinii regis filius libidinose potitus esset, illa scelus improbissimi iuuenis marito Collatino et propinquo Bruto, uiris clarissimis et fortissimis, indicauit eosque ad uindicatam constrinxit.",
+      "spans": [
+        {
+          "start": 37,
+          "end": 46,
+          "label": "PERSON"
+        },
+        {
+          "start": 126,
+          "end": 135,
+          "label": "PERSON"
+        },
+        {
+          "start": 149,
+          "end": 154,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Deinde foedi in se commissi aegra atque inpatiens e peremit.",
+      "spans": []
+    },
+    {
+      "text": "Quid dicemus?",
+      "spans": []
+    },
+    {
+      "text": "Adultera haec an casta iudicanda est?",
+      "spans": []
+    },
+    {
+      "text": "Quis in hac controuersia laborandum putauerit?",
+      "spans": []
+    },
+    {
+      "text": "Egregie quidam ex hoc ueraciterque declamans ait: \"Mirabile dictu, duo fuerunt et adulterium unus admisit.",
+      "spans": []
+    },
+    {
+      "text": "\" Splendide atque uerissime.",
+      "spans": []
+    },
+    {
+      "text": "Intuens enim in duorum corporum commixtione unius inquinatissimam cupiditatem, alterius castissimam uoluntatem, et non quid coniunctione membrorum, sed quid animorum diuersitate ageretur adtendens:",
+      "spans": []
+    },
+    {
+      "text": "\"Duo, inquit, fuerunt, et adulterium unus admisit.",
+      "spans": []
+    },
+    {
+      "text": "\" Sed quid est hoc, quod in eam grauius uindicatur, quae adulterium non admisit?",
+      "spans": []
+    },
+    {
+      "text": "Nam ille patria cum patre pulsus est, haec summo est mactata supplicio.",
+      "spans": []
+    },
+    {
+      "text": "Si non est illa inpudicitia qua inuita opprimitur, non est haec iustitia qua casta punitur.",
+      "spans": []
+    },
+    {
+      "text": "Vos appello, leges iudicesque Romani.",
+      "spans": [
+        {
+          "start": 30,
+          "end": 36,
+          "label": "NORP"
+        }
+      ]
+    },
+    {
+      "text": "Nempe post perpetrata facinora nec quemquam scelestum indemnatum inpune uoluistis occidi.",
+      "spans": []
+    },
+    {
+      "text": "Si ergo ad uestrum iudicium quisquam deferret hoc crimen uobisque probaretur non solum indemnatam, uerum etiam castam et innocentem interfectam esse mulierem, nonne eum, qui id fecisset, seueritate congrua plecteretis?",
+      "spans": []
+    },
+    {
+      "text": "hoc fecit illa Lucretia;",
+      "spans": [
+        {
+          "start": 15,
+          "end": 23,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "illa, illa sic praedicata Lucretia innocentem, castam, uim perpessam Lucretiam insuper interemit.",
+      "spans": [
+        {
+          "start": 26,
+          "end": 34,
+          "label": "PERSON"
+        },
+        {
+          "start": 69,
+          "end": 78,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Proferte sententiam.",
+      "spans": []
+    },
+    {
+      "text": "Quod si propterea non potestis, quia non adstat quam punire possitis, cur interfectricem innocentis et castae tanta praedicatione laudatis?",
+      "spans": []
+    },
+    {
+      "text": "Quam certe apud infernos iudices etiam tales, quales poetarum uestrorum carminibus cantitantur, nulla ratione defenditis, constitutam scilicet inter illos, qui sibi letum Insontes peperere manu lucemque perosi Proiecere animas;",
+      "spans": []
+    },
+    {
+      "text": "cui ad superna redire cupienti Fas obstat, tristisque palus inamabilis undae Adligat.",
+      "spans": []
+    },
+    {
+      "text": "An forte ideo ibi non est, quia non insontem, sed male sibi consciam se peremit?",
+      "spans": []
+    },
+    {
+      "text": "Quid si enim (quod ipsa tantummodo nosse poterat) quamuis iuueni uiolenter inruenti etiam sua libidine inlecta consensit idque in se puniens ita doluit, ut morte putaret expiandum?",
+      "spans": []
+    },
+    {
+      "text": "Quamquam ne sic quidem se occidere debuit, si fructuosam posset apud deos falsos agere paenitentiam.",
+      "spans": []
+    },
+    {
+      "text": "Verum tamen si forte ita est falsumque est illud, quod duo fuerunt et adulterium unus admisit, sed potius ambo adulterium commiserunt, unus manifesta inuasione, altera latente consensione:",
+      "spans": []
+    },
+    {
+      "text": "non se occidit insontem, et ideo potest a litteratis eius defensoribus dici non esse apud inferos inter illos, \"qui sibi letum insontes peperere manu.",
+      "spans": []
+    },
+    {
+      "text": "\" Sed ita haec causa ex utroque latere coartatur, ut, si extenuatur homicidium, adulterium confirmetur;",
+      "spans": []
+    },
+    {
+      "text": "si purgatur adulterium, homicidium cumuletur;",
+      "spans": []
+    },
+    {
+      "text": "nec omnino inuenitur exitus, ubi dicitur:",
+      "spans": []
+    },
+    {
+      "text": "\"Si adulterata, cur laudata;",
+      "spans": []
+    },
+    {
+      "text": "si pudica, cur occisa?",
+      "spans": []
+    },
+    {
+      "text": "\" Nobis tamen in hoc tam nobili feminae huius exemplo ad istos refutandos, qui Christianis feminis in captiuitate compressis alieni ab omni cogitatione sanctitatis insultant, sufficit quod in praeclaris eius laudibus dictum est:",
+      "spans": [
+        {
+          "start": 79,
+          "end": 90,
+          "label": "NORP"
+        }
+      ]
+    },
+    {
+      "text": "\"Duo fuerunt et adulterium unus admisit.",
+      "spans": []
+    },
+    {
+      "text": "\" Talis enim ab eis Lucretia magis credita est, quae se nullo adulterino potuerit maculare consensu.",
+      "spans": [
+        {
+          "start": 20,
+          "end": 28,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Quod ergo se ipsam, quoniam adulterum pertulit, etiam non adultera occidit, non est pudicitiae caritas, sed pudoris infirmitas.",
+      "spans": []
+    },
+    {
+      "text": "Puduit enim eam turpitudinis alienae in se commissae, etiamsi non secum, et Romana mulier, laudis auida nimium, uerita est ne putaretur, quod uiolenter est passa cum uiueret, libenter passa si uiueret.",
+      "spans": [
+        {
+          "start": 76,
+          "end": 82,
+          "label": "NORP"
+        }
+      ]
+    },
+    {
+      "text": "Unde ad oculos hominum testem mentis suae illam poenam adhibendam putauit, quibus conscientiam demonstrare non potuit.",
+      "spans": []
+    },
+    {
+      "text": "Sociam quippe facti se credi erubuit, si, quod alius in ea fecerat turpiter, ferret ipsa patienter.",
+      "spans": []
+    },
+    {
+      "text": "Non hoc fecerunt feminae Christianae, quae passae similia uiuunt tamen nec in se ultae sunt crimen alienum, ne aliorum sceleribus adderent sua, si, quoniam hostes in eis concupiscendo stupra commiserant, illae in se ipsis homicidia erubescendo commiteerent.",
+      "spans": [
+        {
+          "start": 25,
+          "end": 36,
+          "label": "NORP"
+        }
+      ]
+    },
+    {
+      "text": "Habent quippe intus gloriam castitatis, testimonium conscientiae;",
+      "spans": []
+    },
+    {
+      "text": "habent autem coram oculis Dei sui nec requirunt amplius, ubi quid recte faciant non habent amplius, ne deuient ab auctoriate legis diuinae, cum male deuitant offensionem suspicionis humanae.",
+      "spans": []
+    },
+    {
+      "text": "Neque enim frustra in sanctis canonicis libris nusquam nobis diuinitus praeceptum permissumue reperiri potest, ut uel ipsius adipiscendae inmortalitatis uel ullius cauendi carendiue mali causa nobismet ipsis necem inferamus.",
+      "spans": []
+    },
+    {
+      "text": "Nam et prohibitos nos esse intellegendum est, ubi lex ait:",
+      "spans": []
+    },
+    {
+      "text": "Non occides, praesertim quia non addidit:",
+      "spans": []
+    },
+    {
+      "text": "\"proximum tuum\", sicut falsum testimonium cum uetaret:",
+      "spans": []
+    },
+    {
+      "text": "Falsum, inquit, testimonium non dices aduersus proximum tuum.",
+      "spans": []
+    },
+    {
+      "text": "Nec ideo tamen si aduersus se ipsum quisquam falsum testimonium dixerit, ab hoc crimine se putauerit alienum, quoniam regulam diligendi proximum a semet ipso dilector accepit, quando quidem scriptum est:",
+      "spans": []
+    },
+    {
+      "text": "Diliges proximum tuum tamquam te ipsum.",
+      "spans": []
+    },
+    {
+      "text": "Porro si falsi testimonii non minus reus est qui de se ipso falsum fatetur, quam si aduersus proximum hoc faceret, cum in eo praecepto, quo falsum testimonium prohibetur, aduersus proximum prohibeatur possitque non recte intellegentibus uideri non esse prohibitum, ut aduersus se ipsum quisque falsus testis adsistat:",
+      "spans": []
+    },
+    {
+      "text": "quanto magis intellegendum est non licere homini se ipsum occidere, cum in eo, quod scriptum est:",
+      "spans": []
+    },
+    {
+      "text": "Non occides, nihilo deinde addito nullus, nec ipse utique, cui praecipitur, intellegatur exceptus!",
+      "spans": []
+    },
+    {
+      "text": "Unde quidam hoc praeceptum etiam in bestias ac pecora conantur extendere, ut ex hoc nullum etiam illorum liceat occidere.",
+      "spans": []
+    },
+    {
+      "text": "Cur non ergo et herbas et quidquid humo radicitus alitur ac figitur?",
+      "spans": []
+    },
+    {
+      "text": "Nam et hoc genus rerum, quamuis non sentiat, dicitur uiuere ac per hoc potest et mori, proinde etiam, cum uis adhibetur, occidi.",
+      "spans": []
+    },
+    {
+      "text": "Unde et apostolus, cum de huius modi seminibus loqueretur:",
+      "spans": []
+    },
+    {
+      "text": "Tu, inquit, quod seminas non uiuificatur, nisi moriatur;",
+      "spans": []
+    },
+    {
+      "text": "et in psalmo scriptum est:",
+      "spans": []
+    },
+    {
+      "text": "Occidit uites eorum in grandine.",
+      "spans": []
+    },
+    {
+      "text": "Num igitur ob hoc, cum audimus:",
+      "spans": []
+    },
+    {
+      "text": "Non occides, uirgultum uellere nefas ducimus et Manichaeorum errori insanissime adquescimus?",
+      "spans": [
+        {
+          "start": 48,
+          "end": 60,
+          "label": "NORP"
+        }
+      ]
+    },
+    {
+      "text": "His igitur deliramentis remotis cum legimus:",
+      "spans": []
+    },
+    {
+      "text": "Non occides, si propterea non accipimus hoc dictum de fructecti esse, quia nullus eis sensus est, nec de inrationalibus animantibus, uolatilibus natatilibus, ambulatilibus reptilibus, quia nulla nobis ratione sociantur, quam non eis datum est nobiscum habere communem (unde iustissima ordinatione creatoris et uita et mors eorum nostris usibus subditur):",
+      "spans": []
+    },
+    {
+      "text": "restat ut de homine intellegamus, quod dictum est:",
+      "spans": []
+    },
+    {
+      "text": "Non occides, nec alterum ergo nec te.",
+      "spans": []
+    },
+    {
+      "text": "Neque enim qui se occidit aliud quam hominem occidit.",
+      "spans": []
+    },
+    {
+      "text": "Quasdam uero exceptiones eadem ipsa diuina fecit auctoritas, ut non liceat hominem occidi.",
+      "spans": []
+    },
+    {
+      "text": "Sed his exceptis, quos Deus occidi iubet siue data lege siue ad personam pro tempore expressa iussione, (non autem ipse occidit, qui ministerium debet iubenti, sicut adminiculum gladius utenti;",
+      "spans": []
+    },
+    {
+      "text": "et ideo nequaquam contra hoc praeceptum fecerunt, quo dictum est:",
+      "spans": []
+    },
+    {
+      "text": "Non occides, qui Deo auctore bella gesserunt aut personam gerentes publicae potestatis secundum eius leges, hoc est iustissimae rationis imperium, sceleratos morte punierunt;",
+      "spans": []
+    },
+    {
+      "text": "et Abraham non solum non est culpatus crudelitatis crimine, uerum etiam laudatus est nomine pietatis, quod uoluit filium nequaquam scelerate, sed oboedienter occidere;",
+      "spans": [
+        {
+          "start": 3,
+          "end": 10,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "et merito quaeritur utrum pro iussu Dei sit habendum, quod lephte filiam, quae patri occurrit, occidit, cum id se uouisset immolaturum Deo, quod ei redeunti de proelio uictori primitus occurrisset;",
+      "spans": []
+    },
+    {
+      "text": "nec Samson aliter excusatur, quod se ipsum cum hostibus ruina domus oppressit, nisi quia Spiritus latenter hoc iusserat, qui per illum miracula faciebat) -- his igitur exceptis, quos uel lex iusta generaliter uel ipse fons iustitiae Deus specialiter occidi iubet, quisquis hominem uel se ipsum uel quemlibet occiderit, homicidii crimine innectitur.",
+      "spans": [
+        {
+          "start": 4,
+          "end": 10,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Et quicumque hoc in se ipsis perpetrauerunt, animi magnitudine fortasse mirandi, non sapientiae sanitate laudandi sunt.",
+      "spans": []
+    },
+    {
+      "text": "Quamquam si rationem diligentius consulas, ne ipsa quidem animi magnitudo recte nominabitur, ubi quisque non ualendo tolerare uel quaeque aspera uel aliena peccata se ipse interemerit.",
+      "spans": []
+    },
+    {
+      "text": "Magis enim mens infirma deprehenditur, quae ferre non potest uel duram sui corporis seruitutem uel stultam uulgi opinionem, maiorque animus merito dicendus est, qui uitam aerumnosam magis potest ferre quam fugere et humanum iudicium maximeque uulgare, quod plerumque caligine erroris inuoluitur, prae conscientiae luce ac puritate contemnere.",
+      "spans": []
+    },
+    {
+      "text": "Quam ob rem si magno animo fieri putandum est, cum sibi homo ingerit mortem, ille potius Theombrotus in hac animi magnitudine reperitur, quem ferunt lecto Platonis libro, ubi de inmortalitate animae disputauit, se praecipitem dedisse de muro atque ita ex hac uita emigrasse ad eam, quam credidit esse meliorem.",
+      "spans": [
+        {
+          "start": 89,
+          "end": 100,
+          "label": "PERSON"
+        },
+        {
+          "start": 155,
+          "end": 163,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Nihil enim urguebat aut calamitatis aut criminis seu uerum seu falsum, quod non ualendo ferre se auferret;",
+      "spans": []
+    },
+    {
+      "text": "sed ad capessendam mortem atque <ad> huius uitae suauia uincla rumpenda sola adfuit animi magnitudo.",
+      "spans": []
+    },
+    {
+      "text": "Quod tamen magne potius factum esse quam bene testis ei esse potuit Plato ipse, quem legerat, qui profecto id praecipue potissimumque fecisset uel etiam praecepisset, nisi ea mente, qua inmortalitatem animae uidit, nequaquam faciendum, quin etiam prohibendum esse iudicasset.",
+      "spans": [
+        {
+          "start": 68,
+          "end": 73,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "At enim multi se interemerunt, ne in manus hostium peruenirent.",
+      "spans": []
+    },
+    {
+      "text": "Non modo quaerimus utrum sit factum, sed utrum fuerit faciendum.",
+      "spans": []
+    },
+    {
+      "text": "Sana quippe ratio etiam exemplis anteponenda est, cui quidem et exempla concordant, sed illa, quae tanto digniora sunt imitatione, quanto excellentiora pietate.",
+      "spans": []
+    },
+    {
+      "text": "Non fecerunt patriarchae, non prophetae, non apostoli, quia et ipse Dominus Christus, quando eos, si persecutionem paterentur, fugere admonuit de ciuitate in ciuitatem, potuit admonere ut sibi manus inferrent, ne in manus persequentium peruenirent.",
+      "spans": [
+        {
+          "start": 76,
+          "end": 84,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Porro si hoc ille non iussit aut monuit, ut eo modo sui ex hac uita emigrarent, quibus migrantibus mansiones aeternas praeparaturum esse se promisit, quaelibet exempla proponant gentes, quae ignorant Deum, manifestum est hoc non licere colentibus unum uerum Deum.",
+      "spans": []
+    },
+    {
+      "text": "Sed tamen etiam illi praeter Lucretiam, de qua supra satis quod uidebatur diximus, non facile reperiunt de cuius auctoritate praescribant, nisi illum Catonem, qui se Vticae occidit;",
+      "spans": [
+        {
+          "start": 29,
+          "end": 38,
+          "label": "PERSON"
+        },
+        {
+          "start": 150,
+          "end": 157,
+          "label": "PERSON"
+        },
+        {
+          "start": 166,
+          "end": 172,
+          "label": "LOC"
+        }
+      ]
+    },
+    {
+      "text": "non quia solus id fecit, sed quia uir doctus et probus habebatur, ut merito putetur etiam recte fieri potuisse uel posse quod fecit.",
+      "spans": []
+    },
+    {
+      "text": "De cuius facto quid potissimum dicam, nisi quod amici eius etiam docti quidam uiri, qui hoc fieri prudentius dissuadebant, inbecillioris quam fortioris animi facinus esse censuerunt, quo demonstraretur non honestas turpia praecauens, sed infirmitas aduersa non sustinens?",
+      "spans": []
+    },
+    {
+      "text": "Hoc et ipse Cato in suo carissimo filio iudicauit.",
+      "spans": [
+        {
+          "start": 12,
+          "end": 16,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Nam si turpe erat sub uictoria Caesaris uiuere, cur auctor huius turpitudinis filio fuit, quem de Caesaris benignitate omnia sperare praecepit?",
+      "spans": [
+        {
+          "start": 31,
+          "end": 39,
+          "label": "PERSON"
+        },
+        {
+          "start": 98,
+          "end": 106,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Cur non et illum secum coegit ad mortem?",
+      "spans": []
+    },
+    {
+      "text": "Nam si eum filium, qui contra imperium in hostem pugnauerat, etiam uictorem laudabiliter Torquatus occidit, cur uictus uicto filio pepercit Cato, qui non pepercit sibi?",
+      "spans": [
+        {
+          "start": 89,
+          "end": 98,
+          "label": "PERSON"
+        },
+        {
+          "start": 140,
+          "end": 144,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "An turpius erat contra imperium esse uictorem, quam contra decus ferre uictorem?",
+      "spans": []
+    },
+    {
+      "text": "Nullo modo igitur Cato turpe esse iudicauit sub uictore Caesare uiuere;",
+      "spans": [
+        {
+          "start": 18,
+          "end": 22,
+          "label": "PERSON"
+        },
+        {
+          "start": 56,
+          "end": 63,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "alioquin ab hac turpitudine paterno ferro filium liberaret.",
+      "spans": []
+    },
+    {
+      "text": "Quid ergo, nisi quod filium quantum amauit, cui parci a Caesare et sperauit et uoluit, tantum gloriae ipsius Caesaris, ne ab illo etiam sibi parceretur, ut ipse Caesar dixisse fertur, inuidit, ut aliquid nos mitius dicamus, erubuit?",
+      "spans": [
+        {
+          "start": 56,
+          "end": 63,
+          "label": "PERSON"
+        },
+        {
+          "start": 109,
+          "end": 117,
+          "label": "PERSON"
+        },
+        {
+          "start": 161,
+          "end": 167,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Nolunt autem isti, contra quos agimus, ut sanctum uirum Iob, qui tam horrenda mala in sua carne perpeti maluit quam inlata sibi morte omnibus carere cruciatibus, uel alios sanctos ex litteris nostris summa auctoritate celsissimis fideque dignissimis, qui captiuitatem dominationemque hostium ferre quam sibi necem inferre maluerunt, Catoni praeferamus;",
+      "spans": [
+        {
+          "start": 56,
+          "end": 59,
+          "label": "PERSON"
+        },
+        {
+          "start": 333,
+          "end": 339,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "sed ex litteris eorum eundem illum Marco Catoni Marcum Regulum praeferam.",
+      "spans": [
+        {
+          "start": 35,
+          "end": 47,
+          "label": "PERSON"
+        },
+        {
+          "start": 48,
+          "end": 62,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Cato enim numquam Caesarem uicerat, cui uictus dedignatus est subici et, ne subiceretur, a se ipso elegit occidi:",
+      "spans": [
+        {
+          "start": 0,
+          "end": 4,
+          "label": "PERSON"
+        },
+        {
+          "start": 18,
+          "end": 26,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Regulus autem Poenos iam uicerat imperioque Romano Romanus imperator non ex ciuibus dolendam, sed ex hostibus laudandam uictoriam reportauerat;",
+      "spans": [
+        {
+          "start": 0,
+          "end": 7,
+          "label": "PERSON"
+        },
+        {
+          "start": 44,
+          "end": 50,
+          "label": "NORP"
+        },
+        {
+          "start": 51,
+          "end": 58,
+          "label": "NORP"
+        }
+      ]
+    },
+    {
+      "text": "ab eis tamen postea uictus maluit eos ferre seruiendo quam eis se auferre moriendo.",
+      "spans": []
+    },
+    {
+      "text": "Proinde seruauit et sub Carthaginiensium dominatione patientiam et in Romanorum dilectione constantiam, nec uictum auferens corpus ab hostibus nec inuictum animum a ciuibus.",
+      "spans": [
+        {
+          "start": 24,
+          "end": 40,
+          "label": "NORP"
+        },
+        {
+          "start": 70,
+          "end": 79,
+          "label": "NORP"
+        }
+      ]
+    },
+    {
+      "text": "Nec quod se occidere noluit, uitae huius amore fecit.",
+      "spans": []
+    },
+    {
+      "text": "Hoc probauit, cum causa promissi iurisque iurandi ad eosdem hostes, quos grauius in senatu uerbis quam <in> bello armis offenderat, sine ulla dubitatione remeauit.",
+      "spans": []
+    },
+    {
+      "text": "Tantus itaque uitae huius contemptor, cum saeuientibus hostibus per quaslibet poenas eam finire quam se ipse perimere maluit, magnum scelus esse, si se homo interimat, procul dubio iudicauit.",
+      "spans": []
+    },
+    {
+      "text": "Inter omnes suos laudabiles et uirtutis insignibus inlustres uiros non proferunt Romani meliorem, quem neque felicitas corruperit, nam in tanta uictoria mansit pauperrimus;",
+      "spans": [
+        {
+          "start": 81,
+          "end": 87,
+          "label": "NORP"
+        }
+      ]
+    },
+    {
+      "text": "nec infelicitas fregerit, nam ad tanta exitia reuertit intrepidus.",
+      "spans": []
+    },
+    {
+      "text": "Porro si fortissimi et praeclarissimi uiri terrenae patriae defensores deorumque licet falsorum, non tamen fallaces cultores, sed ueracissimi etiam iuratores, qui hostes uictos more ac iure belli ferire potuerunt, hi ab hostibus uicti se ipsos ferire noluerunt et, cum mortem minime formidarent, uictores tamen dominos ferre quam eam sibi inferre maluerunt:",
+      "spans": []
+    },
+    {
+      "text": "quanto magis Christiani, uerum Deum colentes et supernae patriae suspirantes, ab hoc facinore temperabunt, si eos diuina dispositio uel probandos uel emendandos ad tempus hostibus subiugauerit, quos in illa humilitate non deserit, qui propter eos tam humiliter altissimus uenit, praesertim quos nullius militaris potestatis uel talis militiae iura constringunt ipsum hostem ferire superatum.",
+      "spans": [
+        {
+          "start": 13,
+          "end": 23,
+          "label": "NORP"
+        }
+      ]
+    },
+    {
+      "text": "Quis ergo tam malus error obrepit, ut homo se occidat, uel quia in eum peccauit, uel ne in eum peccet inimicus, cum uel peccatorem uel peccaturum ipsum occidere non audeat inimicum?",
+      "spans": []
+    },
+    {
+      "text": "At enim timendum est et cauendum, ne libidini subditum corpus inlecebrosissima uoluptate animum adliciat consentire peccato.",
+      "spans": []
+    },
+    {
+      "text": "Proinde, inquiunt, non iam propter alienum, sed propter suum peccatum, antequam hoc quisque committat, se debet occidere.",
+      "spans": []
+    },
+    {
+      "text": "Nullo modo quidem hoc faciet animus, ut consentiat libidini carnis suae aliena libidine concitatae, qui Deo potius eiusque sapientiae quam corpori eiusque concupiscentiae subiectus est.",
+      "spans": []
+    },
+    {
+      "text": "Verum tamen si detestabile facinus et damnabile scelus est etiam se ipsum hominem occidere, sicut ueritas manifesta proclamat, quis ita desipiat, ut dicat:",
+      "spans": []
+    },
+    {
+      "text": "\"Iam nunc peccemus, ne postea forte peccemus;",
+      "spans": []
+    },
+    {
+      "text": "iam nc perpetremus homicidium, ne postea forte incidamus in adulterium\"?",
+      "spans": []
+    },
+    {
+      "text": "Nonne si tantum dominatur iniquitas, ut non innocentia, sed peccata potius eligantur, satius est incertum de futuro adulterium quam certum de praesenti homicidium?",
+      "spans": []
+    },
+    {
+      "text": "Nonne satius est flagitium committere, quod paenitendo sanetur, quam tale facinus, ubi locus salubris paenitentiae non relinquitur?",
+      "spans": []
+    },
+    {
+      "text": "Haec dixi propter eos uel eas, quae non alieni, sed proprii peccati deuitandi causa, ne sub alterius libidine etiam excitatae suae forte consentiant, uim sibi, qua moriantur, inferendam putant.",
+      "spans": []
+    },
+    {
+      "text": "Ceterum absit a mente Christiana, quae Deo suo fidit in eoque spe posita eius adiutorio nititur, absit, inquam, ut mens talis quibuslibet carnis uoluptatibus ad consensum turpitudinis cedat.",
+      "spans": [
+        {
+          "start": 22,
+          "end": 32,
+          "label": "NORP"
+        }
+      ]
+    },
+    {
+      "text": "Quod si illa concupiscentialis inoboedientia, quae adhuc in membris moribundis habitat, praeter nostrae uoluntatis legem quasi lege sua mouetur, quanto magis absque culpa est in corpore non consentientis, si absque culpa est in corpore dormientis!",
+      "spans": []
+    },
+    {
+      "text": "Sed quaedam, inquiunt, sanctae feminae tempore persecutionis, ut insectatores suae pudicitiae deuitarent, in rapturum atque necaturum se fluuium proiecerunt eoque modo defunctae sunt earumque martyria in catholica ecclesia ueneratione celeberrima frequentantur.",
+      "spans": []
+    },
+    {
+      "text": "De his nihil temere audeo iudicare.",
+      "spans": []
+    },
+    {
+      "text": "Vtrum enim ecclesiae aliquibus fide dignis testificationibus, ut earum memoriam sic honoret, diuina persuaserit auctoritas, nescio;",
+      "spans": []
+    },
+    {
+      "text": "et fieri potest ut ita sit.",
+      "spans": []
+    },
+    {
+      "text": "Quid si enim hoc fecerunt, non humanitus deceptae, sed diuinitus iussae, nec errantes, sed oboedientes?",
+      "spans": []
+    },
+    {
+      "text": "sicut de Samsone aliud nobis fas non est credere.",
+      "spans": [
+        {
+          "start": 9,
+          "end": 16,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Cum autem Deus iubet seque iubere sine ullis ambagibus intimat, quis oboedientiam in crimen uocet?",
+      "spans": []
+    },
+    {
+      "text": "quis obsequium pietatis accuset?",
+      "spans": []
+    },
+    {
+      "text": "Sed non ideo sine scelere facit, quisquis Deo filium immolare decreuerit, quia hoc Abraham etiam laudabiliter fecit.",
+      "spans": [
+        {
+          "start": 83,
+          "end": 90,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Nam et miles cum oboediens potestati, sub qualibet legitime constitutus est, hominem occidit, nulla ciuitatis suae lege reus est homicidii, immo, nisi fecerit, reus est imperii deserti atque contempti;",
+      "spans": []
+    },
+    {
+      "text": "quod si sua sponte atque auctoritate fecisset, crimen effusi humani sanguinis incidisset.",
+      "spans": []
+    },
+    {
+      "text": "Itaque unde punitur si fecit iniussus, inde punietur nisi fecerit iussus.",
+      "spans": []
+    },
+    {
+      "text": "Quod si ita est iubente imperatore, quanto magis iubente creatore!",
+      "spans": []
+    },
+    {
+      "text": "Qui ergo audit non licere se occidere, faciat, si iussit cuius non licet iussa contemnere;",
+      "spans": []
+    },
+    {
+      "text": "tantummodo uideat utrum diuina iussio nullo nutet incerto.",
+      "spans": []
+    },
+    {
+      "text": "Nos per aurem conscientiam conuenimus, occultorum nobis iudicium non usurpamus.",
+      "spans": []
+    },
+    {
+      "text": "Nemo scit quid agatur in homine nisi spiritus hominis, qui in ipso est.",
+      "spans": []
+    },
+    {
+      "text": "Hoc dicimus, hoc asserimus, hoc modis omnibus adprobamus, neminem spontaneam mortem sibi inferre debere uelut fugiendo molestias temporales, ne incidat in perpetuas;",
+      "spans": []
+    },
+    {
+      "text": "neminem propter aliena peccata, ne hoc ipso incipiat habere grauissimum proprium, quem non polluebat alienum;",
+      "spans": []
+    },
+    {
+      "text": "neminem propter sua peccata praeterita, propter quae magis hac uita opus est, ut possint paenitendo sanari;",
+      "spans": []
+    },
+    {
+      "text": "neminem uelut desiderio uitae melioris, quae post mortem speratur, quia reos suae mortis melior post mortem uita non suscipit.",
+      "spans": []
+    },
+    {
+      "text": "Restat una causa, de qua dicere coeperam, qua utile putatur, ut se quisque interficiat, scilicet ne in peccatum inruat uel blandiente uoluptate uel dolore saeuiente.",
+      "spans": []
+    },
+    {
+      "text": "Quam causam si uoluerimus admittere, eo usque progressa perueniet, ut hortandi sint homines tunc se potius interimere, cum lauacro sanctae regenerationis abluti uniuersorum remissionem acceperint peccatorum.",
+      "spans": []
+    },
+    {
+      "text": "Tunc enim tempus est cauendi omnia futura peccata, cum sunt omnia deleta praeterita.",
+      "spans": []
+    },
+    {
+      "text": "Quod si morte spontanea recte fit, cur non tunc potissimum fit?",
+      "spans": []
+    },
+    {
+      "text": "Cur baptizatus sibi quisque parcit?",
+      "spans": []
+    },
+    {
+      "text": "Cur liberatum caput tot rursus uitae huius periculis inserit, cum sit facillimae potestatis inlata sibi nece omnia deuitare scriptumque sit:",
+      "spans": []
+    },
+    {
+      "text": "Qui amat periculum, incidet in illud?",
+      "spans": []
+    },
+    {
+      "text": "Cur ergo amantur tot et tanta pericula uel certe, etiamsi non amantur, suscipiuntur, cum manet in hac uita, cui abscedere licitum est?",
+      "spans": []
+    },
+    {
+      "text": "An uero tam insulsa peruersitas cor euertit et a consideratione ueritatis auertit, ut, si se quisque interimere debet, ne unius captiuantis dominatu conruat in peccatum, uiuendum sibi existimet, ut ipsum perferat mundum per omnes horas temptationibus plenum, et talibus, qualis sub uno domino formidatur, et innumerabilibus ceteris, sine quibus haec uita non ducitur?",
+      "spans": []
+    },
+    {
+      "text": "Quid igitur causae est, cur in eis exhortationibus tempora consumamus, quibus baptizatos adloquendo studemus accendere siue ad uirginalem integritatem siue ad continentiam uidualem siue ad ipsam tori coniugalis fidem, cum habeamus meliora et ab omnibus peccandi periculis remota compendia, ut, quibuscumque post remissionem recentissimam peccatorum adripiendam mortem sibique ingerendam persuadere potuerimus, eos ad Dominum saniores purioresque mittamus?",
+      "spans": []
+    },
+    {
+      "text": "Porro si, quisquis hoc adgrediendum et suadendum putat, non dico desipit, sed insanit:",
+      "spans": []
+    },
+    {
+      "text": "qua tandem fronte homini dicit:",
+      "spans": []
+    },
+    {
+      "text": "\"Interfice",
+      "spans": []
+    },
+    {
+      "text": "te, ne paruis tuis peccatis adicias grauius, dum uiuis sub domino barbaris moribus inpudico,\" qui non potest nisi sceleratissime dicere:",
+      "spans": []
+    },
+    {
+      "text": "te peccatis tuis omnibus absolutis, ne rursus talia uel etiam peiora committas, dum uiuis in mundo tot inpuris uoluptatibus inlecebroso, tot nefandis crudelitatibus furioso, tot erroribus et terroribus inimico\"?",
+      "spans": []
+    },
+    {
+      "text": "Hoc quia nefas est dicere, nefas est profecto se occidere.",
+      "spans": []
+    },
+    {
+      "text": "Nam si hoc sponte faciendi ulla causa iusta esse posset, procul dubio iustior quam ista non esset.",
+      "spans": []
+    },
+    {
+      "text": "Quia uero nec ista est, ergo nulla est.",
+      "spans": []
+    },
+    {
+      "text": "Non itaque uobis, o fideles Christi, sit taedio uita uestra, si ludibrio fuit hostibus castitas uestra.",
+      "spans": [
+        {
+          "start": 28,
+          "end": 35,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Habetis magnam ueramque consolationem, si fidam conscientiam retinetis non uos consensisse peccatis eorum, qui in uos peccare permissi sunt.",
+      "spans": []
+    },
+    {
+      "text": "Quod si forte, cur permissi sint, quaeritis, alta quidem est prouidentia creatoris mundi atque rectoris, et inscrowtabilia sunt iudicia eius et inuestigabiles uiae eius..",
+      "spans": []
+    },
+    {
+      "text": "uerum tamen interrogate fideliter animas uestras, ne forte de isto integritatis et continentiae uel pudicitiae bono uos inflatius extulistis et humanis laudibus delectatae in hoc etiam aliquibus inuidistis.",
+      "spans": []
+    },
+    {
+      "text": "Non accuso quod nescio, nec audio quod uobis interrogata uestra corda respondent.",
+      "spans": []
+    },
+    {
+      "text": "Tamen si ita esse responderint, nolite admirari hoc uos amisisse, unde hominibus placere gestistis, illud uobis remansisse, quod ostendi hominibus non potest.",
+      "spans": []
+    },
+    {
+      "text": "Si peccantibus non consensistis, diuinae gratiae, ne amitteretur, diuinum accessit auxilium;",
+      "spans": []
+    },
+    {
+      "text": "humanae gloriae, ne amaretur, humanum successit opprobrium.",
+      "spans": []
+    },
+    {
+      "text": "In utroque consolamini, pusillanimes, illinc probatae hinc castigatae, illinc iustificatae hinc eme atae.",
+      "spans": []
+    },
+    {
+      "text": "Quarum uero corda interrogata respondent numquam se de bono uirginitatis uel uiduitatis uel coniugalis pudicitiae superbisse, sed humilibus consentiendo de dono Dei cum tremore exultasse, nec inuidisse cuiquam paris excellentiam sanctitatis et castitatis, sed humana laude postposita, quae tanto maior deferri solet, quanto est bonum rarius, quod exigit laudem, optasse potius ut amplior earum numerus esset, quam ut ipsae in paucitate amplius eminerent:",
+      "spans": []
+    },
+    {
+      "text": "nec istae, quae tales sunt, si earum quoque aliquas barbarica libido compressit, permissum hoc esse causentur, nec ideo Deum credant ista neglegere, quia permittit quod nemo inpune committit.",
+      "spans": []
+    },
+    {
+      "text": "Quaedam enim ueluti pondera malarum cupiditatum et per occultum praesens diuinum iudicium relaxantur et manifesto ultimo reseruantur.",
+      "spans": []
+    },
+    {
+      "text": "Fortassis autem istae, quae bene sibi sunt consciae non se ex isto castitatis bono cor inflatum extulisse, et tamen uim hostilem in carne perpessae sunt, habebant aliquid latentis infirmitatis, quae posset in superbiae fastum, si hanc humilitatem in uastatione illa euasissent, extolli.",
+      "spans": []
+    },
+    {
+      "text": "Sicut ergo quidam morte rapti sunt, ne malitia mutaret intellectum eorum, ita quiddam ab istis ui raptum est, ne prosperitas mutaret modestiam earum.",
+      "spans": []
+    },
+    {
+      "text": "Vtrisque igitur, quae de carne sua, quod turpem nullius esset perpessa contactum, uel iam superbiebant uel superbire, si nec hostium uiolentia contrectata esset, forsitan poterant, non ablata est castitas, sed humilitas persuasa;",
+      "spans": []
+    },
+    {
+      "text": "illarum tumori succursum est inmanenti, istarum occursum est inminenti.",
+      "spans": []
+    },
+    {
+      "text": "Quamquam et illud non sit tacendum, quod quibusdam, quae ista perpessae sunt, potuit uideri continentiae bonum in bonis corporalibus deputandum et tunc manere, si nullius libidine corpus adtrectaretur;",
+      "spans": []
+    },
+    {
+      "text": "non autem esse positum in solo adiuto diuinitus robore uoluntatis, ut sit sanctum et corpus et spiritus;",
+      "spans": []
+    },
+    {
+      "text": "nec tale bonum esse, quod inuito animo non possit auferri;",
+      "spans": []
+    },
+    {
+      "text": "qui error eis fortasse sublatus est.",
+      "spans": []
+    },
+    {
+      "text": "Cum enim cogitant, qua conscientia Deo seruierint, et fide inconcussa non de illo sentiunt, quod ita sibi seruientes eumque inuocantes deserere ullo modo potuerit, quantumque illi castitas placeat dubitare non possunt, uident esse consequens nequaquam illum fuisse permissurum, ut haec acciderent sanctis suis, si eo modo perire posset sanctitas, quam contulit eis et diligit in eis.",
+      "spans": []
+    },
+    {
+      "text": "Habet itaque omnis familia summi et ueri Dei consolationem suam, non fallacem nec in spe rerum nutantium uel labentium constitutam, uitamque etiam ipsam temporalem minime paenitendam, in qua eruditur ad aeternam, bonisque terrenis tamquam peregrina utitur nec capitur, malis autem aut probatur aut emendatur.",
+      "spans": []
+    },
+    {
+      "text": "Illi uero, qui probitati eius insultant eique dicunt, cum forte in aliqua temporalia mala deuenerit:",
+      "spans": []
+    },
+    {
+      "text": "Vbi est Deus tuus?",
+      "spans": []
+    },
+    {
+      "text": "ipsi dicant, ubi sint dii eorum, cum talia patiuntur, pro quibus euitandis eos uel colunt uel colendos esse contendunt.",
+      "spans": []
+    },
+    {
+      "text": "Nam ista respondet:",
+      "spans": []
+    },
+    {
+      "text": "Deus meus ubique praesens, ubique totus, nusquam inclusus, qui possit adesse secretus, abesse non motus;",
+      "spans": []
+    },
+    {
+      "text": "ille cum me aduersis rebus exagitat, aut merita examinat aut peccata castigat mercedemque mihi aeternam pro toleratis pie malis temporalibus seruat;",
+      "spans": []
+    },
+    {
+      "text": "uos autem qui estis, cum quibus loqui dignum sit saltem de diis uestris, quanto minus de Deo meo, qui terribilis est super omnes deos, quoniam <omnes> dii gentium daemonia, Dominus autem caelos fecit.",
+      "spans": []
+    },
+    {
+      "text": "Si Nasica ille Scipio uester quondam pontifex uiueret, quem sub terrore belli Punici in suscipiendis Phrygiis sacris, cum uir optimus quaereretur, uniuersus senatus elegit, cuius os fortasse non auderetis aspicere, ipse uos ab hac inpudentia cohiberet.",
+      "spans": [
+        {
+          "start": 3,
+          "end": 9,
+          "label": "PERSON"
+        },
+        {
+          "start": 15,
+          "end": 21,
+          "label": "PERSON"
+        },
+        {
+          "start": 78,
+          "end": 84,
+          "label": "NORP"
+        },
+        {
+          "start": 101,
+          "end": 109,
+          "label": "NORP"
+        }
+      ]
+    },
+    {
+      "text": "Cur enim adflicti rebus aduersis de temporibus querimini Christianis, nisi quia uestram luxuriam cupitis habere securam et perditissimis moribus remota omni molestiarum asperitate diffluere?",
+      "spans": [
+        {
+          "start": 57,
+          "end": 68,
+          "label": "NORP"
+        }
+      ]
+    },
+    {
+      "text": "Neque enim propterea cupitis habere pacem et omni genere copiarum abundare, ut his bonis honeste utamini, hoc est modeste sobrie, temperanter pie, sed ut infinita uarietas uoluptatum insanis effusionibus exquiratur, secundisque rebus ea mala oriantur in moribus, quae saeuientibus peiora sunt hostibus.",
+      "spans": []
+    },
+    {
+      "text": "At ille Scipio pontifex maximus uester, ille iudicio totius senatus uir optimus, istam uobis metuens calamitatem nolebat aemulam tunc imperii Romani Carthaginem dirui et decernenti ut dirueretur contradicebat Catoni, timens infirmis animis hostem securitatem et tamquam pupillis ciuibus idoneum tutorem necessarium uidens esse terrorem.",
+      "spans": [
+        {
+          "start": 8,
+          "end": 14,
+          "label": "PERSON"
+        },
+        {
+          "start": 142,
+          "end": 148,
+          "label": "NORP"
+        },
+        {
+          "start": 149,
+          "end": 160,
+          "label": "LOC"
+        },
+        {
+          "start": 209,
+          "end": 215,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Nec eum sententia fefellit:",
+      "spans": []
+    },
+    {
+      "text": "re ipsa probatum est quam uerum diceret.",
+      "spans": []
+    },
+    {
+      "text": "Deleta quippe Carthagine magno scilicet terrore Romanae rei publicae depulso et extincto tanta de rebus prosperis orta mala continuo subsecuta sunt, ut corrupta diruptaque concordia prius saeuis cruentisque seditionibus, deinde mox malarum conexione causarum bellis etiam ciuilibus tantae strages ederentur, tantus sanguis effunderetur, tanta cupiditate proscriptionum ac rapinarum ferueret inmanitas, ut Romani illi, qui uita integriore mala metuebant ab hostibus, perdita integritate uitae crudeliora paterentur a ciuibus;",
+      "spans": [
+        {
+          "start": 14,
+          "end": 24,
+          "label": "LOC"
+        },
+        {
+          "start": 48,
+          "end": 55,
+          "label": "NORP"
+        },
+        {
+          "start": 405,
+          "end": 411,
+          "label": "NORP"
+        }
+      ]
+    },
+    {
+      "text": "eaque ipsa libido dominandi, quae inter alia uitia generis humani meracior inerat uniuerso populo Romano, postea quam in paucis potentioribus uicit, obtritos fatigatosque ceteros etiam iugo seruitutis oppressit.",
+      "spans": [
+        {
+          "start": 98,
+          "end": 104,
+          "label": "NORP"
+        }
+      ]
+    },
+    {
+      "text": "Nam quando illa quiesceret in superbissimis mentibus, donec continuatis honoribus ad potestatem regiam perueniret?",
+      "spans": []
+    },
+    {
+      "text": "Honorum porro continuandorum facultas non esset, nisi ambitio praeualeret.",
+      "spans": []
+    },
+    {
+      "text": "Minime autem praeualeret ambitio, nisi in populo auaritia luxuriaque corrupto.",
+      "spans": []
+    },
+    {
+      "text": "Auarus uero luxuriosusque populus secundis rebus effectus est, quas Nasica ille prouidentissime cauendas esse censebat, quando ciuitatem hostium maximam fortissimam opulentissimam nolebat auferri, ut timore libido premeretur, libido pressa non luxuriaretur luxuriaque cohibita nec auaritia grassaretur;",
+      "spans": [
+        {
+          "start": 68,
+          "end": 74,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "quibus uitiis obseratis ciuitati utilis uirtus floreret et cresceret eique uirtuti libertas congrua permaneret.",
+      "spans": []
+    },
+    {
+      "text": "Hinc etiam erat et ex hac prouidentissima patriae caritate ueniebat, quod idem ipse uester pontifex maximus, a senatu illius temporis (quod saepe dicendum est) electus sine ulla sententiarum discrepantia uir optimus, caueam theatri senatum construere molientem ab hac dispositione et cupiditate compescuit persuasitque oratione grauissima, ne Graecam luxuriam uirilibus patriae moribus paterentur obrepere et ad uirtutem labefactandam eneruandamque Romanam peregrinae consentire nequitiae, tantumque auctoritate ualuit, ut uerbis eius commota senatoria prouidentia etiam subsellia, quibus ad horam congestis in ludorum spectaculo iam uti ciuitas coeperat, deinceps p rohiberet adponi.",
+      "spans": [
+        {
+          "start": 343,
+          "end": 350,
+          "label": "NORP"
+        },
+        {
+          "start": 449,
+          "end": 456,
+          "label": "NORP"
+        }
+      ]
+    },
+    {
+      "text": "Quanto studio iste ab urbe Roma ludos ipsos scaenicos abstulisset, si auctoritati eorum, quos deos putabat, resistere auderet, quos esse noxios daemones non intellegebat aut, si intellegebat, placandos etiam ipse potius quam contemnendos existimabat!",
+      "spans": [
+        {
+          "start": 27,
+          "end": 31,
+          "label": "LOC"
+        }
+      ]
+    },
+    {
+      "text": "Nondum enim fuerat declarata gentibus superna doctrina, quae fide cor mundans ad caelestia uel supercaelestia capessenda humili pietate humanum mutaret affectum et a dominatu superborum daemonum liberaret.",
+      "spans": []
+    },
+    {
+      "text": "Verum tamen scitote, qui ista nescitis et qui uos scire dissimulatis, aduertite, qui aduersus liberatorem a talibus dominis murmuratis:",
+      "spans": []
+    },
+    {
+      "text": "ludi scaenici, spectacula turpitudinum et licentia uanitatum, non hominum uitiis, sed deorum uestrorum iussis Romae instituti sunt.",
+      "spans": [
+        {
+          "start": 110,
+          "end": 115,
+          "label": "LOC"
+        }
+      ]
+    },
+    {
+      "text": "Tolerabilius diuinos honores deferretis illi Scipioni quam deos huius modi coleretis.",
+      "spans": [
+        {
+          "start": 45,
+          "end": 53,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Neque enim erant illi dii suo pontifice meliores.",
+      "spans": []
+    },
+    {
+      "text": "Ecce adtendite, si mens tam diu potatis erroribus ebria uos aliquid sanum cogitare permittit!",
+      "spans": []
+    },
+    {
+      "text": "Dii propter sedandam corporum pestilentiam ludos sibi scaenicos exhiberi iubebant;",
+      "spans": []
+    },
+    {
+      "text": "pontifex autem propter animorum cauendam cauendam pestilentiam ipsam scaenam constitui prohibebat.",
+      "spans": []
+    },
+    {
+      "text": "Si aliqua luce mentis animum corpori praeponitis, eligite quem colatis!",
+      "spans": []
+    },
+    {
+      "text": "Neque enim et illa corporum pestilentia ideo conquieuit, quia populo bellicoso et solis antea ludis circensibus adsueto ludorum scaenicorum delicata subintrauit insania;",
+      "spans": []
+    },
+    {
+      "text": "sed astutia spirituum nefandorum praeuidens illam pestilentiam iam fine debito cessaturam aliam longe grauiorem, qua plurimum gaudet, ex [hac] occasione non corporibus, sed moribus curauit inmittere, quae animos miserorum tantis obcaecauit tenebris, tanta deformitate foedauit, ut etiam modo (quod incredibile forsitan erit, si a nostris posteris audietur) Romana urbe uastata, quos pestile n tia ista possedit atque inde fugientes Carthaginem peruenire potuerunt, in theatris cotidie certatim pro histrionibus insanirent.",
+      "spans": [
+        {
+          "start": 357,
+          "end": 363,
+          "label": "NORP"
+        },
+        {
+          "start": 432,
+          "end": 443,
+          "label": "LOC"
+        }
+      ]
+    },
+    {
+      "text": "O mentes amentes!",
+      "spans": []
+    },
+    {
+      "text": "quis est hic tantus non error, sed furor, ut exitium uestrum, sicut audiuimus, plangentibus orientalibus populis et maximis ciuitatibus in remotissimis terris publicum luctum maeroremque ducentibus uos theatra quaereretis intraretis impleretis et multo insaniora quam fuerant antea faceretis?",
+      "spans": []
+    },
+    {
+      "text": "Hanc animorum labem ac pestem, hanc probitatis et honestatis euersionem uobis Scipio ille metuebat, quando construi theatra prohibebat, quando rebus prosperis uos facile corrumpi atque euerti posse cernebat, quando uos securos esse ab hostili terrore nolebat.",
+      "spans": [
+        {
+          "start": 78,
+          "end": 84,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Neque enim censebat ille felicem esse rem publicam stantibus moenibus, ruentibus moribus.",
+      "spans": []
+    },
+    {
+      "text": "Sed in uobis plus ualuit quod daemones impii seduxerunt, quam quod homines prouidi praecauerunt.",
+      "spans": []
+    },
+    {
+      "text": "Hinc est quod mala, quae facitis, uobis inputari non uultis, mala uero, quae patimini, Christianis temporibus inputatis.",
+      "spans": [
+        {
+          "start": 87,
+          "end": 98,
+          "label": "NORP"
+        }
+      ]
+    },
+    {
+      "text": "Neque enim in uestra securitate pacatam rem publicam, sed luxuriam quaeritis inpunitam, qui deprauati rebus prosperis nec corrigi potuistis aduersis.",
+      "spans": []
+    },
+    {
+      "text": "Volebat uos ille Scipio terreri ab hoste, ne in luxuriam flueretis:",
+      "spans": [
+        {
+          "start": 17,
+          "end": 23,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "nec contriti ab hoste luxuriam repressistis, perdidistis utilitatem calamitatis, et miserrimi facti estis et pessimi permansistis.",
+      "spans": []
+    },
+    {
+      "text": "Et tamen quod uiuitis Dei est, qui uobis parcendo admonet, ut corrigamini paenitendo;",
+      "spans": []
+    },
+    {
+      "text": "qui uobis etiam ingratis praestitit ut uel sub nomine seruorum eius uel in locis martyrum eius hostiles manus euaderetis.",
+      "spans": []
+    },
+    {
+      "text": "Romulus et Remus asylum constituisse perhibentur, quo quisquis confugeret ab omni noxa liber esset, augere quaerentes creandae multitudinem ciuitatis.",
+      "spans": [
+        {
+          "start": 0,
+          "end": 7,
+          "label": "PERSON"
+        },
+        {
+          "start": 11,
+          "end": 16,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Mirandum in honorem Christi processit exemplum.",
+      "spans": [
+        {
+          "start": 20,
+          "end": 27,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Hoc constituerunt euersores Vrbis, quod constituerant antea conditores.",
+      "spans": []
+    },
+    {
+      "text": "Quid autem magnum, si hoc fecerunt illi, ut ciuium suorum numerus suppleretur, quod fecerunt isti, ut suorum hostium numerositas seruaretur?",
+      "spans": []
+    },
+    {
+      "text": "Haec et alia, si qua uberius et commodius potuerit, respondeat inimicis suis redempta familia domini Christi et peregrina ciuitas regis Christi.",
+      "spans": [
+        {
+          "start": 101,
+          "end": 108,
+          "label": "PERSON"
+        },
+        {
+          "start": 136,
+          "end": 143,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Meminerit sane in ipsis inimicis latere ciues futuros, ne infructuosum uel apud ipsos putet, quod, donec perueniat ad confessos, portat infensos;",
+      "spans": []
+    },
+    {
+      "text": "sicut ex illorum numero etiam Dei ciuitas habet secum, quamdiu peregrinatur in mundo, conexos communione sacramentorum, nec secum futuros in aeterna sorte sanctorum, qui partim in occulto, partim in aperto sunt, qui etiam cum ipsis inimicis aduersus Deum, cuius sacramentum gerunt, murmurare non dubitant, modo cum illis theatra, modo ecclesias nobiscum replentes.",
+      "spans": []
+    },
+    {
+      "text": "De correctione autem quorundam etiam talium multo minus est desperandum, si apud apertissimos aduersarios praedestinati amici latitant, adhuc ignoti etiam sibi.",
+      "spans": []
+    },
+    {
+      "text": "Perplexae quippe sunt istae duae ciuitates in hoc saeculo inuicemque permixtae, donec ultimo iudicio dirimantur;",
+      "spans": []
+    },
+    {
+      "text": "de quarum exortu et procursu et debitis finibus quod dicendum arbitror, quantum diuinitus adiuuabor, expediam propter gloriam ciuitatis Dei, quae alienis a contrario comparatis clarius eminebit.",
+      "spans": []
+    },
+    {
+      "text": "Sed adhuc mihi quaedam dicenda sunt aduersus eos, qui Romanae rei publicae clades in religionem nostram referunt, qua diis suis sacrificare prohibentur.",
+      "spans": [
+        {
+          "start": 54,
+          "end": 61,
+          "label": "NORP"
+        }
+      ]
+    },
+    {
+      "text": "Commemoranda sunt enim quae et quanta occurrere poterunt uel satis esse uidebuntur mala, quae illa ciuitas pertulit uel ad eius imperium prouinciae pertinentes, antequam eorum sacrificia prohibita fuissent;",
+      "spans": []
+    },
+    {
+      "text": "quae omnia procul dubio nobis tribuerent, si iam uel illis clareret nostra religio, uel ita eos a sacris sacrilegis prohiberet.",
+      "spans": []
+    },
+    {
+      "text": "Deinde monstrandum est, quos eorum mores et quam ob causam Deus uerus ad augendum imperium adiuuare dignatus est, in cuius potestate sunt regna omnia, quamque nihil eos adiuuerint hi, quos deos putant, et potius quantum decipiendo et fallendo nocuerint.",
+      "spans": []
+    },
+    {
+      "text": "Postremo aduersus eos dicetur, qui manifestissimis documentis confutati atque conuicti conantur asserere non propter uitae praesentis utilitatem, sed propter eam, quae post mortem futura est, colendos deos.",
+      "spans": []
+    },
+    {
+      "text": "Quae, nisi fallor, quaestio multo erit operosior et subtiliore disputatione dignior, ut et contra philosophos in ea disseratur, non quoslibet, sed qui apud illos excellentissima gloria clari sunt et nobiscum multa sentiunt, et de animae inmortalitate et quod Deus uerus mundum condiderit et de prouidentia eius, qua uniuersum quod condidit regit.",
+      "spans": []
+    },
+    {
+      "text": "Sed quoniam et ipsi in illis, quae contra nos sentiunt, refellendi sunt, deesse huic officio non debemus, ut refutatis impiis contradictionibus pro uiribus, quas Deus inpertiet, asseramus ciuitatem Dei ueramque pietatem et Dei cultum, in quo uno ueraciter sempiterna beatitudo promittitur.",
+      "spans": []
+    },
+    {
+      "text": "Hic itaque modus sit huius uoluminis, ut deinceps disposita ab alio sumamus exordio.",
+      "spans": []
+    }
+  ],
+  "report": {
+    "tag_counts": {
+      "PERSON": 113,
+      "LOC": 25,
+      "NORP": 61
+    },
+    "tag_inventories": {
+      "PERSON": [
+        "<Christus",
+        "Abrahae",
+        "Abraham",
+        "Aeneas",
+        "Aeolo",
+        "Arionem Methymnaeum",
+        "Bruto",
+        "Caesar",
+        "Caesare",
+        "Caesarem",
+        "Caesaris",
+        "Catilina",
+        "Cato",
+        "Catonem",
+        "Catoni",
+        "Christi",
+        "Christiani",
+        "Christo",
+        "Christum",
+        "Christus",
+        "Collatino",
+        "Daniel",
+        "Diomedes",
+        "Fabius",
+        "Horatii",
+        "Iob",
+        "Iona",
+        "Iouis",
+        "Iudae",
+        "Iudas",
+        "Iuno",
+        "Iunonis",
+        "Lucretia",
+        "Lucretiam",
+        "M. Regulum",
+        "Marco Catoni",
+        "Marcum Regulum",
+        "Marcus Marcellus",
+        "Marcus Regulus",
+        "Minerua",
+        "Mineruam",
+        "Nasica",
+        "Panthus Othryades",
+        "Paulinus",
+        "Phoebi",
+        "Phoenix",
+        "Plato",
+        "Platonis",
+        "Priamum",
+        "Regulo",
+        "Regulum",
+        "Regulus",
+        "Remus",
+        "Romulus",
+        "Sallustius",
+        "Samson",
+        "Samsone",
+        "Scipio",
+        "Scipioni",
+        "Tarquinii",
+        "Theombrotus",
+        "Tobis",
+        "Torquatus",
+        "Vergilium",
+        "Vergilius",
+        "Vlixes"
+      ],
+      "LOC": [
+        "Carthagine",
+        "Carthaginem",
+        "Hierusalem",
+        "Ilium",
+        "Italiam",
+        "Nolam",
+        "Roma",
+        "Romae",
+        "Romam",
+        "Syracusas",
+        "Tarentinae",
+        "Troia",
+        "Troiam",
+        "Tyrrhenum",
+        "Vticae"
+      ],
+      "NORP": [
+        "Carthaginienses",
+        "Carthaginiensium",
+        "Christiana",
+        "Christianae",
+        "Christianarum",
+        "Christiani",
+        "Christianis",
+        "Christiano",
+        "Christianorum",
+        "Christianos",
+        "Christianum",
+        "Danaum",
+        "Graecam",
+        "Graeci",
+        "Graecorum",
+        "Graeculorum",
+        "Manichaeorum",
+        "Phrygiis",
+        "Punici",
+        "Romana",
+        "Romanae",
+        "Romanam",
+        "Romanarum",
+        "Romani",
+        "Romanis",
+        "Romano",
+        "Romanorum",
+        "Romanos",
+        "Romanus",
+        "Tarentinis",
+        "Troianis",
+        "Troianos"
+      ]
+    }
+  }
+}

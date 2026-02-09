@@ -1,0 +1,3418 @@
+{
+  "metadata": {
+    "title": "Liber Genesis",
+    "source": "https://github.com/cltk/lat_text_tesserae/blob/master/texts/jerome.vulgate.part.1.genesis.tess",
+    "latincy-ner-project": "ot",
+    "latincy-ner-project-subset": "genesis-dev",
+    "license": "https://creativecommons.org/public-domain/cc0/",
+    "split_from": "ot-genesis.json"
+  },
+  "annotation": {
+    "spacy_model": "la_core_web_lg",
+    "spacy_model_version": "3.8.0",
+    "tagset": [
+      "PERSON",
+      "LOC",
+      "NORP"
+    ],
+    "annotators": [
+      "Patrick J. Burns"
+    ],
+    "review_level": "silver"
+  },
+  "data": [
+    {
+      "text": "terra autem erat inanis et vacua et tenebrae super faciem abyssi et spiritus Dei ferebatur super aquas;",
+      "spans": []
+    },
+    {
+      "text": "dixitque Deus fiat lux et facta est lux;",
+      "spans": []
+    },
+    {
+      "text": "appellavitque lucem diem et tenebras noctem factumque est vespere et mane dies unus;",
+      "spans": []
+    },
+    {
+      "text": "dixit vero Deus congregentur aquae quae sub caelo sunt in locum unum et appareat arida factumque est ita;",
+      "spans": []
+    },
+    {
+      "text": "et vocavit Deus aridam terram congregationesque aquarum appellavit maria et vidit Deus quod esset bonum;",
+      "spans": []
+    },
+    {
+      "text": "et ait germinet terra herbam virentem et facientem semen et lignum pomiferum faciens fructum iuxta genus suum cuius semen in semet ipso sit super terram et factum est ita;",
+      "spans": []
+    },
+    {
+      "text": "et praeessent diei ac nocti et dividerent lucem ac tenebras et vidit Deus quod esset bonum;",
+      "spans": []
+    },
+    {
+      "text": "et fecit Deus bestias terrae iuxta species suas et iumenta et omne reptile terrae in genere suo et vidit Deus quod esset bonum;",
+      "spans": []
+    },
+    {
+      "text": "benedixitque illis Deus et ait crescite et multiplicamini et replete terram et subicite eam et dominamini piscibus maris et volatilibus caeli et universis animantibus quae moventur super terram;",
+      "spans": []
+    },
+    {
+      "text": "et cunctis animantibus terrae omnique volucri caeli et universis quae moventur in terra et in quibus est anima vivens ut habeant ad vescendum et factum est ita;",
+      "spans": []
+    },
+    {
+      "text": "igitur perfecti sunt caeli et terra et omnis ornatus eorum;",
+      "spans": []
+    },
+    {
+      "text": "conplevitque Deus die septimo opus suum quod fecerat et requievit die septimo ab universo opere quod patrarat;",
+      "spans": []
+    },
+    {
+      "text": "formavit igitur Dominus Deus hominem de limo terrae et inspiravit in faciem eius spiraculum vitae et factus est homo in animam viventem;",
+      "spans": []
+    },
+    {
+      "text": "et fluvius egrediebatur de loco voluptatis ad inrigandum paradisum qui inde dividitur in quattuor capita;",
+      "spans": []
+    },
+    {
+      "text": "et aedificavit Dominus Deus costam quam tulerat de Adam in mulierem et adduxit eam ad Adam;",
+      "spans": [
+        {
+          "start": 51,
+          "end": 55,
+          "label": "PERSON"
+        },
+        {
+          "start": 86,
+          "end": 90,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "et cum audissent vocem Domini Dei deambulantis in paradiso ad auram post meridiem abscondit se Adam et uxor eius a facie Domini Dei in medio ligni paradisi;",
+      "spans": [
+        {
+          "start": 95,
+          "end": 99,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "qui ait vocem tuam audivi in paradiso et timui eo quod nudus essem et abscondi me;",
+      "spans": []
+    },
+    {
+      "text": "mulieri quoque dixit multiplicabo aerumnas tuas et conceptus tuos in dolore paries filios et sub viri potestate eris et ipse dominabitur tui;",
+      "spans": []
+    },
+    {
+      "text": "rursusque peperit fratrem eius Abel fuit autem Abel pastor ovium et Cain agricola;",
+      "spans": [
+        {
+          "start": 31,
+          "end": 35,
+          "label": "PERSON"
+        },
+        {
+          "start": 47,
+          "end": 51,
+          "label": "PERSON"
+        },
+        {
+          "start": 68,
+          "end": 72,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "ad Cain vero et ad munera illius non respexit iratusque est Cain vehementer et concidit vultus eius;",
+      "spans": [
+        {
+          "start": 3,
+          "end": 7,
+          "label": "PERSON"
+        },
+        {
+          "start": 60,
+          "end": 64,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "nunc igitur maledictus eris super terram quae aperuit os suum et suscepit sanguinem fratris tui de manu tua;",
+      "spans": []
+    },
+    {
+      "text": "cum operatus fueris eam non dabit tibi fructus suos vagus et profugus eris super terram;",
+      "spans": []
+    },
+    {
+      "text": "genuitque Ada Iabel qui fuit pater habitantium in tentoriis atque pastorum;",
+      "spans": [
+        {
+          "start": 10,
+          "end": 13,
+          "label": "PERSON"
+        },
+        {
+          "start": 14,
+          "end": 19,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "et facti sunt omnes dies Seth nongentorum duodecim annorum et mortuus est;",
+      "spans": [
+        {
+          "start": 25,
+          "end": 29,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "et vixit Cainan postquam genuit Malalehel octingentos quadraginta annos genuitque filios et filias;",
+      "spans": [
+        {
+          "start": 9,
+          "end": 15,
+          "label": "PERSON"
+        },
+        {
+          "start": 32,
+          "end": 41,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "vixit autem Malalehel sexaginta quinque annos et genuit Iared;",
+      "spans": [
+        {
+          "start": 12,
+          "end": 21,
+          "label": "PERSON"
+        },
+        {
+          "start": 56,
+          "end": 61,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "vixitque Iared centum sexaginta duobus annis et genuit Enoch;",
+      "spans": [
+        {
+          "start": 9,
+          "end": 14,
+          "label": "PERSON"
+        },
+        {
+          "start": 55,
+          "end": 60,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "et facti sunt omnes dies Iared nongenti sexaginta duo anni et mortuus est;",
+      "spans": [
+        {
+          "start": 25,
+          "end": 30,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "et ambulavit Enoch cum Deo postquam genuit Mathusalam trecentis annis et genuit filios et filias;",
+      "spans": [
+        {
+          "start": 13,
+          "end": 18,
+          "label": "PERSON"
+        },
+        {
+          "start": 43,
+          "end": 53,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "vixit quoque Mathusalam centum octoginta septem annos et genuit Lamech;",
+      "spans": [
+        {
+          "start": 13,
+          "end": 23,
+          "label": "PERSON"
+        },
+        {
+          "start": 64,
+          "end": 70,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "paenituit eum quod hominem fecisset in terra et tactus dolore cordis intrinsecus;",
+      "spans": []
+    },
+    {
+      "text": "hae generationes Noe Noe vir iustus atque perfectus fuit in generationibus suis cum Deo ambulavit;",
+      "spans": [
+        {
+          "start": 17,
+          "end": 20,
+          "label": "PERSON"
+        },
+        {
+          "start": 21,
+          "end": 24,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "cumque vidisset Deus terram esse corruptam omnis quippe caro corruperat viam suam super terram;",
+      "spans": []
+    },
+    {
+      "text": "dixitque Dominus ad eum ingredere tu et omnis domus tua arcam te enim vidi iustum coram me in generatione hac;",
+      "spans": []
+    },
+    {
+      "text": "ex omnibus animantibus mundis tolle septena septena masculum et feminam de animantibus vero non mundis duo duo masculum et feminam;",
+      "spans": []
+    },
+    {
+      "text": "sed et de volatilibus caeli septena septena masculum et feminam ut salvetur semen super faciem universae terrae;",
+      "spans": []
+    },
+    {
+      "text": "et ingressus est Noe et filii eius uxor eius et uxores filiorum eius cum eo in arcam propter aquas diluvii;",
+      "spans": [
+        {
+          "start": 17,
+          "end": 20,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "cumque transissent septem dies aquae diluvii inundaverunt super terram;",
+      "spans": []
+    },
+    {
+      "text": "anno sescentesimo vitae Noe mense secundo septimodecimo die mensis rupti sunt omnes fontes abyssi magnae et cataractae caeli apertae sunt;",
+      "spans": [
+        {
+          "start": 24,
+          "end": 27,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "vehementer inundaverunt et omnia repleverunt in superficie terrae porro arca ferebatur super aquas;",
+      "spans": []
+    },
+    {
+      "text": "et aquae praevaluerunt nimis super terram opertique sunt omnes montes excelsi sub universo caelo;",
+      "spans": []
+    },
+    {
+      "text": "et clausi sunt fontes abyssi et cataractae caeli et prohibitae sunt pluviae de caelo;",
+      "spans": []
+    },
+    {
+      "text": "emisit quoque columbam post eum ut videret si iam cessassent aquae super faciem terrae;",
+      "spans": []
+    },
+    {
+      "text": "quae cum non invenisset ubi requiesceret pes eius reversa est ad eum in arcam aquae enim erant super universam terram extenditque manum et adprehensam intulit in arcam;",
+      "spans": []
+    },
+    {
+      "text": "expectavitque nihilominus septem alios dies et emisit columbam quae non est reversa ultra ad eum;",
+      "spans": []
+    },
+    {
+      "text": "mense secundo septima et vicesima die mensis arefacta est terra;",
+      "spans": []
+    },
+    {
+      "text": "egressus est ergo Noe et filii eius uxor illius et uxores filiorum eius cum eo;",
+      "spans": [
+        {
+          "start": 18,
+          "end": 21,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "benedixitque Deus Noe et filiis eius et dixit ad eos crescite et multiplicamini et implete terram;",
+      "spans": [
+        {
+          "start": 18,
+          "end": 21,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "et terror vester ac tremor sit super cuncta animalia terrae et super omnes volucres caeli cum universis quae moventur in terra omnes pisces maris manui vestrae traditi sunt;",
+      "spans": []
+    },
+    {
+      "text": "quicumque effuderit humanum sanguinem fundetur sanguis illius ad imaginem quippe Dei factus est homo;",
+      "spans": []
+    },
+    {
+      "text": "vos autem crescite et multiplicamini et ingredimini super terram et implete eam;",
+      "spans": []
+    },
+    {
+      "text": "statuam pactum meum vobiscum et nequaquam ultra interficietur omnis caro aquis diluvii neque erit deinceps diluvium dissipans terram;",
+      "spans": []
+    },
+    {
+      "text": "erant igitur filii Noe qui egressi sunt de arca Sem Ham et Iafeth porro Ham ipse est pater Chanaan;",
+      "spans": [
+        {
+          "start": 19,
+          "end": 22,
+          "label": "PERSON"
+        },
+        {
+          "start": 48,
+          "end": 51,
+          "label": "PERSON"
+        },
+        {
+          "start": 52,
+          "end": 55,
+          "label": "PERSON"
+        },
+        {
+          "start": 59,
+          "end": 65,
+          "label": "PERSON"
+        },
+        {
+          "start": 72,
+          "end": 75,
+          "label": "PERSON"
+        },
+        {
+          "start": 91,
+          "end": 98,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "tres isti sunt filii Noe et ab his disseminatum est omne hominum genus super universam terram;",
+      "spans": [
+        {
+          "start": 21,
+          "end": 24,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "bibensque vinum inebriatus est et nudatus in tabernaculo suo;",
+      "spans": []
+    },
+    {
+      "text": "evigilans autem Noe ex vino cum didicisset quae fecerat ei filius suus minor;",
+      "spans": [
+        {
+          "start": 16,
+          "end": 19,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "ait maledictus Chanaan servus servorum erit fratribus suis;",
+      "spans": [
+        {
+          "start": 15,
+          "end": 22,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "hae generationes filiorum Noe Sem Ham Iafeth natique sunt eis filii post diluvium;",
+      "spans": [
+        {
+          "start": 26,
+          "end": 29,
+          "label": "PERSON"
+        },
+        {
+          "start": 30,
+          "end": 33,
+          "label": "PERSON"
+        },
+        {
+          "start": 34,
+          "end": 37,
+          "label": "PERSON"
+        },
+        {
+          "start": 38,
+          "end": 44,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "filii Iafeth Gomer Magog et Madai Iavan et Thubal et Mosoch et Thiras;",
+      "spans": [
+        {
+          "start": 6,
+          "end": 12,
+          "label": "PERSON"
+        },
+        {
+          "start": 13,
+          "end": 18,
+          "label": "PERSON"
+        },
+        {
+          "start": 19,
+          "end": 24,
+          "label": "PERSON"
+        },
+        {
+          "start": 28,
+          "end": 33,
+          "label": "PERSON"
+        },
+        {
+          "start": 34,
+          "end": 39,
+          "label": "PERSON"
+        },
+        {
+          "start": 43,
+          "end": 49,
+          "label": "PERSON"
+        },
+        {
+          "start": 53,
+          "end": 59,
+          "label": "PERSON"
+        },
+        {
+          "start": 63,
+          "end": 69,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "filii autem Iavan Elisa et Tharsis Cetthim et Dodanim;",
+      "spans": [
+        {
+          "start": 12,
+          "end": 17,
+          "label": "PERSON"
+        },
+        {
+          "start": 18,
+          "end": 23,
+          "label": "PERSON"
+        },
+        {
+          "start": 27,
+          "end": 34,
+          "label": "PERSON"
+        },
+        {
+          "start": 35,
+          "end": 42,
+          "label": "PERSON"
+        },
+        {
+          "start": 46,
+          "end": 53,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "et Aradium Samariten et Amatheum et post haec disseminati sunt populi Chananeorum;",
+      "spans": [
+        {
+          "start": 3,
+          "end": 10,
+          "label": "NORP"
+        },
+        {
+          "start": 11,
+          "end": 20,
+          "label": "NORP"
+        },
+        {
+          "start": 24,
+          "end": 32,
+          "label": "NORP"
+        },
+        {
+          "start": 70,
+          "end": 81,
+          "label": "NORP"
+        }
+      ]
+    },
+    {
+      "text": "factique sunt termini Chanaan venientibus a Sidone Geraram usque Gazam donec ingrediaris Sodomam et Gomorram et Adama et Seboim usque Lesa;",
+      "spans": [
+        {
+          "start": 44,
+          "end": 50,
+          "label": "LOC"
+        },
+        {
+          "start": 51,
+          "end": 58,
+          "label": "LOC"
+        },
+        {
+          "start": 65,
+          "end": 70,
+          "label": "LOC"
+        },
+        {
+          "start": 89,
+          "end": 96,
+          "label": "LOC"
+        },
+        {
+          "start": 100,
+          "end": 108,
+          "label": "LOC"
+        },
+        {
+          "start": 112,
+          "end": 117,
+          "label": "LOC"
+        },
+        {
+          "start": 121,
+          "end": 127,
+          "label": "LOC"
+        },
+        {
+          "start": 134,
+          "end": 138,
+          "label": "LOC"
+        }
+      ]
+    },
+    {
+      "text": "hii filii Ham in cognationibus et linguis et generationibus terrisque et gentibus suis;",
+      "spans": [
+        {
+          "start": 10,
+          "end": 13,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "et facta est habitatio eorum de Messa pergentibus usque Sephar montem orientalem;",
+      "spans": [
+        {
+          "start": 32,
+          "end": 37,
+          "label": "LOC"
+        },
+        {
+          "start": 56,
+          "end": 62,
+          "label": "LOC"
+        }
+      ]
+    },
+    {
+      "text": "descendit autem Dominus ut videret civitatem et turrem quam aedificabant filii Adam;",
+      "spans": [
+        {
+          "start": 79,
+          "end": 83,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "et dixit ecce unus est populus et unum labium omnibus coeperuntque hoc facere nec desistent a cogitationibus suis donec eas opere conpleant;",
+      "spans": []
+    },
+    {
+      "text": "vixit autem Eber triginta quattuor annis et genuit Faleg;",
+      "spans": [
+        {
+          "start": 12,
+          "end": 16,
+          "label": "PERSON"
+        },
+        {
+          "start": 51,
+          "end": 56,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "vixitque Sarug postquam genuit Nahor ducentos annos et genuit filios et filias;",
+      "spans": [
+        {
+          "start": 9,
+          "end": 14,
+          "label": "PERSON"
+        },
+        {
+          "start": 31,
+          "end": 36,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "faciamque te in gentem magnam et benedicam tibi et magnificabo nomen tuum erisque benedictus;",
+      "spans": []
+    },
+    {
+      "text": "pertransivit Abram terram usque ad locum Sychem usque ad convallem Inlustrem Chananeus autem tunc erat in terra;",
+      "spans": [
+        {
+          "start": 13,
+          "end": 18,
+          "label": "PERSON"
+        },
+        {
+          "start": 41,
+          "end": 47,
+          "label": "LOC"
+        },
+        {
+          "start": 77,
+          "end": 86,
+          "label": "NORP"
+        }
+      ]
+    },
+    {
+      "text": "perrexitque Abram vadens et ultra progrediens ad meridiem;",
+      "spans": [
+        {
+          "start": 12,
+          "end": 17,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "quam ob causam dixisti esse sororem tuam ut tollerem eam mihi in uxorem nunc igitur ecce coniux tua accipe eam et vade;",
+      "spans": []
+    },
+    {
+      "text": "ascendit ergo Abram de Aegypto ipse et uxor eius et omnia quae habebat et Loth cum eo ad australem plagam;",
+      "spans": [
+        {
+          "start": 14,
+          "end": 19,
+          "label": "PERSON"
+        },
+        {
+          "start": 23,
+          "end": 30,
+          "label": "LOC"
+        },
+        {
+          "start": 74,
+          "end": 78,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "reversusque est per iter quo venerat a meridie in Bethel usque ad locum ubi prius fixerat tabernaculum inter Bethel et Ai;",
+      "spans": [
+        {
+          "start": 50,
+          "end": 56,
+          "label": "LOC"
+        },
+        {
+          "start": 109,
+          "end": 115,
+          "label": "LOC"
+        },
+        {
+          "start": 119,
+          "end": 121,
+          "label": "LOC"
+        }
+      ]
+    },
+    {
+      "text": "in loco altaris quod fecerat prius et invocavit ibi nomen Domini;",
+      "spans": []
+    },
+    {
+      "text": "faciamque semen tuum sicut pulverem terrae si quis potest hominum numerare pulverem semen quoque tuum numerare poterit;",
+      "spans": []
+    },
+    {
+      "text": "movens igitur Abram tabernaculum suum venit et habitavit iuxta convallem Mambre quod est in Hebron aedificavitque ibi altare Domino;",
+      "spans": [
+        {
+          "start": 14,
+          "end": 19,
+          "label": "PERSON"
+        },
+        {
+          "start": 73,
+          "end": 79,
+          "label": "LOC"
+        },
+        {
+          "start": 92,
+          "end": 98,
+          "label": "LOC"
+        }
+      ]
+    },
+    {
+      "text": "factum est autem in illo tempore ut Amrafel rex Sennaar et Arioch rex Ponti et Chodorlahomor rex Aelamitarum et Thadal rex Gentium;",
+      "spans": [
+        {
+          "start": 36,
+          "end": 43,
+          "label": "PERSON"
+        },
+        {
+          "start": 48,
+          "end": 55,
+          "label": "LOC"
+        },
+        {
+          "start": 59,
+          "end": 65,
+          "label": "PERSON"
+        },
+        {
+          "start": 70,
+          "end": 75,
+          "label": "LOC"
+        },
+        {
+          "start": 79,
+          "end": 92,
+          "label": "PERSON"
+        },
+        {
+          "start": 97,
+          "end": 108,
+          "label": "NORP"
+        },
+        {
+          "start": 112,
+          "end": 118,
+          "label": "PERSON"
+        },
+        {
+          "start": 123,
+          "end": 130,
+          "label": "NORP"
+        }
+      ]
+    },
+    {
+      "text": "duodecim enim annis servierant Chodorlahomor et tertiodecimo anno recesserunt ab eo;",
+      "spans": [
+        {
+          "start": 31,
+          "end": 44,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "reversique sunt et venerunt ad fontem Mesfat ipsa est Cades et percusserunt omnem regionem Amalechitarum et Amorreum qui habitabat in Asasonthamar;",
+      "spans": [
+        {
+          "start": 38,
+          "end": 44,
+          "label": "LOC"
+        },
+        {
+          "start": 54,
+          "end": 59,
+          "label": "LOC"
+        },
+        {
+          "start": 91,
+          "end": 104,
+          "label": "NORP"
+        },
+        {
+          "start": 108,
+          "end": 116,
+          "label": "NORP"
+        },
+        {
+          "start": 134,
+          "end": 146,
+          "label": "LOC"
+        }
+      ]
+    },
+    {
+      "text": "et divisis sociis inruit super eos nocte percussitque eos et persecutus est usque Hoba quae est ad levam Damasci;",
+      "spans": [
+        {
+          "start": 82,
+          "end": 86,
+          "label": "LOC"
+        },
+        {
+          "start": 105,
+          "end": 112,
+          "label": "LOC"
+        }
+      ]
+    },
+    {
+      "text": "reduxitque omnem substantiam et Loth fratrem suum cum substantia illius mulieres quoque et populum;",
+      "spans": [
+        {
+          "start": 32,
+          "end": 36,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "at ille ait Domine Deus unde scire possum quod possessurus sim eam;",
+      "spans": []
+    },
+    {
+      "text": "descenderuntque volucres super cadavera et abigebat eas Abram;",
+      "spans": [
+        {
+          "start": 56,
+          "end": 61,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "cumque sol occumberet sopor inruit super Abram et horror magnus et tenebrosus invasit eum;",
+      "spans": [
+        {
+          "start": 41,
+          "end": 46,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "dictumque est ad eum scito praenoscens quod peregrinum futurum sit semen tuum in terra non sua et subicient eos servituti et adfligent quadringentis annis;",
+      "spans": []
+    },
+    {
+      "text": "tu autem ibis ad patres tuos in pace sepultus in senectute bona;",
+      "spans": []
+    },
+    {
+      "text": "in die illo pepigit Dominus cum Abram foedus dicens semini tuo dabo terram hanc a fluvio Aegypti usque ad fluvium magnum flumen Eufraten;",
+      "spans": [
+        {
+          "start": 32,
+          "end": 37,
+          "label": "PERSON"
+        },
+        {
+          "start": 89,
+          "end": 96,
+          "label": "LOC"
+        },
+        {
+          "start": 128,
+          "end": 136,
+          "label": "LOC"
+        }
+      ]
+    },
+    {
+      "text": "cumque invenisset illam angelus Domini iuxta fontem aquae in solitudine qui est in via Sur;",
+      "spans": [
+        {
+          "start": 87,
+          "end": 90,
+          "label": "LOC"
+        }
+      ]
+    },
+    {
+      "text": "infans octo dierum circumcidetur in vobis omne masculinum in generationibus vestris tam vernaculus quam empticius circumcidetur et quicumque non fuerit de stirpe vestra;",
+      "spans": []
+    },
+    {
+      "text": "nonaginta novem erat annorum quando circumcidit carnem praeputii sui;",
+      "spans": []
+    },
+    {
+      "text": "eadem die circumcisus est Abraham et Ismahel filius eius;",
+      "spans": [
+        {
+          "start": 26,
+          "end": 33,
+          "label": "PERSON"
+        },
+        {
+          "start": 37,
+          "end": 44,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "et dixit Domine si inveni gratiam in oculis tuis ne transeas servum tuum;",
+      "spans": []
+    },
+    {
+      "text": "sed adferam pauxillum aquae et lavate pedes vestros et requiescite sub arbore;",
+      "spans": []
+    },
+    {
+      "text": "ipse vero ad armentum cucurrit et tulit inde vitulum tenerrimum et optimum deditque puero qui festinavit et coxit illum;",
+      "spans": []
+    },
+    {
+      "text": "cui dixit revertens veniam ad te tempore isto vita comite et habebit filium Sarra uxor tua quo audito Sarra risit post ostium tabernaculi;",
+      "spans": [
+        {
+          "start": 76,
+          "end": 81,
+          "label": "PERSON"
+        },
+        {
+          "start": 102,
+          "end": 107,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "converteruntque se inde et abierunt Sodomam Abraham vero adhuc stabat coram Domino;",
+      "spans": [
+        {
+          "start": 36,
+          "end": 43,
+          "label": "LOC"
+        },
+        {
+          "start": 44,
+          "end": 51,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "prius autem quam irent cubitum viri civitatis vallaverunt domum a puero usque ad senem omnis populus simul;",
+      "spans": []
+    },
+    {
+      "text": "vocaveruntque Loth et dixerunt ei ubi sunt viri qui introierunt ad te nocte educ illos huc ut cognoscamus eos;",
+      "spans": [
+        {
+          "start": 14,
+          "end": 18,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "egressus ad eos Loth post tergum adcludens ostium ait;",
+      "spans": [
+        {
+          "start": 16,
+          "end": 20,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "habeo duas filias quae necdum cognoverunt virum educam eas ad vos et abutimini eis sicut placuerit vobis dummodo viris istis nihil faciatis mali quia ingressi sunt sub umbraculum tegminis mei;",
+      "spans": []
+    },
+    {
+      "text": "dixitque Loth ad eos quaeso Domine mi;",
+      "spans": [
+        {
+          "start": 9,
+          "end": 13,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "respiciensque uxor eius post se versa est in statuam salis;",
+      "spans": []
+    },
+    {
+      "text": "dixitque maior ad minorem pater noster senex est et nullus virorum remansit in terra qui possit ingredi ad nos iuxta morem universae terrae;",
+      "spans": []
+    },
+    {
+      "text": "veni inebriemus eum vino dormiamusque cum eo ut servare possimus ex patre nostro semen;",
+      "spans": []
+    },
+    {
+      "text": "dederunt itaque patri suo bibere vinum nocte illa et ingressa est maior dormivitque cum patre at ille non sensit nec quando accubuit filia nec quando surrexit;",
+      "spans": [
+        {
+          "start": 133,
+          "end": 138,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "peperitque maior filium et vocavit nomen eius Moab ipse est pater Moabitarum usque in praesentem diem;",
+      "spans": [
+        {
+          "start": 46,
+          "end": 50,
+          "label": "PERSON"
+        },
+        {
+          "start": 66,
+          "end": 76,
+          "label": "NORP"
+        }
+      ]
+    },
+    {
+      "text": "minor quoque peperit filium et vocavit nomen eius Ammon id est filius populi mei ipse est pater Ammanitarum usque hodie;",
+      "spans": [
+        {
+          "start": 50,
+          "end": 55,
+          "label": "PERSON"
+        },
+        {
+          "start": 96,
+          "end": 107,
+          "label": "NORP"
+        }
+      ]
+    },
+    {
+      "text": "profectus inde Abraham in terram australem habitavit inter Cades et Sur et peregrinatus est in Geraris;",
+      "spans": [
+        {
+          "start": 15,
+          "end": 22,
+          "label": "PERSON"
+        },
+        {
+          "start": 59,
+          "end": 64,
+          "label": "LOC"
+        },
+        {
+          "start": 68,
+          "end": 71,
+          "label": "LOC"
+        },
+        {
+          "start": 95,
+          "end": 102,
+          "label": "LOC"
+        }
+      ]
+    },
+    {
+      "text": "Abimelech vero non tetigerat eam et ait Domine num gentem ignorantem et iustam interficies;",
+      "spans": [
+        {
+          "start": 0,
+          "end": 9,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "et ait terra coram vobis est ubicumque tibi placuerit habita;",
+      "spans": []
+    },
+    {
+      "text": "et circumcidit eum octavo die sicut praeceperat ei Deus;",
+      "spans": []
+    },
+    {
+      "text": "cui dixit Deus non tibi videatur asperum super puero et super ancilla tua omnia quae dixerit tibi Sarra audi vocem eius quia in Isaac vocabitur tibi semen;",
+      "spans": [
+        {
+          "start": 98,
+          "end": 103,
+          "label": "PERSON"
+        },
+        {
+          "start": 128,
+          "end": 133,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "surrexit itaque Abraham mane et tollens panem et utrem aquae inposuit scapulae eius tradiditque puerum et dimisit eam quae cum abisset errabat in solitudine Bersabee;",
+      "spans": [
+        {
+          "start": 16,
+          "end": 23,
+          "label": "PERSON"
+        },
+        {
+          "start": 157,
+          "end": 165,
+          "label": "LOC"
+        }
+      ]
+    },
+    {
+      "text": "et abiit seditque e regione procul quantum potest arcus iacere dixit enim non videbo morientem puerum et sedens contra levavit vocem suam et flevit;",
+      "spans": []
+    },
+    {
+      "text": "dixitque Abraham ego iurabo;",
+      "spans": [
+        {
+          "start": 9,
+          "end": 16,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "tulit itaque Abraham oves et boves et dedit Abimelech percusseruntque ambo foedus;",
+      "spans": [
+        {
+          "start": 13,
+          "end": 20,
+          "label": "PERSON"
+        },
+        {
+          "start": 44,
+          "end": 53,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "at ille septem inquit agnas accipies de manu mea ut sint in testimonium mihi quoniam ego fodi puteum istum;",
+      "spans": []
+    },
+    {
+      "text": "et ecce angelus Domini de caelo clamavit dicens Abraham Abraham qui respondit adsum;",
+      "spans": [
+        {
+          "start": 48,
+          "end": 55,
+          "label": "PERSON"
+        },
+        {
+          "start": 56,
+          "end": 63,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "appellavitque nomen loci illius Dominus videt unde usque hodie dicitur in monte Dominus videbit;",
+      "spans": []
+    },
+    {
+      "text": "cumque surrexisset ab officio funeris locutus est ad filios Heth dicens;",
+      "spans": [
+        {
+          "start": 60,
+          "end": 64,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "dixitque ad eos si placet animae vestrae ut sepeliam mortuum meum audite me et intercedite apud Ephron filium Soor;",
+      "spans": [
+        {
+          "start": 96,
+          "end": 102,
+          "label": "PERSON"
+        },
+        {
+          "start": 110,
+          "end": 114,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "habitabat autem Ephron in medio filiorum Heth responditque ad Abraham cunctis audientibus qui ingrediebantur portam civitatis illius dicens;",
+      "spans": [
+        {
+          "start": 16,
+          "end": 22,
+          "label": "PERSON"
+        },
+        {
+          "start": 41,
+          "end": 45,
+          "label": "PERSON"
+        },
+        {
+          "start": 62,
+          "end": 69,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "adoravit Abraham coram populo terrae;",
+      "spans": [
+        {
+          "start": 9,
+          "end": 16,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "domine mi audi terram quam postulas quadringentis argenti siclis valet istud est pretium inter me et te sed quantum est hoc sepeli mortuum tuum;",
+      "spans": []
+    },
+    {
+      "text": "quod cum audisset Abraham adpendit pecuniam quam Ephron postulaverat audientibus filiis Heth quadringentos siclos argenti et probati monetae publicae;",
+      "spans": [
+        {
+          "start": 18,
+          "end": 25,
+          "label": "PERSON"
+        },
+        {
+          "start": 49,
+          "end": 55,
+          "label": "PERSON"
+        },
+        {
+          "start": 88,
+          "end": 92,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "confirmatusque est ager quondam Ephronis in quo erat spelunca duplex respiciens Mambre tam ipse quam spelunca et omnes arbores eius in cunctis terminis per circuitum;",
+      "spans": [
+        {
+          "start": 32,
+          "end": 40,
+          "label": "PERSON"
+        },
+        {
+          "start": 80,
+          "end": 86,
+          "label": "LOC"
+        }
+      ]
+    },
+    {
+      "text": "dixitque ad servum seniorem domus suae qui praeerat omnibus quae habebat pone manum tuam subter femur meum;",
+      "spans": []
+    },
+    {
+      "text": "sin autem noluerit mulier sequi te non teneberis iuramento filium tantum meum ne reducas illuc;",
+      "spans": []
+    },
+    {
+      "text": "tulitque decem camelos de grege domini sui et abiit ex omnibus bonis eius portans secum profectusque perrexit Mesopotamiam ad urbem Nahor;",
+      "spans": [
+        {
+          "start": 110,
+          "end": 122,
+          "label": "LOC"
+        },
+        {
+          "start": 132,
+          "end": 137,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "ecce ego sto propter fontem aquae et filiae habitatorum huius civitatis egredientur ad hauriendam aquam;",
+      "spans": []
+    },
+    {
+      "text": "dixitque ad eam cuius es filia indica mihi est in domo patris tui locus ad manendum;",
+      "spans": []
+    },
+    {
+      "text": "quae respondit filia Bathuelis sum filii Melchae quem peperit Nahor;",
+      "spans": [
+        {
+          "start": 21,
+          "end": 30,
+          "label": "PERSON"
+        },
+        {
+          "start": 41,
+          "end": 48,
+          "label": "PERSON"
+        },
+        {
+          "start": 62,
+          "end": 67,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "dicens benedictus Dominus Deus domini mei Abraham qui non abstulit misericordiam et veritatem suam a domino meo et recto me itinere perduxit in domum fratris domini mei;",
+      "spans": [
+        {
+          "start": 42,
+          "end": 49,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "cumque vidisset inaures et armillas in manibus sororis suae et audisset cuncta verba referentis haec locutus est mihi homo venit ad virum qui stabat iuxta camelos et propter fontem aquae;",
+      "spans": []
+    },
+    {
+      "text": "et adpositus est in conspectu eius panis qui ait non comedam donec loquar sermones meos respondit ei loquere;",
+      "spans": []
+    },
+    {
+      "text": "et adiuravit me dominus meus dicens non accipies uxorem filio meo de filiabus Chananeorum in quorum terra habito;",
+      "spans": [
+        {
+          "start": 78,
+          "end": 89,
+          "label": "NORP"
+        }
+      ]
+    },
+    {
+      "text": "ego vero respondi domino meo quid si noluerit venire mecum mulier;",
+      "spans": []
+    },
+    {
+      "text": "ecce sto iuxta fontem aquae et virgo quae egredietur ad hauriendam aquam audierit a me da mihi pauxillum aquae ad bibendum ex hydria tua;",
+      "spans": []
+    },
+    {
+      "text": "quae festina deposuit hydriam de umero et dixit mihi et tu bibe et camelis tuis potum tribuam bibi et adaquavit camelos;",
+      "spans": []
+    },
+    {
+      "text": "dimiserunt ergo eam et nutricem illius servumque Abraham et comites eius;",
+      "spans": [
+        {
+          "start": 49,
+          "end": 56,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Rebecca quoque conspecto Isaac descendit de camelo;",
+      "spans": [
+        {
+          "start": 0,
+          "end": 7,
+          "label": "PERSON"
+        },
+        {
+          "start": 25,
+          "end": 30,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "servus autem cuncta quae gesserat narravit Isaac;",
+      "spans": [
+        {
+          "start": 43,
+          "end": 48,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Iexan quoque genuit Saba et Dadan filii Dadan fuerunt Assurim et Lathusim et Loommim;",
+      "spans": [
+        {
+          "start": 0,
+          "end": 5,
+          "label": "PERSON"
+        },
+        {
+          "start": 20,
+          "end": 24,
+          "label": "PERSON"
+        },
+        {
+          "start": 28,
+          "end": 33,
+          "label": "PERSON"
+        },
+        {
+          "start": 40,
+          "end": 45,
+          "label": "PERSON"
+        },
+        {
+          "start": 54,
+          "end": 61,
+          "label": "NORP"
+        },
+        {
+          "start": 65,
+          "end": 73,
+          "label": "NORP"
+        },
+        {
+          "start": 77,
+          "end": 84,
+          "label": "NORP"
+        }
+      ]
+    },
+    {
+      "text": "quem emerat a filiis Heth ibi sepultus est ipse et Sarra uxor eius;",
+      "spans": [
+        {
+          "start": 14,
+          "end": 25,
+          "label": "NORP"
+        },
+        {
+          "start": 51,
+          "end": 56,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "hae sunt generationes Ismahel filii Abraham quem peperit ei Agar Aegyptia famula Sarrae;",
+      "spans": [
+        {
+          "start": 22,
+          "end": 29,
+          "label": "PERSON"
+        },
+        {
+          "start": 36,
+          "end": 43,
+          "label": "PERSON"
+        },
+        {
+          "start": 60,
+          "end": 64,
+          "label": "PERSON"
+        },
+        {
+          "start": 81,
+          "end": 87,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "sed conlidebantur in utero eius parvuli quae ait si sic mihi futurum erat quid necesse fuit concipere perrexitque ut consuleret Dominum;",
+      "spans": []
+    },
+    {
+      "text": "sexagenarius erat Isaac quando nati sunt parvuli;",
+      "spans": [
+        {
+          "start": 18,
+          "end": 23,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "eo quod oboedierit Abraham voci meae et custodierit praecepta et mandata mea et caerimonias legesque servaverit;",
+      "spans": [
+        {
+          "start": 19,
+          "end": 26,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "et accersito ait perspicuum est quod uxor tua sit cur mentitus es sororem tuam esse respondit timui ne morerer propter eam;",
+      "spans": []
+    },
+    {
+      "text": "seruit autem Isaac in terra illa et invenit in ipso anno centuplum benedixitque ei Dominus;",
+      "spans": [
+        {
+          "start": 13,
+          "end": 18,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "foderunt in torrente et reppererunt aquam vivam;",
+      "spans": []
+    },
+    {
+      "text": "ecce autem venerunt in ipso die servi Isaac adnuntiantes ei de puteo quem foderant atque dicentes invenimus aquam;",
+      "spans": [
+        {
+          "start": 38,
+          "end": 43,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "unde appellavit eum Abundantiam et nomen urbi inpositum est Bersabee usque in praesentem diem;",
+      "spans": [
+        {
+          "start": 20,
+          "end": 31,
+          "label": "LOC"
+        },
+        {
+          "start": 60,
+          "end": 68,
+          "label": "LOC"
+        }
+      ]
+    },
+    {
+      "text": "senuit autem Isaac et caligaverunt oculi eius et videre non poterat vocavitque Esau filium suum maiorem et dixit ei fili mi qui respondit adsum;",
+      "spans": [
+        {
+          "start": 13,
+          "end": 18,
+          "label": "PERSON"
+        },
+        {
+          "start": 79,
+          "end": 83,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "adfer mihi venationem tuam et fac cibos ut comedam et benedicam tibi coram Domino antequam moriar;",
+      "spans": []
+    },
+    {
+      "text": "et pergens ad gregem adfer mihi duos hedos optimos ut faciam ex eis escas patri tuo quibus libenter vescitur;",
+      "spans": []
+    },
+    {
+      "text": "rursum Isaac ad filium suum quomodo inquit tam cito invenire potuisti fili mi qui respondit voluntatis Dei fuit ut cito mihi occurreret quod volebam;",
+      "spans": [
+        {
+          "start": 7,
+          "end": 12,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "at ille offer inquit mihi cibos de venatione tua fili mi ut benedicat tibi anima mea quos cum oblatos comedisset obtulit ei etiam vinum quo hausto;",
+      "spans": []
+    },
+    {
+      "text": "accessit et osculatus est eum statimque ut sensit vestimentorum illius flagrantiam benedicens ait ecce odor filii mei sicut odor agri cui benedixit Dominus;",
+      "spans": []
+    },
+    {
+      "text": "coctosque de venatione cibos intulit patri dicens surge pater mi et comede de venatione filii tui ut benedicat mihi anima tua;",
+      "spans": []
+    },
+    {
+      "text": "nunc ergo fili audi vocem meam et consurgens fuge ad Laban fratrem meum in Haran;",
+      "spans": [
+        {
+          "start": 53,
+          "end": 58,
+          "label": "PERSON"
+        },
+        {
+          "start": 75,
+          "end": 80,
+          "label": "LOC"
+        }
+      ]
+    },
+    {
+      "text": "sed vade et proficiscere in Mesopotamiam Syriae ad domum Bathuel patrem matris tuae et accipe tibi inde uxorem de filiabus Laban avunculi tui;",
+      "spans": [
+        {
+          "start": 28,
+          "end": 40,
+          "label": "LOC"
+        },
+        {
+          "start": 41,
+          "end": 47,
+          "label": "LOC"
+        },
+        {
+          "start": 57,
+          "end": 64,
+          "label": "PERSON"
+        },
+        {
+          "start": 123,
+          "end": 128,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Deus autem omnipotens benedicat tibi et crescere te faciat atque multiplicet ut sis in turbas populorum;",
+      "spans": []
+    },
+    {
+      "text": "quodque oboediens Iacob parentibus isset in Syriam;",
+      "spans": [
+        {
+          "start": 18,
+          "end": 23,
+          "label": "PERSON"
+        },
+        {
+          "start": 44,
+          "end": 50,
+          "label": "LOC"
+        }
+      ]
+    },
+    {
+      "text": "probans quoque quod non libenter aspiceret filias Chanaan pater suus;",
+      "spans": [
+        {
+          "start": 50,
+          "end": 57,
+          "label": "NORP"
+        }
+      ]
+    },
+    {
+      "text": "ivit ad Ismahelem et duxit uxorem absque his quas prius habebat Maeleth filiam Ismahel filii Abraham sororem Nabaioth;",
+      "spans": [
+        {
+          "start": 8,
+          "end": 17,
+          "label": "PERSON"
+        },
+        {
+          "start": 64,
+          "end": 71,
+          "label": "PERSON"
+        },
+        {
+          "start": 79,
+          "end": 86,
+          "label": "PERSON"
+        },
+        {
+          "start": 93,
+          "end": 100,
+          "label": "PERSON"
+        },
+        {
+          "start": 109,
+          "end": 117,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "igitur egressus Iacob de Bersabee pergebat Haran;",
+      "spans": [
+        {
+          "start": 16,
+          "end": 21,
+          "label": "PERSON"
+        },
+        {
+          "start": 25,
+          "end": 33,
+          "label": "LOC"
+        },
+        {
+          "start": 43,
+          "end": 48,
+          "label": "LOC"
+        }
+      ]
+    },
+    {
+      "text": "et Dominum innixum scalae dicentem sibi ego sum Dominus Deus Abraham patris tui et Deus Isaac terram in qua dormis tibi dabo et semini tuo;",
+      "spans": [
+        {
+          "start": 61,
+          "end": 68,
+          "label": "PERSON"
+        },
+        {
+          "start": 88,
+          "end": 93,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "vovit etiam votum dicens si fuerit Deus mecum et custodierit me in via per quam ambulo et dederit mihi panem ad vescendum et vestem ad induendum;",
+      "spans": []
+    },
+    {
+      "text": "quos interrogans numquid ait nostis Laban filium Nahor dixerunt novimus;",
+      "spans": [
+        {
+          "start": 36,
+          "end": 41,
+          "label": "PERSON"
+        },
+        {
+          "start": 49,
+          "end": 54,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "sanusne est inquit valet inquiunt et ecce Rahel filia eius venit cum grege suo;",
+      "spans": [
+        {
+          "start": 42,
+          "end": 47,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "tandemque potitus optatis nuptiis amorem sequentis priori praetulit serviens apud eum septem annis aliis;",
+      "spans": []
+    },
+    {
+      "text": "rursumque concepit et peperit filium et ait quoniam audivit Dominus haberi me contemptui dedit etiam istum mihi vocavitque nomen illius Symeon;",
+      "spans": [
+        {
+          "start": 136,
+          "end": 142,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "quarto concepit et peperit filium et ait modo confitebor Domino et ob hoc vocavit eum Iudam cessavitque parere;",
+      "spans": [
+        {
+          "start": 86,
+          "end": 91,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "cernens autem Rahel quod infecunda esset invidit sorori et ait marito suo da mihi liberos alioquin moriar;",
+      "spans": [
+        {
+          "start": 14,
+          "end": 19,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "at illa habeo inquit famulam Balam ingredere ad eam ut pariat super genua mea et habeam ex ea filios;",
+      "spans": [
+        {
+          "start": 29,
+          "end": 34,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "rursumque Bala concipiens peperit alterum;",
+      "spans": [
+        {
+          "start": 10,
+          "end": 14,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "peperit quoque Zelpha alterum;",
+      "spans": [
+        {
+          "start": 15,
+          "end": 21,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "et ait ditavit me Deus dote bona etiam hac vice mecum erit maritus meus eo quod genuerim ei sex filios et idcirco appellavit nomen eius Zabulon;",
+      "spans": [
+        {
+          "start": 136,
+          "end": 143,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "quae concepit et peperit filium dicens abstulit Deus obprobrium meum;",
+      "spans": []
+    },
+    {
+      "text": "da mihi uxores et liberos meos pro quibus servivi tibi ut abeam tu nosti servitutem qua servivi tibi;",
+      "spans": []
+    },
+    {
+      "text": "ait ei Laban inveniam gratiam in conspectu tuo experimento didici quod benedixerit mihi Deus propter te;",
+      "spans": [
+        {
+          "start": 7,
+          "end": 12,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "modicum habuisti antequam venirem et nunc dives effectus es benedixitque tibi Dominus ad introitum meum iustum est igitur ut aliquando provideam etiam domui meae;",
+      "spans": []
+    },
+    {
+      "text": "gyra omnes greges tuos et separa cunctas oves varias et sparso vellere et quodcumque furvum et maculosum variumque fuerit tam in ovibus quam in capris erit merces mea;",
+      "spans": []
+    },
+    {
+      "text": "posuitque eas in canalibus ubi effundebatur aqua ut cum venissent greges ad bibendum ante oculos haberent virgas et in aspectu earum conciperent;",
+      "spans": []
+    },
+    {
+      "text": "factumque est ut in ipso calore coitus oves intuerentur virgas et parerent maculosa et varia et diverso colore respersa;",
+      "spans": []
+    },
+    {
+      "text": "divisitque gregem Iacob et posuit virgas ante oculos arietum erant autem alba quaeque et nigra Laban cetera vero Iacob separatis inter se gregibus;",
+      "spans": [
+        {
+          "start": 18,
+          "end": 23,
+          "label": "PERSON"
+        },
+        {
+          "start": 95,
+          "end": 100,
+          "label": "PERSON"
+        },
+        {
+          "start": 113,
+          "end": 118,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "dixitque angelus Dei ad me in somnis Iacob et ego respondi adsum;",
+      "spans": [
+        {
+          "start": 37,
+          "end": 42,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "ego sum Deus Bethel ubi unxisti lapidem et votum vovisti mihi nunc ergo surge et egredere de terra hac revertens in terram nativitatis tuae;",
+      "spans": [
+        {
+          "start": 13,
+          "end": 19,
+          "label": "LOC"
+        }
+      ]
+    },
+    {
+      "text": "responderunt Rahel et Lia numquid habemus residui quicquam in facultatibus et hereditate domus patris nostri;",
+      "spans": [
+        {
+          "start": 13,
+          "end": 18,
+          "label": "PERSON"
+        },
+        {
+          "start": 22,
+          "end": 25,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "nonne quasi alienas reputavit nos et vendidit comeditque pretium nostrum;",
+      "spans": []
+    },
+    {
+      "text": "tulitque omnem substantiam et greges et quicquid in Mesopotamiam quaesierat pergens ad Isaac patrem suum in terram Chanaan;",
+      "spans": [
+        {
+          "start": 52,
+          "end": 64,
+          "label": "LOC"
+        },
+        {
+          "start": 87,
+          "end": 92,
+          "label": "PERSON"
+        },
+        {
+          "start": 115,
+          "end": 122,
+          "label": "LOC"
+        }
+      ]
+    },
+    {
+      "text": "noluitque Iacob confiteri socero quod fugeret;",
+      "spans": [
+        {
+          "start": 10,
+          "end": 15,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "qui adsumptis fratribus suis persecutus est eum diebus septem et conprehendit in monte Galaad;",
+      "spans": [
+        {
+          "start": 87,
+          "end": 93,
+          "label": "LOC"
+        }
+      ]
+    },
+    {
+      "text": "ait ne irascatur dominus meus quod coram te adsurgere nequeo quia iuxta consuetudinem feminarum nunc accidit mihi sic delusa sollicitudo quaerentis est;",
+      "spans": []
+    },
+    {
+      "text": "sic per viginti annos in domo tua servivi tibi quattuordecim pro filiabus et sex pro gregibus tuis inmutasti quoque mercedem meam decem vicibus;",
+      "spans": []
+    },
+    {
+      "text": "dixitque fratribus suis adferte lapides qui congregantes fecerunt tumulum comederuntque super eum;",
+      "spans": []
+    },
+    {
+      "text": "dixitque Laban tumulus iste testis erit inter me et te hodie et idcirco appellatum est nomen eius Galaad id est tumulus Testis;",
+      "spans": [
+        {
+          "start": 9,
+          "end": 14,
+          "label": "PERSON"
+        },
+        {
+          "start": 98,
+          "end": 104,
+          "label": "LOC"
+        }
+      ]
+    },
+    {
+      "text": "Deus Abraham et Deus Nahor iudicet inter nos Deus patris eorum iuravit Iacob per Timorem patris sui Isaac;",
+      "spans": [
+        {
+          "start": 5,
+          "end": 12,
+          "label": "PERSON"
+        },
+        {
+          "start": 21,
+          "end": 26,
+          "label": "PERSON"
+        },
+        {
+          "start": 71,
+          "end": 76,
+          "label": "PERSON"
+        },
+        {
+          "start": 81,
+          "end": 88,
+          "label": "PERSON"
+        },
+        {
+          "start": 100,
+          "end": 105,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "tu locutus es quod bene mihi faceres et dilatares semen meum sicut harenam maris quae prae multitudine numerari non potest;",
+      "spans": []
+    },
+    {
+      "text": "cumque dormisset ibi nocte illa separavit de his quae habebat munera Esau fratri suo;",
+      "spans": [
+        {
+          "start": 69,
+          "end": 73,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "et addetis ipse quoque servus tuus Iacob iter nostrum insequitur dixit enim placabo illum muneribus quae praecedunt et postea videbo forsitan propitiabitur mihi;",
+      "spans": [
+        {
+          "start": 35,
+          "end": 40,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "remansit solus et ecce vir luctabatur cum eo usque mane;",
+      "spans": []
+    },
+    {
+      "text": "at ille nequaquam inquit Iacob appellabitur nomen tuum sed Israhel quoniam si contra Deum fortis fuisti quanto magis contra homines praevalebis;",
+      "spans": [
+        {
+          "start": 25,
+          "end": 30,
+          "label": "PERSON"
+        },
+        {
+          "start": 59,
+          "end": 66,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "et adpropinquantes ancillae et filii earum incurvati sunt;",
+      "spans": []
+    },
+    {
+      "text": "accessitque Lia cum liberis suis et cum similiter adorassent extremi Ioseph et Rahel adoraverunt;",
+      "spans": [
+        {
+          "start": 12,
+          "end": 15,
+          "label": "PERSON"
+        },
+        {
+          "start": 69,
+          "end": 75,
+          "label": "PERSON"
+        },
+        {
+          "start": 79,
+          "end": 84,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "transivitque in Salem urbem Sycimorum quae est in terra Chanaan postquam regressus est de Mesopotamiam Syriae et habitavit iuxta oppidum;",
+      "spans": [
+        {
+          "start": 16,
+          "end": 21,
+          "label": "LOC"
+        },
+        {
+          "start": 56,
+          "end": 63,
+          "label": "LOC"
+        },
+        {
+          "start": 90,
+          "end": 102,
+          "label": "LOC"
+        },
+        {
+          "start": 103,
+          "end": 109,
+          "label": "LOC"
+        }
+      ]
+    },
+    {
+      "text": "emitque partem agri in qua fixerat tabernaculum a filiis Emor patris Sychem centum agnis;",
+      "spans": [
+        {
+          "start": 57,
+          "end": 61,
+          "label": "PERSON"
+        },
+        {
+          "start": 69,
+          "end": 75,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "et conglutinata est anima eius cum ea tristemque blanditiis delinivit;",
+      "spans": []
+    },
+    {
+      "text": "et pergens ad Emor patrem suum accipe mihi inquit puellam hanc coniugem;",
+      "spans": [
+        {
+          "start": 14,
+          "end": 18,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "et habitate nobiscum terra in potestate vestra est exercete negotiamini et possidete eam;",
+      "spans": []
+    },
+    {
+      "text": "nec distulit adulescens quin statim quod petebatur expleret amabat enim puellam valde et ipse erat inclitus in omni domo patris sui;",
+      "spans": []
+    },
+    {
+      "text": "et substantia eorum et pecora et cuncta quae possident nostra erunt tantum in hoc adquiescamus et habitantes simul unum efficiemus populum;",
+      "spans": []
+    },
+    {
+      "text": "quibus egressis inruerunt super occisos ceteri filii Iacob et depopulati sunt urbem in ultionem stupri;",
+      "spans": []
+    },
+    {
+      "text": "oves eorum et armenta et asinos cunctaque vastantes quae in domibus et in agris erant;",
+      "spans": []
+    },
+    {
+      "text": "responderunt numquid ut scorto abuti debuere sorore nostra;",
+      "spans": []
+    },
+    {
+      "text": "interea locutus est Deus ad Iacob surge et ascende Bethel et habita ibi facque altare Deo qui apparuit tibi quando fugiebas Esau fratrem tuum;",
+      "spans": [
+        {
+          "start": 28,
+          "end": 33,
+          "label": "PERSON"
+        },
+        {
+          "start": 51,
+          "end": 57,
+          "label": "LOC"
+        },
+        {
+          "start": 124,
+          "end": 128,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "surgite et ascendamus in Bethel ut faciamus ibi altare Deo qui exaudivit me in die tribulationis meae et fuit socius itineris mei;",
+      "spans": [
+        {
+          "start": 25,
+          "end": 31,
+          "label": "LOC"
+        }
+      ]
+    },
+    {
+      "text": "venit igitur Iacob Luzam quae est in terra Chanaan cognomento Bethel ipse et omnis populus cum eo;",
+      "spans": [
+        {
+          "start": 13,
+          "end": 18,
+          "label": "PERSON"
+        },
+        {
+          "start": 19,
+          "end": 24,
+          "label": "LOC"
+        },
+        {
+          "start": 43,
+          "end": 50,
+          "label": "LOC"
+        },
+        {
+          "start": 62,
+          "end": 68,
+          "label": "LOC"
+        }
+      ]
+    },
+    {
+      "text": "aedificavitque ibi altare et appellavit nomen loci Domus Dei ibi enim apparuit ei Deus cum fugeret fratrem suum;",
+      "spans": [
+        {
+          "start": 51,
+          "end": 60,
+          "label": "LOC"
+        }
+      ]
+    },
+    {
+      "text": "apparuit autem iterum Deus Iacob postquam reversus est de Mesopotamiam Syriae benedixitque ei;",
+      "spans": [
+        {
+          "start": 27,
+          "end": 32,
+          "label": "PERSON"
+        },
+        {
+          "start": 58,
+          "end": 70,
+          "label": "LOC"
+        },
+        {
+          "start": 71,
+          "end": 77,
+          "label": "LOC"
+        }
+      ]
+    },
+    {
+      "text": "dixitque ei ego Deus omnipotens cresce et multiplicare gentes et populi nationum erunt ex te reges de lumbis tuis egredientur;",
+      "spans": []
+    },
+    {
+      "text": "mortua est ergo Rahel et sepulta in via quae ducit Efratham haec est Bethleem;",
+      "spans": [
+        {
+          "start": 16,
+          "end": 21,
+          "label": "PERSON"
+        },
+        {
+          "start": 51,
+          "end": 59,
+          "label": "LOC"
+        },
+        {
+          "start": 69,
+          "end": 77,
+          "label": "LOC"
+        }
+      ]
+    },
+    {
+      "text": "egressus inde fixit tabernaculum trans turrem Gregis;",
+      "spans": [
+        {
+          "start": 39,
+          "end": 52,
+          "label": "LOC"
+        }
+      ]
+    },
+    {
+      "text": "filii Liae primogenitus Ruben et Symeon et Levi et Iudas et Isachar et Zabulon;",
+      "spans": [
+        {
+          "start": 6,
+          "end": 10,
+          "label": "PERSON"
+        },
+        {
+          "start": 24,
+          "end": 29,
+          "label": "PERSON"
+        },
+        {
+          "start": 33,
+          "end": 39,
+          "label": "PERSON"
+        },
+        {
+          "start": 43,
+          "end": 47,
+          "label": "PERSON"
+        },
+        {
+          "start": 51,
+          "end": 56,
+          "label": "PERSON"
+        },
+        {
+          "start": 60,
+          "end": 67,
+          "label": "PERSON"
+        },
+        {
+          "start": 71,
+          "end": 78,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "filii Rahel Ioseph et Beniamin;",
+      "spans": [
+        {
+          "start": 6,
+          "end": 11,
+          "label": "PERSON"
+        },
+        {
+          "start": 12,
+          "end": 18,
+          "label": "PERSON"
+        },
+        {
+          "start": 22,
+          "end": 30,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "venit etiam ad Isaac patrem suum in Mambre civitatem Arbee haec est Hebron in qua peregrinatus est Abraham et Isaac;",
+      "spans": [
+        {
+          "start": 15,
+          "end": 20,
+          "label": "PERSON"
+        },
+        {
+          "start": 36,
+          "end": 42,
+          "label": "LOC"
+        },
+        {
+          "start": 53,
+          "end": 58,
+          "label": "LOC"
+        },
+        {
+          "start": 68,
+          "end": 74,
+          "label": "LOC"
+        },
+        {
+          "start": 99,
+          "end": 106,
+          "label": "PERSON"
+        },
+        {
+          "start": 110,
+          "end": 115,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "et conpleti sunt dies Isaac centum octoginta annorum;",
+      "spans": [
+        {
+          "start": 22,
+          "end": 27,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Oolibama edidit Hieus et Hielom et Core hii filii Esau qui nati sunt ei in terra Chanaan;",
+      "spans": [
+        {
+          "start": 0,
+          "end": 8,
+          "label": "PERSON"
+        },
+        {
+          "start": 16,
+          "end": 21,
+          "label": "PERSON"
+        },
+        {
+          "start": 25,
+          "end": 31,
+          "label": "PERSON"
+        },
+        {
+          "start": 35,
+          "end": 39,
+          "label": "PERSON"
+        },
+        {
+          "start": 50,
+          "end": 54,
+          "label": "PERSON"
+        },
+        {
+          "start": 81,
+          "end": 88,
+          "label": "LOC"
+        }
+      ]
+    },
+    {
+      "text": "tulit autem Esau uxores suas et filios et filias et omnem animam domus suae et substantiam et pecora et cuncta quae habere poterat in terra Chanaan et abiit in alteram regionem recessitque a fratre suo Iacob;",
+      "spans": [
+        {
+          "start": 12,
+          "end": 16,
+          "label": "PERSON"
+        },
+        {
+          "start": 140,
+          "end": 147,
+          "label": "LOC"
+        },
+        {
+          "start": 202,
+          "end": 207,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "habitavitque Esau in monte Seir ipse est Edom;",
+      "spans": [
+        {
+          "start": 13,
+          "end": 17,
+          "label": "PERSON"
+        },
+        {
+          "start": 27,
+          "end": 31,
+          "label": "LOC"
+        },
+        {
+          "start": 41,
+          "end": 45,
+          "label": "LOC"
+        }
+      ]
+    },
+    {
+      "text": "hii quoque filii Rauhel filii Esau dux Naath dux Zara dux Semma dux Meza hii duces Rauhel in terra Edom isti filii Basemath uxoris Esau;",
+      "spans": [
+        {
+          "start": 17,
+          "end": 23,
+          "label": "PERSON"
+        },
+        {
+          "start": 30,
+          "end": 34,
+          "label": "PERSON"
+        },
+        {
+          "start": 39,
+          "end": 44,
+          "label": "PERSON"
+        },
+        {
+          "start": 49,
+          "end": 53,
+          "label": "PERSON"
+        },
+        {
+          "start": 58,
+          "end": 63,
+          "label": "PERSON"
+        },
+        {
+          "start": 68,
+          "end": 72,
+          "label": "PERSON"
+        },
+        {
+          "start": 83,
+          "end": 89,
+          "label": "PERSON"
+        },
+        {
+          "start": 99,
+          "end": 103,
+          "label": "PERSON"
+        },
+        {
+          "start": 115,
+          "end": 123,
+          "label": "PERSON"
+        },
+        {
+          "start": 131,
+          "end": 135,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "et isti filii Sobal Alvam et Maneeth et Hebal Sephi et Onam;",
+      "spans": [
+        {
+          "start": 14,
+          "end": 19,
+          "label": "PERSON"
+        },
+        {
+          "start": 20,
+          "end": 25,
+          "label": "PERSON"
+        },
+        {
+          "start": 29,
+          "end": 36,
+          "label": "PERSON"
+        },
+        {
+          "start": 40,
+          "end": 45,
+          "label": "PERSON"
+        },
+        {
+          "start": 46,
+          "end": 51,
+          "label": "PERSON"
+        },
+        {
+          "start": 55,
+          "end": 59,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "habuitque filium Disan et filiam Oolibama;",
+      "spans": [
+        {
+          "start": 17,
+          "end": 22,
+          "label": "PERSON"
+        },
+        {
+          "start": 33,
+          "end": 41,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "accidit quoque ut visum somnium referret fratribus quae causa maioris odii seminarium fuit;",
+      "spans": []
+    },
+    {
+      "text": "cumque fratres illius in pascendis gregibus patris morarentur in Sychem;",
+      "spans": [
+        {
+          "start": 65,
+          "end": 71,
+          "label": "LOC"
+        }
+      ]
+    },
+    {
+      "text": "invenitque eum vir errantem in agro et interrogavit quid quaereret;",
+      "spans": [
+        {
+          "start": 15,
+          "end": 18,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "at ille respondit fratres meos quaero indica mihi ubi pascant greges;",
+      "spans": [
+        {
+          "start": 3,
+          "end": 7,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "et mutuo loquebantur ecce somniator venit;",
+      "spans": []
+    },
+    {
+      "text": "non interficiamus animam eius nec effundatis sanguinem sed proicite eum in cisternam hanc quae est in solitudine manusque vestras servate innoxias hoc autem dicebat volens eripere eum de manibus eorum et reddere patri suo;",
+      "spans": [
+        {
+          "start": 212,
+          "end": 217,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "miseruntque in cisternam quae non habebat aquam;",
+      "spans": []
+    },
+    {
+      "text": "et sedentes ut comederent panem viderunt viatores Ismahelitas venire de Galaad et camelos eorum portare aromata et resinam et stacten in Aegyptum;",
+      "spans": [
+        {
+          "start": 50,
+          "end": 61,
+          "label": "NORP"
+        },
+        {
+          "start": 72,
+          "end": 78,
+          "label": "LOC"
+        },
+        {
+          "start": 137,
+          "end": 145,
+          "label": "LOC"
+        }
+      ]
+    },
+    {
+      "text": "melius est ut vendatur Ismahelitis et manus nostrae non polluantur frater enim et caro nostra est adquieverunt fratres sermonibus eius;",
+      "spans": [
+        {
+          "start": 23,
+          "end": 34,
+          "label": "NORP"
+        }
+      ]
+    },
+    {
+      "text": "scissisque vestibus indutus est cilicio lugens filium multo tempore;",
+      "spans": []
+    },
+    {
+      "text": "tertium quoque peperit quem appellavit Sela quo nato parere ultra cessavit;",
+      "spans": [
+        {
+          "start": 39,
+          "end": 43,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "dedit autem Iudas uxorem primogenito suo Her nomine Thamar;",
+      "spans": [
+        {
+          "start": 12,
+          "end": 17,
+          "label": "PERSON"
+        },
+        {
+          "start": 41,
+          "end": 44,
+          "label": "PERSON"
+        },
+        {
+          "start": 52,
+          "end": 58,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "instante autem partu apparuerunt gemini in utero atque in ipsa effusione infantum unus protulit manum in qua obsetrix ligavit coccinum dicens;",
+      "spans": []
+    },
+    {
+      "text": "qui optime noverat esse Dominum cum eo et omnia quae gereret ab eo dirigi in manu illius;",
+      "spans": []
+    },
+    {
+      "text": "et audisset vocem meam reliquit pallium quod tenebam et fugit foras;",
+      "spans": []
+    },
+    {
+      "text": "cumque vidisset me clamare reliquit pallium et fugit foras;",
+      "spans": []
+    },
+    {
+      "text": "his ita gestis accidit ut peccarent duo eunuchi pincerna regis Aegypti et pistor domino suo;",
+      "spans": [
+        {
+          "start": 63,
+          "end": 70,
+          "label": "LOC"
+        }
+      ]
+    },
+    {
+      "text": "at custos carceris tradidit eos Ioseph qui et ministrabat eis aliquantum temporis fluxerat et illi in custodia tenebantur;",
+      "spans": []
+    },
+    {
+      "text": "ad quos cum introisset Ioseph mane et vidisset eos tristes;",
+      "spans": [
+        {
+          "start": 23,
+          "end": 29,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "post quos auferet Pharao caput tuum ac suspendet te in cruce et lacerabunt volucres carnes tuas;",
+      "spans": [
+        {
+          "start": 18,
+          "end": 24,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "aliae quoque septem emergebant de flumine foedae confectaeque macie et pascebantur in ipsa amnis ripa in locis virentibus;",
+      "spans": []
+    },
+    {
+      "text": "devoraveruntque eas quarum mira species et habitudo corporum erat expergefactus Pharao;",
+      "spans": [
+        {
+          "start": 80,
+          "end": 86,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "aliae quoque totidem spicae tenues et percussae uredine oriebantur;",
+      "spans": []
+    },
+    {
+      "text": "audivimus quicquid postea rei probavit eventus ego enim redditus sum officio meo et ille suspensus est in cruce;",
+      "spans": []
+    },
+    {
+      "text": "narravit ergo ille quod viderat putabam me stare super ripam fluminis;",
+      "spans": [
+        {
+          "start": 14,
+          "end": 18,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "septem boves pulchrae et septem spicae plenae septem ubertatis anni sunt eandemque vim somnii conprehendunt;",
+      "spans": []
+    },
+    {
+      "text": "septem quoque boves tenues atque macilentae quae ascenderunt post eas et septem spicae tenues et vento urente percussae septem anni sunt venturae famis;",
+      "spans": []
+    },
+    {
+      "text": "qui hoc ordine conplebuntur;",
+      "spans": []
+    },
+    {
+      "text": "ecce septem anni venient fertilitatis magnae in universa terra Aegypti;",
+      "spans": [
+        {
+          "start": 63,
+          "end": 70,
+          "label": "LOC"
+        }
+      ]
+    },
+    {
+      "text": "quos sequentur septem anni alii tantae sterilitatis ut oblivioni tradatur cuncta retro abundantia consumptura est enim fames omnem terram;",
+      "spans": []
+    },
+    {
+      "text": "quod autem vidisti secundo ad eandem rem pertinens somnium firmitatis indicium est eo quod fiat sermo Dei et velocius impleatur;",
+      "spans": []
+    },
+    {
+      "text": "placuit Pharaoni consilium et cunctis ministris eius;",
+      "spans": [
+        {
+          "start": 8,
+          "end": 16,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "tu eris super domum meam et ad tui oris imperium cunctus populus oboediet uno tantum regni solio te praecedam;",
+      "spans": []
+    },
+    {
+      "text": "dicens quoque rursum Pharao ad Ioseph ecce constitui te super universam terram Aegypti;",
+      "spans": [
+        {
+          "start": 21,
+          "end": 27,
+          "label": "PERSON"
+        },
+        {
+          "start": 79,
+          "end": 86,
+          "label": "LOC"
+        }
+      ]
+    },
+    {
+      "text": "fecitque ascendere super currum suum secundum clamante praecone ut omnes coram eo genuflecterent et praepositum esse scirent universae terrae Aegypti;",
+      "spans": [
+        {
+          "start": 142,
+          "end": 149,
+          "label": "LOC"
+        }
+      ]
+    },
+    {
+      "text": "omnesque provinciae veniebant in Aegyptum ut emerent escas et malum inopiae temperarent;",
+      "spans": [
+        {
+          "start": 33,
+          "end": 41,
+          "label": "LOC"
+        }
+      ]
+    },
+    {
+      "text": "descendentes igitur fratres Ioseph decem ut emerent frumenta in Aegypto;",
+      "spans": [
+        {
+          "start": 28,
+          "end": 34,
+          "label": "PERSON"
+        },
+        {
+          "start": 64,
+          "end": 71,
+          "label": "LOC"
+        }
+      ]
+    },
+    {
+      "text": "recordatusque somniorum quae aliquando viderat ait exploratores estis ut videatis infirmiora terrae venistis;",
+      "spans": []
+    },
+    {
+      "text": "omnes filii unius viri sumus pacifici venimus nec quicquam famuli tui machinantur mali;",
+      "spans": []
+    },
+    {
+      "text": "iam nunc experimentum vestri capiam per salutem Pharaonis non egrediemini hinc donec veniat frater vester minimus;",
+      "spans": [
+        {
+          "start": 48,
+          "end": 57,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "si pacifici estis frater vester unus ligetur in carcere vos autem abite et ferte frumenta quae emistis in domos vestras;",
+      "spans": []
+    },
+    {
+      "text": "locutus est nobis dominus terrae dure et putavit nos exploratores provinciae;",
+      "spans": []
+    },
+    {
+      "text": "dixit pater Iacob absque liberis me esse fecistis Ioseph non est super Symeon tenetur in vinculis Beniamin auferetis in me haec mala omnia reciderunt;",
+      "spans": [
+        {
+          "start": 12,
+          "end": 17,
+          "label": "PERSON"
+        },
+        {
+          "start": 50,
+          "end": 56,
+          "label": "PERSON"
+        },
+        {
+          "start": 71,
+          "end": 77,
+          "label": "PERSON"
+        },
+        {
+          "start": 98,
+          "end": 106,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "cui respondit Ruben duos filios meos interfice si non reduxero illum tibi trade in manu mea et ego eum restituam;",
+      "spans": [
+        {
+          "start": 14,
+          "end": 19,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Iudas quoque dixit patri suo mitte puerum mecum ut proficiscamur et possimus vivere ne moriamur nos et parvuli nostri;",
+      "spans": [
+        {
+          "start": 0,
+          "end": 5,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "igitur Israhel pater eorum dixit ad eos si sic necesse est facite quod vultis sumite de optimis terrae fructibus in vasis vestris et deferte viro munera modicum resinae et mellis et styracis et stactes et terebinthi et amigdalarum;",
+      "spans": []
+    },
+    {
+      "text": "Deus autem meus omnipotens faciat vobis eum placabilem et remittat vobiscum fratrem vestrum quem tenet et hunc Beniamin ego autem quasi orbatus absque liberis ero;",
+      "spans": [
+        {
+          "start": 111,
+          "end": 119,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "tulerunt ergo viri munera et pecuniam duplicem et Beniamin descenderuntque in Aegyptum et steterunt coram Ioseph;",
+      "spans": [
+        {
+          "start": 50,
+          "end": 58,
+          "label": "PERSON"
+        },
+        {
+          "start": 78,
+          "end": 86,
+          "label": "LOC"
+        },
+        {
+          "start": 106,
+          "end": 112,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "ibique exterriti dixerunt mutuo propter pecuniam quam rettulimus prius in saccis nostris introducti sumus ut devolvat in nos calumniam et violenter subiciat servituti et nos et asinos nostros;",
+      "spans": []
+    },
+    {
+      "text": "sed et aliud adtulimus argentum ut emamus quae necessaria sunt non est in nostra conscientia quis eam posuerit in marsuppiis nostris;",
+      "spans": []
+    },
+    {
+      "text": "et introductis domum adtulit aquam et laverunt pedes suos deditque pabula asinis eorum;",
+      "spans": []
+    },
+    {
+      "text": "igitur ingressus est Ioseph domum suam obtuleruntque ei munera tenentes in manibus et adoraverunt proni in terram;",
+      "spans": [
+        {
+          "start": 21,
+          "end": 27,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "sumptis partibus quas ab eo acceperant maiorque pars venit Beniamin ita ut quinque partibus excederet biberuntque et inebriati sunt cum eo;",
+      "spans": [
+        {
+          "start": 59,
+          "end": 67,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "igitur si intravero ad servum tuum patrem nostrum et puer defuerit cum anima illius ex huius anima pendeat;",
+      "spans": []
+    },
+    {
+      "text": "ego proprie servus tuus qui in meam hunc recepi fidem et spopondi dicens nisi reduxero eum peccati reus ero in patrem meum omni tempore;",
+      "spans": []
+    },
+    {
+      "text": "non se poterat ultra cohibere Ioseph multis coram adstantibus unde praecepit ut egrederentur cuncti foras et nullus interesset alienus agnitioni mutuae;",
+      "spans": [
+        {
+          "start": 30,
+          "end": 36,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "elevavitque vocem cum fletu quam audierunt Aegyptii omnisque domus Pharaonis;",
+      "spans": [
+        {
+          "start": 43,
+          "end": 51,
+          "label": "NORP"
+        },
+        {
+          "start": 67,
+          "end": 76,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "en oculi vestri et oculi fratris mei Beniamin vident quod os meum loquatur ad vos;",
+      "spans": [
+        {
+          "start": 37,
+          "end": 45,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "fecerunt filii Israhel ut eis mandatum fuerat quibus dedit Ioseph plaustra secundum Pharaonis imperium et cibaria in itinere;",
+      "spans": [
+        {
+          "start": 15,
+          "end": 22,
+          "label": "PERSON"
+        },
+        {
+          "start": 59,
+          "end": 65,
+          "label": "PERSON"
+        },
+        {
+          "start": 84,
+          "end": 93,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "tantundem pecuniae et vestium mittens patri suo addens eis asinos decem qui subveherent ex omnibus divitiis Aegypti et totidem asinas triticum in itinere panesque portantes;",
+      "spans": [
+        {
+          "start": 108,
+          "end": 115,
+          "label": "LOC"
+        }
+      ]
+    },
+    {
+      "text": "et nuntiaverunt ei dicentes Ioseph vivit et ipse dominatur in omni terra Aegypti quo audito quasi de gravi somno evigilans tamen non credebat eis;",
+      "spans": [
+        {
+          "start": 28,
+          "end": 34,
+          "label": "PERSON"
+        },
+        {
+          "start": 73,
+          "end": 80,
+          "label": "LOC"
+        }
+      ]
+    },
+    {
+      "text": "illi contra referebant omnem ordinem rei cumque vidisset plaustra et universa quae miserat revixit spiritus eius;",
+      "spans": []
+    },
+    {
+      "text": "et ait sufficit mihi si adhuc Ioseph filius meus vivit vadam et videbo illum antequam moriar;",
+      "spans": [
+        {
+          "start": 30,
+          "end": 36,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "filii Nepthalim Iasihel et Guni et Hieser et Sallem;",
+      "spans": [
+        {
+          "start": 6,
+          "end": 15,
+          "label": "PERSON"
+        },
+        {
+          "start": 16,
+          "end": 23,
+          "label": "PERSON"
+        },
+        {
+          "start": 27,
+          "end": 31,
+          "label": "PERSON"
+        },
+        {
+          "start": 35,
+          "end": 41,
+          "label": "PERSON"
+        },
+        {
+          "start": 45,
+          "end": 51,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "quo cum pervenisset iuncto Ioseph curru suo ascendit obviam patri ad eundem locum vidensque eum inruit super collum eius et inter amplexus flevit;",
+      "spans": [
+        {
+          "start": 27,
+          "end": 33,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "cumque vocaverit vos et dixerit quod est opus vestrum;",
+      "spans": []
+    },
+    {
+      "text": "dixit itaque rex ad Ioseph pater tuus et fratres tui venerunt ad te;",
+      "spans": [
+        {
+          "start": 20,
+          "end": 26,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "quae cum adduxissent dedit eis alimenta pro equis et ovibus et bubus et asinis sustentavitque eos illo anno pro commutatione pecorum;",
+      "spans": []
+    },
+    {
+      "text": "veneruntque anno secundo et dixerunt ei non celamus dominum nostrum quod deficiente pecunia pecora simul defecerint nec clam te est quod absque corporibus et terra nihil habeamus;",
+      "spans": []
+    },
+    {
+      "text": "dictumque est seni ecce filius tuus Ioseph venit ad te qui confortatus sedit in lectulo;",
+      "spans": [
+        {
+          "start": 36,
+          "end": 42,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "qui extendens manum dextram posuit super caput Ephraim iunioris fratris sinistram autem super caput Manasse qui maior natu erat commutans manus;",
+      "spans": [
+        {
+          "start": 47,
+          "end": 54,
+          "label": "PERSON"
+        },
+        {
+          "start": 100,
+          "end": 107,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "videns autem Ioseph quod posuisset pater suus dexteram manum super caput Ephraim graviter accepit et adprehensam patris manum levare conatus est de capite Ephraim et transferre super caput Manasse;",
+      "spans": [
+        {
+          "start": 13,
+          "end": 19,
+          "label": "PERSON"
+        },
+        {
+          "start": 73,
+          "end": 80,
+          "label": "PERSON"
+        },
+        {
+          "start": 155,
+          "end": 162,
+          "label": "PERSON"
+        },
+        {
+          "start": 189,
+          "end": 196,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Ruben primogenitus meus tu fortitudo mea et principium doloris mei prior in donis maior imperio;",
+      "spans": [
+        {
+          "start": 0,
+          "end": 5,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Symeon et Levi fratres vasa iniquitatis bellantia;",
+      "spans": [
+        {
+          "start": 0,
+          "end": 6,
+          "label": "PERSON"
+        },
+        {
+          "start": 10,
+          "end": 14,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "ligans ad vineam pullum suum et ad vitem o fili mi asinam suam lavabit vino stolam suam et sanguine uvae pallium suum;",
+      "spans": []
+    },
+    {
+      "text": "Gad accinctus proeliabitur ante eum et ipse accingetur retrorsum;",
+      "spans": [
+        {
+          "start": 0,
+          "end": 3,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "sed exasperaverunt eum et iurgati sunt invideruntque illi habentes iacula;",
+      "spans": []
+    },
+    {
+      "text": "praecepitque servis suis medicis ut aromatibus condirent patrem;",
+      "spans": []
+    },
+    {
+      "text": "eo quod pater meus adiuraverit me dicens en morior in sepulchro meo quod fodi mihi in terra Chanaan sepelies me ascendam igitur et sepeliam patrem meum ac revertar;",
+      "spans": [
+        {
+          "start": 92,
+          "end": 99,
+          "label": "LOC"
+        }
+      ]
+    },
+    {
+      "text": "fecerunt ergo filii Iacob sicut praeceperat eis;",
+      "spans": [
+        {
+          "start": 20,
+          "end": 25,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "quo mortuo timentes fratres eius et mutuo conloquentes ne forte memor sit iniuriae quam passus est et reddat nobis malum omne quod fecimus;",
+      "spans": []
+    },
+    {
+      "text": "ut haec tibi verbis illius diceremus obsecro ut obliviscaris sceleris fratrum tuorum et peccati atque malitiae quam exercuerunt in te nos quoque oramus ut servis Dei patris tui dimittas iniquitatem hanc quibus auditis flevit Ioseph;",
+      "spans": [
+        {
+          "start": 225,
+          "end": 231,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "et habitavit in Aegypto cum omni domo patris sui vixitque centum decem annis et vidit Ephraim filios usque ad tertiam generationem filii quoque Machir filii Manasse nati sunt in genibus Ioseph;",
+      "spans": [
+        {
+          "start": 16,
+          "end": 23,
+          "label": "LOC"
+        },
+        {
+          "start": 86,
+          "end": 93,
+          "label": "PERSON"
+        },
+        {
+          "start": 144,
+          "end": 150,
+          "label": "PERSON"
+        },
+        {
+          "start": 157,
+          "end": 164,
+          "label": "PERSON"
+        },
+        {
+          "start": 186,
+          "end": 192,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "quibus transactis locutus est fratribus suis post mortem meam Deus visitabit vos et ascendere faciet de terra ista ad terram quam iuravit Abraham Isaac et Iacob;",
+      "spans": [
+        {
+          "start": 138,
+          "end": 145,
+          "label": "PERSON"
+        },
+        {
+          "start": 146,
+          "end": 151,
+          "label": "PERSON"
+        },
+        {
+          "start": 155,
+          "end": 160,
+          "label": "PERSON"
+        }
+      ]
+    }
+  ]
+}
