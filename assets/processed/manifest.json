@@ -1,0 +1,177 @@
+{
+  "corpus_version": "3.9.2",
+  "git_commit": "750986353d44ccbe27e334858b44765e8588b7eb",
+  "built_at": "2026-02-24T20:23:09.465203+00:00",
+  "collections_dir": "assets/collections",
+  "dedup": true,
+  "totals": {
+    "train": {
+      "files": 11,
+      "sents": 16350,
+      "ents": 26683
+    },
+    "dev": {
+      "files": 11,
+      "sents": 4054,
+      "ents": 6856
+    },
+    "within_file_dedup": 770,
+    "cross_split_dedup": 214
+  },
+  "files": [
+    {
+      "file": "bootstrap/bootstrap-herodotos-dev.json",
+      "split": "dev",
+      "sentences": 758,
+      "entities": 1444,
+      "deduped": 78
+    },
+    {
+      "file": "bootstrap/bootstrap-herodotos-train.json",
+      "split": "train",
+      "sentences": 2649,
+      "entities": 5519,
+      "deduped": 692
+    },
+    {
+      "file": "bootstrap/bootstrap-neral-dev.json",
+      "split": "dev",
+      "sentences": 111,
+      "entities": 247,
+      "deduped": 0
+    },
+    {
+      "file": "bootstrap/bootstrap-neral-train.json",
+      "split": "train",
+      "sentences": 444,
+      "entities": 980,
+      "deduped": 0
+    },
+    {
+      "file": "catena/catena-dcd.1-dev.json",
+      "split": "dev",
+      "sentences": 89,
+      "entities": 23,
+      "deduped": 0
+    },
+    {
+      "file": "catena/catena-dcd.1-train.json",
+      "split": "train",
+      "sentences": 459,
+      "entities": 176,
+      "deduped": 0
+    },
+    {
+      "file": "catena/catena-dcd.2-dev.json",
+      "split": "dev",
+      "sentences": 65,
+      "entities": 33,
+      "deduped": 0
+    },
+    {
+      "file": "catena/catena-dcd.2-train.json",
+      "split": "train",
+      "sentences": 269,
+      "entities": 192,
+      "deduped": 0
+    },
+    {
+      "file": "nt/nt-matthew-dev.json",
+      "split": "dev",
+      "sentences": 210,
+      "entities": 141,
+      "deduped": 0
+    },
+    {
+      "file": "nt/nt-matthew-train.json",
+      "split": "train",
+      "sentences": 859,
+      "entities": 478,
+      "deduped": 0
+    },
+    {
+      "file": "ot/ot-genesis-dev.json",
+      "split": "dev",
+      "sentences": 319,
+      "entities": 387,
+      "deduped": 0
+    },
+    {
+      "file": "ot/ot-genesis-train.json",
+      "split": "train",
+      "sentences": 1203,
+      "entities": 1575,
+      "deduped": 0
+    },
+    {
+      "file": "primer/primer-ritchies-dev.json",
+      "split": "dev",
+      "sentences": 190,
+      "entities": 166,
+      "deduped": 0
+    },
+    {
+      "file": "primer/primer-ritchies-train.json",
+      "split": "train",
+      "sentences": 699,
+      "entities": 566,
+      "deduped": 0
+    },
+    {
+      "file": "primer/primer-sonnenschein_1902-dev.json",
+      "split": "dev",
+      "sentences": 104,
+      "entities": 97,
+      "deduped": 0
+    },
+    {
+      "file": "primer/primer-sonnenschein_1902-train.json",
+      "split": "train",
+      "sentences": 399,
+      "entities": 288,
+      "deduped": 0
+    },
+    {
+      "file": "primer/primer-sonnenschein_1903-dev.json",
+      "split": "dev",
+      "sentences": 65,
+      "entities": 77,
+      "deduped": 0
+    },
+    {
+      "file": "primer/primer-sonnenschein_1903-train.json",
+      "split": "train",
+      "sentences": 267,
+      "entities": 284,
+      "deduped": 0
+    },
+    {
+      "file": "tesserae/tesserae-ovid.metamorphoses.1-dev.json",
+      "split": "dev",
+      "sentences": 74,
+      "entities": 28,
+      "deduped": 0
+    },
+    {
+      "file": "tesserae/tesserae-ovid.metamorphoses.1-train.json",
+      "split": "train",
+      "sentences": 324,
+      "entities": 131,
+      "deduped": 0
+    },
+    {
+      "file": "ud/ud-dev.json",
+      "split": "dev",
+      "sentences": 2069,
+      "entities": 4304,
+      "deduped": 0
+    },
+    {
+      "file": "ud/ud-train.json",
+      "split": "train",
+      "sentences": 8992,
+      "entities": 17530,
+      "deduped": 0
+    }
+  ]
+}

@@ -1,0 +1,473 @@
+{
+  "metadata": {
+    "title": "De Civitate Dei - Book 2",
+    "author": "Augustine of Hippo",
+    "source": "https://www.thelatinlibrary.com/augustine/civ2.shtml",
+    "latincy-ner-project": "catena",
+    "latincy-ner-project-subset": "dcd.2-dev",
+    "language": "la",
+    "genre": "theology",
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "author_wikidata": "https://www.wikidata.org/wiki/Q8018",
+    "work_wikidata": "https://www.wikidata.org/wiki/Q212318",
+    "split_from": "catena-dcd.2.json"
+  },
+  "annotation": {
+    "spacy_model": "la_core_web_lg",
+    "spacy_model_version": "3.8.0",
+    "tagset": [
+      "PERSON",
+      "LOC",
+      "NORP"
+    ],
+    "annotators": [
+      "Patrick J. Burns"
+    ],
+    "review_level": "silver"
+  },
+  "data": [
+    {
+      "text": "Si rationi perspicuae ueritatis infirmus humanae consuetudinis sensus non auderet obsistere, sed doctrinae salubri languorem suum tamquam medicinae subderet, donec diuino adiutorio fide pietatis inpetrante sanaretur, non multo sermone opus esset ad conuincendum quemlibet uanae opinationis errorem his, qui recte sentiunt et sensa uerbis sufficientibus explicant.",
+      "spans": []
+    },
+    {
+      "text": "Quam ob rem nec te ipsum, <mi> fili Marcelline, nec alios, quibus hic labor noster in Christi caritate utiliter ac liberaliter seruit, tales meorum scriptorum uelim iudices, qui responsionem semper desiderent, cum his quae leguntur audierint aliquid contradici, ne fiant similes earum muliercularum, quas commemorat apostolus semper discentes et numquam ad ueritatis scientiam peruenientes.",
+      "spans": [
+        {
+          "start": 36,
+          "end": 46,
+          "label": "PERSON"
+        },
+        {
+          "start": 86,
+          "end": 93,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Superiore itaque libro, cum de ciuitate Dei dicere instituissem, unde hoc uniuersum opus illo adiuuante in manus sumptum est, occurrit mihi resistendum esse primitus eis, qui haec bella, quibus mundus iste conteritur, maximeque Romanae urbis recentem a barbaris uastationem Christianae religioni tribuunt, qua prohibentur nefandis sacrificiis seruire daemonibus, cum potius hoc deberent tribuere Christo, quod propter eius nomen contra institutum moremque bellorum eis, quo confugerent, religiosa et amplissima loca barbari libera praebuerunt, atque in multis famulatum deditum Christo non solum uerum, sed etiam timore confictum sic honorauerunt, ut, quod in eos belli iure fieri licuisset, inlicitum sibi esse iudicarent.",
+      "spans": [
+        {
+          "start": 228,
+          "end": 235,
+          "label": "NORP"
+        },
+        {
+          "start": 274,
+          "end": 285,
+          "label": "NORP"
+        },
+        {
+          "start": 396,
+          "end": 403,
+          "label": "PERSON"
+        },
+        {
+          "start": 578,
+          "end": 585,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Inde incidit quaestio, cur haec diuina beneficia et ad impios ingratosque peruenerint, et cur illa itidem dura, quae hostiliter facta sunt, pios cum impiis pariter adflixerint?",
+      "spans": []
+    },
+    {
+      "text": "Quam quaestionem per multa diffusam (in omnibus enim cotidianis uel Dei muneribus uel hominum cladibus, quorum utraque bene ac male uiuentibus permixte atque indiscrete saepe accidunt, solet multos mouere) ut pro suscepti operis necessitate dissoluerem, aliquantum inmoratus sum maxime ad consolandas sanctas feminas et pie castas, in quibus ab hoste aliquid perpetratum est, quod intulit uerecundiae dolorem, etsi non abstulit pudicitiae firmitatem, ne paeniteat eas uitae, quas non est unde possit paenitere nequitiae.",
+      "spans": []
+    },
+    {
+      "text": "Quibus dictis primum terminaui librum.",
+      "spans": []
+    },
+    {
+      "text": "Nam qui eorum studiis liberalibus instituti amant historiam, facillime ista nouerunt;",
+      "spans": []
+    },
+    {
+      "text": "quorum si quid nunc passi fuerint, nobis inputanda esse contendunt.",
+      "spans": []
+    },
+    {
+      "text": "Sed respondetur, quod uoluntate propria quisque malus est.",
+      "spans": []
+    },
+    {
+      "text": "Habet enim quiddam erga parentes humana uerecundia, quod nec ipsa nequitia possit auferre.",
+      "spans": []
+    },
+    {
+      "text": "Quae sunt sacrilegia, si illa sunt sacra?",
+      "spans": []
+    },
+    {
+      "text": "Et haec fercula appellabantur, quasi celebraretur conuiuium, quo uelut suis epulis inmunda daemonia pascerentur.",
+      "spans": []
+    },
+    {
+      "text": "Mulier autem uirorum pretiosas animas captat, ut ille magnae indolis animus hoc uelut diuino testimonio sublimatus et uere se optimum existimans ueram pietatem religionemque non quaereret, sine qua omne quamuis laudabile ingenium superbia uanescit et decidit.",
+      "spans": []
+    },
+    {
+      "text": "Quo modo igitur nisi insidiose quaereret dea illa optimum uirum, cum talia quaerat in suis sacris, qualia uiri optimi abhorrent suis adhibere conuiuiis?",
+      "spans": []
+    },
+    {
+      "text": "Hinc est quod de uita et moribus ciuitatum atque populorum a quibus colebantur illa numina non curarunt, ut tam horrendis eos et detestabilibus malis non in agro et uitibus, non in domo atque pecunia, non denique in ipso corpore, quod menti subditur, sed in ipsa mente, in ipso rectore carnis animo, eos impleri ac pessimos fieri sine ulla sua terribili prohibitione permitterent.",
+      "spans": []
+    },
+    {
+      "text": "quanto iustius talibus diuini honores decernerentur!",
+      "spans": []
+    },
+    {
+      "text": "Hinc apud Terentium flagitiosus adulescens spectat tabulam quandam pictam in pariete, ubi inerat pictura haec, Iouem Quo pacto Danaae misisse aiunt quondam in gremium imbrem aureum, atque ab hac tanta auctoritate adhibet patrocinium turpitudini suae, cum in ea se iactat imitari deum.",
+      "spans": [
+        {
+          "start": 10,
+          "end": 19,
+          "label": "PERSON"
+        },
+        {
+          "start": 111,
+          "end": 116,
+          "label": "PERSON"
+        },
+        {
+          "start": 127,
+          "end": 133,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Nolo dicere illa mystica quam ista theatrica esse turpiora;",
+      "spans": []
+    },
+    {
+      "text": "Et haec sunt scaenicorum tolerabiliora ludorum, comoediae scilicet et tragoediae, hoc est fabulae poetarum agendae in spectaculis multa rerum turpitudine, sed nulla saltem, sicut alia multa, uerborum obscenitate compositae;",
+      "spans": []
+    },
+    {
+      "text": "At Romani, sicut in illa de re publica disputatione Scipio gloriatur, probris et iniuriis poetarum subiectam uitam famamque habere noluerunt, capite etiam sancientes, tale carmen condere si quis auderet.",
+      "spans": [
+        {
+          "start": 3,
+          "end": 9,
+          "label": "NORP"
+        },
+        {
+          "start": 52,
+          "end": 58,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "quos cum scirent non solum patienter, uerum etiam libenter poetarum probris maledictisque lacerari, se potius quam illos huiusce modi iniuriis indignos esse duxerunt seque ab eis etiam lege munierunt, illorum autem ista etiam sacris sollemnitatibus miscuerunt.",
+      "spans": []
+    },
+    {
+      "text": "Hoc sane utilius feliciusque successit, quod, etsi ad memoriam fraudis illius circensium spectaculum mansit, facinoris tamen in illa ciuitate et imperio non placuit exemplum, faciliusque Romani in hoc errauerunt, ut post illam iniquitatem deum sibi Romulum consecrarent, quam ut in feminis rapiendis factum eius imitandum lege ulla uel more permitterent.",
+      "spans": [
+        {
+          "start": 187,
+          "end": 193,
+          "label": "NORP"
+        },
+        {
+          "start": 249,
+          "end": 256,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Multa commemorare iam piget foeda et iniusta, quibus agitabatur illa ciuitas, cum potentes plebem sibi subdere conarentur plebsque illis subdi recusaret, et utriusque partis defensores magis studiis agerent amore uincendi, quam aequum et bonum quicquam cogitarent.",
+      "spans": []
+    },
+    {
+      "text": "Nam cum optimis moribus et maxima concordia populum Romanum inter secundum et postremum bellum Carthaginiense commemorasset egisse causamque huius boni non amorem iustitiae, sed stante Carthagine metum pacis infidae fuisse dixisset (unde et Nasica ille ad reprimendam nequitiam seruandosque istos mores optimos, ut metu uitia cohiberentur, Carthaginem nolebat euertit:",
+      "spans": [
+        {
+          "start": 52,
+          "end": 59,
+          "label": "NORP"
+        },
+        {
+          "start": 185,
+          "end": 195,
+          "label": "LOC"
+        },
+        {
+          "start": 241,
+          "end": 247,
+          "label": "PERSON"
+        },
+        {
+          "start": 340,
+          "end": 351,
+          "label": "LOC"
+        }
+      ]
+    },
+    {
+      "text": "continuo subiecit idem Sallustius et ait:",
+      "spans": [
+        {
+          "start": 23,
+          "end": 33,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Discordiarum et certaminis utrimque finis fuit secundum bellum Punicum.",
+      "spans": [
+        {
+          "start": 63,
+          "end": 70,
+          "label": "NORP"
+        }
+      ]
+    },
+    {
+      "text": "cur mala praesentia Christo inputant, qui doctrina saluberrima et falsos ac fallaces deos coli uetat et istas hominum noxias flagitiosasque cupiditates diuina auctoritate detestans atque condemnans his malis tabescenti ac labenti mundo ubique familiam suam sensim subtrahit, qua condat aeternam et non plausu uanitatis, sed iudicio ueritatis gloriosissimam ciuitatem?",
+      "spans": [
+        {
+          "start": 20,
+          "end": 27,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Et tamen luxu atque auaritia saeuisque ac turpibus moribus ante aduentum Christi rem publicam pessimam ac flagitiosissimam factam non inputant diis suis;",
+      "spans": [
+        {
+          "start": 73,
+          "end": 80,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "adflictionem uero eius, quamcumque isto tempore superbia deliciaeque eorum perpessae fuerint, religioni increpitant Christianae.",
+      "spans": [
+        {
+          "start": 116,
+          "end": 127,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Cuius praecepta de iustis probisque moribus si simul audirent atque curarent reges terrae et omnes populi, principes et omnes iudices terrae, iuuenes et uirgines, seniores cum iunioribus, aetas omnis capax et uterque sexus, et quos baptista lohannes adloquitur, exactores ipsi atque milites:",
+      "spans": []
+    },
+    {
+      "text": "et terras uitae praesentis ornaret sua felicitate res publica, et uitae aeternae culmen beatissime regnatura conscenderet.",
+      "spans": []
+    },
+    {
+      "text": "ceterum de suis uel cum suis uel cum quibusque uolentibus faciat quisque quod libet.",
+      "spans": []
+    },
+    {
+      "text": "Abundent publica scorta uel propter omnes, quibus frui placuerit, uel propter eos maxime, qui habere priuata non possunt.",
+      "spans": []
+    },
+    {
+      "text": "tantum efficiant, ut tali felicitati nihil ab hoste, nihil a peste, nihil ab ulla clade timeatur.",
+      "spans": []
+    },
+    {
+      "text": "Primum si ita est, non habent cur querantur de religione Christiana, quod hac offensi eos dii sui deseruerint, quoniam quidem maiores eorum iam pridem moribus suis ab Urbis altaribus tam multos ac minutos deos tamquam muscas abegerunt.",
+      "spans": [
+        {
+          "start": 57,
+          "end": 67,
+          "label": "NORP"
+        }
+      ]
+    },
+    {
+      "text": "Sed tamen haec numinum turba ubi erat, cum longe antequam mores corrumperentur antiqui a Gallis Roma capta et incensa est?",
+      "spans": [
+        {
+          "start": 89,
+          "end": 95,
+          "label": "NORP"
+        },
+        {
+          "start": 96,
+          "end": 100,
+          "label": "LOC"
+        }
+      ]
+    },
+    {
+      "text": "Quod si ita esse concedunt, compendio nihil eos prodesse et coli superfluo confitentur.",
+      "spans": []
+    },
+    {
+      "text": "si nihil etiam in his transeuntibus et temporalibus bonis uel eis quos oderunt nocent, uel eis quos diligunt prosunt, ut quid coluntur, ut quid tanto studio colendi requiruntur?",
+      "spans": []
+    },
+    {
+      "text": "Prorsus ibi erant;",
+      "spans": []
+    },
+    {
+      "text": "\"A Bellona nuntius uenio, uictoria tua est, Sulla.",
+      "spans": [
+        {
+          "start": 3,
+          "end": 10,
+          "label": "PERSON"
+        },
+        {
+          "start": 44,
+          "end": 49,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "\"Victoria",
+      "spans": []
+    },
+    {
+      "text": "tua est, Sulla, \"atque ut id diuino spiritu clamare crederetur, nuntiauit etiam aliquid et prope futurum et mox factum, unde longe aberat per quem ille spiritus loquebatur;",
+      "spans": [
+        {
+          "start": 9,
+          "end": 14,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "quod etiam in quadam Campaniae lata planitie, ubi non multo post ciuiles acies nefario proelio conflixerunt, ipsi inter se prius pugnare uisi sunt.",
+      "spans": [
+        {
+          "start": 21,
+          "end": 30,
+          "label": "LOC"
+        }
+      ]
+    },
+    {
+      "text": "si autem se pugnasse finxerunt, quid aliud egerunt, nisi ut sibi Romani bellando ciuiliter tamquam deorum exemplo nullum nefas admittere uiderentur?",
+      "spans": [
+        {
+          "start": 65,
+          "end": 71,
+          "label": "NORP"
+        }
+      ]
+    },
+    {
+      "text": "Hac astutia maligni spiritus etiam ludos, unde multa iam dixi, scaenicos sibi dicari sacrarique iusserunt, ubi tanta deorum flagitia theatricis canticis atque fabularum actionibus celebrata et quisquis eos fecisse crederet et quisquis non crederet, sed tamen illos libentissime sibi talia exhiberi cerneret, securus imitaretur.",
+      "spans": []
+    },
+    {
+      "text": "immo eosdem mores uelut suis exemplis auctoritate noxia corrumpendo egerunt potius, ut periret.",
+      "spans": []
+    },
+    {
+      "text": "Quam non ideo tunc perisse quisquam, ut arbitror, iam dicere audebit, quia \"discessere omnes adytis arisque relictis di\", uelut amici uirtutibus, cum uitiis hominum offenderentur;",
+      "spans": []
+    },
+    {
+      "text": "Quod si ita est, hoc ipso callidior aduertenda est et conuincenda malitia spirituum noxiorum.",
+      "spans": []
+    },
+    {
+      "text": "Illud enim fit, ut honestiores, qui pauci sunt, capiantur;",
+      "spans": []
+    },
+    {
+      "text": "Nonnullae pudentiores auertebant faciem ab impuris motibus scaenicorum et artem flagitii furtiua intentione discebant.",
+      "spans": []
+    },
+    {
+      "text": "Hominibus namque uerecundabantur, ne auderent impudicos gestus ore libero cernere;",
+      "spans": []
+    },
+    {
+      "text": "Hoc tamen palam discendum praebebatur in templo, ad quod perpetrandum saltem secretum quaerebatur in domo, mirante nimium, si ullus ibi erat, pudore mortalium, quod humana flagitia non libere homines committerent, quae apud deos etiam religiose discerent iratos habituri, nisi etiam exhibere curarent.",
+      "spans": []
+    },
+    {
+      "text": "qui ludi tanto deuotius, quanto turpius celebrari solent.",
+      "spans": []
+    },
+    {
+      "text": "Quando quidem ut auerteretur quod metuebatur ab hoste in corporibus, eo modo dii conciliabantur, quo uirtus debellaretur in mentibus, qui non opponerentur defensores oppugnatoribus moenium, nisi prius fierent expugnatores morum bonorum.",
+      "spans": []
+    },
+    {
+      "text": "Expergiscere, dies est, sicut experrecta es in quibusdam, de quorum uirtute perfecta et pro fide uera etiam passionibus gloriamur, qui usquequaque aduersus potestates inimicissimas confligentes easque fortiter moriendo uincentes sanguine nobis hanc patriam peperere suo.",
+      "spans": []
+    },
+    {
+      "text": "Illic enim tibi non Vestalis focus, non lapis Capitolinus, sed Deus unus et uerus nec metas rerum nec tempora ponit, Imperium sine fine dabit.",
+      "spans": []
+    },
+    {
+      "text": "Noli deos falsos fallacesque requirere;",
+      "spans": []
+    },
+    {
+      "text": "abice potius atque contemne in ueram emicans libertatem.",
+      "spans": []
+    },
+    {
+      "text": "Non tam luno Troianis, a quibus carnalem originem ducis, arces uidetur inuidisse Romanas, quam isti daemones, quos adhuc deos putas, omni generi hominum sedes inuident sempiternas.",
+      "spans": [
+        {
+          "start": 8,
+          "end": 12,
+          "label": "PERSON"
+        },
+        {
+          "start": 13,
+          "end": 21,
+          "label": "NORP"
+        },
+        {
+          "start": 81,
+          "end": 88,
+          "label": "NORP"
+        }
+      ]
+    },
+    {
+      "text": "Patere asseri libertatem tuam aduersus inmundos spiritus, qui tuis ceruicibus inposuerant sacrandam sibi et celebrandam ignominiam suam.",
+      "spans": []
+    },
+    {
+      "text": "Actores criminum diuinorum remouisti ab honoribus tuis:",
+      "spans": []
+    },
+    {
+      "text": "euigila plenius!",
+      "spans": []
+    },
+    {
+      "text": "Incomparabiliter superna est ciuitas clarior, ubi uictoria ueritas, ubi dignitas sanctitas, ubi pax felicitas, ubi uita aeternitas.",
+      "spans": []
+    },
+    {
+      "text": "Proinde si ad beatam peruenire desideras ciuitatem, deuita daemonum societatem.",
+      "spans": []
+    },
+    {
+      "text": "De bonis autem carnalibus, quibus solis mali perfrui uolunt, et de malis carnalibus, quae sola perpeti nolunt, quod neque in his habeant quam putantur habere isti daemones potestatem (quamquam si haberent, deberemus potius etiam ista contemnere, quam propter ista illos colere et eos colendo ad illa, quae nobis inuident, peruenire non posse), — tamen nec in istis eos hoc ualere, quod hi putant, qui propter haec eos coli oportere contendunt, deinceps uidebimus, ut hic sit huius uoluminis.",
+      "spans": []
+    }
+  ]
+}

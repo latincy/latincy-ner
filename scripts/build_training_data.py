@@ -4,7 +4,9 @@ from __future__ import annotations
 
 import argparse
 import json
+import subprocess
 import unicodedata
+from datetime import datetime, timezone
 from pathlib import Path
 
 import spacy
@@ -72,6 +74,7 @@ def build(
     # Phase 1: Load all items into split buckets with per-file dedup
     raw_splits: dict[str, list[dict]] = {"train": [], "dev": []}
     file_counts: dict[str, int] = {"train": 0, "dev": 0}
+    file_stats: list[dict] = []  # per-file stats for manifest
     within_dedup_count = 0
 
     for path in files:
@@ -79,17 +82,32 @@ def build(
         data = load_single(path)
         file_counts[split] += 1
 
+        n_before = len(data)
+        n_ents = sum(len(item.get("spans", [])) for item in data)
+
         if dedup:
             seen_in_file: set[str] = set()
+            deduped = []
             for item in data:
                 text = item["text"]
                 if text in seen_in_file:
                     within_dedup_count += 1
                     continue
                 seen_in_file.add(text)
-                raw_splits[split].append(item)
+                deduped.append(item)
+            raw_splits[split].extend(deduped)
+            n_after = len(deduped)
         else:
             raw_splits[split].extend(data)
+            n_after = n_before
+
+        file_stats.append({
+            "file": str(path.relative_to(collections_dir)),
+            "split": split,
+            "sentences": n_after,
+            "entities": n_ents,
+            "deduped": n_before - n_after,
+        })
 
     # Phase 2: Cross-split dedup (dev-priority)
     cross_dedup_count = 0
@@ -124,6 +142,41 @@ def build(
         out_path = output_dir / f"{split_name}.spacy"
         docbin.to_disk(out_path)
 
+    # Phase 4: Write manifest
+    git_hash = ""
+    try:
+        git_hash = subprocess.check_output(
+            ["git", "rev-parse", "HEAD"],
+            cwd=collections_dir,
+            text=True,
+        ).strip()
+    except Exception:
+        pass
+
+    version_file = collections_dir.parent.parent / "VERSION"
+    corpus_version = ""
+    if version_file.exists():
+        corpus_version = version_file.read_text().strip()
+
+    manifest = {
+        "corpus_version": corpus_version,
+        "git_commit": git_hash,
+        "built_at": datetime.now(timezone.utc).isoformat(),
+        "collections_dir": str(collections_dir),
+        "dedup": dedup,
+        "totals": {
+            "train": counts["train"],
+            "dev": counts["dev"],
+            "within_file_dedup": within_dedup_count,
+            "cross_split_dedup": cross_dedup_count,
+        },
+        "files": file_stats,
+    }
+
+    manifest_path = output_dir / "manifest.json"
+    with open(manifest_path, "w") as f:
+        json.dump(manifest, f, indent=2, ensure_ascii=False)
+
     print("Build complete.\n")
     for split_name in ("train", "dev"):
         c = counts[split_name]
@@ -137,6 +190,7 @@ def build(
         print(f"  Dedup: {cross_dedup_count} train/dev overlaps removed from train")
 
     print(f"\nOutput: {output_dir}/train.spacy, {output_dir}/dev.spacy")
+    print(f"Manifest: {manifest_path}")
 
 
 def main() -> None:
