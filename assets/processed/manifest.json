@@ -1,19 +1,24 @@
 {
   "corpus_version": "3.9.2",
-  "git_commit": "750986353d44ccbe27e334858b44765e8588b7eb",
-  "built_at": "2026-02-24T20:23:09.465203+00:00",
+  "git_commit": "e5c56abc871761a380e372fa477553c915a04957",
+  "built_at": "2026-03-03T10:01:14.965802+00:00",
   "collections_dir": "assets/collections",
   "dedup": true,
   "totals": {
     "train": {
-      "files": 11,
-      "sents": 16350,
-      "ents": 26683
+      "files": 8,
+      "sents": 14778,
+      "ents": 25033
     },
     "dev": {
-      "files": 11,
-      "sents": 4054,
-      "ents": 6856
+      "files": 8,
+      "sents": 3668,
+      "ents": 6435
+    },
+    "test": {
+      "files": 3,
+      "sents": 1958,
+      "ents": 2071
     },
     "within_file_dedup": 770,
     "cross_split_dedup": 214
@@ -34,17 +39,10 @@
       "deduped": 692
     },
     {
-      "file": "bootstrap/bootstrap-neral-dev.json",
-      "split": "dev",
-      "sentences": 111,
-      "entities": 247,
-      "deduped": 0
-    },
-    {
-      "file": "bootstrap/bootstrap-neral-train.json",
-      "split": "train",
-      "sentences": 444,
-      "entities": 980,
+      "file": "bootstrap/bootstrap-neral-test.json",
+      "split": "test",
+      "sentences": 555,
+      "entities": 1227,
       "deduped": 0
     },
     {
@@ -62,31 +60,17 @@
       "deduped": 0
     },
     {
-      "file": "catena/catena-dcd.2-dev.json",
-      "split": "dev",
-      "sentences": 65,
-      "entities": 33,
+      "file": "catena/catena-dcd.2-test.json",
+      "split": "test",
+      "sentences": 334,
+      "entities": 225,
       "deduped": 0
     },
     {
-      "file": "catena/catena-dcd.2-train.json",
-      "split": "train",
-      "sentences": 269,
-      "entities": 192,
-      "deduped": 0
-    },
-    {
-      "file": "nt/nt-matthew-dev.json",
-      "split": "dev",
-      "sentences": 210,
-      "entities": 141,
-      "deduped": 0
-    },
-    {
-      "file": "nt/nt-matthew-train.json",
-      "split": "train",
-      "sentences": 859,
-      "entities": 478,
+      "file": "nt/nt-matthew-test.json",
+      "split": "test",
+      "sentences": 1069,
+      "entities": 619,
       "deduped": 0
     },
     {

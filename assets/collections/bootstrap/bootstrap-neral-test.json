@@ -3,9 +3,13 @@
     "title": "NERAL NER (Train)",
     "source": "NERAL Project - Tacitus, Cicero, Juvenal",
     "latincy-ner-project": "bootstrap",
-    "latincy-ner-project-subset": "neral-train",
+    "latincy-ner-project-subset": "neral-test",
     "license": "unknown",
-    "legacy_file": "neral-ner-train.json"
+    "legacy_file": "neral-ner-train.json",
+    "merged_from": [
+      "bootstrap-neral-train.json",
+      "bootstrap-neral-dev.json"
+    ]
   },
   "annotation": {
     "spacy_model": "la_core_web_lg",
@@ -7122,6 +7126,1791 @@
           "start": 97,
           "end": 103,
           "label": "LOC"
+        }
+      ]
+    },
+    {
+      "text": "Nec diutius Galba cunctatus speciosiora suadentibus accessit.",
+      "spans": [
+        {
+          "start": 12,
+          "end": 17,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Quattuor principes ferro interempti trina bella ciuilia plura externa ac plerumque permixta prosperae in Oriente aduersae in Occidente res turbatum Illyricum Galliae nutantes perdomita Britannia et statim omissa coortae in nos Sarmatarum ac Sueborum gentes nobilitatus cladibus mutuis Dacus mota prope etiam Parthorum arma falsi Neronis ludibrio.",
+      "spans": [
+        {
+          "start": 105,
+          "end": 112,
+          "label": "LOC"
+        },
+        {
+          "start": 125,
+          "end": 134,
+          "label": "LOC"
+        },
+        {
+          "start": 148,
+          "end": 157,
+          "label": "LOC"
+        },
+        {
+          "start": 158,
+          "end": 165,
+          "label": "LOC"
+        },
+        {
+          "start": 185,
+          "end": 194,
+          "label": "LOC"
+        },
+        {
+          "start": 227,
+          "end": 237,
+          "label": "NORP"
+        },
+        {
+          "start": 241,
+          "end": 249,
+          "label": "NORP"
+        },
+        {
+          "start": 285,
+          "end": 290,
+          "label": "NORP"
+        },
+        {
+          "start": 308,
+          "end": 317,
+          "label": "NORP"
+        },
+        {
+          "start": 329,
+          "end": 336,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Neque erat Galbae ignota Othonis ac Titi Uinii amicitia et rumoribus nihil silentio transmittentium quia Uinio uidua filia caelebs Otho gener ac socer destinabantur.",
+      "spans": [
+        {
+          "start": 11,
+          "end": 17,
+          "label": "PERSON"
+        },
+        {
+          "start": 25,
+          "end": 32,
+          "label": "PERSON"
+        },
+        {
+          "start": 36,
+          "end": 46,
+          "label": "PERSON"
+        },
+        {
+          "start": 105,
+          "end": 110,
+          "label": "PERSON"
+        },
+        {
+          "start": 131,
+          "end": 135,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Haud dubiae iam in castris omnium mentes tantus que ardor ut non contenti agmine et corporibus in suggestu in quo paulo ante aurea Galbae statua fuerat medium inter signa Othonem uexillis circumdarent.",
+      "spans": [
+        {
+          "start": 131,
+          "end": 137,
+          "label": "PERSON"
+        },
+        {
+          "start": 171,
+          "end": 178,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Multae in uicem clades crebrius infestius que quam ut tantum propter Neronem Galbam que pugnaretur.",
+      "spans": [
+        {
+          "start": 69,
+          "end": 76,
+          "label": "PERSON"
+        },
+        {
+          "start": 77,
+          "end": 83,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "His et pluribus in eundem modum perpulerant ut ne legati quidem ac duces partium restingui posse iracundiam exercitus arbitrarentur cum haud ignari discriminis sui Uiennenses uelamenta et infulas praeferentes ubi agmen incesserat arma genua uestigia prensando flexere militum animos addidit Ualens trecenos singulis militibus sestertios.",
+      "spans": [
+        {
+          "start": 164,
+          "end": 174,
+          "label": "NORP"
+        },
+        {
+          "start": 291,
+          "end": 297,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Postquam id Romae compertum M. Aponius Moesiam obtinens triumphali statua Fuluus Aurelius et Iulianus Tettius ac Numisius Lupus legati legionum consularibus ornamentis donantur laeto Othone et gloriam in se trahente tamquam et ipse felix bello et suis ducibus suis que exercitibus rem publicam auxisset.",
+      "spans": [
+        {
+          "start": 12,
+          "end": 17,
+          "label": "LOC"
+        },
+        {
+          "start": 28,
+          "end": 38,
+          "label": "PERSON"
+        },
+        {
+          "start": 39,
+          "end": 46,
+          "label": "LOC"
+        },
+        {
+          "start": 74,
+          "end": 89,
+          "label": "PERSON"
+        },
+        {
+          "start": 93,
+          "end": 109,
+          "label": "PERSON"
+        },
+        {
+          "start": 113,
+          "end": 127,
+          "label": "PERSON"
+        },
+        {
+          "start": 183,
+          "end": 189,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Frustra aduersus Aeduos quaesita belli causa iussi pecuniam atque arma deferre gratuitos insuper commeatus praebuere.",
+      "spans": [
+        {
+          "start": 17,
+          "end": 23,
+          "label": "NORP"
+        }
+      ]
+    },
+    {
+      "text": "Sed Otho tamquam peritia et monitu fatorum praedicta accipiebat cupidine ingenii humani libentius obscura credendi.",
+      "spans": [
+        {
+          "start": 4,
+          "end": 8,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Infamis Uarillus ait quo deterior te.",
+      "spans": [
+        {
+          "start": 8,
+          "end": 16,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Quaere acta Gracchi leges Semproniae proferentur quaere Sullae Corneliae.",
+      "spans": [
+        {
+          "start": 12,
+          "end": 19,
+          "label": "PERSON"
+        },
+        {
+          "start": 26,
+          "end": 36,
+          "label": "PERSON"
+        },
+        {
+          "start": 56,
+          "end": 62,
+          "label": "PERSON"
+        },
+        {
+          "start": 63,
+          "end": 72,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Et tamen unus Armenius Zalaces cunctis narratur ephebis mollior ardenti sese indulsisse tribuno.",
+      "spans": [
+        {
+          "start": 14,
+          "end": 30,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Atrocius in urbe saeuitum nobilitas opes omissi gesti que honores pro crimine et ob uirtutes certissimum exitium.",
+      "spans": []
+    },
+    {
+      "text": "Quid quod adulandi gens prudentissima laudat sermonem indocti faciem deformis amici et longum inualidi collum ceruicibus aequat Herculis Antaeum procul a tellure tenentis miratur uocem angustam qua deterius nec ille sonat quo mordetur gallina marito.",
+      "spans": [
+        {
+          "start": 128,
+          "end": 136,
+          "label": "PERSON"
+        },
+        {
+          "start": 137,
+          "end": 144,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Quattuor centuriones duetuicensimae legionis Nonius Receptus Donatius Ualens Romilius Marcellus Calpurnius Repentinus cum protegerent Galbae imagines impetu militum abrepti uincti que.",
+      "spans": [
+        {
+          "start": 45,
+          "end": 60,
+          "label": "PERSON"
+        },
+        {
+          "start": 61,
+          "end": 76,
+          "label": "PERSON"
+        },
+        {
+          "start": 77,
+          "end": 95,
+          "label": "PERSON"
+        },
+        {
+          "start": 96,
+          "end": 117,
+          "label": "PERSON"
+        },
+        {
+          "start": 134,
+          "end": 140,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Turpe mihi ipsi uidebatur in eam urbem me audere reuerti ex qua Brutus cederet et ibi uelle tuto esse ubi ille non posset.",
+      "spans": [
+        {
+          "start": 64,
+          "end": 70,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Pompeius Propinquus procurator Belgicae statim interfectus Iulium Burdonem Germanicae classis praefectum astu subtraxit.",
+      "spans": [
+        {
+          "start": 0,
+          "end": 19,
+          "label": "PERSON"
+        },
+        {
+          "start": 31,
+          "end": 39,
+          "label": "LOC"
+        },
+        {
+          "start": 59,
+          "end": 74,
+          "label": "PERSON"
+        },
+        {
+          "start": 75,
+          "end": 85,
+          "label": "NORP"
+        }
+      ]
+    },
+    {
+      "text": "Uos lanam trahitis calathis que peracta refertis uellera uos tenui praegnantem stamine fusum Penelope melius leuius torquetis Arachne horrida quale facit residens in codice paelex.",
+      "spans": [
+        {
+          "start": 93,
+          "end": 101,
+          "label": "PERSON"
+        },
+        {
+          "start": 126,
+          "end": 133,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Primum igitur acta Caesaris seruanda censeo non quo probem quis enim id quidem potest.",
+      "spans": [
+        {
+          "start": 19,
+          "end": 27,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Et ut Uitellius apud seueros humilis ita comitatem bonitatem que fauentes uocabant quod sine modo sine iudicio donaret sua largiretur aliena simul auiditate imperitandi ipsa uitia pro uirtutibus interpretabantur.",
+      "spans": [
+        {
+          "start": 6,
+          "end": 15,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Nec deerat pars Galliarum quae Rhenum accolit easdem partis secuta ac tum acerrima instigatrix aduersum Galbianos hoc enim nomen fastidito Uindice indiderant.",
+      "spans": [
+        {
+          "start": 16,
+          "end": 25,
+          "label": "LOC"
+        },
+        {
+          "start": 31,
+          "end": 37,
+          "label": "LOC"
+        },
+        {
+          "start": 104,
+          "end": 113,
+          "label": "NORP"
+        },
+        {
+          "start": 139,
+          "end": 146,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Accendebat odium eius Roscius Coelius legatus uicensimae legionis olim discors sed occasione ciuilium armorum atrocius proruperant.",
+      "spans": [
+        {
+          "start": 22,
+          "end": 37,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Non est Romano cuiquam locus hic ubi regnat Protogenes aliquis uel Diphilus aut Hermarchus qui gentis uitio numquam partitur amicum solus habet.",
+      "spans": [
+        {
+          "start": 8,
+          "end": 14,
+          "label": "NORP"
+        },
+        {
+          "start": 44,
+          "end": 54,
+          "label": "PERSON"
+        },
+        {
+          "start": 67,
+          "end": 75,
+          "label": "PERSON"
+        },
+        {
+          "start": 80,
+          "end": 90,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Igitur milites Romani quasi Uologaesum aut Pacorum auito Arsacidarum solio depulsuri ac non imperatorem suum inermem et senem trucidare pergerent disiecta plebe proculcato senatu truces armis rapidi equis forum inrumpunt.",
+      "spans": [
+        {
+          "start": 15,
+          "end": 21,
+          "label": "NORP"
+        },
+        {
+          "start": 28,
+          "end": 38,
+          "label": "PERSON"
+        },
+        {
+          "start": 43,
+          "end": 50,
+          "label": "PERSON"
+        },
+        {
+          "start": 57,
+          "end": 68,
+          "label": "LOC"
+        }
+      ]
+    },
+    {
+      "text": "Qualis erat nuper tragico pollutus adulter concubitu qui tunc leges reuocabat amaras omnibus atque ipsis Ueneri Marti que timendas cum tot abortiuis fecundam Iulia uuluam solueret et patruo similes effunderet offas ne ne igitur iure ac merito uitia ultima fictos contemnunt Scauros et castigata remordent.",
+      "spans": [
+        {
+          "start": 105,
+          "end": 111,
+          "label": "PERSON"
+        },
+        {
+          "start": 112,
+          "end": 117,
+          "label": "PERSON"
+        },
+        {
+          "start": 158,
+          "end": 163,
+          "label": "PERSON"
+        },
+        {
+          "start": 274,
+          "end": 281,
+          "label": "NORP"
+        }
+      ]
+    },
+    {
+      "text": "Nocuisse id sibi apud senem principem magis nociturum apud iuuenem ingenio trucem et longo exilio efferatum occidi Othonem posse.",
+      "spans": [
+        {
+          "start": 115,
+          "end": 122,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Romanus miles facilis lorica et missili pilo aut lanceis adsultans ubi res posceret leui gladio inermem Sarmatam neque enim scuto defendi mos est comminus fodiebat donec pauci qui proelio superfuerant paludibus abderentur.",
+      "spans": [
+        {
+          "start": 0,
+          "end": 7,
+          "label": "NORP"
+        },
+        {
+          "start": 104,
+          "end": 112,
+          "label": "NORP"
+        }
+      ]
+    },
+    {
+      "text": "Proinde intuta quae indecora uel si cadere necesse sit occurrendum discrimini id Othoni inuidiosius et ipsis honestum.",
+      "spans": [
+        {
+          "start": 81,
+          "end": 87,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Nam si mora longior urbem indulsit pueris non umquam derit amator.",
+      "spans": []
+    },
+    {
+      "text": "Uitellius litteras ad Titianum fratrem Othonis composuit exitium ipsi filio que eius minitans ni incolumes sibi mater ac liberi seruarentur.",
+      "spans": [
+        {
+          "start": 0,
+          "end": 9,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Oriens adhuc immotus.",
+      "spans": [
+        {
+          "start": 0,
+          "end": 6,
+          "label": "LOC"
+        }
+      ]
+    },
+    {
+      "text": "Paria Uitellius ostentabat primo mollius stulta utrimque et indecora simulatione mox quasi rixantes stupra ac flagitia in uicem obiectauere neuter falso.",
+      "spans": [
+        {
+          "start": 6,
+          "end": 15,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Nimirum summi ducis est occidere Galbam et curare cutem summi constantia ciuis Bebriaci campis solium adfectare Palati et pressum in faciem digitis extendere panem quod nec in Assyrio pharetrata Sameramis orbe maesta nec Actiaca fecit Cleopatra carina.",
+      "spans": [
+        {
+          "start": 33,
+          "end": 39,
+          "label": "PERSON"
+        },
+        {
+          "start": 112,
+          "end": 118,
+          "label": "LOC"
+        },
+        {
+          "start": 176,
+          "end": 183,
+          "label": "LOC"
+        },
+        {
+          "start": 195,
+          "end": 204,
+          "label": "PERSON"
+        },
+        {
+          "start": 221,
+          "end": 228,
+          "label": "LOC"
+        }
+      ]
+    },
+    {
+      "text": "Piso unum et tricensimum aetatis annum explebat fama meliore quam fortuna.",
+      "spans": [
+        {
+          "start": 0,
+          "end": 4,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Apud frequentem militum contionem imperatoria breuitate adoptari a se Pisonem exemplo diui Augusti et more militari quo uir uirum legeret pronuntiat.",
+      "spans": [
+        {
+          "start": 70,
+          "end": 77,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Occurrit matrona potens quae molle Calenum porrectura uiro miscet sitiente rubetam instituit que rudes melior Lucusta propinquas per famam et populum nigros efferre maritos.",
+      "spans": [
+        {
+          "start": 35,
+          "end": 42,
+          "label": "LOC"
+        },
+        {
+          "start": 110,
+          "end": 117,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Addidit epistulas Fabius Ualens nomine Germanici exercitus ad praetorias et urbanas cohortis de uiribus partium magnificas et concordiam offerentis increpabat ultro quod tanto ante traditum Uitellio imperium ad Othonem uertissent.",
+      "spans": [
+        {
+          "start": 18,
+          "end": 31,
+          "label": "PERSON"
+        },
+        {
+          "start": 39,
+          "end": 48,
+          "label": "NORP"
+        },
+        {
+          "start": 190,
+          "end": 198,
+          "label": "PERSON"
+        },
+        {
+          "start": 211,
+          "end": 218,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Nihil adrogabo mihi nobilitatis aut modestiae neque enim relatu uirtutum in comparatione Othonis opus est.",
+      "spans": [
+        {
+          "start": 89,
+          "end": 96,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Sed haec ipsa concedo quibusdam etiam in rebus coniueo in maximis uero rebus id est in legibus acta Caesaris dissolui ferendum non puto.",
+      "spans": [
+        {
+          "start": 100,
+          "end": 108,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Uixdum egresso Pisone occisum in castris Othonem uagus primum et incertus rumor mox ut in magnis mendaciis interfuisse se quidam et uidisse adfirmabant credula fama inter gaudentis et incuriosos.",
+      "spans": [
+        {
+          "start": 15,
+          "end": 21,
+          "label": "PERSON"
+        },
+        {
+          "start": 41,
+          "end": 48,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Othoni tamen armari plebem nuntiabatur ire praecipitis et occupare pericula iubet.",
+      "spans": [
+        {
+          "start": 0,
+          "end": 6,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Sed metu ne amitteret praemissas iam cohortis alas que simul reputans plus gloriae retenta Italia et ubicumque certatum foret Noricos in cetera uictoriae praemia cessuros Poenino itinere subsignanum militem et graue legionum agmen hibernis adhuc Alpibus transduxit.",
+      "spans": [
+        {
+          "start": 91,
+          "end": 97,
+          "label": "LOC"
+        },
+        {
+          "start": 126,
+          "end": 133,
+          "label": "NORP"
+        },
+        {
+          "start": 171,
+          "end": 178,
+          "label": "LOC"
+        },
+        {
+          "start": 246,
+          "end": 253,
+          "label": "LOC"
+        }
+      ]
+    },
+    {
+      "text": "Piso in aedem Uestae peruasit exceptus que misericordia publici serui et contubernio eius abditus non religione nec caerimoniis sed latebra inminens exitium differebat cum aduenere missu Othonis nominatim in caedem eius ardentis Sulpicius Florus e Britannicis cohortibus nuper a Galba ciuitate donatus et Statius Murcus speculator a quibus protractus Piso in foribus templi trucidatur.",
+      "spans": [
+        {
+          "start": 0,
+          "end": 4,
+          "label": "PERSON"
+        },
+        {
+          "start": 187,
+          "end": 194,
+          "label": "PERSON"
+        },
+        {
+          "start": 229,
+          "end": 245,
+          "label": "PERSON"
+        },
+        {
+          "start": 248,
+          "end": 259,
+          "label": "NORP"
+        },
+        {
+          "start": 279,
+          "end": 284,
+          "label": "PERSON"
+        },
+        {
+          "start": 305,
+          "end": 319,
+          "label": "PERSON"
+        },
+        {
+          "start": 351,
+          "end": 355,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Arma quidem ultra litora Iuuernae promouimus et modo captas Orcadas ac minima contentos nocte Britannos sed quae nunc populi fiunt uictoris in urbe non faciunt illi quos uicimus.",
+      "spans": [
+        {
+          "start": 60,
+          "end": 67,
+          "label": "NORP"
+        },
+        {
+          "start": 94,
+          "end": 103,
+          "label": "NORP"
+        }
+      ]
+    },
+    {
+      "text": "Ac ne qua saltem in successore Galbae spes esset accersit ab exilio quem tristitia et auaritia sui simillimum iudicabat.",
+      "spans": [
+        {
+          "start": 31,
+          "end": 37,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Ego te ceuentem Sexte uerebor.",
+      "spans": [
+        {
+          "start": 16,
+          "end": 21,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Nil habuit Cordus quis enim negat.",
+      "spans": [
+        {
+          "start": 11,
+          "end": 17,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Raedarum transitus arto uicorum in flexu et stantis conuicia mandrae eripient somnum Druso uitulis que marinis.",
+      "spans": [
+        {
+          "start": 85,
+          "end": 90,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Exul ab octaua Marius bibit et fruitur dis iratis at tu uictrix prouincia ploras.",
+      "spans": [
+        {
+          "start": 15,
+          "end": 21,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Si potes auelli circensibus optima Sorae aut Fabrateriae domus aut Frusinone paratur quanti nunc tenebras unum conducis in annum.",
+      "spans": [
+        {
+          "start": 35,
+          "end": 40,
+          "label": "LOC"
+        },
+        {
+          "start": 45,
+          "end": 56,
+          "label": "LOC"
+        },
+        {
+          "start": 67,
+          "end": 76,
+          "label": "LOC"
+        }
+      ]
+    },
+    {
+      "text": "Nonium Donatium Romilium Calpurnium centuriones de quibus supra rettulimus occidi iussit damnatos fidei crimine grauissimo inter desciscentis.",
+      "spans": [
+        {
+          "start": 0,
+          "end": 6,
+          "label": "PERSON"
+        },
+        {
+          "start": 7,
+          "end": 15,
+          "label": "PERSON"
+        },
+        {
+          "start": 16,
+          "end": 24,
+          "label": "PERSON"
+        },
+        {
+          "start": 25,
+          "end": 35,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Festinandum ceteris uidebatur antequam cresceret inualida adhuc coniuratio paucorum trepidaturum etiam Othonem qui furtim digressus ad ignaros inlatus cunctatione nunc et segnitia terentium tempus imitari principem discat.",
+      "spans": [
+        {
+          "start": 103,
+          "end": 110,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Inferioris Germaniae legiones diutius sine consulari fuere donec missu Galbae A. Uitellius aderat censoris Uitellii ac ter consulis filius id satis uidebatur.",
+      "spans": [
+        {
+          "start": 71,
+          "end": 77,
+          "label": "PERSON"
+        },
+        {
+          "start": 78,
+          "end": 90,
+          "label": "PERSON"
+        },
+        {
+          "start": 107,
+          "end": 115,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Sed uulgus et magnitudine nimia communium curarum expers populus sentire paulatim belli mala conuersa in militum usum omni pecunia intentis alimentorum pretiis quae motu Uindicis haud perinde plebem attriuerant secura tum urbe et prouinciali bello quod inter legiones Gallias que uelut externum fuit.",
+      "spans": [
+        {
+          "start": 170,
+          "end": 178,
+          "label": "PERSON"
+        },
+        {
+          "start": 268,
+          "end": 275,
+          "label": "LOC"
+        }
+      ]
+    },
+    {
+      "text": "Interdum et ferro subitus grassator agit rem armato quotiens tutae custode tenentur et Pomptina palus et Gallinaria pinus sic inde huc omnes tamquam ad uiuaria currunt.",
+      "spans": []
+    },
+    {
+      "text": "Uideo autem quam sit odiosum habere eundem iratum et armatum cum tanta praesertim gladiorum sit impunitas sed proponam ius ut opinor aequum quod M. Antonium non arbitror repudiaturum.",
+      "spans": [
+        {
+          "start": 145,
+          "end": 156,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Nuntium de caede Galbae et imperio Othonis Fabius Ualens in ciuitate Leucorum accepit.",
+      "spans": [
+        {
+          "start": 17,
+          "end": 23,
+          "label": "PERSON"
+        },
+        {
+          "start": 35,
+          "end": 42,
+          "label": "PERSON"
+        },
+        {
+          "start": 43,
+          "end": 56,
+          "label": "PERSON"
+        },
+        {
+          "start": 69,
+          "end": 77,
+          "label": "NORP"
+        }
+      ]
+    },
+    {
+      "text": "Fugerunt trepidi uera ac manifesta canentem Stoicidae quid enim falsi Laronia.",
+      "spans": [
+        {
+          "start": 44,
+          "end": 53,
+          "label": "NORP"
+        },
+        {
+          "start": 70,
+          "end": 77,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Mira inter exercitum imperatorem que diuersitas instare miles arma poscere dum Galliae trepident dum Hispaniae cunctentur non obstare hiemem neque ignauae pacis moras inuadendam Italiam occupandam urbem nihil in discordiis ciuilibus festinatione tutius ubi facto magis quam consulto opus esset.",
+      "spans": [
+        {
+          "start": 79,
+          "end": 86,
+          "label": "LOC"
+        },
+        {
+          "start": 101,
+          "end": 110,
+          "label": "LOC"
+        },
+        {
+          "start": 178,
+          "end": 185,
+          "label": "LOC"
+        }
+      ]
+    },
+    {
+      "text": "Nisi forte si quid memoriae causa rettulit in libellum id numerabitur in actis et quamuis iniquum et inutile sit defendetur quod ad populum centuriatis comitiis tulit id in actis Caesaris non habebitur.",
+      "spans": [
+        {
+          "start": 179,
+          "end": 187,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Quid Romae faciam.",
+      "spans": [
+        {
+          "start": 5,
+          "end": 10,
+          "label": "LOC"
+        }
+      ]
+    },
+    {
+      "text": "Undique atroces nuntii sinistra ex urbe fama infensa Lugdunensis colonia et pertinaci pro Nerone fide fecunda rumoribus sed plurima ad fingendum credendum que materies in ipsis castris odio metu et ubi uiris suas respexerant securitate.",
+      "spans": [
+        {
+          "start": 90,
+          "end": 96,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Tedia non lambit Cluuiam nec Flora Catullam Hispo subit iuuenes et morbo pallet utroque quid quid nos agimus causas ciuilia iura nouimus aut ullo strepitu fora uestra mouemus.",
+      "spans": [
+        {
+          "start": 0,
+          "end": 5,
+          "label": "PERSON"
+        },
+        {
+          "start": 17,
+          "end": 24,
+          "label": "PERSON"
+        },
+        {
+          "start": 29,
+          "end": 34,
+          "label": "PERSON"
+        },
+        {
+          "start": 35,
+          "end": 43,
+          "label": "PERSON"
+        },
+        {
+          "start": 44,
+          "end": 49,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Adeo manifestum est neque perire nos neque saluos esse nisi una posse et cuius lenitatis est Galba iam fortasse promisit ut qui nullo exposcente tot milia innocentissimorum militum trucidauerit.",
+      "spans": [
+        {
+          "start": 93,
+          "end": 98,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Qua quidem ex re magnum accipio dolorem homines amplissimis populi Romani beneficiis usos L. Pisonem ducem optimae sententiae non secutos.",
+      "spans": [
+        {
+          "start": 67,
+          "end": 73,
+          "label": "NORP"
+        },
+        {
+          "start": 90,
+          "end": 92,
+          "label": "PERSON"
+        },
+        {
+          "start": 93,
+          "end": 100,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "De Caesare ipso si quaereres nam nam egisset in urbe et in toga leges multas responderet se et praeclaras tulisse chirographa uero aut mutaret aut non daret aut si dedisset non istas res in actis suis duceret.",
+      "spans": [
+        {
+          "start": 3,
+          "end": 10,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Nullam caedem Otho maiore laetitia excepisse nullum caput tam insatiabilibus oculis perlustrasse dicitur seu tum primum leuata omni sollicitudine mens uacare gaudio coeperat seu recordatio maiestatis in Galba amicitiae in Tito Uinio quamuis immitem animum imagine tristi confuderat Pisonis ut inimici et aemuli caede laetari ius fas que credebat.",
+      "spans": [
+        {
+          "start": 14,
+          "end": 18,
+          "label": "PERSON"
+        },
+        {
+          "start": 203,
+          "end": 208,
+          "label": "PERSON"
+        },
+        {
+          "start": 222,
+          "end": 232,
+          "label": "PERSON"
+        },
+        {
+          "start": 282,
+          "end": 289,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Ergo uale nostri memor et quotiens te Roma tuo refici properantem reddet Aquino me quoque ad Heluinam Cererem uestram que Dianam conuerte a Cumis.",
+      "spans": [
+        {
+          "start": 38,
+          "end": 42,
+          "label": "LOC"
+        },
+        {
+          "start": 73,
+          "end": 79,
+          "label": "LOC"
+        },
+        {
+          "start": 93,
+          "end": 109,
+          "label": "PERSON"
+        },
+        {
+          "start": 122,
+          "end": 128,
+          "label": "PERSON"
+        },
+        {
+          "start": 140,
+          "end": 145,
+          "label": "LOC"
+        }
+      ]
+    },
+    {
+      "text": "Uocat senatum praetor urbanus certant adulationibus ceteri magistratus adcurrunt patres decernitur Othoni tribunicia potestas et nomen Augusti et omnes principum honores adnitentibus cunctis abolere conuicia ac probra quae promisce iacta haesisse animo eius nemo sensit omisisset offensas an distulisset breuitate imperii in incerto fuit.",
+      "spans": [
+        {
+          "start": 99,
+          "end": 105,
+          "label": "PERSON"
+        },
+        {
+          "start": 135,
+          "end": 142,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Infecit ea tabes legionum quoque et auxiliorum motas iam mentis postquam uulgatum erat labare Germanici exercitus fidem.",
+      "spans": [
+        {
+          "start": 94,
+          "end": 103,
+          "label": "NORP"
+        }
+      ]
+    },
+    {
+      "text": "Nam quis iniquae tam patiens urbis tam ferreus ut teneat se causidici noua cum ueniat lectica Mathonis plena ipso post hunc magni delator amici et cito rapturus de nobilitate comesa quod superest quem Massa timet quem munere palpat Carus et a trepido Thymele summissa Latino cum te summoueant qui testamenta merentur noctibus in caelum quos euehit optima summi nunc uia processus uetulae uesica beatae.",
+      "spans": [
+        {
+          "start": 94,
+          "end": 102,
+          "label": "PERSON"
+        },
+        {
+          "start": 201,
+          "end": 206,
+          "label": "PERSON"
+        },
+        {
+          "start": 232,
+          "end": 237,
+          "label": "PERSON"
+        },
+        {
+          "start": 251,
+          "end": 258,
+          "label": "PERSON"
+        },
+        {
+          "start": 268,
+          "end": 274,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Prope euersum orbem etiam cum de principatu inter bonos certaretur sed mansisse G. Iulio mansisse Caesare Augusto uictore imperium mansuram fuisse sub Pompeio Bruto que rem publicam nunc pro Othone an pro Uitellio in templa ituros.",
+      "spans": [
+        {
+          "start": 80,
+          "end": 88,
+          "label": "PERSON"
+        },
+        {
+          "start": 98,
+          "end": 113,
+          "label": "PERSON"
+        },
+        {
+          "start": 151,
+          "end": 158,
+          "label": "PERSON"
+        },
+        {
+          "start": 159,
+          "end": 164,
+          "label": "PERSON"
+        },
+        {
+          "start": 191,
+          "end": 197,
+          "label": "PERSON"
+        },
+        {
+          "start": 205,
+          "end": 213,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Quid tamen expectant Phrygio quos tempus erat iam more superuacuam cultris abrumpere carnem.",
+      "spans": [
+        {
+          "start": 21,
+          "end": 28,
+          "label": "LOC"
+        }
+      ]
+    },
+    {
+      "text": "Ac statim immissa cohorte Thraecum depulsi et consectantibus Germanis Raetis que per siluas atque in ipsis latebris trucidati.",
+      "spans": [
+        {
+          "start": 26,
+          "end": 34,
+          "label": "NORP"
+        },
+        {
+          "start": 61,
+          "end": 69,
+          "label": "NORP"
+        },
+        {
+          "start": 70,
+          "end": 76,
+          "label": "NORP"
+        }
+      ]
+    },
+    {
+      "text": "In quo quantus error est di immortales eorum qui istam legem excogitauerunt.",
+      "spans": []
+    },
+    {
+      "text": "Pisonem ferunt statim intuentibus et mox coniectis in eum omnium oculis nullum turbati aut exultantis animi motum prodidisse.",
+      "spans": [
+        {
+          "start": 0,
+          "end": 7,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Uiso comminus armatorum agmine uexillarius comitatae Galbam cohortis Atilium Uergilionem fuisse tradunt dereptam Galbae imaginem solo adflixit eo signo manifesta in Othonem omnium militum studia desertum fuga populi forum destricta aduersus dubitantis tela.",
+      "spans": [
+        {
+          "start": 53,
+          "end": 59,
+          "label": "PERSON"
+        },
+        {
+          "start": 69,
+          "end": 88,
+          "label": "PERSON"
+        },
+        {
+          "start": 113,
+          "end": 119,
+          "label": "PERSON"
+        },
+        {
+          "start": 165,
+          "end": 172,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Urbi Flauium Sabinum praefecere iudicium Neronis secuti sub quo eandem curam obtinuerat plerisque Uespasianum fratrem in eo respicientibus.",
+      "spans": [
+        {
+          "start": 5,
+          "end": 20,
+          "label": "PERSON"
+        },
+        {
+          "start": 41,
+          "end": 48,
+          "label": "PERSON"
+        },
+        {
+          "start": 98,
+          "end": 109,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Pone Tigillinum taeda lucebis in illa qua stantes ardent qui fixo gutture fumant et latum media sulcum deducit harena.",
+      "spans": [
+        {
+          "start": 5,
+          "end": 15,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Et ambigua de Uespasiano fama solus que omnium ante se principum in melius mutatus est.",
+      "spans": [
+        {
+          "start": 14,
+          "end": 24,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Expectent ergo tribuni uincant diuitiae sacro ne cedat honori nuper in hanc urbem pedibus qui uenerat albis quidem quidem inter nos sanctissima diuitiarum maiestas si si funesta Pecunia templo nondum habitat nullas nummorum ereximus aras ut colitur Pax atque Fides Uictoria Uirtus que quae salutato crepitat Concordia nido.",
+      "spans": [
+        {
+          "start": 178,
+          "end": 185,
+          "label": "PERSON"
+        },
+        {
+          "start": 249,
+          "end": 252,
+          "label": "PERSON"
+        },
+        {
+          "start": 259,
+          "end": 264,
+          "label": "PERSON"
+        },
+        {
+          "start": 265,
+          "end": 273,
+          "label": "PERSON"
+        },
+        {
+          "start": 274,
+          "end": 280,
+          "label": "PERSON"
+        },
+        {
+          "start": 308,
+          "end": 317,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Igitur motae urbis curae nullus ordo metu aut periculo uacuus.",
+      "spans": []
+    },
+    {
+      "text": "Idem senatus idem populi Romani animus est uestra uirtus expectatur apud quos omne honestis consiliis robur et sine quibus quamuis egregia inualida sunt.",
+      "spans": [
+        {
+          "start": 25,
+          "end": 31,
+          "label": "NORP"
+        }
+      ]
+    },
+    {
+      "text": "Fuere qui crederent Capitonem ut auaritia et libidine foedum ac maculosum ita cogitatione rerum nouarum abstinuisse sed a legatis bellum suadentibus postquam impellere nequiuerint crimen ac dolum ultro compositum et Galbam mobilitate ingenii an ne altius scrutaretur quoquo modo acta quia mutari non poterant comprobasse.",
+      "spans": [
+        {
+          "start": 20,
+          "end": 29,
+          "label": "PERSON"
+        },
+        {
+          "start": 216,
+          "end": 222,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Me prior ille signabit fultus que toro meliore recumbet aduectus Romam quo pruna et cottana uento.",
+      "spans": [
+        {
+          "start": 65,
+          "end": 70,
+          "label": "LOC"
+        }
+      ]
+    },
+    {
+      "text": "Nationes aliquas occupauit Uitellius imaginem quandam exercitus habet senatus nobis cum est sic fit ut hinc res publica inde hostes rei publicae constiterint.",
+      "spans": [
+        {
+          "start": 27,
+          "end": 36,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Agebatur huc illuc Galba uario turbae fluctuantis impulsu completis undique basilicis ac templis lugubri prospectu.",
+      "spans": [
+        {
+          "start": 19,
+          "end": 24,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Sepositus per eos dies Cornelius Dolabella in coloniam Aquinatem neque arta custodia neque obscura nullum ob crimen sed uetusto nomine et propinquitate Galbae monstratus.",
+      "spans": [
+        {
+          "start": 23,
+          "end": 42,
+          "label": "PERSON"
+        },
+        {
+          "start": 55,
+          "end": 64,
+          "label": "NORP"
+        },
+        {
+          "start": 152,
+          "end": 158,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Nec tamen Antiochus nec erit mirabilis illic aut Stratocles aut cum molli Demetrius Haemo natio comoeda est.",
+      "spans": [
+        {
+          "start": 10,
+          "end": 19,
+          "label": "PERSON"
+        },
+        {
+          "start": 49,
+          "end": 59,
+          "label": "PERSON"
+        },
+        {
+          "start": 74,
+          "end": 83,
+          "label": "PERSON"
+        },
+        {
+          "start": 84,
+          "end": 89,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Multa praetereo ea que praeclara ad singulare enim M. Antoni factum festinat oratio.",
+      "spans": [
+        {
+          "start": 51,
+          "end": 60,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Interea Othonem cui compositis rebus nulla spes omne in turbido consilium multa simul extimulabant luxuria etiam principi onerosa inopia uix priuato toleranda in Galbam ira in Pisonem inuidia fingebat et metum quo magis concupisceret praegrauem se Neroni fuisse nec Lusitaniam rursus et alterius exilii honorem expectandum.",
+      "spans": [
+        {
+          "start": 8,
+          "end": 15,
+          "label": "PERSON"
+        },
+        {
+          "start": 162,
+          "end": 168,
+          "label": "PERSON"
+        },
+        {
+          "start": 176,
+          "end": 183,
+          "label": "PERSON"
+        },
+        {
+          "start": 248,
+          "end": 254,
+          "label": "PERSON"
+        },
+        {
+          "start": 266,
+          "end": 276,
+          "label": "LOC"
+        }
+      ]
+    },
+    {
+      "text": "Sed fama constans fuit ipsum Ualentem magna pecunia emptum.",
+      "spans": [
+        {
+          "start": 29,
+          "end": 37,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Galliae super memoriam Uindicis obligatae recenti dono Romanae ciuitatis et in posterum tributi leuamento.",
+      "spans": [
+        {
+          "start": 0,
+          "end": 7,
+          "label": "LOC"
+        },
+        {
+          "start": 23,
+          "end": 31,
+          "label": "PERSON"
+        },
+        {
+          "start": 55,
+          "end": 62,
+          "label": "NORP"
+        }
+      ]
+    },
+    {
+      "text": "Nec in Raeticis copiis mora quo minus statim adiungerentur ne in Britannia quidem dubitatum.",
+      "spans": [
+        {
+          "start": 7,
+          "end": 15,
+          "label": "NORP"
+        },
+        {
+          "start": 65,
+          "end": 74,
+          "label": "LOC"
+        }
+      ]
+    },
+    {
+      "text": "Iam uero Italia nouis cladibus uel post longam saeculorum seriem repetitis adflicta.",
+      "spans": [
+        {
+          "start": 9,
+          "end": 15,
+          "label": "LOC"
+        }
+      ]
+    },
+    {
+      "text": "Qua re primum maximas gratias et ago et habeo Pisoni qui non quid efficere posset in re publica cogitauit sed quid facere ipse deberet.",
+      "spans": [
+        {
+          "start": 46,
+          "end": 52,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Eo audentius Rhoxolani Sarmatica gens priore hieme caesis duabus cohortibus magna spe Moesiam inruperant ad nouem milia equitum ex ferocia et successu praedae magis quam pugnae intenta.",
+      "spans": [
+        {
+          "start": 13,
+          "end": 22,
+          "label": "NORP"
+        },
+        {
+          "start": 23,
+          "end": 32,
+          "label": "LOC"
+        },
+        {
+          "start": 86,
+          "end": 93,
+          "label": "LOC"
+        }
+      ]
+    },
+    {
+      "text": "Insignis amicitias iuuenis ambitiose coluerat mox attritis opibus lubrico statu suspecta etiam Claudii iracundia in secretum Asiae sepositus tam prope ab exule fuit quam postea a principe.",
+      "spans": [
+        {
+          "start": 95,
+          "end": 102,
+          "label": "PERSON"
+        },
+        {
+          "start": 125,
+          "end": 130,
+          "label": "LOC"
+        }
+      ]
+    },
+    {
+      "text": "Et hic quidem Romae tamquam in tanta multitudine habitus animorum fuit.",
+      "spans": [
+        {
+          "start": 14,
+          "end": 19,
+          "label": "LOC"
+        }
+      ]
+    },
+    {
+      "text": "Galla mea est inquit citius dimitte.",
+      "spans": [
+        {
+          "start": 0,
+          "end": 5,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "An in commentariolis et chirographis et libellis se uno auctore prolatis ne prolatis quidem sed tantum modo dictis acta Caesaris firma erunt quae ille in aes incidit in quo populi iussa perpetuas que leges esse uoluit pro nihilo habebuntur.",
+      "spans": [
+        {
+          "start": 120,
+          "end": 128,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Pecunia utinam ad Opis maneret.",
+      "spans": [
+        {
+          "start": 18,
+          "end": 22,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Trebellius seditionem et confusum ordinem disciplinae Coelio spoliatas et inopes legiones Coelius Trebellio obiectabat cum interim foedis legatorum certaminibus modestia exercitus corrupta eo que discordiae uentum ut auxiliarium quoque militum conuiciis proturbatus et adgregantibus se Coelio cohortibus alis que desertus Trebellius ad Uitellium perfugerit.",
+      "spans": [
+        {
+          "start": 0,
+          "end": 10,
+          "label": "PERSON"
+        },
+        {
+          "start": 54,
+          "end": 60,
+          "label": "PERSON"
+        },
+        {
+          "start": 90,
+          "end": 97,
+          "label": "PERSON"
+        },
+        {
+          "start": 98,
+          "end": 107,
+          "label": "PERSON"
+        },
+        {
+          "start": 286,
+          "end": 292,
+          "label": "PERSON"
+        },
+        {
+          "start": 322,
+          "end": 332,
+          "label": "PERSON"
+        },
+        {
+          "start": 336,
+          "end": 345,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Si natura negat facit indignatio uersum qualemcumque potest quales ego uel Cluuienus.",
+      "spans": [
+        {
+          "start": 75,
+          "end": 84,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Castigas turpia cum sis inter Socraticos notissima fossa cinaedos.",
+      "spans": [
+        {
+          "start": 30,
+          "end": 40,
+          "label": "NORP"
+        }
+      ]
+    },
+    {
+      "text": "Ego uel Prochytam praepono Suburae nam quid tam miserum tam solum uidimus ut non deterius credas horrere incendia lapsus tectorum adsiduos ac mille pericula saeuae urbis et Augusto recitantes mense poetas.",
+      "spans": [
+        {
+          "start": 8,
+          "end": 17,
+          "label": "LOC"
+        },
+        {
+          "start": 27,
+          "end": 34,
+          "label": "LOC"
+        }
+      ]
+    },
+    {
+      "text": "Tarde a Nerone desciuerant nec statim pro Galba Uerginius.",
+      "spans": [
+        {
+          "start": 8,
+          "end": 14,
+          "label": "PERSON"
+        },
+        {
+          "start": 42,
+          "end": 47,
+          "label": "PERSON"
+        },
+        {
+          "start": 48,
+          "end": 57,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Non sane crebrior tota ciuitate sermo per illos mensis fuerat primum licentia ac libidine talia loquendi dein fessa iam aetate Galbae.",
+      "spans": [
+        {
+          "start": 127,
+          "end": 133,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Exactioni triginta equites Romani praepositi nouum officii genus et ambitu ac numero onerosum ubique hasta et sector et inquieta urbs actionibus.",
+      "spans": [
+        {
+          "start": 27,
+          "end": 33,
+          "label": "NORP"
+        }
+      ]
+    },
+    {
+      "text": "Non modo uoce nemo L. Pisoni consulari sed ne uoltu quidem adsensus est.",
+      "spans": [
+        {
+          "start": 19,
+          "end": 28,
+          "label": "PERSON"
+        }
+      ]
+    },
+    {
+      "text": "Habeat iam Roma pudorem tertius e caelo cecidit Cato.",
+      "spans": [
+        {
+          "start": 11,
+          "end": 15,
+          "label": "LOC"
+        },
+        {
+          "start": 48,
+          "end": 52,
+          "label": "PERSON"
         }
       ]
     }

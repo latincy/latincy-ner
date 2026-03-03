@@ -16,8 +16,10 @@ _MACRON_MAP = str.maketrans("āēīōūȳĀĒĪŌŪȲ", "aeiouyAEIOUY")
 
 
 def classify_file(path: Path, unsplit_to: str) -> str:
-    """Determine whether a file belongs to train or dev split."""
+    """Determine whether a file belongs to train, dev, or test split."""
     stem = path.stem
+    if stem.endswith("-test"):
+        return "test"
     if stem.endswith("-train"):
         return "train"
     if stem.endswith("-dev"):
@@ -72,8 +74,8 @@ def build(
         return
 
     # Phase 1: Load all items into split buckets with per-file dedup
-    raw_splits: dict[str, list[dict]] = {"train": [], "dev": []}
-    file_counts: dict[str, int] = {"train": 0, "dev": 0}
+    raw_splits: dict[str, list[dict]] = {"train": [], "dev": [], "test": []}
+    file_counts: dict[str, int] = {"train": 0, "dev": 0, "test": 0}
     file_stats: list[dict] = []  # per-file stats for manifest
     within_dedup_count = 0
 
@@ -109,26 +111,39 @@ def build(
             "deduped": n_before - n_after,
         })
 
-    # Phase 2: Cross-split dedup (dev-priority)
+    # Phase 2: Cross-split dedup (test > dev > train priority)
     cross_dedup_count = 0
     if dedup:
+        test_texts = {item["text"] for item in raw_splits["test"]}
         dev_texts = {item["text"] for item in raw_splits["dev"]}
+        held_out = test_texts | dev_texts
+
         filtered_train = []
         for item in raw_splits["train"]:
-            if item["text"] in dev_texts:
+            if item["text"] in held_out:
                 cross_dedup_count += 1
             else:
                 filtered_train.append(item)
         raw_splits["train"] = filtered_train
 
+        # Also remove from dev anything that appears in test
+        filtered_dev = []
+        for item in raw_splits["dev"]:
+            if item["text"] in test_texts:
+                cross_dedup_count += 1
+            else:
+                filtered_dev.append(item)
+        raw_splits["dev"] = filtered_dev
+
     # Phase 3: Build DocBins
-    splits: dict[str, DocBin] = {"train": DocBin(), "dev": DocBin()}
+    splits: dict[str, DocBin] = {"train": DocBin(), "dev": DocBin(), "test": DocBin()}
     counts: dict[str, dict] = {
         "train": {"files": 0, "sents": 0, "ents": 0},
         "dev": {"files": 0, "sents": 0, "ents": 0},
+        "test": {"files": 0, "sents": 0, "ents": 0},
     }
 
-    for split_name in ("train", "dev"):
+    for split_name in ("train", "dev", "test"):
         counts[split_name]["files"] = file_counts[split_name]
         for item in raw_splits[split_name]:
             doc = make_doc(nlp, item)
@@ -167,6 +182,7 @@ def build(
         "totals": {
             "train": counts["train"],
             "dev": counts["dev"],
+            "test": counts["test"],
             "within_file_dedup": within_dedup_count,
             "cross_split_dedup": cross_dedup_count,
         },
@@ -178,7 +194,7 @@ def build(
         json.dump(manifest, f, indent=2, ensure_ascii=False)
 
     print("Build complete.\n")
-    for split_name in ("train", "dev"):
+    for split_name in ("train", "dev", "test"):
         c = counts[split_name]
         print(
             f"  {split_name}: {c['files']} files, "
@@ -187,9 +203,10 @@ def build(
 
     if dedup:
         print(f"\n  Dedup: {within_dedup_count} within-file duplicates removed")
-        print(f"  Dedup: {cross_dedup_count} train/dev overlaps removed from train")
+        print(f"  Dedup: {cross_dedup_count} cross-split overlaps removed")
 
-    print(f"\nOutput: {output_dir}/train.spacy, {output_dir}/dev.spacy")
+    out_files = ", ".join(f"{output_dir}/{s}.spacy" for s in ("train", "dev", "test"))
+    print(f"\nOutput: {out_files}")
     print(f"Manifest: {manifest_path}")
 
 
