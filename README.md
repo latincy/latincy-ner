@@ -2,36 +2,50 @@
 
 Curated NER training data for [LatinCy](https://huggingface.co/latincy) Latin language models. This repo receives finalized annotation singles from `latincy-ner-annotate` and converts them to spaCy `DocBin` files for model training.
 
+## Entity Types
+
+| Label | Description |
+|---|---|
+| PERSON | Named individuals (e.g. *Caesar*, *Priamus*) |
+| LOC | Geographic locations (e.g. *Roma*, *Sicilia*) |
+| NORP | Nationalities, religious, or political groups (e.g. *Romani*, *Christiani*) |
+
 ## Collections
 
-| Collection | File | Sentences | Entities |
+Sources are split into train, dev, and test sets. Test files are held-out complete documents for evaluation; train/dev files use 80/20 splits within each source.
+
+| Collection | Source | Split | Sentences | Entities |
+|---|---|---|---|---|
+| bootstrap | bootstrap-herodotos | train | 2,649 | 5,519 |
+| bootstrap | bootstrap-herodotos | dev | 758 | 1,444 |
+| bootstrap | bootstrap-neral | test | 555 | 1,227 |
+| catena | catena-dcd.1 | train | 459 | 176 |
+| catena | catena-dcd.1 | dev | 89 | 23 |
+| catena | catena-dcd.2 | test | 334 | 225 |
+| nt | nt-matthew | test | 1,069 | 619 |
+| ot | ot-genesis | train | 1,203 | 1,575 |
+| ot | ot-genesis | dev | 319 | 387 |
+| primer | primer-ritchies | train | 699 | 566 |
+| primer | primer-ritchies | dev | 190 | 166 |
+| primer | primer-sonnenschein_1902 | train | 399 | 288 |
+| primer | primer-sonnenschein_1902 | dev | 104 | 97 |
+| primer | primer-sonnenschein_1903 | train | 267 | 284 |
+| primer | primer-sonnenschein_1903 | dev | 65 | 77 |
+| tesserae | tesserae-ovid.metamorphoses.1 | train | 324 | 131 |
+| tesserae | tesserae-ovid.metamorphoses.1 | dev | 74 | 28 |
+| ud | ud | train | 8,992 | 17,530 |
+| ud | ud | dev | 2,069 | 4,304 |
+
+### Totals
+
+| Split | Files | Sentences | Entities |
 |---|---|---|---|
-| bootstrap | bootstrap-herodotos-train.json | 3,341 | 5,519 |
-| bootstrap | bootstrap-herodotos-dev.json | 836 | 1,444 |
-| bootstrap | bootstrap-neral-train.json | 444 | 980 |
-| bootstrap | bootstrap-neral-dev.json | 111 | 247 |
-| nt | nt-matthew.json | 1,069 | 619 |
-| ot | ot-genesis.json | 1,522 | 1,962 |
-| primer | primer-ritchies.json | 889 | 732 |
-| primer | primer-sonnenschein_1902.json | 503 | 385 |
-| primer | primer-sonnenschein_1903.json | 332 | 361 |
-| ud | ud-train.json | 8,992 | 17,530 |
-| ud | ud-dev.json | 2,069 | 4,304 |
-| **Total** | **11 files** | **20,108** | **34,083** |
+| train | 8 | 14,778 | 25,033 |
+| dev | 8 | 3,668 | 6,435 |
+| test | 3 | 1,958 | 2,071 |
+| **Total** | **19** | **20,404** | **33,539** |
 
-### Corpus Summary
-
-| | Count |
-|---|---|
-| Sentences | 20,108 |
-| Tokens | ~380,000 |
-| Entities | 34,083 |
-
-| Label | Count | % |
-|---|---|---|
-| PERSON | 26,507 | 77.8% |
-| LOC | 5,016 | 14.7% |
-| NORP | 2,560 | 7.5% |
+Counts are after deduplication (770 within-file, 214 cross-split).
 
 ## Setup
 
@@ -55,13 +69,14 @@ Options:
 --unsplit-to train|dev    Where unsplit files go (default: train)
 --collections-dir PATH    Source directory (default: assets/collections)
 --output-dir PATH         Output directory (default: assets/processed)
+--no-dedup                Disable deduplication
 ```
 
-Output: `assets/processed/train.spacy` and `assets/processed/dev.spacy`
+Output: `assets/processed/{train,dev,test}.spacy` plus `manifest.json` with per-file statistics.
 
 ## Data Format
 
-Each JSON single has this structure:
+Each JSON single follows this schema:
 
 ```json
 {
@@ -73,4 +88,17 @@ Each JSON single has this structure:
 }
 ```
 
-Files with `-train` or `-dev` suffix are split accordingly. Unsplit files default to train.
+Files with `-train`, `-dev`, or `-test` suffix are routed to the corresponding split. Unsplit files default to train.
+
+## Preprocessing
+
+Text is normalized before tokenization to match the LatinCy tokenizer pipeline:
+
+1. Ligatures: `æ`→`ae`, `œ`→`oe`
+2. Macrons: `ā`→`a`, etc.
+3. Diacritics: NFD decompose + strip combining marks
+4. Orthography: `v`→`u`, `j`→`i`
+
+## License
+
+[MIT](LICENSE)
