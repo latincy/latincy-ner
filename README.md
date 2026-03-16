@@ -101,4 +101,4 @@ Text is normalized before tokenization to match the LatinCy tokenizer pipeline:
 
 ## License
 
-[MIT](LICENSE)
+[CC BY 4.0](LICENSE)
