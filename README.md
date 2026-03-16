@@ -15,4 +15,4 @@ This dataset is currently in preparation and will be available shortly.
 
 ## License
 
-[MIT](LICENSE)
+[CC BY 4.0](LICENSE)
