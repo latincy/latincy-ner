@@ -135,6 +135,17 @@ def build(
                 filtered_dev.append(item)
         raw_splits["dev"] = filtered_dev
 
+    # Phase 2b: Export deduped flat JSON (for Stanza/Flair/other frameworks)
+    json_dir = output_dir / "json"
+    json_dir.mkdir(parents=True, exist_ok=True)
+    for split_name in ("train", "dev", "test"):
+        items = raw_splits[split_name]
+        json_path = json_dir / f"{split_name}.json"
+        with open(json_path, "w", encoding="utf-8") as f:
+            json.dump(items, f, indent=1, ensure_ascii=False)
+        print(f"  {split_name}.json: {len(items)} sentences")
+    print()
+
     # Phase 3: Build DocBins
     splits: dict[str, DocBin] = {"train": DocBin(), "dev": DocBin(), "test": DocBin()}
     counts: dict[str, dict] = {
