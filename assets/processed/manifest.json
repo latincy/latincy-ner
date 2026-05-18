@@ -1,14 +1,14 @@
 {
-  "corpus_version": "3.9.2",
-  "git_commit": "e5c56abc871761a380e372fa477553c915a04957",
-  "built_at": "2026-03-03T10:01:14.965802+00:00",
+  "corpus_version": "3.10.0",
+  "git_commit": "58e27dce784a3bdbbe272aea191801403211ebb2",
+  "built_at": "2026-05-18T19:08:44.291494+00:00",
   "collections_dir": "assets/collections",
   "dedup": true,
   "totals": {
     "train": {
       "files": 8,
-      "sents": 14778,
-      "ents": 25033
+      "sents": 25704,
+      "ents": 43245
     },
     "dev": {
       "files": 8,
@@ -21,7 +21,8 @@
       "ents": 2071
     },
     "within_file_dedup": 770,
-    "cross_split_dedup": 214
+    "cross_split_dedup": 214,
+    "casing_augmented": 10926
   },
   "files": [
     {

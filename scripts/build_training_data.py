@@ -15,6 +15,33 @@ from spacy.tokens import DocBin
 _MACRON_MAP = str.maketrans("āēīōūȳĀĒĪŌŪȲ", "aeiouyAEIOUY")
 
 
+def augment_items(items: list[dict]) -> list[dict]:
+    """Return casing-augmented variants, changing only text[0]. Originals not included.
+
+    - Upper variant: text[0] uppercased (skipped if already uppercase).
+    - Lower variant: text[0] lowercased (skipped if already lowercase or
+      if position 0 falls within an entity span).
+    """
+    existing = {i["text"] for i in items}
+    result = []
+    for item in items:
+        text = item["text"]
+        if not text:
+            continue
+        spans = item.get("spans", [])
+        entity_at_start = any(s["start"] == 0 for s in spans)
+
+        if text[0].islower():
+            upper_text = text[0].upper() + text[1:]
+            if upper_text not in existing:
+                result.append({"text": upper_text, "spans": spans})
+        if text[0].isupper() and not entity_at_start:
+            lower_text = text[0].lower() + text[1:]
+            if lower_text not in existing:
+                result.append({"text": lower_text, "spans": spans})
+    return result
+
+
 def classify_file(path: Path, unsplit_to: str) -> str:
     """Determine whether a file belongs to train, dev, or test split."""
     stem = path.stem
@@ -135,7 +162,12 @@ def build(
                 filtered_dev.append(item)
         raw_splits["dev"] = filtered_dev
 
-    # Phase 2b: Export deduped flat JSON (for Stanza/Flair/other frameworks)
+    # Phase 2b: Augment train split with casing variants
+    augmented = augment_items(raw_splits["train"])
+    raw_splits["train"] = raw_splits["train"] + augmented
+    augmented_count = len(augmented)
+
+    # Phase 2c: Export deduped flat JSON (for Stanza/Flair/other frameworks)
     json_dir = output_dir / "json"
     json_dir.mkdir(parents=True, exist_ok=True)
     for split_name in ("train", "dev", "test"):
@@ -196,6 +228,7 @@ def build(
             "test": counts["test"],
             "within_file_dedup": within_dedup_count,
             "cross_split_dedup": cross_dedup_count,
+            "casing_augmented": augmented_count,
         },
         "files": file_stats,
     }
@@ -215,6 +248,7 @@ def build(
     if dedup:
         print(f"\n  Dedup: {within_dedup_count} within-file duplicates removed")
         print(f"  Dedup: {cross_dedup_count} cross-split overlaps removed")
+    print(f"  Augmented: {augmented_count} casing variants added to train")
 
     out_files = ", ".join(f"{output_dir}/{s}.spacy" for s in ("train", "dev", "test"))
     print(f"\nOutput: {out_files}")

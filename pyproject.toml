@@ -7,3 +7,6 @@ requires-python = ">=3.11"
 dependencies = [
     "spacy>=3.8.11",
 ]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
