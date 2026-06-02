@@ -4,7 +4,16 @@
     "source": "Universal Dependencies Latin treebanks",
     "latincy-ner-project": "ud",
     "latincy-ner-project-subset": "dev",
-    "license": "unknown",
+    "license": {
+      "note": "Underlying UD Latin treebank texts; mixed licenses. NER annotations are first-party LatinCy (CC BY 4.0).",
+      "treebanks": {
+        "UD_Latin-Perseus": "https://creativecommons.org/licenses/by-nc-sa/2.5/",
+        "UD_Latin-PROIEL": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+        "UD_Latin-ITTB": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+        "UD_Latin-UDante": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+        "UD_Latin-LLCT": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    },
     "legacy_file": "latincy-ner-ud-dev.json"
   },
   "annotation": {
