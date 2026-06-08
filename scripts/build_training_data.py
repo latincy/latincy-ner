@@ -86,6 +86,20 @@ def make_doc(nlp: spacy.Language, item: dict) -> spacy.tokens.Doc:
     return doc
 
 
+def make_bio_lines(doc: spacy.tokens.Doc) -> list[tuple[str, str]]:
+    """Return (token_text, BIO_tag) pairs for each token in a Doc."""
+    lines = []
+    for token in doc:
+        if token.ent_iob_ == "B":
+            tag = f"B-{token.ent_type_}"
+        elif token.ent_iob_ == "I":
+            tag = f"I-{token.ent_type_}"
+        else:
+            tag = "O"
+        lines.append((token.text, tag))
+    return lines
+
+
 def build(
     collections_dir: Path,
     output_dir: Path,
@@ -176,6 +190,21 @@ def build(
         with open(json_path, "w", encoding="utf-8") as f:
             json.dump(items, f, indent=1, ensure_ascii=False)
         print(f"  {split_name}.json: {len(items)} sentences")
+    print()
+
+    # Phase 2d: Export BIO TSV (for CRF/sequence labeling frameworks)
+    bio_dir = output_dir / "bio"
+    bio_dir.mkdir(parents=True, exist_ok=True)
+    for split_name in ("train", "dev", "test"):
+        items = raw_splits[split_name]
+        bio_path = bio_dir / f"{split_name}.tsv"
+        with open(bio_path, "w", encoding="utf-8") as f:
+            for item in items:
+                doc = make_doc(nlp, item)
+                for token_text, tag in make_bio_lines(doc):
+                    f.write(f"{token_text}\t{tag}\n")
+                f.write("\n")
+        print(f"  {split_name}.tsv: {len(items)} sentences")
     print()
 
     # Phase 3: Build DocBins
