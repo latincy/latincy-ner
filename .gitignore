@@ -44,3 +44,6 @@ htmlcov/
 
 # Claude Code local configuration
 .claude/
+
+# Pre-split source singles — kept locally for provenance, not published
+*.json.orig

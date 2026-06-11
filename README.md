@@ -101,4 +101,27 @@ Text is normalized before tokenization to match the LatinCy tokenizer pipeline:
 
 ## License
 
-[CC BY 4.0](LICENSE)
+The dataset is released under **[CC BY-NC-SA 4.0](LICENSE)** (Attribution–
+NonCommercial–ShareAlike). The NER **annotations** are first-party LatinCy work
+that would otherwise be CC BY 4.0; the more restrictive umbrella is applied
+because several underlying source texts carry NonCommercial / ShareAlike terms,
+and licensing the combined collection uniformly honors every source. LatinCy is
+a non-commercial academic project, so the NonCommercial clause matches intended
+use. This applies equally to the merged exports in `assets/processed/`.
+
+### Source provenance
+
+Each collection embeds source text, so the source license governs
+redistribution:
+
+| Collection | Underlying text | Source license |
+|---|---|---|
+| catena | Augustine, *De Civitate Dei* (The Latin Library) | CC0 (public-domain text) |
+| nt / ot | Vulgate (CLTK Tesserae) | CC0 (public-domain text) |
+| primer | Ritchie; Sonnenschein 1902/1903 | CC0 (public-domain text) |
+| tesserae | Ovid, *Metamorphoses* 1 (CLTK Tesserae) | CC0 (public-domain text) |
+| ud | Universal Dependencies Latin treebanks | Mixed: CC BY-NC-SA 2.5/3.0 (Perseus, PROIEL, ITTB, UDante), CC BY-SA 4.0 (LLCT) |
+| bootstrap | Herodotos Project / NERAL (silver) | Being reannotated against CC0 Tesserae equivalents; **not for redistribution until that lands** |
+
+The CC0-text collections could individually be released as CC BY 4.0; the
+`ud` collection's BY-NC-SA terms are what set the umbrella for the whole dataset.

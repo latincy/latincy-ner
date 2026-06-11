@@ -1,10 +1,11 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
-type: software
+message: "If you use this dataset, please cite it as below."
+type: dataset
 title: "LatinCy NER"
 abstract: "Named entity recognition training data for Latin"
+version: "4.0.0"
 authors:
   - family-names: Burns
     given-names: Patrick J.
-license: MIT
+license: CC-BY-NC-SA-4.0
 repository-code: "https://github.com/diyclassics/latincy-ner"
