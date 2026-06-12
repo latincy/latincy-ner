@@ -31,8 +31,8 @@ Sources are split into train, dev, and test sets. Test files are held-out comple
 | primer | primer-sonnenschein_1902 | dev | 104 | 97 |
 | primer | primer-sonnenschein_1903 | train | 267 | 284 |
 | primer | primer-sonnenschein_1903 | dev | 65 | 77 |
-| tesserae | tesserae-ovid.metamorphoses.1 | train | 324 | 131 |
-| tesserae | tesserae-ovid.metamorphoses.1 | dev | 74 | 28 |
+| ovid-met | ovid-met-1 | train | 324 | 131 |
+| ovid-met | ovid-met-1 | dev | 74 | 28 |
 | ud | ud | train | 8,992 | 17,530 |
 | ud | ud | dev | 2,069 | 4,304 |
 
@@ -119,7 +119,7 @@ redistribution:
 | catena | Augustine, *De Civitate Dei* (The Latin Library) | CC0 (public-domain text) |
 | nt / ot | Vulgate (CLTK Tesserae) | CC0 (public-domain text) |
 | primer | Ritchie; Sonnenschein 1902/1903 | CC0 (public-domain text) |
-| tesserae | Ovid, *Metamorphoses* 1 (CLTK Tesserae) | CC0 (public-domain text) |
+| ovid-met | Ovid, *Metamorphoses* 1 (CLTK Tesserae) | CC0 (public-domain text) |
 | ud | Universal Dependencies Latin treebanks | Mixed: CC BY-NC-SA 2.5/3.0 (Perseus, PROIEL, ITTB, UDante), CC BY-SA 4.0 (LLCT) |
 | bootstrap | Herodotos Project / NERAL (silver) | Being reannotated against CC0 Tesserae equivalents; **not for redistribution until that lands** |
 
