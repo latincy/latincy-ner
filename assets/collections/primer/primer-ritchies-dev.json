@@ -206,7 +206,8 @@
           "text": "Athenas",
           "label": "LOC",
           "source": "la_core_web_trf",
-          "input_hash": 82301403
+          "input_hash": 82301403,
+          "kb_id": "Q1055"
         }
       ],
       "meta": {}
@@ -497,7 +498,8 @@
           "end": 19,
           "token_start": 2,
           "token_end": 2,
-          "label": "NORP"
+          "label": "NORP",
+          "kb_id": "Q40591"
         },
         {
           "text": "Mars",
@@ -801,7 +803,8 @@
           "text": "Colchida",
           "label": "LOC",
           "source": "la_core_web_trf",
-          "input_hash": -1888934617
+          "input_hash": -1888934617,
+          "kb_id": "Q240848"
         }
       ],
       "meta": {}
@@ -1140,7 +1143,8 @@
           "text": "Thebani",
           "label": "NORP",
           "source": "la_core_web_trf",
-          "input_hash": 1331761761
+          "input_hash": 1331761761,
+          "kb_id": "Q6521489"
         }
       ],
       "meta": {}
@@ -2196,7 +2200,8 @@
           "end": 40,
           "token_start": 6,
           "token_end": 6,
-          "label": "LOC"
+          "label": "LOC",
+          "kb_id": "Q46"
         },
         {
           "text": "Libya",
@@ -2214,7 +2219,8 @@
           "end": 107,
           "token_start": 15,
           "token_end": 16,
-          "label": "LOC"
+          "label": "LOC",
+          "kb_id": "Q43512"
         }
       ],
       "meta": {}
@@ -2277,8 +2283,7 @@
           "end": 5,
           "token_start": 0,
           "token_end": 0,
-          "label": "PERSON",
-          "kb_id": "Q190582"
+          "label": "PERSON"
         }
       ],
       "meta": {}

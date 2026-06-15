@@ -17,7 +17,8 @@
           "end": 13,
           "token_start": 1,
           "token_end": 1,
-          "label": "NORP"
+          "label": "NORP",
+          "kb_id": "Q40591"
         }
       ],
       "meta": {}
@@ -78,7 +79,8 @@
           "text": "Cyzicum",
           "label": "LOC",
           "source": "la_core_web_trf",
-          "input_hash": -47307354
+          "input_hash": -47307354,
+          "kb_id": "Q187645"
         }
       ],
       "meta": {}
@@ -161,7 +163,8 @@
           "text": "Graeas",
           "label": "PERSON",
           "source": "la_core_web_trf",
-          "input_hash": 275038644
+          "input_hash": 275038644,
+          "kb_id": "Q10261"
         },
         {
           "token_start": 5,
@@ -188,7 +191,8 @@
           "end": 8,
           "token_start": 0,
           "token_end": 0,
-          "label": "NORP"
+          "label": "NORP",
+          "kb_id": "Q40591"
         },
         {
           "start": 76,
@@ -265,8 +269,7 @@
           "end": 41,
           "token_start": 7,
           "token_end": 7,
-          "label": "PERSON",
-          "kb_id": "Q190582"
+          "label": "PERSON"
         }
       ],
       "meta": {}
@@ -377,7 +380,8 @@
           "text": "Amazonum",
           "label": "NORP",
           "source": "la_core_web_trf",
-          "input_hash": -1958794185
+          "input_hash": -1958794185,
+          "kb_id": "Q40591"
         },
         {
           "token_start": 8,
@@ -621,7 +625,8 @@
           "text": "Lichae",
           "label": "PERSON",
           "source": "la_core_web_trf",
-          "input_hash": 177743216
+          "input_hash": 177743216,
+          "kb_id": "Q202406"
         },
         {
           "token_start": 16,
@@ -1000,7 +1005,8 @@
           "text": "Ithacam",
           "label": "LOC",
           "source": "la_core_web_trf",
-          "input_hash": -1942027480
+          "input_hash": -1942027480,
+          "kb_id": "Q12193"
         }
       ],
       "meta": {}
@@ -1048,7 +1054,8 @@
           "text": "Amazonibus",
           "label": "NORP",
           "source": "la_core_web_trf",
-          "input_hash": 1873138237
+          "input_hash": 1873138237,
+          "kb_id": "Q40591"
         }
       ],
       "meta": {}
@@ -1064,7 +1071,8 @@
           "text": "Atlantem",
           "label": "PERSON",
           "source": "la_core_web_trf",
-          "input_hash": 1880412277
+          "input_hash": 1880412277,
+          "kb_id": "Q130818"
         }
       ],
       "meta": {}
@@ -1261,7 +1269,8 @@
           "text": "Cyclopibus",
           "label": "NORP",
           "source": "la_core_web_trf",
-          "input_hash": -2096024898
+          "input_hash": -2096024898,
+          "kb_id": "Q317"
         }
       ],
       "meta": {}
@@ -1512,7 +1521,8 @@
           "text": "Acastum",
           "label": "PERSON",
           "source": "la_core_web_trf",
-          "input_hash": 1722947981
+          "input_hash": 1722947981,
+          "kb_id": "Q186847"
         }
       ],
       "meta": {}
@@ -1665,7 +1675,8 @@
           "text": "Europae",
           "label": "LOC",
           "source": "la_core_web_trf",
-          "input_hash": -1732101969
+          "input_hash": -1732101969,
+          "kb_id": "Q46"
         }
       ],
       "meta": {}
@@ -1852,7 +1863,8 @@
           "text": "Alcmenae",
           "label": "PERSON",
           "source": "la_core_web_trf",
-          "input_hash": 1394159868
+          "input_hash": 1394159868,
+          "kb_id": "Q173378"
         },
         {
           "token_start": 9,
@@ -1894,8 +1906,7 @@
           "text": "Hercule",
           "label": "PERSON",
           "source": "la_core_web_lg",
-          "input_hash": 1679543332,
-          "kb_id": "Q122248"
+          "input_hash": 1679543332
         }
       ],
       "meta": {}
@@ -2091,7 +2102,8 @@
           "end": 59,
           "token_start": 9,
           "token_end": 9,
-          "label": "LOC"
+          "label": "LOC",
+          "kb_id": "Q216736"
         }
       ],
       "meta": {}
@@ -2124,7 +2136,8 @@
           "text": "Tiryntha",
           "label": "LOC",
           "source": "la_core_web_trf",
-          "input_hash": -2072894586
+          "input_hash": -2072894586,
+          "kb_id": "Q217379"
         },
         {
           "token_start": 10,
@@ -2257,7 +2270,8 @@
           "end": 27,
           "token_start": 3,
           "token_end": 4,
-          "label": "LOC"
+          "label": "LOC",
+          "kb_id": "Q273714"
         }
       ],
       "meta": {}
@@ -2382,7 +2396,8 @@
           "end": 26,
           "token_start": 3,
           "token_end": 3,
-          "label": "LOC"
+          "label": "LOC",
+          "kb_id": "Q12193"
         },
         {
           "start": 70,
@@ -2400,7 +2415,8 @@
           "end": 142,
           "token_start": 21,
           "token_end": 21,
-          "label": "PERSON"
+          "label": "PERSON",
+          "kb_id": "Q190070"
         }
       ],
       "meta": {}
@@ -2555,7 +2571,8 @@
           "text": "Amazones",
           "label": "NORP",
           "source": "la_core_web_trf",
-          "input_hash": -156002169
+          "input_hash": -156002169,
+          "kb_id": "Q40591"
         }
       ],
       "meta": {}
@@ -3430,7 +3447,8 @@
           "text": "Iphicles",
           "label": "PERSON",
           "source": "la_core_web_trf",
-          "input_hash": 119709071
+          "input_hash": 119709071,
+          "kb_id": "Q738862"
         },
         {
           "token_start": 3,
@@ -3512,7 +3530,8 @@
           "text": "Lichas",
           "label": "PERSON",
           "source": "la_core_web_trf",
-          "input_hash": 777631245
+          "input_hash": 777631245,
+          "kb_id": "Q202406"
         }
       ],
       "meta": {}
@@ -3728,7 +3747,8 @@
           "end": 29,
           "token_start": 4,
           "token_end": 4,
-          "label": "LOC"
+          "label": "LOC",
+          "kb_id": "Q212501"
         }
       ],
       "meta": {}
@@ -4155,7 +4175,8 @@
           "text": "Uolcanus",
           "label": "PERSON",
           "source": "la_core_web_trf",
-          "input_hash": 264518561
+          "input_hash": 264518561,
+          "kb_id": "Q48268"
         },
         {
           "token_start": 15,
@@ -4187,7 +4208,8 @@
           "text": "Thebani",
           "label": "NORP",
           "source": "la_core_web_trf",
-          "input_hash": 1489400149
+          "input_hash": 1489400149,
+          "kb_id": "Q6521489"
         },
         {
           "token_start": 2,
@@ -4457,7 +4479,8 @@
           "text": "Uolcanus",
           "label": "PERSON",
           "source": "la_core_web_trf",
-          "input_hash": -2008522710
+          "input_hash": -2008522710,
+          "kb_id": "Q48268"
         },
         {
           "token_start": 12,
@@ -4604,8 +4627,7 @@
           "end": 5,
           "token_start": 0,
           "token_end": 0,
-          "label": "PERSON",
-          "kb_id": "Q190582"
+          "label": "PERSON"
         },
         {
           "text": "Persei",
@@ -4752,7 +4774,8 @@
           "end": 47,
           "token_start": 5,
           "token_end": 6,
-          "label": "LOC"
+          "label": "LOC",
+          "kb_id": "Q2359730"
         }
       ],
       "meta": {}
@@ -4864,7 +4887,8 @@
           "text": "Glaucen",
           "label": "PERSON",
           "source": "la_core_web_trf",
-          "input_hash": -954873953
+          "input_hash": -954873953,
+          "kb_id": "Q269058"
         }
       ],
       "meta": {}
@@ -5025,8 +5049,7 @@
           "text": "Hispaniam",
           "label": "LOC",
           "source": "la_core_web_trf",
-          "input_hash": 1215529119,
-          "kb_id": "Q186513"
+          "input_hash": 1215529119
         },
         {
           "token_start": 6,
@@ -5198,7 +5221,8 @@
           "end": 11,
           "token_start": 1,
           "token_end": 1,
-          "label": "NORP"
+          "label": "NORP",
+          "kb_id": "Q6521489"
         }
       ],
       "meta": {}
@@ -5727,7 +5751,8 @@
           "end": 23,
           "token_start": 5,
           "token_end": 5,
-          "label": "PERSON"
+          "label": "PERSON",
+          "kb_id": "Q43434"
         }
       ],
       "meta": {}
@@ -5951,7 +5976,8 @@
           "text": "Hesionem",
           "label": "PERSON",
           "source": "la_core_web_lg",
-          "input_hash": -2111996644
+          "input_hash": -2111996644,
+          "kb_id": "Q4137657"
         }
       ],
       "meta": {}
@@ -6078,7 +6104,8 @@
           "text": "Phasim",
           "label": "LOC",
           "source": "la_core_web_trf",
-          "input_hash": 938819483
+          "input_hash": 938819483,
+          "kb_id": "Q192929"
         },
         {
           "token_start": 12,
@@ -6088,7 +6115,8 @@
           "text": "Colchorum",
           "label": "NORP",
           "source": "la_core_web_trf",
-          "input_hash": 938819483
+          "input_hash": 938819483,
+          "kb_id": "Q240848"
         }
       ],
       "meta": {}
@@ -6566,7 +6594,8 @@
           "text": "Lethe",
           "label": "LOC",
           "source": "la_core_web_trf",
-          "input_hash": 1024804418
+          "input_hash": 1024804418,
+          "kb_id": "Q157247"
         }
       ],
       "meta": {}
@@ -6997,8 +7026,7 @@
           "text": "Gorgonis",
           "label": "PERSON",
           "source": "la_core_web_lg",
-          "input_hash": -563061908,
-          "kb_id": "Q102059"
+          "input_hash": -563061908
         }
       ],
       "meta": {}
@@ -7146,7 +7174,8 @@
           "text": "Licham",
           "label": "PERSON",
           "source": "la_core_web_trf",
-          "input_hash": 1610877041
+          "input_hash": 1610877041,
+          "kb_id": "Q202406"
         }
       ],
       "meta": {}
@@ -7263,7 +7292,8 @@
           "text": "Glaucen",
           "label": "PERSON",
           "source": "la_core_web_trf",
-          "input_hash": -727096780
+          "input_hash": -727096780,
+          "kb_id": "Q269058"
         }
       ],
       "meta": {}
@@ -7382,7 +7412,8 @@
           "end": 38,
           "token_start": 5,
           "token_end": 5,
-          "label": "NORP"
+          "label": "NORP",
+          "kb_id": "Q317"
         }
       ],
       "meta": {}
@@ -7496,14 +7527,16 @@
           "end": 56,
           "token_start": 7,
           "token_end": 7,
-          "label": "LOC"
+          "label": "LOC",
+          "kb_id": "Q105064"
         },
         {
           "start": 60,
           "end": 68,
           "token_start": 9,
           "token_end": 9,
-          "label": "LOC"
+          "label": "LOC",
+          "kb_id": "Q756636"
         }
       ],
       "meta": {}
@@ -7817,7 +7850,8 @@
           "text": "Danaen",
           "label": "PERSON",
           "source": "la_core_web_trf",
-          "input_hash": 219363450
+          "input_hash": 219363450,
+          "kb_id": "Q190655"
         }
       ],
       "meta": {}
@@ -7979,7 +8013,8 @@
           "text": "Larisam",
           "label": "LOC",
           "source": "la_core_web_lg",
-          "input_hash": -989112626
+          "input_hash": -989112626,
+          "kb_id": "Q212501"
         }
       ],
       "meta": {}
@@ -8030,7 +8065,8 @@
           "end": 23,
           "token_start": 2,
           "token_end": 2,
-          "label": "NORP"
+          "label": "NORP",
+          "kb_id": "Q40591"
         }
       ],
       "meta": {}
@@ -8064,7 +8100,8 @@
           "end": 104,
           "token_start": 15,
           "token_end": 15,
-          "label": "NORP"
+          "label": "NORP",
+          "kb_id": "Q240848"
         }
       ],
       "meta": {}
@@ -8151,7 +8188,8 @@
           "text": "Erythiam",
           "label": "LOC",
           "source": "la_core_web_trf",
-          "input_hash": 90662342
+          "input_hash": 90662342,
+          "kb_id": "Q1350897"
         },
         {
           "token_start": 11,
@@ -8603,7 +8641,8 @@
           "text": "Atlante",
           "label": "PERSON",
           "source": "la_core_web_trf",
-          "input_hash": 1376104780
+          "input_hash": 1376104780,
+          "kb_id": "Q130818"
         }
       ],
       "meta": {}
@@ -8953,7 +8992,8 @@
           "text": "Alcmenam",
           "label": "PERSON",
           "source": "la_core_web_trf",
-          "input_hash": -805922897
+          "input_hash": -805922897,
+          "kb_id": "Q173378"
         },
         {
           "token_start": 9,
@@ -9068,14 +9108,16 @@
           "end": 41,
           "token_start": 5,
           "token_end": 5,
-          "label": "PERSON"
+          "label": "PERSON",
+          "kb_id": "Q188345"
         },
         {
           "start": 49,
           "end": 58,
           "token_start": 8,
           "token_end": 8,
-          "label": "LOC"
+          "label": "LOC",
+          "kb_id": "Q3594069"
         }
       ],
       "meta": {}
@@ -9353,7 +9395,8 @@
           "end": 7,
           "token_start": 0,
           "token_end": 0,
-          "label": "NORP"
+          "label": "NORP",
+          "kb_id": "Q6521489"
         },
         {
           "start": 20,
@@ -9577,7 +9620,8 @@
           "text": "Uolcanum",
           "label": "PERSON",
           "source": "la_core_web_trf",
-          "input_hash": -862003345
+          "input_hash": -862003345,
+          "kb_id": "Q48268"
         }
       ],
       "meta": {}
@@ -9655,7 +9699,8 @@
           "end": 57,
           "token_start": 7,
           "token_end": 7,
-          "label": "LOC"
+          "label": "LOC",
+          "kb_id": "Q1460"
         },
         {
           "text": "Aetnam",
@@ -9911,7 +9956,8 @@
           "text": "Ithacam",
           "label": "LOC",
           "source": "la_core_web_trf",
-          "input_hash": 238697156
+          "input_hash": 238697156,
+          "kb_id": "Q12193"
         }
       ],
       "meta": {}
@@ -10070,7 +10116,8 @@
           "text": "Alcmenae",
           "label": "PERSON",
           "source": "la_core_web_lg",
-          "input_hash": 871513659
+          "input_hash": 871513659,
+          "kb_id": "Q173378"
         },
         {
           "token_start": 7,
