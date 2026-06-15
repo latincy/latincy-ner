@@ -1,19 +1,19 @@
 {
-  "corpus_version": "3.10.0",
-  "git_commit": "474d7d107fcda9422c5e527aebc877f1ad93ba35",
-  "built_at": "2026-06-08T20:34:53.150426+00:00",
-  "collections_dir": "assets/collections",
+  "corpus_version": "4.0.0",
+  "git_commit": "b4cf4771aab5680296b1ea4c72d7a26828643c81",
+  "built_at": "2026-06-15T21:28:29.794308+00:00",
+  "collections_dir": "assets/splits",
   "dedup": true,
   "totals": {
     "train": {
       "files": 8,
-      "sents": 25704,
-      "ents": 43245
+      "sents": 25771,
+      "ents": 43286
     },
     "dev": {
       "files": 8,
-      "sents": 3668,
-      "ents": 6435
+      "sents": 3657,
+      "ents": 6417
     },
     "test": {
       "files": 3,
@@ -22,7 +22,7 @@
     },
     "within_file_dedup": 770,
     "cross_split_dedup": 214,
-    "casing_augmented": 10926
+    "casing_augmented": 10962
   },
   "files": [
     {
@@ -89,17 +89,31 @@
       "deduped": 0
     },
     {
-      "file": "primer/primer-ritchies-dev.json",
+      "file": "ovid-met/ovid-met-1-dev.json",
       "split": "dev",
-      "sentences": 190,
-      "entities": 166,
+      "sentences": 74,
+      "entities": 28,
       "deduped": 0
     },
     {
-      "file": "primer/primer-ritchies-train.json",
+      "file": "ovid-met/ovid-met-1-train.json",
       "split": "train",
-      "sentences": 699,
-      "entities": 566,
+      "sentences": 324,
+      "entities": 131,
+      "deduped": 0
+    },
+    {
+      "file": "primer/primer-ritchies-nel-dev.json",
+      "split": "dev",
+      "sentences": 179,
+      "entities": 148,
+      "deduped": 0
+    },
+    {
+      "file": "primer/primer-ritchies-nel-train.json",
+      "split": "train",
+      "sentences": 730,
+      "entities": 587,
       "deduped": 0
     },
     {
@@ -128,20 +142,6 @@
       "split": "train",
       "sentences": 267,
       "entities": 284,
-      "deduped": 0
-    },
-    {
-      "file": "tesserae/tesserae-ovid.metamorphoses.1-dev.json",
-      "split": "dev",
-      "sentences": 74,
-      "entities": 28,
-      "deduped": 0
-    },
-    {
-      "file": "tesserae/tesserae-ovid.metamorphoses.1-train.json",
-      "split": "train",
-      "sentences": 324,
-      "entities": 131,
       "deduped": 0
     },
     {

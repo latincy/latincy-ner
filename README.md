@@ -2,6 +2,18 @@
 
 Curated NER training data for [LatinCy](https://huggingface.co/latincy) Latin language models. This repo receives finalized annotation singles from `latincy-ner-annotate` and converts them to spaCy `DocBin` files for model training.
 
+## Named Entity Linking (NEL)
+
+<!-- TODO(PJB): write this section. Outline / facts to weave in (notes, not prose):
+     - this release adds NEL on top of NER: named entities linked to Wikidata QIDs (and local lkb: / NIL ids) via a `kb_id` on each span
+     - the album/singles publication format — see docs/SINGLES_FORMAT.md
+     - the reference single: primer-ritchies-nel.json v0.2.0 (Ritchie's Fabulae Faciles), 909 sents / 735 spans, 100% Wikidata-linked; data card at assets/collections/primer/primer-ritchies-datacard.md
+     - review levels: NER reviewed (one expert pass), NEL silver
+     - authorities (wd) declared in annotation.nel.authorities; NIL = dataset-internal
+     - validate_single.py enforces the authorities↔kb_id contract (CI + pre-commit)
+-->
+_TODO: NEL framing — to be written._
+
 ## Entity Types
 
 | Label | Description |
@@ -9,6 +21,11 @@ Curated NER training data for [LatinCy](https://huggingface.co/latincy) Latin la
 | PERSON | Named individuals (e.g. *Caesar*, *Priamus*) |
 | LOC | Geographic locations (e.g. *Roma*, *Sicilia*) |
 | NORP | Nationalities, religious, or political groups (e.g. *Romani*, *Christiani*) |
+| MISC | Named entities outside PERSON/LOC/NORP (e.g. *Cerberus*, *Hydra*) |
+
+`MISC` is **not officially supported in the LatinCy NER tagger**; it is included
+here so that an NEL id can be attached to a named token even when it does not
+refer to a PERSON, LOC, or NORP.
 
 ## Collections
 
@@ -25,8 +42,8 @@ Sources are split into train, dev, and test sets. Test files are held-out comple
 | nt | nt-matthew | test | 1,069 | 619 |
 | ot | ot-genesis | train | 1,203 | 1,575 |
 | ot | ot-genesis | dev | 319 | 387 |
-| primer | primer-ritchies | train | 699 | 566 |
-| primer | primer-ritchies | dev | 190 | 166 |
+| primer | primer-ritchies-nel | train | 730 | 587 |
+| primer | primer-ritchies-nel | dev | 179 | 148 |
 | primer | primer-sonnenschein_1902 | train | 399 | 288 |
 | primer | primer-sonnenschein_1902 | dev | 104 | 97 |
 | primer | primer-sonnenschein_1903 | train | 267 | 284 |
@@ -40,12 +57,13 @@ Sources are split into train, dev, and test sets. Test files are held-out comple
 
 | Split | Files | Sentences | Entities |
 |---|---|---|---|
-| train | 8 | 14,778 | 25,033 |
-| dev | 8 | 3,668 | 6,435 |
+| train | 8 | 14,809 | 25,054 |
+| dev | 8 | 3,657 | 6,417 |
 | test | 3 | 1,958 | 2,071 |
-| **Total** | **19** | **20,404** | **33,539** |
+| **Total** | **19** | **20,424** | **33,542** |
 
-Counts are after deduplication (770 within-file, 214 cross-split).
+Counts are after deduplication (770 within-file, 214 cross-split) and exclude
+casing augmentation (train only; +10,962 variants at build time).
 
 ## Setup
 
@@ -76,17 +94,28 @@ Output: `assets/processed/{train,dev,test}.spacy` plus `manifest.json` with per-
 
 ## Data Format
 
-Each JSON single follows this schema:
+Each JSON single follows this schema (full specification in
+[`docs/SINGLES_FORMAT.md`](docs/SINGLES_FORMAT.md)):
 
 ```json
 {
   "metadata": { "title": "...", "source": "..." },
-  "annotation": { "tagset": ["PERSON", "LOC", "NORP"] },
+  "annotation": { "tagset": ["PERSON", "LOC", "NORP", "MISC"] },
   "data": [
-    { "text": "Cato in Sicilia...", "spans": [{"start": 0, "end": 4, "label": "PERSON"}] }
+    {
+      "text": "Perseus autem in insulam Seriphum pervenit.",
+      "spans": [
+        {"start": 0, "end": 7, "label": "PERSON", "surface": "Perseus", "kb_id": "Q127367"},
+        {"start": 25, "end": 33, "label": "LOC", "surface": "Seriphum", "kb_id": "Q216736"}
+      ]
+    }
   ]
 }
 ```
+
+NEL singles add `surface` (the inflected form, `text[start:end]`) and `kb_id`
+(a Wikidata `Q…`, a local `lkb:` id, or `null`/`NIL`) to each span; NER-only
+singles carry just `start`, `end`, `label`.
 
 Files with `-train`, `-dev`, or `-test` suffix are routed to the corresponding split. Unsplit files default to train.
 
