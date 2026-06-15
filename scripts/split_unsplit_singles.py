@@ -1,7 +1,10 @@
 """Split unsplit NER singles into deterministic train/dev files.
 
-Uses hash-based splitting (80/20) to create reproducible train/dev
-splits for source files that lack -train/-dev suffixes.
+Reads canonical singles from assets/collections/, writes splits to the
+corresponding subfolder under assets/splits/. The source file is not
+modified.
+
+Uses hash-based splitting (80/20) to create reproducible train/dev splits.
 """
 
 from __future__ import annotations
@@ -26,8 +29,8 @@ def is_unsplit(path: Path) -> bool:
     return not stem.endswith("-train") and not stem.endswith("-dev")
 
 
-def split_file(path: Path, dry_run: bool = False) -> dict:
-    """Split a single JSON file into train and dev versions."""
+def split_file(path: Path, splits_dir: Path, dry_run: bool = False) -> dict:
+    """Split a single JSON file into train and dev versions under splits_dir."""
     with open(path) as f:
         data = json.load(f)
 
@@ -57,8 +60,11 @@ def split_file(path: Path, dry_run: bool = False) -> dict:
     if dry_run:
         return stats
 
+    out_dir = splits_dir / path.parent.name
+    out_dir.mkdir(parents=True, exist_ok=True)
+
     for split_name, split_items in [("train", train_items), ("dev", dev_items)]:
-        out_path = parent / f"{stem}-{split_name}.json"
+        out_path = out_dir / f"{stem}-{split_name}.json"
         out_data = {
             "metadata": {
                 **metadata,
@@ -70,10 +76,6 @@ def split_file(path: Path, dry_run: bool = False) -> dict:
         }
         with open(out_path, "w") as f:
             json.dump(out_data, f, indent=2, ensure_ascii=False)
-
-    # Rename original to .orig
-    orig_path = path.with_suffix(".json.orig")
-    path.rename(orig_path)
 
     return stats
 
@@ -87,6 +89,12 @@ def main() -> None:
         type=Path,
         default=Path("assets/collections"),
         help="Source directory (default: assets/collections)",
+    )
+    parser.add_argument(
+        "--splits-dir",
+        type=Path,
+        default=Path("assets/splits"),
+        help="Output directory for splits (default: assets/splits)",
     )
     parser.add_argument("--dry-run", action="store_true", help="Show splits without writing")
     args = parser.parse_args()
@@ -106,7 +114,7 @@ def main() -> None:
     total_dev = 0
 
     for path in unsplit:
-        stats = split_file(path, dry_run=args.dry_run)
+        stats = split_file(path, args.splits_dir, dry_run=args.dry_run)
         total_train += stats["train"]
         total_dev += stats["dev"]
         print(f"{stats['file']:<45} {stats['total']:>6} {stats['train']:>6} {stats['dev']:>6}")

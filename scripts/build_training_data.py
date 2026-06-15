@@ -297,8 +297,8 @@ def main() -> None:
     parser.add_argument(
         "--collections-dir",
         type=Path,
-        default=Path("assets/collections"),
-        help="Source directory (default: assets/collections)",
+        default=Path("assets/splits"),
+        help="Source directory (default: assets/splits)",
     )
     parser.add_argument(
         "--output-dir",
