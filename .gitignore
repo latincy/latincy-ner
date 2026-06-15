@@ -47,3 +47,8 @@ htmlcov/
 
 # Pre-split source singles — kept locally for provenance, not published
 *.json.orig
+
+# Housekeeping archive (local-only, never published)
+_attic/
+# Bootstrap/staging (archived to _attic/)
+assets/staging/
