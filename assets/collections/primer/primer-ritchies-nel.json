@@ -9329,5 +9329,863 @@
         }
       ]
     }
-  ]
+  ],
+  "report": {
+    "tag_counts": {
+      "PERSON": 578,
+      "LOC": 103,
+      "NORP": 51,
+      "MISC": 3
+    },
+    "tag_inventories": {
+      "PERSON": [
+        "Absyrto",
+        "Absyrtus",
+        "Acastum",
+        "Acrisi",
+        "Acrisius",
+        "Admeta",
+        "Aeacus",
+        "Aeetae",
+        "Aeetem",
+        "Aeetes",
+        "Aeolus",
+        "Aeson",
+        "Aesonis",
+        "Alcmena",
+        "Alcmenae",
+        "Alcmenam",
+        "Andromeda",
+        "Andromedam",
+        "Apolline",
+        "Apollinem",
+        "Apollinis",
+        "Apollo",
+        "Argo",
+        "Argonautae",
+        "Argonautarum",
+        "Argonautas",
+        "Argonautis",
+        "Argus",
+        "Atlante",
+        "Atlantem",
+        "Atlantis",
+        "Atlas",
+        "Augeas",
+        "Busiris",
+        "Cacum",
+        "Cacus",
+        "Calais",
+        "Castorem",
+        "Cephei",
+        "Cepheus",
+        "Cereris",
+        "Charon",
+        "Charonte",
+        "Charontis",
+        "Circe",
+        "Circen",
+        "Circes",
+        "Creon",
+        "Creonti",
+        "Cyclops",
+        "Danae",
+        "Danaen",
+        "Deianira",
+        "Deianiram",
+        "Dianae",
+        "Diomede",
+        "Diomedes",
+        "Diomedis",
+        "Erginus",
+        "Eunomus",
+        "Eurylocho",
+        "Eurylochus",
+        "Eurysthei",
+        "Eurystheo",
+        "Eurystheum",
+        "Eurystheus",
+        "Eurytione",
+        "Eurytionem",
+        "Eurytum",
+        "Geryon",
+        "Geryone",
+        "Geryonis",
+        "Glauce",
+        "Glaucen",
+        "Gorgones",
+        "Gorgonibus",
+        "Gorgonis",
+        "Graeas",
+        "Hades",
+        "Hammonis",
+        "Hercule",
+        "Herculem",
+        "Hercules",
+        "Herculi",
+        "Herculis",
+        "Hesionem",
+        "Hesperides",
+        "Hesperidum",
+        "Hippolytam",
+        "Hippolyte",
+        "Homerus",
+        "Hylam",
+        "Hylas",
+        "Iason",
+        "Iasone",
+        "Iasonem",
+        "Iasoni",
+        "Iasonis",
+        "Iolao",
+        "Iolen",
+        "Ioue",
+        "Ioui",
+        "Iouis",
+        "Iphicles",
+        "Iuno",
+        "Iunone",
+        "Iuppiter",
+        "Laomedon",
+        "Lichae",
+        "Licham",
+        "Lichas",
+        "Lino",
+        "Linus",
+        "Mars",
+        "Medea",
+        "Medeae",
+        "Medeam",
+        "Medusa",
+        "Medusae",
+        "Medusam",
+        "Mercurio",
+        "Mercurium",
+        "Mercurius",
+        "Minerua",
+        "Minos",
+        "Neminem",
+        "Neptunum",
+        "Neptunus",
+        "Nessi",
+        "Nessus",
+        "Oenei",
+        "Orpheum",
+        "Peliae",
+        "Peliam",
+        "Pelias",
+        "Penelopen",
+        "Persei",
+        "Perseo",
+        "Perseum",
+        "Perseus",
+        "Phineo",
+        "Phineum",
+        "Phineus",
+        "Pholo",
+        "Pholum",
+        "Pholus",
+        "Phrixus",
+        "Pluto",
+        "Plutonis",
+        "Polydectem",
+        "Polydectes",
+        "Polydectis",
+        "Polypheme",
+        "Polyphemi",
+        "Polyphemum",
+        "Polyphemus",
+        "Proserpina",
+        "Pythia",
+        "Rhadamanthus",
+        "Solis",
+        "Theseum",
+        "Ulixem",
+        "Ulixes",
+        "Ulixi",
+        "Uolcanum",
+        "Uolcanus",
+        "Zephyrum",
+        "Zetes"
+      ],
+      "LOC": [
+        "Aeolia",
+        "Aeoliam",
+        "Aetnam",
+        "Alpis",
+        "Arcadiam",
+        "Athenas",
+        "Campos Elysios",
+        "Cenaeum",
+        "Colchida",
+        "Colchidis",
+        "Colchis",
+        "Corinthum",
+        "Creta",
+        "Cretae",
+        "Cyzicum",
+        "Delphos",
+        "Elide",
+        "Eridanum",
+        "Erythiam",
+        "Europae",
+        "Europam",
+        "Gallia",
+        "Graecia",
+        "Graeciae",
+        "Graeciam",
+        "Herculis Columnae",
+        "Hispaniam",
+        "Italiam",
+        "Ithacae",
+        "Ithacam",
+        "Laconiam",
+        "Larisae",
+        "Larisam",
+        "Lethe",
+        "Libya",
+        "Libyae",
+        "Liguriam",
+        "Mysiam",
+        "Oceano",
+        "Oechaliae",
+        "Oetam",
+        "Olympum",
+        "Orco",
+        "Orcum",
+        "Phasim",
+        "Roma",
+        "Salmydessum",
+        "Seriphum",
+        "Siciliam",
+        "Stygem",
+        "Stygis",
+        "Symplegades",
+        "Taenarum",
+        "Tartarum",
+        "Thebas",
+        "Thebis",
+        "Thermodontis",
+        "Thessalia",
+        "Thessaliam",
+        "Thraciam",
+        "Tiberim",
+        "Tiryntha",
+        "Troia",
+        "Troiae",
+        "Troiam",
+        "oppidum Stymphalum"
+      ],
+      "NORP": [
+        "Aegyptiorum",
+        "Aethiopes",
+        "Aethiopum",
+        "Amazones",
+        "Amazonibus",
+        "Amazonum",
+        "Centauri",
+        "Colchi",
+        "Colchorum",
+        "Cyclopes",
+        "Cyclopibus",
+        "Graeci",
+        "Graecis",
+        "Graecorum",
+        "Graecos",
+        "Ligures",
+        "Ligurum",
+        "Minyae",
+        "Minyarum",
+        "Minyis",
+        "Thebani",
+        "Thebanis",
+        "Thebanorum",
+        "Thebanos",
+        "Thebarum",
+        "Troiani"
+      ],
+      "MISC": [
+        "Cerberum",
+        "Hydrae"
+      ]
+    },
+    "nel_inventory": {
+      "Q101322": {
+        "Tartarum": 1
+      },
+      "Q1016": {
+        "Libya": 1,
+        "Libyae": 2
+      },
+      "Q102059": {
+        "Gorgones": 2,
+        "Gorgonibus": 1,
+        "Gorgonis": 1
+      },
+      "Q10261": {
+        "Graeas": 1
+      },
+      "Q105064": {
+        "Laconiam": 1
+      },
+      "Q1055": {
+        "Athenas": 1
+      },
+      "Q1063649": {
+        "Elide": 1
+      },
+      "Q1065225": {
+        "Minyae": 1,
+        "Minyarum": 2,
+        "Minyis": 2
+      },
+      "Q112": {
+        "Mars": 1
+      },
+      "Q11225429": {
+        "Thebanis": 1,
+        "Thebanorum": 1,
+        "Thebanos": 1,
+        "Thebarum": 1,
+        "Thebas": 2,
+        "Thebis": 1
+      },
+      "Q1128881": {
+        "Eurytione": 1,
+        "Eurytionem": 1
+      },
+      "Q11294144": {
+        "Castorem": 1
+      },
+      "Q1135146": {
+        "Eridanum": 1
+      },
+      "Q1135152": {
+        "Pholo": 1,
+        "Pholum": 2,
+        "Pholus": 3
+      },
+      "Q1150": {
+        "Mercurio": 3,
+        "Mercurium": 1,
+        "Mercurius": 4
+      },
+      "Q11772": {
+        "Graecia": 1
+      },
+      "Q1199937": {
+        "Solis": 1
+      },
+      "Q12193": {
+        "Ithacae": 1,
+        "Ithacam": 2
+      },
+      "Q122248": {
+        "Hercule": 1,
+        "Herculem": 15,
+        "Hercules": 85,
+        "Herculi": 10,
+        "Herculis": 6
+      },
+      "Q126916": {
+        "Minerua": 4
+      },
+      "Q128199736": {
+        "Nessi": 3,
+        "Nessus": 4
+      },
+      "Q128430": {
+        "Cyclopes": 4,
+        "Cyclops": 1
+      },
+      "Q1286": {
+        "Alpis": 1
+      },
+      "Q12898802": {
+        "Arcadiam": 2
+      },
+      "Q12901264": {
+        "Oenei": 1
+      },
+      "Q1294873": {
+        "Erginus": 1
+      },
+      "Q130818": {
+        "Atlante": 1,
+        "Atlantem": 1,
+        "Atlas": 5
+      },
+      "Q130832": {
+        "Persei": 1,
+        "Perseo": 5,
+        "Perseum": 5,
+        "Perseus": 15
+      },
+      "Q1320718": {
+        "Theseum": 1
+      },
+      "Q132378": {
+        "Oetam": 1
+      },
+      "Q132543": {
+        "Dianae": 1
+      },
+      "Q1350897": {
+        "Erythiam": 1
+      },
+      "Q1363688": {
+        "Corinthum": 1
+      },
+      "Q13712": {
+        "Tiberim": 1
+      },
+      "Q14515330": {
+        "Proserpina": 2
+      },
+      "Q1460": {
+        "Siciliam": 1
+      },
+      "Q152262": {
+        "Pluto": 3,
+        "Plutonis": 3
+      },
+      "Q157247": {
+        "Lethe": 1
+      },
+      "Q160730": {
+        "Medusa": 2,
+        "Medusae": 3,
+        "Medusam": 1
+      },
+      "Q161419": {
+        "Oceano": 1
+      },
+      "Q161582": {
+        "Andromeda": 3,
+        "Andromedam": 1
+      },
+      "Q165510": {
+        "Argonautae": 13,
+        "Argonautarum": 1,
+        "Argonautas": 2,
+        "Argonautis": 2
+      },
+      "Q165938": {
+        "Hesperides": 2,
+        "Hesperidum": 3
+      },
+      "Q166919": {
+        "Thessalia": 3,
+        "Thessaliam": 1
+      },
+      "Q167037": {
+        "Troiani": 1
+      },
+      "Q16990": {
+        "Aetnam": 1
+      },
+      "Q172549": {
+        "Aeolus": 2
+      },
+      "Q173378": {
+        "Alcmenae": 2,
+        "Alcmenam": 1
+      },
+      "Q174278": {
+        "Medea": 24,
+        "Medeae": 2,
+        "Medeam": 1
+      },
+      "Q174353": {
+        "Orpheum": 1
+      },
+      "Q176758": {
+        "Iason": 28,
+        "Iasone": 2,
+        "Iasonem": 9,
+        "Iasoni": 4,
+        "Iasonis": 2
+      },
+      "Q182439": {
+        "Peliae": 1,
+        "Peliam": 3,
+        "Pelias": 10
+      },
+      "Q18287233": {
+        "Roma": 1
+      },
+      "Q183150": {
+        "Colchi": 1,
+        "Colchidis": 1,
+        "Colchis": 2
+      },
+      "Q186513": {
+        "Hispaniam": 1
+      },
+      "Q186847": {
+        "Acastum": 1
+      },
+      "Q187602": {
+        "Circe": 13,
+        "Circen": 1,
+        "Circes": 1
+      },
+      "Q187645": {
+        "Cyzicum": 1
+      },
+      "Q188345": {
+        "Eurytum": 1
+      },
+      "Q189821": {
+        "Argo": 1,
+        "Argus": 1
+      },
+      "Q190070": {
+        "Penelopen": 1
+      },
+      "Q190543": {
+        "Alcmena": 1
+      },
+      "Q190582": {
+        "Danae": 3
+      },
+      "Q190655": {
+        "Danae": 1,
+        "Danaen": 1
+      },
+      "Q192929": {
+        "Phasim": 1
+      },
+      "Q193567": {
+        "Polypheme": 1,
+        "Polyphemi": 2,
+        "Polyphemum": 1,
+        "Polyphemus": 14
+      },
+      "Q193609": {
+        "Rhadamanthus": 1
+      },
+      "Q202406": {
+        "Lichae": 1,
+        "Licham": 1,
+        "Lichas": 1
+      },
+      "Q205233": {
+        "Atlantis": 1
+      },
+      "Q206187": {
+        "Aeacus": 1
+      },
+      "Q207023": {
+        "Ligures": 2,
+        "Ligurum": 1
+      },
+      "Q207663": {
+        "Augeas": 1
+      },
+      "Q208017": {
+        "Acrisi": 1,
+        "Acrisius": 3
+      },
+      "Q208256": {
+        "Diomede": 1,
+        "Diomedes": 1,
+        "Diomedis": 1
+      },
+      "Q210303": {
+        "Hippolytam": 1,
+        "Hippolyte": 3
+      },
+      "Q212087": {
+        "Eurysthei": 6,
+        "Eurystheo": 7,
+        "Eurystheum": 3,
+        "Eurystheus": 7
+      },
+      "Q212501": {
+        "Larisae": 1,
+        "Larisam": 1
+      },
+      "Q216736": {
+        "Seriphum": 1
+      },
+      "Q217379": {
+        "Tiryntha": 1
+      },
+      "Q220344": {
+        "Pythia": 4
+      },
+      "Q22647": {
+        "Troia": 3,
+        "Troiae": 2,
+        "Troiam": 4
+      },
+      "Q23168": {
+        "Minos": 1
+      },
+      "Q2359730": {
+        "oppidum Stymphalum": 1
+      },
+      "Q240679": {
+        "Hercule": 3
+      },
+      "Q240848": {
+        "Colchida": 1,
+        "Colchorum": 2
+      },
+      "Q241790": {
+        "Aethiopes": 1,
+        "Aethiopum": 1
+      },
+      "Q241971": {
+        "Aeetae": 1,
+        "Aeetem": 2,
+        "Aeetes": 7
+      },
+      "Q25019587": {
+        "Cenaeum": 1
+      },
+      "Q269058": {
+        "Glaucen": 2
+      },
+      "Q2714687": {
+        "Eunomus": 1
+      },
+      "Q272000": {
+        "Deianira": 1,
+        "Deianiram": 2
+      },
+      "Q273714": {
+        "Campos Elysios": 1
+      },
+      "Q317": {
+        "Cyclopibus": 2
+      },
+      "Q32102": {
+        "Cereris": 1
+      },
+      "Q326380": {
+        "Symplegades": 3
+      },
+      "Q332324": {
+        "Laomedon": 5
+      },
+      "Q332752": {
+        "Hylam": 1,
+        "Hylas": 1
+      },
+      "Q333658": {
+        "Absyrto": 1,
+        "Absyrtus": 1
+      },
+      "Q34201": {
+        "Ioui": 1
+      },
+      "Q34374": {
+        "Creta": 2,
+        "Cretae": 1
+      },
+      "Q3594069": {
+        "Oechaliae": 1
+      },
+      "Q37340": {
+        "Apolline": 1,
+        "Apollinem": 1,
+        "Apollinis": 1,
+        "Apollo": 4
+      },
+      "Q38": {
+        "Italiam": 2
+      },
+      "Q38060": {
+        "Gallia": 1
+      },
+      "Q385397": {
+        "Glauce": 2
+      },
+      "Q4024302": {
+        "Zetes": 1
+      },
+      "Q40591": {
+        "Amazones": 3,
+        "Amazonibus": 1,
+        "Amazonum": 3
+      },
+      "Q41": {
+        "Graeciae": 2,
+        "Graeciam": 4
+      },
+      "Q410082": {
+        "Aeson": 2,
+        "Aesonis": 2
+      },
+      "Q41127": {
+        "Iuno": 1,
+        "Iunone": 2
+      },
+      "Q4137657": {
+        "Hesionem": 1
+      },
+      "Q41410": {
+        "Neptunum": 1,
+        "Neptunus": 3
+      },
+      "Q41741": {
+        "Thraciam": 3
+      },
+      "Q42318741": {
+        "Aeolia": 1,
+        "Aeoliam": 1
+      },
+      "Q43434": {
+        "Hades": 1
+      },
+      "Q43512": {
+        "Herculis Columnae": 1
+      },
+      "Q46": {
+        "Europae": 1,
+        "Europam": 1
+      },
+      "Q4649": {
+        "Ioue": 3,
+        "Iouis": 2,
+        "Iuppiter": 2
+      },
+      "Q467515": {
+        "Zephyrum": 1
+      },
+      "Q47231": {
+        "Ulixem": 7,
+        "Ulixes": 33,
+        "Ulixi": 3
+      },
+      "Q48268": {
+        "Uolcanum": 1,
+        "Uolcanus": 2
+      },
+      "Q504076": {
+        "Iolao": 1
+      },
+      "Q537": {
+        "Hammonis": 2
+      },
+      "Q539051": {
+        "Graeci": 7,
+        "Graecis": 3,
+        "Graecorum": 3,
+        "Graecos": 1
+      },
+      "Q542758": {
+        "Stygis": 2
+      },
+      "Q622319": {
+        "Mysiam": 1
+      },
+      "Q641065": {
+        "Phineo": 2,
+        "Phineum": 1,
+        "Phineus": 4
+      },
+      "Q647496": {
+        "Lino": 1,
+        "Linus": 1
+      },
+      "Q65051022": {
+        "Salmydessum": 1
+      },
+      "Q6521489": {
+        "Thebani": 4
+      },
+      "Q6527": {
+        "Homerus": 1
+      },
+      "Q6546893": {
+        "Liguriam": 1
+      },
+      "Q6612": {
+        "Charon": 3,
+        "Charonte": 1,
+        "Charontis": 1
+      },
+      "Q684421": {
+        "Thermodontis": 1
+      },
+      "Q7112088": {
+        "Neminem": 2
+      },
+      "Q732066": {
+        "Creon": 4,
+        "Creonti": 1
+      },
+      "Q738862": {
+        "Iphicles": 1
+      },
+      "Q740468": {
+        "Busiris": 1
+      },
+      "Q743482": {
+        "Phrixus": 1
+      },
+      "Q744147": {
+        "Iolen": 2
+      },
+      "Q75459": {
+        "Delphos": 2
+      },
+      "Q754686": {
+        "Cacum": 1,
+        "Cacus": 3
+      },
+      "Q756636": {
+        "Taenarum": 1
+      },
+      "Q771241": {
+        "Polydectem": 1,
+        "Polydectes": 4,
+        "Polydectis": 2
+      },
+      "Q79": {
+        "Aegyptiorum": 1
+      },
+      "Q80344": {
+        "Olympum": 1
+      },
+      "Q83040": {
+        "Hydrae": 1
+      },
+      "Q83203": {
+        "Centauri": 1
+      },
+      "Q83496": {
+        "Cerberum": 2
+      },
+      "Q858116": {
+        "Cephei": 1,
+        "Cepheus": 4
+      },
+      "Q860314": {
+        "Orco": 5,
+        "Orcum": 6
+      },
+      "Q86805": {
+        "Geryon": 1,
+        "Geryone": 1,
+        "Geryonis": 2
+      },
+      "Q8843276": {
+        "Stygem": 4
+      },
+      "Q893473": {
+        "Calais": 1
+      },
+      "Q927322": {
+        "Admeta": 1
+      },
+      "Q993387": {
+        "Eurylocho": 2,
+        "Eurylochus": 4
+      }
+    }
+  }
 }
