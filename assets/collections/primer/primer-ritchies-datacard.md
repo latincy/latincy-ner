@@ -95,7 +95,7 @@ than leaving as NIL). Prefer the most specific available entry.
 | File | Description |
 |------|-------------|
 | `primer-ritchies-nel.json` | **Canonical single** — sentences in running order, full `metadata`/`annotation` header, spans with `start, end, label, surface, kb_id` |
-| `../../splits/primer/primer-ritchies-{train,dev}.json` | Derived 80/20 training splits (latincy-ner format) |
+| `../../splits/primer/primer-ritchies-nel-{train,dev}.json` | Derived 80/20 training splits (latincy-ner format) |
 
 ### Single span format
 

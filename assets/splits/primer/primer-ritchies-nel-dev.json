@@ -1,0 +1,1904 @@
+{
+  "metadata": {
+    "title": "Fabulae Faciles: A First Latin Reader",
+    "author": "Ritchie, F.",
+    "date": "1904",
+    "source": "https://www.thelatinlibrary.com/ritchie.html",
+    "version": "0.2.0",
+    "latincy-ner-project": "primer",
+    "latincy-ner-project-subset": "ritchies-dev",
+    "language": "la",
+    "genre": "prose",
+    "source_license": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "annotation_license": "https://creativecommons.org/licenses/by/4.0/",
+    "split_from": "primer-ritchies-nel.json"
+  },
+  "annotation": {
+    "segmentation": {
+      "senter_model": "la_core_web_lg",
+      "senter_version": "3.9.4"
+    },
+    "ner": {
+      "spacy_model": "la_core_web_lg",
+      "spacy_model_version": "3.9.4",
+      "review_level": "reviewed"
+    },
+    "nel": {
+      "authorities": [
+        {
+          "prefix": "wd",
+          "name": "Wikidata",
+          "snapshot": "2026-06-15"
+        }
+      ],
+      "method": "wikidata_kb candidates + claude-opus-4-8 bootstrapping",
+      "review_level": "silver"
+    },
+    "tagset": [
+      "PERSON",
+      "LOC",
+      "NORP",
+      "MISC"
+    ],
+    "annotators": [
+      "Patrick J. Burns"
+    ]
+  },
+  "data": [
+    {
+      "text": "Perseus autem in sinu matris dormiebat.",
+      "spans": [
+        {
+          "start": 0,
+          "end": 7,
+          "label": "PERSON",
+          "surface": "Perseus",
+          "kb_id": "Q130832"
+        }
+      ]
+    },
+    {
+      "text": "Iuppiter tamen haec omnia uidit, et filium suum seruare constituit.",
+      "spans": [
+        {
+          "start": 0,
+          "end": 8,
+          "label": "PERSON",
+          "surface": "Iuppiter",
+          "kb_id": "Q4649"
+        }
+      ]
+    },
+    {
+      "text": "iam dudum tu adulescens es.",
+      "spans": []
+    },
+    {
+      "text": "tandem tamen ad eum locum uenit ubi Medusa cum ceteris Gorgonibus habitabat.",
+      "spans": [
+        {
+          "start": 36,
+          "end": 42,
+          "label": "PERSON",
+          "surface": "Medusa",
+          "kb_id": "Q160730"
+        },
+        {
+          "start": 55,
+          "end": 65,
+          "label": "PERSON",
+          "surface": "Gorgonibus",
+          "kb_id": "Q102059"
+        }
+      ]
+    },
+    {
+      "text": "Gorgones autem monstra erant specie horribili;",
+      "spans": [
+        {
+          "start": 0,
+          "end": 8,
+          "label": "PERSON",
+          "surface": "Gorgones",
+          "kb_id": "Q102059"
+        }
+      ]
+    },
+    {
+      "text": "Propter hanc causam Minerua speculum Perseo dederat.",
+      "spans": [
+        {
+          "start": 20,
+          "end": 27,
+          "label": "PERSON",
+          "surface": "Minerua",
+          "kb_id": "Q126916"
+        },
+        {
+          "start": 37,
+          "end": 43,
+          "label": "PERSON",
+          "surface": "Perseo",
+          "kb_id": "Q130832"
+        }
+      ]
+    },
+    {
+      "text": "Ille igitur tergum uertit, et in speculum inspiciebat;",
+      "spans": []
+    },
+    {
+      "text": "Neptunus autem monstrum saeuissimum miserat.",
+      "spans": [
+        {
+          "start": 0,
+          "end": 8,
+          "label": "PERSON",
+          "surface": "Neptunus",
+          "kb_id": "Q41410"
+        }
+      ]
+    },
+    {
+      "text": "Ob hanc causam pauor animos omnium occupauerat.",
+      "spans": []
+    },
+    {
+      "text": "Tum rex diem certam dixit et omnia parauit.",
+      "spans": []
+    },
+    {
+      "text": "mox tamen a Perseo ictu grauiore uulnerata est.",
+      "spans": [
+        {
+          "start": 12,
+          "end": 18,
+          "label": "PERSON",
+          "surface": "Perseo",
+          "kb_id": "Q130832"
+        }
+      ]
+    },
+    {
+      "text": "Meritam gratiam pro tanto beneficio Perseo rettulit;",
+      "spans": [
+        {
+          "start": 36,
+          "end": 42,
+          "label": "PERSON",
+          "surface": "Perseo",
+          "kb_id": "Q130832"
+        }
+      ]
+    },
+    {
+      "text": "tandem quarto die ad templum Dianae peruenit.",
+      "spans": [
+        {
+          "start": 29,
+          "end": 35,
+          "label": "PERSON",
+          "surface": "Dianae",
+          "kb_id": "Q132543"
+        }
+      ]
+    },
+    {
+      "text": "Acrisius enim inter spectatores eius certaminis forte stabat.",
+      "spans": [
+        {
+          "start": 0,
+          "end": 8,
+          "label": "PERSON",
+          "surface": "Acrisius",
+          "kb_id": "Q208017"
+        }
+      ]
+    },
+    {
+      "text": "Nec tamen in cunis, sed in scuto magno cubabant.",
+      "spans": []
+    },
+    {
+      "text": "itaque pueri e somno excitati sunt.",
+      "spans": []
+    },
+    {
+      "text": "His exercitationibus uires eius confirmatae sunt.",
+      "spans": []
+    },
+    {
+      "text": "In musica etiam a Lino centauro erudiebatur (centauri autem equi erant sed caput hominis habebant);",
+      "spans": [
+        {
+          "start": 18,
+          "end": 22,
+          "label": "PERSON",
+          "surface": "Lino",
+          "kb_id": "Q647496"
+        }
+      ]
+    },
+    {
+      "text": "hic autem uir crudelissimus homines immolare consueuerat.",
+      "spans": []
+    },
+    {
+      "text": "Herculem igitur corripuit et in uincula coniecit.",
+      "spans": [
+        {
+          "start": 0,
+          "end": 8,
+          "label": "PERSON",
+          "surface": "Herculem",
+          "kb_id": "Q122248"
+        }
+      ]
+    },
+    {
+      "text": "Tum nuntios dimisit et diem sacrificio edixit.",
+      "spans": []
+    },
+    {
+      "text": "Erginus, rex Minyarum, ob haec uehementer iratus statim cum omnibus copiis in finis Thebanorum contendit.",
+      "spans": [
+        {
+          "start": 0,
+          "end": 7,
+          "label": "PERSON",
+          "surface": "Erginus",
+          "kb_id": "Q1294873"
+        },
+        {
+          "start": 13,
+          "end": 21,
+          "label": "NORP",
+          "surface": "Minyarum",
+          "kb_id": "Q1065225"
+        },
+        {
+          "start": 84,
+          "end": 94,
+          "label": "NORP",
+          "surface": "Thebanorum",
+          "kb_id": "Q11225429"
+        }
+      ]
+    },
+    {
+      "text": "Ille nuntios in omnis partis dimisit, et copias coegit;",
+      "spans": []
+    },
+    {
+      "text": "tum proximo die cum magno exercitu profectus est.",
+      "spans": []
+    },
+    {
+      "text": "itaque acies hostium pulsa est atque in fugam conuersa.",
+      "spans": []
+    },
+    {
+      "text": "Hercules cum uxore sua beatam uitam agebat;",
+      "spans": [
+        {
+          "start": 0,
+          "end": 8,
+          "label": "PERSON",
+          "surface": "Hercules",
+          "kb_id": "Q122248"
+        }
+      ]
+    },
+    {
+      "text": "Post breue tempus ad sanitatem reductus est, et propter hoc facinus magno dolore adfectus est;",
+      "spans": []
+    },
+    {
+      "text": "Nolebant enim ciues sermonem cum eo habere.",
+      "spans": []
+    },
+    {
+      "text": "Ubi Hercules finem fecit, Pythia primo tacebat;",
+      "spans": [
+        {
+          "start": 4,
+          "end": 12,
+          "label": "PERSON",
+          "surface": "Hercules",
+          "kb_id": "Q122248"
+        },
+        {
+          "start": 26,
+          "end": 32,
+          "label": "PERSON",
+          "surface": "Pythia",
+          "kb_id": "Q220344"
+        }
+      ]
+    },
+    {
+      "text": "tandem tamen iussit eum ad urbem Tiryntha ire, et Eurysthei regis omnia imperata facere.",
+      "spans": [
+        {
+          "start": 33,
+          "end": 41,
+          "label": "LOC",
+          "surface": "Tiryntha",
+          "kb_id": "Q217379"
+        },
+        {
+          "start": 50,
+          "end": 59,
+          "label": "PERSON",
+          "surface": "Eurysthei",
+          "kb_id": "Q212087"
+        }
+      ]
+    },
+    {
+      "text": "Primum ab Eurystheo iussus est Hercules leonem occidere qui illo tempore uallem Nemeaeam reddebat infestam.",
+      "spans": [
+        {
+          "start": 10,
+          "end": 19,
+          "label": "PERSON",
+          "surface": "Eurystheo",
+          "kb_id": "Q212087"
+        },
+        {
+          "start": 31,
+          "end": 39,
+          "label": "PERSON",
+          "surface": "Hercules",
+          "kb_id": "Q122248"
+        }
+      ]
+    },
+    {
+      "text": "neque enim hoc modo eum occidere potuit.",
+      "spans": []
+    },
+    {
+      "text": "Hoc modo leo breui tempore exanimatus est;",
+      "spans": []
+    },
+    {
+      "text": "nulla enim respirandi facultas ei dabatur.",
+      "spans": []
+    },
+    {
+      "text": "Tum Hercules cadauer ad oppidum in umeris rettulit;",
+      "spans": [
+        {
+          "start": 4,
+          "end": 12,
+          "label": "PERSON",
+          "surface": "Hercules",
+          "kb_id": "Q122248"
+        }
+      ]
+    },
+    {
+      "text": "Hercules igitur cum amico Iolao profectus est ad paludem Lernaeam, in qua Hydra habitabat.",
+      "spans": [
+        {
+          "start": 0,
+          "end": 8,
+          "label": "PERSON",
+          "surface": "Hercules",
+          "kb_id": "Q122248"
+        },
+        {
+          "start": 26,
+          "end": 31,
+          "label": "PERSON",
+          "surface": "Iolao",
+          "kb_id": "Q504076"
+        }
+      ]
+    },
+    {
+      "text": "Diu frustra laborabat;",
+      "spans": []
+    },
+    {
+      "text": "Nec tamen sine magno labore haec fecit;",
+      "spans": []
+    },
+    {
+      "text": "Hic autem ceruus, cuius cornua aurea fuisse traduntur, incredibili fuit celeritate.",
+      "spans": []
+    },
+    {
+      "text": "Hercules rem suscepit et in Arcadiam profectus est.",
+      "spans": [
+        {
+          "start": 0,
+          "end": 8,
+          "label": "PERSON",
+          "surface": "Hercules",
+          "kb_id": "Q122248"
+        },
+        {
+          "start": 28,
+          "end": 36,
+          "label": "LOC",
+          "surface": "Arcadiam",
+          "kb_id": "Q12898802"
+        }
+      ]
+    },
+    {
+      "text": "At Hercules postquam cenauit, uinum a Pholo postulauit.",
+      "spans": [
+        {
+          "start": 3,
+          "end": 11,
+          "label": "PERSON",
+          "surface": "Hercules",
+          "kb_id": "Q122248"
+        },
+        {
+          "start": 38,
+          "end": 43,
+          "label": "PERSON",
+          "surface": "Pholo",
+          "kb_id": "Q1135152"
+        }
+      ]
+    },
+    {
+      "text": "Erat autem in spelunca magna amphora uino optimo repleta, quam centauri ibi deposuerant.",
+      "spans": []
+    },
+    {
+      "text": "Si igitur hoc dabo, centauri me interficient.\"",
+      "spans": []
+    },
+    {
+      "text": "Ubi ad speluncam peruenerunt, magnopere irati erant quod Herculem bibentem uiderunt.",
+      "spans": [
+        {
+          "start": 57,
+          "end": 65,
+          "label": "PERSON",
+          "surface": "Herculem",
+          "kb_id": "Q122248"
+        }
+      ]
+    },
+    {
+      "text": "Hercules tamen in aditu speluncae constitit et impetum eorum fortissime sustinebat.",
+      "spans": [
+        {
+          "start": 0,
+          "end": 8,
+          "label": "PERSON",
+          "surface": "Hercules",
+          "kb_id": "Q122248"
+        }
+      ]
+    },
+    {
+      "text": "Faces ardentis in eos coniecit;",
+      "spans": []
+    },
+    {
+      "text": "Omnes igitur quos ille sagittis uulnerauerat ueneno statim absumpti sunt;",
+      "spans": []
+    },
+    {
+      "text": "Ille extemplo dolorem grauem per omnia membra sensit, et post breue tempus ui ueneni exanimatus est.",
+      "spans": []
+    },
+    {
+      "text": "Multis cum lacrimis corpus amici ad sepulturam dedit;",
+      "spans": []
+    },
+    {
+      "text": "Augeas quidam, qui illo tempore regnum in Elide obtinebat, tria milia boum habebat.",
+      "spans": [
+        {
+          "start": 0,
+          "end": 6,
+          "label": "PERSON",
+          "surface": "Augeas",
+          "kb_id": "Q207663"
+        },
+        {
+          "start": 42,
+          "end": 47,
+          "label": "LOC",
+          "surface": "Elide",
+          "kb_id": "Q1063649"
+        }
+      ]
+    },
+    {
+      "text": "lacus enim non ex aqua sed e limo constitit.",
+      "spans": []
+    },
+    {
+      "text": "His Hercules tam acrem crepitum fecit ut aues perterritae auolarent.",
+      "spans": [
+        {
+          "start": 4,
+          "end": 12,
+          "label": "PERSON",
+          "surface": "Hercules",
+          "kb_id": "Q122248"
+        }
+      ]
+    },
+    {
+      "text": "Hercules tamen, etsi nauigandi imperitus erat, haudquaquam territus est.",
+      "spans": [
+        {
+          "start": 0,
+          "end": 8,
+          "label": "PERSON",
+          "surface": "Hercules",
+          "kb_id": "Q122248"
+        }
+      ]
+    },
+    {
+      "text": "Hi equi carne hominum uescebantur;",
+      "spans": []
+    },
+    {
+      "text": "Admeta autem, Eurysthei filia, famam de hoc balteo acceperat et eum possidere uehementer cupiebat.",
+      "spans": [
+        {
+          "start": 0,
+          "end": 6,
+          "label": "PERSON",
+          "surface": "Admeta",
+          "kb_id": "Q927322"
+        },
+        {
+          "start": 14,
+          "end": 23,
+          "label": "PERSON",
+          "surface": "Eurysthei",
+          "kb_id": "Q212087"
+        }
+      ]
+    },
+    {
+      "text": "Postquam in finis Amazonum uenit, nuntium ad Hippolytam misit, qui causam ueniendi doceret et balteum posceret.",
+      "spans": [
+        {
+          "start": 18,
+          "end": 26,
+          "label": "NORP",
+          "surface": "Amazonum",
+          "kb_id": "Q40591"
+        },
+        {
+          "start": 45,
+          "end": 55,
+          "label": "PERSON",
+          "surface": "Hippolytam",
+          "kb_id": "Q210303"
+        }
+      ]
+    },
+    {
+      "text": "Diu et acriter pugnatum est;",
+      "spans": []
+    },
+    {
+      "text": "Cum rex libenter ei concessisset ut, si posset, puellam liberaret, Hercules monstrum interfecit;",
+      "spans": [
+        {
+          "start": 67,
+          "end": 75,
+          "label": "PERSON",
+          "surface": "Hercules",
+          "kb_id": "Q122248"
+        }
+      ]
+    },
+    {
+      "text": "Ipse autem Geryon speciem horribilem praebebat;",
+      "spans": [
+        {
+          "start": 11,
+          "end": 17,
+          "label": "PERSON",
+          "surface": "Geryon",
+          "kb_id": "Q86805"
+        }
+      ]
+    },
+    {
+      "text": "Ille quidem paene omnem spem salutis deposuerat, sed tempore opportunissimo Iuppiter imbrem lapidum ingentium e caelo demisit.",
+      "spans": [
+        {
+          "start": 76,
+          "end": 84,
+          "label": "PERSON",
+          "surface": "Iuppiter",
+          "kb_id": "Q4649"
+        }
+      ]
+    },
+    {
+      "text": "Hercules igitur antequam ascendere coepit, magnam copiam frumenti et pabuli comparauit et hoc commeatu boues onerauit.",
+      "spans": [
+        {
+          "start": 0,
+          "end": 8,
+          "label": "PERSON",
+          "surface": "Hercules",
+          "kb_id": "Q122248"
+        }
+      ]
+    },
+    {
+      "text": "Tum tamen nulla erat urbs in eo loco, Roma enim nondum condita erat.",
+      "spans": [
+        {
+          "start": 38,
+          "end": 42,
+          "label": "LOC",
+          "surface": "Roma",
+          "kb_id": "Q18287233"
+        }
+      ]
+    },
+    {
+      "text": "Haud procul a ualle ubi boues pascebantur spelunca erat, in qua Cacus, horribile monstrum, tum habitabat.",
+      "spans": [
+        {
+          "start": 64,
+          "end": 69,
+          "label": "PERSON",
+          "surface": "Cacus",
+          "kb_id": "Q754686"
+        }
+      ]
+    },
+    {
+      "text": "Postero die simul atque e somno excitatus est, Hercules furtum animaduertit et boues amissos omnibus locis quaerebat.",
+      "spans": [
+        {
+          "start": 47,
+          "end": 55,
+          "label": "PERSON",
+          "surface": "Hercules",
+          "kb_id": "Q122248"
+        }
+      ]
+    },
+    {
+      "text": "Tandem cum magnam partem diei frustra consumpsisset, cum reliquis bobus progredi constituit.",
+      "spans": []
+    },
+    {
+      "text": "Subito ii qui in spelunca inclusi erant mugitum reddiderunt, et hoc modo Herculem certiorem fecerunt quo in loco celati essent.",
+      "spans": [
+        {
+          "start": 73,
+          "end": 81,
+          "label": "PERSON",
+          "surface": "Herculem",
+          "kb_id": "Q122248"
+        }
+      ]
+    },
+    {
+      "text": "mox tamen in speluncam inrupit et collum monstri bracchiis complexus est.",
+      "spans": []
+    },
+    {
+      "text": "tandem, cum in his itineribus totum annum consumpsisset, ad extremam partem orbis terrarum, quae proxima est Oceano, peruenit.",
+      "spans": [
+        {
+          "start": 109,
+          "end": 115,
+          "label": "LOC",
+          "surface": "Oceano",
+          "kb_id": "Q161419"
+        }
+      ]
+    },
+    {
+      "text": "Hic stabat uir quidam, nomine Atlas, ingenti magnitudine corporis, qui caelum (ita traditum est) umeris suis sustinebat, ne in terram decideret.",
+      "spans": [
+        {
+          "start": 30,
+          "end": 35,
+          "label": "PERSON",
+          "surface": "Atlas",
+          "kb_id": "Q130818"
+        }
+      ]
+    },
+    {
+      "text": "tum, postquam gratias pro tanto beneficio egit, ad Graeciam proficisci maturauit.",
+      "spans": [
+        {
+          "start": 51,
+          "end": 59,
+          "label": "LOC",
+          "surface": "Graeciam",
+          "kb_id": "Q41"
+        }
+      ]
+    },
+    {
+      "text": "Praeterea Cerberus iste monstrum erat horribili specie, cui tria erant capita serpentibus saeuis cincta.",
+      "spans": []
+    },
+    {
+      "text": "Antequam tamen de hoc labore narramus, non alienum uidetur, quoniam de Orco mentionem fecimus, pauca de ea regione proponere.",
+      "spans": [
+        {
+          "start": 71,
+          "end": 75,
+          "label": "LOC",
+          "surface": "Orco",
+          "kb_id": "Q860314"
+        }
+      ]
+    },
+    {
+      "text": "De Orco, qui idem Hades appellabatur, haec traduntur.",
+      "spans": [
+        {
+          "start": 3,
+          "end": 7,
+          "label": "LOC",
+          "surface": "Orco",
+          "kb_id": "Q860314"
+        },
+        {
+          "start": 18,
+          "end": 23,
+          "label": "PERSON",
+          "surface": "Hades",
+          "kb_id": "Q43434"
+        }
+      ]
+    },
+    {
+      "text": "tum demum Orcum intrare licuit.",
+      "spans": [
+        {
+          "start": 10,
+          "end": 15,
+          "label": "LOC",
+          "surface": "Orcum",
+          "kb_id": "Q860314"
+        }
+      ]
+    },
+    {
+      "text": "quod cum fecissent, res omnis in uita gestas e memoria deponebant.",
+      "spans": []
+    },
+    {
+      "text": "Denique ad sedem ipsius Plutonis ueniebant, cuius introitus a cane Cerbero custodiebatur.",
+      "spans": [
+        {
+          "start": 24,
+          "end": 32,
+          "label": "PERSON",
+          "surface": "Plutonis",
+          "kb_id": "Q152262"
+        }
+      ]
+    },
+    {
+      "text": "Hi mortuis ius dicebant et praemia poenasque constituebant.",
+      "spans": []
+    },
+    {
+      "text": "Boni enim in Campos Elysios, sedem beatorum, ueniebant;",
+      "spans": [
+        {
+          "start": 13,
+          "end": 27,
+          "label": "LOC",
+          "surface": "Campos Elysios",
+          "kb_id": "Q273714"
+        }
+      ]
+    },
+    {
+      "text": "Hercules postquam imperia Eurysthei accepit, in Laconiam ad Taenarum statim se contulit;",
+      "spans": [
+        {
+          "start": 0,
+          "end": 8,
+          "label": "PERSON",
+          "surface": "Hercules",
+          "kb_id": "Q122248"
+        },
+        {
+          "start": 26,
+          "end": 35,
+          "label": "PERSON",
+          "surface": "Eurysthei",
+          "kb_id": "Q212087"
+        },
+        {
+          "start": 48,
+          "end": 56,
+          "label": "LOC",
+          "surface": "Laconiam",
+          "kb_id": "Q105064"
+        },
+        {
+          "start": 60,
+          "end": 68,
+          "label": "LOC",
+          "surface": "Taenarum",
+          "kb_id": "Q756636"
+        }
+      ]
+    },
+    {
+      "text": "Eo cum uenisset, ex incolis quaesiuit quo in loco spelunca illa sita esset;",
+      "spans": []
+    },
+    {
+      "text": "Pluto, qui de Hercule famam acceperat, eum benigne excepit, et facultatem quam ille petebat libenter dedit.",
+      "spans": [
+        {
+          "start": 0,
+          "end": 5,
+          "label": "PERSON",
+          "surface": "Pluto",
+          "kb_id": "Q152262"
+        },
+        {
+          "start": 14,
+          "end": 21,
+          "label": "PERSON",
+          "surface": "Hercule",
+          "kb_id": "Q240679"
+        }
+      ]
+    },
+    {
+      "text": "Eo cum uenisset, tantus timor animum Eurysthei occupauit ut ex atrio statim refugerit;",
+      "spans": [
+        {
+          "start": 37,
+          "end": 46,
+          "label": "PERSON",
+          "surface": "Eurysthei",
+          "kb_id": "Q212087"
+        }
+      ]
+    },
+    {
+      "text": "Cum autem mos esset ut si quis hominem casu occidisset, in exsilium iret, Hercules cum uxore sua e finibus eius ciuitatis exire maturauit.",
+      "spans": [
+        {
+          "start": 74,
+          "end": 82,
+          "label": "PERSON",
+          "surface": "Hercules",
+          "kb_id": "Q122248"
+        }
+      ]
+    },
+    {
+      "text": "Quod cum animaduertisset Hercules, ira grauiter commotus arcum intendit et pectus Nessi sagitta transfixit.",
+      "spans": [
+        {
+          "start": 25,
+          "end": 33,
+          "label": "PERSON",
+          "surface": "Hercules",
+          "kb_id": "Q122248"
+        },
+        {
+          "start": 82,
+          "end": 87,
+          "label": "PERSON",
+          "surface": "Nessi",
+          "kb_id": "Q128199736"
+        }
+      ]
+    },
+    {
+      "text": "at ne occasionem sui ulciscendi dimitteret, ita locutus est:",
+      "spans": []
+    },
+    {
+      "text": "Dum tamen sacrificium parat, Licham comitem suum domum misit, qui uestem albam referret;",
+      "spans": [
+        {
+          "start": 29,
+          "end": 35,
+          "label": "PERSON",
+          "surface": "Licham",
+          "kb_id": "Q202406"
+        }
+      ]
+    },
+    {
+      "text": "Aeson primo regnum obtinuerat;",
+      "spans": [
+        {
+          "start": 0,
+          "end": 5,
+          "label": "PERSON",
+          "surface": "Aeson",
+          "kb_id": "Q410082"
+        }
+      ]
+    },
+    {
+      "text": "Noctu igitur Iasonem ex urbe abstulerunt, et cum postero die ad regem rediissent, ei renuntiauerunt puerum mortuum esse.",
+      "spans": [
+        {
+          "start": 13,
+          "end": 20,
+          "label": "PERSON",
+          "surface": "Iasonem",
+          "kb_id": "Q176758"
+        }
+      ]
+    },
+    {
+      "text": "Respondit oraculum nullum esse in praesentia periculum;",
+      "spans": []
+    },
+    {
+      "text": "Iason igitur cum calceum amissum nullo modo recipere posset, uno pede nudo in regiam peruenit.",
+      "spans": [
+        {
+          "start": 0,
+          "end": 5,
+          "label": "PERSON",
+          "surface": "Iason",
+          "kb_id": "Q176758"
+        }
+      ]
+    },
+    {
+      "text": "Constituit igitur Pelias Iasoni negotium dare ut hoc uellere potiretur;",
+      "spans": [
+        {
+          "start": 18,
+          "end": 24,
+          "label": "PERSON",
+          "surface": "Pelias",
+          "kb_id": "Q182439"
+        },
+        {
+          "start": 25,
+          "end": 31,
+          "label": "PERSON",
+          "surface": "Iasoni",
+          "kb_id": "Q176758"
+        }
+      ]
+    },
+    {
+      "text": "cum enim res esset magni periculi, eum in itinere periturum esse sperabat.",
+      "spans": []
+    },
+    {
+      "text": "Cum tamen Colchis multorum dierum iter ab eo loco abesset, solus Iason proficisci noluit.",
+      "spans": [
+        {
+          "start": 10,
+          "end": 17,
+          "label": "LOC",
+          "surface": "Colchis",
+          "kb_id": "Q183150"
+        },
+        {
+          "start": 65,
+          "end": 70,
+          "label": "PERSON",
+          "surface": "Iason",
+          "kb_id": "Q176758"
+        }
+      ]
+    },
+    {
+      "text": "Interea is dies appetebat quem Iason per nuntios edixerat, et ex omnibus regionibus Graeciae multi, quos aut rei nouitas aut spes gloriae mouebat, undique conueniebant.",
+      "spans": [
+        {
+          "start": 31,
+          "end": 36,
+          "label": "PERSON",
+          "surface": "Iason",
+          "kb_id": "Q176758"
+        },
+        {
+          "start": 84,
+          "end": 92,
+          "label": "LOC",
+          "surface": "Graeciae",
+          "kb_id": "Q41"
+        }
+      ]
+    },
+    {
+      "text": "Paucas horas ibi commorati ad solis occasum rursus soluerunt;",
+      "spans": []
+    },
+    {
+      "text": "Argonautae autem cum regem occisum esse uiderent, magnum dolorem perceperunt.",
+      "spans": [
+        {
+          "start": 0,
+          "end": 10,
+          "label": "PERSON",
+          "surface": "Argonautae",
+          "kb_id": "Q165510"
+        }
+      ]
+    },
+    {
+      "text": "Postridie eius diei Iason tempestatem satis idoneam esse arbitratus (summa enim tranquillitas iam consecuta erat), ancoras sustulit, et pauca milia passuum progressus ante noctem Mysiam attigit.",
+      "spans": [
+        {
+          "start": 20,
+          "end": 25,
+          "label": "PERSON",
+          "surface": "Iason",
+          "kb_id": "Q176758"
+        },
+        {
+          "start": 179,
+          "end": 185,
+          "label": "LOC",
+          "surface": "Mysiam",
+          "kb_id": "Q622319"
+        }
+      ]
+    },
+    {
+      "text": "Comites eius postquam Hylam amissum esse senserunt, magno dolore adfecti diu frustra quaerebant.",
+      "spans": [
+        {
+          "start": 22,
+          "end": 27,
+          "label": "PERSON",
+          "surface": "Hylam",
+          "kb_id": "Q332752"
+        }
+      ]
+    },
+    {
+      "text": "Hercules autem et Polyphemus, qui uestigia pueri longius secuti erant, ubi tandem ad litus redierunt, Iasonem soluisse cognouerunt.",
+      "spans": [
+        {
+          "start": 0,
+          "end": 8,
+          "label": "PERSON",
+          "surface": "Hercules",
+          "kb_id": "Q122248"
+        },
+        {
+          "start": 18,
+          "end": 28,
+          "label": "PERSON",
+          "surface": "Polyphemus",
+          "kb_id": "Q193567"
+        },
+        {
+          "start": 102,
+          "end": 109,
+          "label": "PERSON",
+          "surface": "Iasonem",
+          "kb_id": "Q176758"
+        }
+      ]
+    },
+    {
+      "text": "Post haec Argonautae ad Thraciam cursum tenuerunt, et postquam ad oppidum Salmydessum nauem appulerunt, in terram egressi sunt.",
+      "spans": [
+        {
+          "start": 10,
+          "end": 20,
+          "label": "PERSON",
+          "surface": "Argonautae",
+          "kb_id": "Q165510"
+        },
+        {
+          "start": 24,
+          "end": 32,
+          "label": "LOC",
+          "surface": "Thraciam",
+          "kb_id": "Q41741"
+        },
+        {
+          "start": 74,
+          "end": 85,
+          "label": "LOC",
+          "surface": "Salmydessum",
+          "kb_id": "Q65051022"
+        }
+      ]
+    },
+    {
+      "text": "Ibi cum ab incolis quaesissent quis regnum eius regionis obtineret, certiores facti sunt Phineum quendam tum regem esse.",
+      "spans": [
+        {
+          "start": 89,
+          "end": 96,
+          "label": "PERSON",
+          "surface": "Phineum",
+          "kb_id": "Q641065"
+        }
+      ]
+    },
+    {
+      "text": "Missa erant a Ioue monstra quaedam specie horribili, quae capita uirginum, corpora uolucrum habebant.",
+      "spans": [
+        {
+          "start": 14,
+          "end": 18,
+          "label": "PERSON",
+          "surface": "Ioue",
+          "kb_id": "Q4649"
+        }
+      ]
+    },
+    {
+      "text": "Nuntium igitur ad nauem misit, qui Iasonem sociosque ad regiam uocaret.",
+      "spans": [
+        {
+          "start": 35,
+          "end": 42,
+          "label": "PERSON",
+          "surface": "Iasonem",
+          "kb_id": "Q176758"
+        }
+      ]
+    },
+    {
+      "text": "cum tamen uiderent hoc nihil prodesse, Zetes et Calais, qui alis erant instructi, in aera se subleuauerunt, ut desuper impetum facerent.",
+      "spans": [
+        {
+          "start": 39,
+          "end": 44,
+          "label": "PERSON",
+          "surface": "Zetes",
+          "kb_id": "Q4024302"
+        },
+        {
+          "start": 48,
+          "end": 54,
+          "label": "PERSON",
+          "surface": "Calais",
+          "kb_id": "Q893473"
+        }
+      ]
+    },
+    {
+      "text": "antequam tamen rursus concurrerent, Argonautae, bene intellegentes omnem spem salutis in celeritate positam esse, summa ui remis contenderunt et nauem incolumem perduxerunt.",
+      "spans": [
+        {
+          "start": 36,
+          "end": 46,
+          "label": "PERSON",
+          "surface": "Argonautae",
+          "kb_id": "Q165510"
+        }
+      ]
+    },
+    {
+      "text": "Ibi cum nauem appulissent et in terram egressi essent, statim ad regem Aeetem se contulerunt et ab eo postulauerunt ut uellus aureum sibi traderetur.",
+      "spans": [
+        {
+          "start": 71,
+          "end": 77,
+          "label": "PERSON",
+          "surface": "Aeetem",
+          "kb_id": "Q241971"
+        }
+      ]
+    },
+    {
+      "text": "Medea, regis filia, Iasonem adamauit, et ubi audiuit eum tantum periculum subiturum esse, rem aegre ferebat.",
+      "spans": [
+        {
+          "start": 0,
+          "end": 5,
+          "label": "PERSON",
+          "surface": "Medea",
+          "kb_id": "Q174278"
+        },
+        {
+          "start": 20,
+          "end": 27,
+          "label": "PERSON",
+          "surface": "Iasonem",
+          "kb_id": "Q176758"
+        }
+      ]
+    },
+    {
+      "text": "Intellegebat enim patrem suum hunc laborem proposuisse eo ipso consilio, ut Iason moreretur.",
+      "spans": [
+        {
+          "start": 76,
+          "end": 81,
+          "label": "PERSON",
+          "surface": "Iason",
+          "kb_id": "Q176758"
+        }
+      ]
+    },
+    {
+      "text": "Hoc facto Iasoni unguentum dedit;",
+      "spans": [
+        {
+          "start": 10,
+          "end": 16,
+          "label": "PERSON",
+          "surface": "Iasoni",
+          "kb_id": "Q176758"
+        }
+      ]
+    },
+    {
+      "text": "praecepit autem ut eo die quo isti labores conficiendi essent corpus suum et arma mane oblineret.",
+      "spans": []
+    },
+    {
+      "text": "tum portis apertis tauros in lucem traxit, et summa cum difficultate iugum imposuit.",
+      "spans": []
+    },
+    {
+      "text": "nesciebat enim filiam suam auxilium ei dedisse.",
+      "spans": []
+    },
+    {
+      "text": "Hoc facto ad locum ubi rex sedebat adiit et dentis draconis postulauit;",
+      "spans": []
+    },
+    {
+      "text": "Hoc cognito Iason consilium quod dedisset Medea non omittendum esse putabat.",
+      "spans": [
+        {
+          "start": 12,
+          "end": 17,
+          "label": "PERSON",
+          "surface": "Iason",
+          "kb_id": "Q176758"
+        },
+        {
+          "start": 42,
+          "end": 47,
+          "label": "PERSON",
+          "surface": "Medea",
+          "kb_id": "Q174278"
+        }
+      ]
+    },
+    {
+      "text": "Mox strictis gladiis inter se pugnare coeperunt, et cum hoc modo plurimi occisi essent, reliqui uulneribus confecti a Iasone nullo negotio interfecti sunt.",
+      "spans": [
+        {
+          "start": 118,
+          "end": 124,
+          "label": "PERSON",
+          "surface": "Iasone",
+          "kb_id": "Q176758"
+        }
+      ]
+    },
+    {
+      "text": "Omnibus rebus igitur ad fugam paratis media nocte insciente patre cum fratre Absyrto euasit, et quam celerrime ad locum ubi Argo subducta erat se contulit.",
+      "spans": [
+        {
+          "start": 77,
+          "end": 84,
+          "label": "PERSON",
+          "surface": "Absyrto",
+          "kb_id": "Q333658"
+        }
+      ]
+    },
+    {
+      "text": "Cum eo uenissent, Iason in terram egressus est, et sociis ad mare relictis, qui praesidio naui essent, ipse cum Medea in siluas se contulit.",
+      "spans": [
+        {
+          "start": 18,
+          "end": 23,
+          "label": "PERSON",
+          "surface": "Iason",
+          "kb_id": "Q176758"
+        },
+        {
+          "start": 112,
+          "end": 117,
+          "label": "PERSON",
+          "surface": "Medea",
+          "kb_id": "Q174278"
+        }
+      ]
+    },
+    {
+      "text": "id enim negotium summi esse periculi intellegebant.",
+      "spans": []
+    },
+    {
+      "text": "Postquam igitur ad occasum solis frustra exspectauerunt, de eius salute desperare coeperunt, nec dubitabant quin aliqui casus accidisset.",
+      "spans": []
+    },
+    {
+      "text": "sed dum proficisci parant, lumen quoddam subito conspiciunt mirum in modum intra siluas refulgens, et magnopere mirati quae causa esset eius rei ad locum concurrunt.",
+      "spans": []
+    },
+    {
+      "text": "Nauem longam quam celerrime deduci iussit, et militibus impositis fugientis insecutus est.",
+      "spans": []
+    },
+    {
+      "text": "Argonautae, qui rem in discrimine esse bene sciebant, omnibus uiribus remis contendebant;",
+      "spans": [
+        {
+          "start": 0,
+          "end": 10,
+          "label": "PERSON",
+          "surface": "Argonautae",
+          "kb_id": "Q165510"
+        }
+      ]
+    },
+    {
+      "text": "At Medea cum uidisset quo in loco res essent, paene omni spe deposita infandum hoc consilium cepit.",
+      "spans": [
+        {
+          "start": 3,
+          "end": 8,
+          "label": "PERSON",
+          "surface": "Medea",
+          "kb_id": "Q174278"
+        }
+      ]
+    },
+    {
+      "text": "Dum tamen ea geruntur, Argonautae non intermisso remigandi labore mox e conspectu hostium auferebantur, neque prius fugere destiterunt quam ad flumen Eridanum peruenerunt.",
+      "spans": [
+        {
+          "start": 23,
+          "end": 33,
+          "label": "PERSON",
+          "surface": "Argonautae",
+          "kb_id": "Q165510"
+        },
+        {
+          "start": 150,
+          "end": 158,
+          "label": "LOC",
+          "surface": "Eridanum",
+          "kb_id": "Q1135146"
+        }
+      ]
+    },
+    {
+      "text": "Pelias enim pollicitus erat, si Iason uellus rettulisset, se regnum ei traditurum.",
+      "spans": [
+        {
+          "start": 0,
+          "end": 6,
+          "label": "PERSON",
+          "surface": "Pelias",
+          "kb_id": "Q182439"
+        },
+        {
+          "start": 32,
+          "end": 37,
+          "label": "PERSON",
+          "surface": "Iason",
+          "kb_id": "Q176758"
+        }
+      ]
+    },
+    {
+      "text": "Postquam Iason quid fieri uellet ostendit, Pelias primo nihil respondit, sed diu in eadem tristitia tacitus permansit;",
+      "spans": [
+        {
+          "start": 9,
+          "end": 14,
+          "label": "PERSON",
+          "surface": "Iason",
+          "kb_id": "Q176758"
+        },
+        {
+          "start": 43,
+          "end": 49,
+          "label": "PERSON",
+          "surface": "Pelias",
+          "kb_id": "Q182439"
+        }
+      ]
+    },
+    {
+      "text": "His rebus cognitis Medea rem aegre tulit, et regni cupiditate adducta mortem regi per dolum inferre constituit.",
+      "spans": [
+        {
+          "start": 19,
+          "end": 24,
+          "label": "PERSON",
+          "surface": "Medea",
+          "kb_id": "Q174278"
+        }
+      ]
+    },
+    {
+      "text": "Nunc igitur uobis demonstrabo quo modo haec res fieri possit.\"",
+      "spans": []
+    },
+    {
+      "text": "Mox aries e uase exsiluit et uiribus refectis per agros currebat.",
+      "spans": []
+    },
+    {
+      "text": "ego herbas magicas praebebo.\"",
+      "spans": []
+    },
+    {
+      "text": "Quod ubi auditum est, filiae regis consilium quod dedisset Medea non omittendum putauerunt.",
+      "spans": [
+        {
+          "start": 59,
+          "end": 64,
+          "label": "PERSON",
+          "surface": "Medea",
+          "kb_id": "Q174278"
+        }
+      ]
+    },
+    {
+      "text": "At res omnino aliter euenit ac sperauerant, Medea enim non easdem herbas dedit quibus ipsa usa erat.",
+      "spans": [
+        {
+          "start": 44,
+          "end": 49,
+          "label": "PERSON",
+          "surface": "Medea",
+          "kb_id": "Q174278"
+        }
+      ]
+    },
+    {
+      "text": "Erat autem Creonti filia una, nomine Glauce.",
+      "spans": [
+        {
+          "start": 11,
+          "end": 18,
+          "label": "PERSON",
+          "surface": "Creonti",
+          "kb_id": "Q732066"
+        },
+        {
+          "start": 37,
+          "end": 43,
+          "label": "PERSON",
+          "surface": "Glauce",
+          "kb_id": "Q385397"
+        }
+      ]
+    },
+    {
+      "text": "Quam cum uidisset, Iason constituit Medeae uxori suae nuntium mittere eo consilio, ut Glaucen in matrimonium duceret.",
+      "spans": [
+        {
+          "start": 19,
+          "end": 24,
+          "label": "PERSON",
+          "surface": "Iason",
+          "kb_id": "Q176758"
+        },
+        {
+          "start": 36,
+          "end": 42,
+          "label": "PERSON",
+          "surface": "Medeae",
+          "kb_id": "Q174278"
+        },
+        {
+          "start": 86,
+          "end": 93,
+          "label": "PERSON",
+          "surface": "Glaucen",
+          "kb_id": "Q269058"
+        }
+      ]
+    },
+    {
+      "text": "Uestem parauit summa arte textam et uariis coloribus infectam;",
+      "spans": []
+    },
+    {
+      "text": "hanc mortifero quodam ueneno tinxit, cuius uis talis erat ut si quis eam uestem induisset, corpus eius quasi igni ureretur.",
+      "spans": []
+    },
+    {
+      "text": "illa autem nihil mali suspicans donum libenter accepit, et uestem nouam more feminarum statim induit.",
+      "spans": []
+    },
+    {
+      "text": "Sol autem his precibus commotus currum misit cui erant iuncti dracones alis instructi.",
+      "spans": []
+    },
+    {
+      "text": "Erat inter primos Graecorum Ulixes quidam, uir summae uirtutis ac prudentiae, quem dicunt nonnulli dolum istum excogitasse quo Troiam captam esse constat.",
+      "spans": [
+        {
+          "start": 18,
+          "end": 27,
+          "label": "NORP",
+          "surface": "Graecorum",
+          "kb_id": "Q539051"
+        },
+        {
+          "start": 28,
+          "end": 34,
+          "label": "PERSON",
+          "surface": "Ulixes",
+          "kb_id": "Q47231"
+        },
+        {
+          "start": 127,
+          "end": 133,
+          "label": "LOC",
+          "surface": "Troiam",
+          "kb_id": "Q22647"
+        }
+      ]
+    },
+    {
+      "text": "Nunc igitur cum iam decem annos quasi in exsilio consumpsisset, magna cupiditate patriae et uxoris uidendae ardebat.",
+      "spans": []
+    },
+    {
+      "text": "Postquam tamen pauca milia passuum a litore Troiae progressi sunt, tanta tempestas subito coorta est ut nulla nauium cursum tenere posset, sed aliae alias in partis disicerentur.",
+      "spans": [
+        {
+          "start": 44,
+          "end": 50,
+          "label": "LOC",
+          "surface": "Troiae",
+          "kb_id": "Q22647"
+        }
+      ]
+    },
+    {
+      "text": "Hi igitur e naui egressi imperata facere parabant.",
+      "spans": []
+    },
+    {
+      "text": "quo cum uenissent, socios suos quasi uino ebrios reppererunt.",
+      "spans": []
+    },
+    {
+      "text": "Tum ubi causam ueniendi docuerunt, iis persuadere conabantur ut secum ad nauem redirent.",
+      "spans": []
+    },
+    {
+      "text": "Cyclopes autem pastores erant quidam qui insulam Siciliam et praecipue montem Aetnam incolebant;",
+      "spans": [
+        {
+          "start": 0,
+          "end": 8,
+          "label": "NORP",
+          "surface": "Cyclopes",
+          "kb_id": "Q128430"
+        },
+        {
+          "start": 49,
+          "end": 57,
+          "label": "LOC",
+          "surface": "Siciliam",
+          "kb_id": "Q1460"
+        },
+        {
+          "start": 78,
+          "end": 84,
+          "label": "LOC",
+          "surface": "Aetnam",
+          "kb_id": "Q16990"
+        }
+      ]
+    },
+    {
+      "text": "ibi enim Uolcanus, praeses fabrorum et ignis repertor, cuius serui Cyclopes erant, officinam suam habebat.",
+      "spans": [
+        {
+          "start": 9,
+          "end": 17,
+          "label": "PERSON",
+          "surface": "Uolcanus",
+          "kb_id": "Q48268"
+        },
+        {
+          "start": 67,
+          "end": 75,
+          "label": "NORP",
+          "surface": "Cyclopes",
+          "kb_id": "Q128430"
+        }
+      ]
+    },
+    {
+      "text": "Hoc facto, oculo omnia perlustrabat, et cum sensisset homines in interiore parte speluncae esse abditos, magna uoce exclamauit:",
+      "spans": []
+    },
+    {
+      "text": "Polyphemus, postquam fames hac tam horribili cena depulsa est, humi prostratus somno se dedit.",
+      "spans": [
+        {
+          "start": 0,
+          "end": 10,
+          "label": "PERSON",
+          "surface": "Polyphemus",
+          "kb_id": "Q193567"
+        }
+      ]
+    },
+    {
+      "text": "At cum saxum animaduertisset quo introitus obstructus erat, nihil sibi profuturum intellexit si Polyphemum interfecisset.",
+      "spans": [
+        {
+          "start": 96,
+          "end": 106,
+          "label": "PERSON",
+          "surface": "Polyphemum",
+          "kb_id": "Q193567"
+        }
+      ]
+    },
+    {
+      "text": "Ille tamen ne animos demitterent uehementer hortatus est;",
+      "spans": []
+    },
+    {
+      "text": "Tum, cum saxum amouisset, ipse cum pecore suo ex spelunca progressus est;",
+      "spans": []
+    },
+    {
+      "text": "Mox tamen ab hac spe repulsi sunt;",
+      "spans": []
+    },
+    {
+      "text": "et postquam magnum poculum uino compleuit, monstrum ad bibendum prouocauit.",
+      "spans": []
+    },
+    {
+      "text": "ne igitur tantam occasionem rei gerendae omittamus.\"",
+      "spans": []
+    },
+    {
+      "text": "Cum tamen postea quaesiuissent quis ei uim intulisset, respondit ille Neminem id fecisse;",
+      "spans": [
+        {
+          "start": 70,
+          "end": 77,
+          "label": "PERSON",
+          "surface": "Neminem",
+          "kb_id": "Q7112088"
+        }
+      ]
+    },
+    {
+      "text": "\"At si nemo,\" inquit, \"te uulnerauit, haud dubium est quin consilio deorum, quibus resistere nec possumus nec uolumus, hoc supplicio adficiaris.\"",
+      "spans": []
+    },
+    {
+      "text": "Nouem dies secundissimo uento cursum tenuerunt, iamque in conspectum patriae suae uenerant, cum Ulixes lassitudine confectus (ipse enim gubernabat) ad quietem capiendam recubuit.",
+      "spans": [
+        {
+          "start": 96,
+          "end": 102,
+          "label": "PERSON",
+          "surface": "Ulixes",
+          "kb_id": "Q47231"
+        }
+      ]
+    },
+    {
+      "text": "credebant enim aurum et argentum ibi esse celata.",
+      "spans": []
+    },
+    {
+      "text": "Quae cum ita essent, res ad controuersiam deducta est.",
+      "spans": []
+    },
+    {
+      "text": "Tandem Ulixes consensu omnium socios in duas partis diuisit, quarum alteri Eurylochus, uir summae uirtutis, alteri ipse praeesse.",
+      "spans": [
+        {
+          "start": 7,
+          "end": 13,
+          "label": "PERSON",
+          "surface": "Ulixes",
+          "kb_id": "Q47231"
+        },
+        {
+          "start": 75,
+          "end": 85,
+          "label": "PERSON",
+          "surface": "Eurylochus",
+          "kb_id": "Q993387"
+        }
+      ]
+    },
+    {
+      "text": "Illi autem aliquantum itineris progressi ad uillam quandam peruenerunt summa magnificentia aedificatam, cuius ad ostium cum adiissent, cantum dulcissimum audiuerunt.",
+      "spans": []
+    },
+    {
+      "text": "Eurylochus insidias sibi comparari suspicatus foris exspectare constituit, sed reliqui rei nouitate adducti intrauerunt.",
+      "spans": [
+        {
+          "start": 0,
+          "end": 10,
+          "label": "PERSON",
+          "surface": "Eurylochus",
+          "kb_id": "Q993387"
+        }
+      ]
+    },
+    {
+      "text": "Cenam magnificam omnibus rebus instructam inuenerunt et iussu dominae libentissime accubuerunt.",
+      "spans": []
+    },
+    {
+      "text": "quo facto omnes in porcos subito conuersi sunt.",
+      "spans": []
+    },
+    {
+      "text": "Interea Eurylochus ignarus quid in aedibus ageretur ad ostium sedebat;",
+      "spans": [
+        {
+          "start": 8,
+          "end": 18,
+          "label": "PERSON",
+          "surface": "Eurylochus",
+          "kb_id": "Q993387"
+        }
+      ]
+    },
+    {
+      "text": "Eo cum uenisset, sollicitudine ac timore tam perturbatus fuit ut quae uidisset uix dilucide narrare posset.",
+      "spans": []
+    },
+    {
+      "text": "Ulixes autem respondit se neminem inuitum secum adducturum;",
+      "spans": [
+        {
+          "start": 0,
+          "end": 6,
+          "label": "PERSON",
+          "surface": "Ulixes",
+          "kb_id": "Q47231"
+        }
+      ]
+    },
+    {
+      "text": "se ipsum sine ullo praesidio rem suscepturum.",
+      "spans": []
+    },
+    {
+      "text": "\"Hanc cape,\" inquit, \"et ubi Circe te baculo tetigerit, tu stricto gladio impetum in eam uide ut facias.\"",
+      "spans": [
+        {
+          "start": 29,
+          "end": 34,
+          "label": "PERSON",
+          "surface": "Circe",
+          "kb_id": "Q187602"
+        }
+      ]
+    },
+    {
+      "text": "Omnia eodem modo atque antea facta sunt.",
+      "spans": []
+    },
+    {
+      "text": "Ille etsi suspicatus est uenenum sibi paratum esse, poculum exhausit;",
+      "spans": []
+    },
+    {
+      "text": "quo facto Circe postquam caput eius baculo tetigit, ea uerba locuta est quibus socios eius antea in porcos conuerterat.",
+      "spans": [
+        {
+          "start": 10,
+          "end": 15,
+          "label": "PERSON",
+          "surface": "Circe",
+          "kb_id": "Q187602"
+        }
+      ]
+    },
+    {
+      "text": "Ulixes autem, ut ei praeceptum erat, gladio stricto impetum in eam fecit et mortem minitabatur.",
+      "spans": [
+        {
+          "start": 0,
+          "end": 6,
+          "label": "PERSON",
+          "surface": "Ulixes",
+          "kb_id": "Q47231"
+        }
+      ]
+    },
+    {
+      "text": "Tum porcos in atrium immitti iussit.",
+      "spans": []
+    },
+    {
+      "text": "quo facto sunt omnes statim in humanam speciem reducti.",
+      "spans": []
+    },
+    {
+      "text": "Postridie eius diei Ulixes ex hac insula quam celerrime discedere in animo habebat.",
+      "spans": [
+        {
+          "start": 20,
+          "end": 26,
+          "label": "PERSON",
+          "surface": "Ulixes",
+          "kb_id": "Q47231"
+        }
+      ]
+    },
+    {
+      "text": "Postquam tamen totum annum apud Circen consumpserat, Ulixes magno desiderio patriae suae motus est.",
+      "spans": [
+        {
+          "start": 32,
+          "end": 38,
+          "label": "PERSON",
+          "surface": "Circen",
+          "kb_id": "Q187602"
+        },
+        {
+          "start": 53,
+          "end": 59,
+          "label": "PERSON",
+          "surface": "Ulixes",
+          "kb_id": "Q47231"
+        }
+      ]
+    },
+    {
+      "text": "At Circe ubi omnia ad profectionem parata esse uidit, rem aegre ferebat et Ulixem uehementer obsecrabat ut eo consilio desisteret.",
+      "spans": [
+        {
+          "start": 3,
+          "end": 8,
+          "label": "PERSON",
+          "surface": "Circe",
+          "kb_id": "Q187602"
+        },
+        {
+          "start": 75,
+          "end": 81,
+          "label": "PERSON",
+          "surface": "Ulixem",
+          "kb_id": "Q47231"
+        }
+      ]
+    },
+    {
+      "text": "Multa quidem pericula Ulixi subeunda erant antequam in patriam suam perueniret, quae tamen hoc loco longum est perscribere.",
+      "spans": [
+        {
+          "start": 22,
+          "end": 27,
+          "label": "PERSON",
+          "surface": "Ulixi",
+          "kb_id": "Q47231"
+        }
+      ]
+    }
+  ]
+}
