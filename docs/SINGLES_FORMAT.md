@@ -129,6 +129,13 @@ NER-only singles carry only `start`, `end`, `label`.
 span is NIL only when the entity genuinely has no KB referent — never merely
 because it was hard to identify.
 
+**Invariant — declared authorities cover used ids.** Every `kb_id` namespace a
+single actually uses (`wd` for Q-ids, `lkb` for catalog ids) must be declared in
+`annotation.nel.authorities`. `NIL` is dataset-internal and needs no
+declaration. This is what makes a published id resolvable to an outside
+consumer; `scripts/validate_single.py` enforces it (and offset/surface/label
+integrity) across all singles, with a CI-usable exit code.
+
 ## Entity labels
 
 | Label | Description |
