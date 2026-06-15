@@ -2438,7 +2438,8 @@
           "end": 77,
           "token_start": 11,
           "token_end": 11,
-          "label": "PERSON"
+          "label": "PERSON",
+          "kb_id": "Q7112088"
         }
       ],
       "meta": {}
@@ -10198,7 +10199,8 @@
           "text": "Neminem",
           "label": "PERSON",
           "source": "la_core_web_trf",
-          "input_hash": -1796653527
+          "input_hash": -1796653527,
+          "kb_id": "Q7112088"
         }
       ],
       "meta": {}
