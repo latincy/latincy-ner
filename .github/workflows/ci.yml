@@ -1,0 +1,28 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      # Pure-stdlib gate: fails the build if any single declares ids it cannot
+      # resolve, or has bad offsets/labels. No dependencies, so it runs first
+      # and fast.
+      - name: Validate singles
+        run: python scripts/validate_single.py
+
+      - name: Install test dependencies
+        run: pip install pytest spacy
+
+      - name: Run tests
+        run: pytest

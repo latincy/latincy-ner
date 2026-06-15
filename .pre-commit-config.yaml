@@ -1,0 +1,14 @@
+# Run:  pip install pre-commit && pre-commit install
+# Then validate_single.py runs automatically on every commit that touches a
+# single under assets/collections/.
+repos:
+  - repo: local
+    hooks:
+      - id: validate-singles
+        name: Validate NER/NEL singles
+        entry: python scripts/validate_single.py
+        language: system
+        # The script validates every single itself, so it needs no filenames;
+        # we only want the hook to *fire* when a collection JSON changes.
+        pass_filenames: false
+        files: ^assets/collections/.*\.json$
