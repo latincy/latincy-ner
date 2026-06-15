@@ -4,6 +4,7 @@
     "author": "Ritchie, F.",
     "date": "1904",
     "source": "https://www.thelatinlibrary.com/ritchie.html",
+    "version": "0.2.0",
     "latincy-ner-project": "primer",
     "latincy-ner-project-subset": "ritchies",
     "language": "la",
@@ -11,15 +12,24 @@
     "license": "https://creativecommons.org/publicdomain/zero/1.0/"
   },
   "annotation": {
+    "segmentation": {
+      "senter_model": "la_core_web_lg",
+      "senter_version": "3.9.4"
+    },
     "ner": {
       "spacy_model": "la_core_web_lg",
       "spacy_model_version": "3.9.4",
       "review_level": "reviewed"
     },
     "nel": {
-      "kb": "latincy-nel/wikidata_kb.json",
-      "kb_date": "2026-06-15",
-      "method": "wikidata_kb + claude-opus-4-8 bootstrapping",
+      "authorities": [
+        {
+          "prefix": "wd",
+          "name": "Wikidata",
+          "snapshot": "2026-06-15"
+        }
+      ],
+      "method": "wikidata_kb candidates + claude-opus-4-8 bootstrapping",
       "review_level": "silver"
     },
     "tagset": [
