@@ -1,0 +1,5836 @@
+{
+ "Uerbo": {
+  "label": "PERSON",
+  "lemma": "Uerbum",
+  "candidates": []
+ },
+ "Greci": {
+  "label": "NORP",
+  "lemma": "Greci",
+  "candidates": [
+   {
+    "qid": "Q37233631",
+    "label": "Greci",
+    "description": "nomen gentilicium"
+   },
+   {
+    "qid": "Q55039",
+    "label": "Graeci",
+    "description": "Italiae municipium"
+   },
+   {
+    "qid": "Q16426944",
+    "label": "Greci",
+    "description": "commune in Mehedinți County, Romania"
+   },
+   {
+    "qid": "Q5066452",
+    "label": "Greci",
+    "description": "commune in Tulcea County, Romania"
+   },
+   {
+    "qid": "Q12729501",
+    "label": "Greci",
+    "description": "village in Vâlcea County, Romania"
+   }
+  ]
+ },
+ "Ouidius": {
+  "label": "PERSON",
+  "lemma": "Ouidius",
+  "candidates": []
+ },
+ "Metamorfoseos": {
+  "label": "LOC",
+  "lemma": "metamorphosis",
+  "candidates": [
+   {
+    "qid": "Q33753",
+    "label": "metamorphosis",
+    "description": "profound change in body structure during the postembryonic development of an organism"
+   },
+   {
+    "qid": "Q1925011",
+    "label": "Versipellis",
+    "description": "ability to physically transform through an inherent ability, divine intervention or magic"
+   },
+   {
+    "qid": "Q184222",
+    "label": "The Metamorphosis",
+    "description": "novella by Franz Kafka"
+   },
+   {
+    "qid": "Q2039969",
+    "label": "metamorphosis",
+    "description": "in mythology, permanent or at least long-term change of appearance, often caused by divine intervention"
+   },
+   {
+    "qid": "Q54942567",
+    "label": "Metamorphosis",
+    "description": "1972 short story by James Blish"
+   }
+  ]
+ },
+ "Ade": {
+  "label": "PERSON",
+  "lemma": "Adam",
+  "candidates": [
+   {
+    "qid": "Q70899",
+    "label": "Adam",
+    "description": "first man according to the Abrahamic creation and religions such as Judaism, Christianity and Islam"
+   },
+   {
+    "qid": "Q347181",
+    "label": "Adam",
+    "description": "praenomen masculinum"
+   },
+   {
+    "qid": "Q10379699",
+    "label": "Adam",
+    "description": "nomen gentilicium"
+   },
+   {
+    "qid": "Q69488",
+    "label": "MDMA",
+    "description": "empathogen and stimulant"
+   },
+   {
+    "qid": "Q28149770",
+    "label": "Design Museum Brussels",
+    "description": "design museum in Brussels, Belgium"
+   }
+  ]
+ },
+ "Eo": {
+  "label": "PERSON",
+  "lemma": "eo",
+  "candidates": [
+   {
+    "qid": "Q143",
+    "label": "lingua Esperantica",
+    "description": "lingua auxiliaris et artificiosa"
+   },
+   {
+    "qid": "Q2514841",
+    "label": "Evangelische Omroep",
+    "description": "Dutch broadcaster"
+   },
+   {
+    "qid": "Q1015565",
+    "label": "Ou",
+    "description": "Seres cognomen (歐 / 欧)"
+   },
+   {
+    "qid": "Q1348989",
+    "label": "Earth observation",
+    "description": "scientific field based on gathering information about planet Earth's physical, chemical and biological systems via remote sensing technologies"
+   },
+   {
+    "qid": "Q37467174",
+    "label": "Eo",
+    "description": "nomen gentilicium"
+   }
+  ]
+ },
+ "Uirtute": {
+  "label": "PERSON",
+  "lemma": "uirtus",
+  "candidates": [
+   {
+    "qid": "Q131672728",
+    "label": "Uirtus",
+    "description": null
+   }
+  ]
+ },
+ "Perfectionis": {
+  "label": "PERSON",
+  "lemma": "perfectio",
+  "candidates": [
+   {
+    "qid": "Q50704",
+    "label": "Perfectio quadri",
+    "description": "method for solving quadratic equations"
+   },
+   {
+    "qid": "Q1121749",
+    "label": "perfectionism",
+    "description": "personality trait characterized by a person's striving for flawlessness and setting high performance standards"
+   },
+   {
+    "qid": "Q378701",
+    "label": "perfection",
+    "description": "absence of flaws; quality of an ideal object"
+   },
+   {
+    "qid": "Q751147",
+    "label": "prajñāparamitā",
+    "description": "Mahāyāna Buddhist concept referring to a perfected way of seeing the nature of reality as empty (śūnyatā), lacking essence (svabhāva) and illusory (māyā)"
+   },
+   {
+    "qid": "Q1896863",
+    "label": "Oneida Community",
+    "description": "19th-century intentional community in New York, United States of America"
+   }
+  ]
+ },
+ "Amator": {
+  "label": "PERSON",
+  "lemma": "amator",
+  "candidates": [
+   {
+    "qid": "Q107366566",
+    "label": "Amator",
+    "description": "nomen gentilicium"
+   },
+   {
+    "qid": "Q120506948",
+    "label": "Amator",
+    "description": "work by Theocritus"
+   },
+   {
+    "qid": "Q108568140",
+    "label": "Amator",
+    "description": "episcopus catholicus"
+   },
+   {
+    "qid": "Q572073",
+    "label": "Amatores Rivales",
+    "description": "dialogue attributed to Plato"
+   },
+   {
+    "qid": "Q2670157",
+    "label": "Amator Autissiodorensis",
+    "description": "Bishop of Auxerre"
+   }
+  ]
+ },
+ "Uoluntate": {
+  "label": "PERSON",
+  "lemma": "uoluntas",
+  "candidates": []
+ },
+ "Petramala": {
+  "label": "LOC",
+  "lemma": "Petramala",
+  "candidates": [
+   {
+    "qid": "Q53868",
+    "label": "Petramala",
+    "description": "Italiae municipium"
+   }
+  ]
+ },
+ "Sarnum": {
+  "label": "LOC",
+  "lemma": "sarnus",
+  "candidates": [
+   {
+    "qid": "Q1084625",
+    "label": "Sarnus",
+    "description": "river in Italy"
+   },
+   {
+    "qid": "Q18098929",
+    "label": "Sarnus",
+    "description": "genus of insects"
+   },
+   {
+    "qid": "Q10661896",
+    "label": "Sarnus decipiens",
+    "description": "species of insect"
+   },
+   {
+    "qid": "Q118741973",
+    "label": "Sarnus gilvus",
+    "description": "species of insect"
+   },
+   {
+    "qid": "Q118741974",
+    "label": "Sarnus rectemarginatus",
+    "description": "species of insect"
+   }
+  ]
+ },
+ "Florentiam": {
+  "label": "LOC",
+  "lemma": "florentia",
+  "candidates": [
+   {
+    "qid": "Q2044",
+    "label": "Florentia",
+    "description": "Italiae urbs"
+   },
+   {
+    "qid": "Q21143937",
+    "label": "Florentia",
+    "description": "praenomen femininum"
+   },
+   {
+    "qid": "Q55450750",
+    "label": "Florentia",
+    "description": "Romanum nomen"
+   },
+   {
+    "qid": "Q288934",
+    "label": "Florentia",
+    "description": "former commune in Jura, France"
+   },
+   {
+    "qid": "Q37103",
+    "label": "Florentia Nightingale",
+    "description": "English social reformer, statistician, and founder of modern nursing (1820–1910)"
+   }
+  ]
+ },
+ "Florentia": {
+  "label": "LOC",
+  "lemma": "florentia",
+  "candidates": [
+   {
+    "qid": "Q2044",
+    "label": "Florentia",
+    "description": "Italiae urbs"
+   },
+   {
+    "qid": "Q21143937",
+    "label": "Florentia",
+    "description": "praenomen femininum"
+   },
+   {
+    "qid": "Q55450750",
+    "label": "Florentia",
+    "description": "Romanum nomen"
+   },
+   {
+    "qid": "Q288934",
+    "label": "Florentia",
+    "description": "former commune in Jura, France"
+   },
+   {
+    "qid": "Q37103",
+    "label": "Florentia Nightingale",
+    "description": "English social reformer, statistician, and founder of modern nursing (1820–1910)"
+   }
+  ]
+ },
+ "Tusciam": {
+  "label": "LOC",
+  "lemma": "tuscia",
+  "candidates": [
+   {
+    "qid": "Q1273",
+    "label": "Tuscia",
+    "description": "region in central Italy"
+   },
+   {
+    "qid": "Q2622697",
+    "label": "14486 Tuscia",
+    "description": "asteroides"
+   },
+   {
+    "qid": "Q695728",
+    "label": "Tuscia",
+    "description": "historical region of Italy, matching the Etruscan influence"
+   },
+   {
+    "qid": "Q212203",
+    "label": "Etruscae insulae",
+    "description": "archipelagus Italiae in Mari Tyrrheno"
+   },
+   {
+    "qid": "Q79607246",
+    "label": "Tuscia",
+    "description": "praenomen femininum"
+   }
+  ]
+ },
+ "Hebrei": {
+  "label": "NORP",
+  "lemma": "Hebreus",
+  "candidates": [
+   {
+    "qid": "Q7325",
+    "label": "Iudaei",
+    "description": "populus"
+   },
+   {
+    "qid": "Q570868",
+    "label": "Hebraei",
+    "description": "Hebrew-speaking ethnic and national groups from Canaan"
+   },
+   {
+    "qid": "Q128608",
+    "label": "Epistula ad Hebraeos",
+    "description": "book of the Bible"
+   },
+   {
+    "qid": "Q138796858",
+    "label": "Hebreus: A Bíblia de Sermões do Pregador - Esboços Bíblicos para Pregação Expositiva e Estudos Bíblicos",
+    "description": null
+   },
+   {
+    "qid": "Q136496573",
+    "label": "Hebreus Sistema de Ensino 01",
+    "description": "school in Cabedelo, Paraíba, Brazil"
+   }
+  ]
+ },
+ "Redemptor": {
+  "label": "PERSON",
+  "lemma": "Redemptor",
+  "candidates": [
+   {
+    "qid": "Q91920484",
+    "label": "Redemptor",
+    "description": "Czech company"
+   },
+   {
+    "qid": "Q111169016",
+    "label": "Redemptor",
+    "description": "2021 novel by Jordan Ifueko"
+   },
+   {
+    "qid": "Q127039156",
+    "label": "REDEMPTOR",
+    "description": "hymn tune"
+   },
+   {
+    "qid": "Q1247063",
+    "label": "Redemptor Hominis",
+    "description": "encyclical"
+   },
+   {
+    "qid": "Q1235078",
+    "label": "Redemptoris missio",
+    "description": "encyclical"
+   }
+  ]
+ },
+ "hebraicum": {
+  "label": "NORP",
+  "lemma": "hebraicus",
+  "candidates": [
+   {
+    "qid": "Q4988856",
+    "label": "hebraista",
+    "description": "someone who deals with Hebrew studies"
+   },
+   {
+    "qid": "Q2272427",
+    "label": "hebraïcus",
+    "description": null
+   }
+  ]
+ },
+ "Nembroth": {
+  "label": "PERSON",
+  "lemma": "Nembroth",
+  "candidates": [
+   {
+    "qid": "Q3015772",
+    "label": "Nembrotha",
+    "description": "genus of molluscs"
+   },
+   {
+    "qid": "Q2486240",
+    "label": "Nembrotha kubaryana",
+    "description": "colorful sea slug"
+   },
+   {
+    "qid": "Q371753",
+    "label": "Nembrotha lineolata",
+    "description": "species of mollusc"
+   },
+   {
+    "qid": "Q3020387",
+    "label": "Nembrotha cristata",
+    "description": "species of mollusc"
+   },
+   {
+    "qid": "Q3874559",
+    "label": "Nembrotha megalocera",
+    "description": "species of mollusc"
+   }
+  ]
+ },
+ "Sennaar": {
+  "label": "LOC",
+  "lemma": "Sennaar",
+  "candidates": [
+   {
+    "qid": "Q611867",
+    "label": "Sengs",
+    "description": "Town in Sennar State, Sudan"
+   }
+  ]
+ },
+ "Europe": {
+  "label": "LOC",
+  "lemma": "Europa",
+  "candidates": [
+   {
+    "qid": "Q46",
+    "label": "Europa",
+    "description": "continens"
+   },
+   {
+    "qid": "Q3143",
+    "label": "Europa",
+    "description": "Galilean moon of Jupiter"
+   },
+   {
+    "qid": "Q165170",
+    "label": "Europa",
+    "description": "Phoenician character in Greek mythology, daughter of Agenor"
+   },
+   {
+    "qid": "Q5412023",
+    "label": "Europa",
+    "description": "provincia romana"
+   },
+   {
+    "qid": "Q104554890",
+    "label": "Europa",
+    "description": "praenomen femininum"
+   }
+  ]
+ },
+ "Europam": {
+  "label": "LOC",
+  "lemma": "Europa",
+  "candidates": [
+   {
+    "qid": "Q46",
+    "label": "Europa",
+    "description": "continens"
+   },
+   {
+    "qid": "Q3143",
+    "label": "Europa",
+    "description": "Galilean moon of Jupiter"
+   },
+   {
+    "qid": "Q165170",
+    "label": "Europa",
+    "description": "Phoenician character in Greek mythology, daughter of Agenor"
+   },
+   {
+    "qid": "Q5412023",
+    "label": "Europa",
+    "description": "provincia romana"
+   },
+   {
+    "qid": "Q104554890",
+    "label": "Europa",
+    "description": "praenomen femininum"
+   }
+  ]
+ },
+ "Europa": {
+  "label": "LOC",
+  "lemma": "Europa",
+  "candidates": [
+   {
+    "qid": "Q46",
+    "label": "Europa",
+    "description": "continens"
+   },
+   {
+    "qid": "Q3143",
+    "label": "Europa",
+    "description": "Galilean moon of Jupiter"
+   },
+   {
+    "qid": "Q165170",
+    "label": "Europa",
+    "description": "Phoenician character in Greek mythology, daughter of Agenor"
+   },
+   {
+    "qid": "Q5412023",
+    "label": "Europa",
+    "description": "provincia romana"
+   },
+   {
+    "qid": "Q104554890",
+    "label": "Europa",
+    "description": "praenomen femininum"
+   }
+  ]
+ },
+ "Grecos": {
+  "label": "NORP",
+  "lemma": "Greci",
+  "candidates": [
+   {
+    "qid": "Q37233631",
+    "label": "Greci",
+    "description": "nomen gentilicium"
+   },
+   {
+    "qid": "Q55039",
+    "label": "Graeci",
+    "description": "Italiae municipium"
+   },
+   {
+    "qid": "Q16426944",
+    "label": "Greci",
+    "description": "commune in Mehedinți County, Romania"
+   },
+   {
+    "qid": "Q5066452",
+    "label": "Greci",
+    "description": "commune in Tulcea County, Romania"
+   },
+   {
+    "qid": "Q12729501",
+    "label": "Greci",
+    "description": "village in Vâlcea County, Romania"
+   }
+  ]
+ },
+ "Asye": {
+  "label": "LOC",
+  "lemma": "Asia",
+  "candidates": [
+   {
+    "qid": "Q48",
+    "label": "Asia",
+    "description": "continens"
+   },
+   {
+    "qid": "Q210718",
+    "label": "Asia",
+    "description": "Roman province"
+   },
+   {
+    "qid": "Q726891",
+    "label": "Asia",
+    "description": "British rock band"
+   },
+   {
+    "qid": "Q37020313",
+    "label": "Asia",
+    "description": "nomen gentilicium"
+   },
+   {
+    "qid": "Q108528009",
+    "label": "Asia",
+    "description": "daughter of Themistocles"
+   }
+  ]
+ },
+ "Meotidis": {
+  "label": "LOC",
+  "lemma": "maeotis",
+  "candidates": [
+   {
+    "qid": "Q3854790",
+    "label": "Maeotian Swamp",
+    "description": "ancient name for the Don Delta region"
+   },
+   {
+    "qid": "Q35000",
+    "label": "Palus Maeotis",
+    "description": "Inland sea of ​​the Atlantic Ocean basin"
+   },
+   {
+    "qid": "Q61560344",
+    "label": "Maeotis Palus",
+    "description": "article in Otto's encyclopedia"
+   },
+   {
+    "qid": "Q4290710",
+    "label": "Maeotian culture",
+    "description": "archaeological culture of the transition from bronze to iron and early iron age on the eastern and southeastern coasts of the Azov Sea"
+   },
+   {
+    "qid": "Q127973958",
+    "label": "Maeotis Palus",
+    "description": null
+   }
+  ]
+ },
+ "Anglie": {
+  "label": "LOC",
+  "lemma": "anglia",
+  "candidates": [
+   {
+    "qid": "Q21",
+    "label": "Anglia",
+    "description": "country in north-west Europe, part of the United Kingdom"
+   },
+   {
+    "qid": "Q179876",
+    "label": "Anglia",
+    "description": "regnum"
+   },
+   {
+    "qid": "Q105840094",
+    "label": "Anglia",
+    "description": "map drawn by Christopher Saxton"
+   },
+   {
+    "qid": "Q105893834",
+    "label": "Anglia",
+    "description": "edition of map by Christopher Saxton"
+   },
+   {
+    "qid": "Q105939093",
+    "label": "Anglia",
+    "description": "revised edition of map by Christopher Saxton, with latitude and longitude markings"
+   }
+  ]
+ },
+ "Ytalorum": {
+  "label": "NORP",
+  "lemma": "italus",
+  "candidates": [
+   {
+    "qid": "Q16566771",
+    "label": "Italus",
+    "description": "praenomen masculinum"
+   },
+   {
+    "qid": "Q2722978",
+    "label": "Italus",
+    "description": "mythical eponym of Italy"
+   },
+   {
+    "qid": "Q154756",
+    "label": "Italus Calvino",
+    "description": "Italian journalist and writer (1923-1985)"
+   },
+   {
+    "qid": "Q216478",
+    "label": "Italus Svevo",
+    "description": "Italian writer (1861-1928)"
+   },
+   {
+    "qid": "Q1056",
+    "label": "Italus Balbo",
+    "description": "Italian Marshal of the Air Force and minister (1896–1940)"
+   }
+  ]
+ },
+ "Francorum": {
+  "label": "NORP",
+  "lemma": "franci",
+  "candidates": [
+   {
+    "qid": "Q43482",
+    "label": "Franci",
+    "description": "historical Germanic ethnic group"
+   },
+   {
+    "qid": "Q89210250",
+    "label": "Franci",
+    "description": "nomen gentilicium"
+   },
+   {
+    "qid": "Q142",
+    "label": "Francia",
+    "description": "civitas Europae"
+   },
+   {
+    "qid": "Q150",
+    "label": "Francogallice",
+    "description": "lingua"
+   },
+   {
+    "qid": "Q62",
+    "label": "Franciscopolis",
+    "description": "consolidated city and county in California, United States"
+   }
+  ]
+ },
+ "Sclauones": {
+  "label": "NORP",
+  "lemma": "Sclauones",
+  "candidates": []
+ },
+ "Ungaros": {
+  "label": "NORP",
+  "lemma": "ungaros",
+  "candidates": [
+   {
+    "qid": "Q726205",
+    "label": "Hungarians in Ukraine",
+    "description": "ethnic group in Ukraine"
+   }
+  ]
+ },
+ "Teutonicos": {
+  "label": "NORP",
+  "lemma": "teutonicus",
+  "candidates": [
+   {
+    "qid": "Q77017",
+    "label": "Iacobus Böhme",
+    "description": "German Christian mystic and theologian (1575-1624)"
+   },
+   {
+    "qid": "Q1029723",
+    "label": "Teutonicus",
+    "description": "Wikimedia disambiguation page"
+   },
+   {
+    "qid": "Q132880344",
+    "label": "Teutonicus Hieronymus",
+    "description": null
+   },
+   {
+    "qid": "Q21138865",
+    "label": "Teutonicus, Paul",
+    "description": "entry in the Allgemeine Deutsche Biographie"
+   },
+   {
+    "qid": "Q21138863",
+    "label": "Teutonicus, Georg",
+    "description": "entry in the Allgemeine Deutsche Biographie"
+   }
+  ]
+ },
+ "Saxones": {
+  "label": "NORP",
+  "lemma": "Saxo",
+  "candidates": [
+   {
+    "qid": "Q1197",
+    "label": "Saxonia Inferior",
+    "description": "state in North-West of Germany"
+   },
+   {
+    "qid": "Q1202",
+    "label": "Saxonia",
+    "description": "state in Germany"
+   },
+   {
+    "qid": "Q1206",
+    "label": "Saxonia et Anhaltium",
+    "description": "state of Germany"
+   },
+   {
+    "qid": "Q9798",
+    "label": "saxophonum",
+    "description": "single-reed woodwind instrument"
+   },
+   {
+    "qid": "Q25433",
+    "label": "lingua Saxonica",
+    "description": "lingua"
+   }
+  ]
+ },
+ "Anglicos": {
+  "label": "NORP",
+  "lemma": "anglicus",
+  "candidates": [
+   {
+    "qid": "Q29550283",
+    "label": "Anglicus",
+    "description": "praenomen masculinum"
+   },
+   {
+    "qid": "Q18546748",
+    "label": "Richard of Wendover",
+    "description": "English cleric and physician"
+   },
+   {
+    "qid": "Q540808",
+    "label": "Anglicus",
+    "description": "Wikimedia disambiguation page"
+   },
+   {
+    "qid": "Q119818",
+    "label": "Bernard Quaritch",
+    "description": "German-English bookseller and antiquarian bookseller (1819–1899)"
+   },
+   {
+    "qid": "Q465329",
+    "label": "Stephanus Langton",
+    "description": "English cleric; Archbishop of Canterbury"
+   }
+  ]
+ },
+ "Ungarorum": {
+  "label": "NORP",
+  "lemma": "ungarus",
+  "candidates": []
+ },
+ "Yspani": {
+  "label": "NORP",
+  "lemma": "Yspani",
+  "candidates": []
+ },
+ "Franci": {
+  "label": "NORP",
+  "lemma": "francus",
+  "candidates": [
+   {
+    "qid": "Q15303975",
+    "label": "Francus",
+    "description": "male given name"
+   },
+   {
+    "qid": "Q3751672",
+    "label": "Francus",
+    "description": "eremita Asserici in Aprutio"
+   },
+   {
+    "qid": "Q184172",
+    "label": "Francus Francicus",
+    "description": "former currency of France"
+   },
+   {
+    "qid": "Q25344",
+    "label": "Francus Helveticus",
+    "description": "currency of Switzerland and Liechtenstein"
+   },
+   {
+    "qid": "Q76658",
+    "label": "Franciscus Gualterius Steinmeier",
+    "description": "German politician, president of Germany since 2017"
+   }
+  ]
+ },
+ "Ianuensium": {
+  "label": "NORP",
+  "lemma": "Ianuenses",
+  "candidates": []
+ },
+ "Ytalie": {
+  "label": "LOC",
+  "lemma": "Italia",
+  "candidates": [
+   {
+    "qid": "Q38",
+    "label": "Italia",
+    "description": "civitas Europae"
+   },
+   {
+    "qid": "Q913582",
+    "label": "Regiones Italicae Augustae",
+    "description": "Italy under ancient Roman rule"
+   },
+   {
+    "qid": "Q510613",
+    "label": "Italia",
+    "description": "praenomen femininum"
+   },
+   {
+    "qid": "Q652",
+    "label": "Italiane",
+    "description": "lingua romanica"
+   },
+   {
+    "qid": "Q37226722",
+    "label": "Italia",
+    "description": "nomen gentilicium"
+   }
+  ]
+ },
+ "Adriatici": {
+  "label": "LOC",
+  "lemma": "Adriatici",
+  "candidates": []
+ },
+ "Siciliam": {
+  "label": "LOC",
+  "lemma": "Sicilia",
+  "candidates": [
+   {
+    "qid": "Q1460",
+    "label": "Sicilia",
+    "description": "island in the Mediterranean, region of Italy"
+   },
+   {
+    "qid": "Q691321",
+    "label": "Sicilia",
+    "description": "Roman province"
+   },
+   {
+    "qid": "Q4951156",
+    "label": "Sicilia insula",
+    "description": "Italian island in the Mediterranean Sea"
+   },
+   {
+    "qid": "Q37522024",
+    "label": "Sicilia",
+    "description": "nomen gentilicium"
+   },
+   {
+    "qid": "Q1248821",
+    "label": "Studium Generale Siciliae",
+    "description": "Italian university"
+   }
+  ]
+ },
+ "Alamannos": {
+  "label": "NORP",
+  "lemma": "Alemannus",
+  "candidates": [
+   {
+    "qid": "Q106757078",
+    "label": "Alemannus",
+    "description": null
+   },
+   {
+    "qid": "Q114324031",
+    "label": "Jean Lalemand",
+    "description": "Jean Lalemand, a correspondent of Desiderius Erasmus, cf. Contemporaries of Erasmus II, 282-283"
+   },
+   {
+    "qid": "Q2640902",
+    "label": "Alemannus",
+    "description": "Wikimedia disambiguation page"
+   },
+   {
+    "qid": "Q27507804",
+    "label": "Alemannus, Hermann",
+    "description": "entry in the Allgemeine Deutsche Biographie"
+   },
+   {
+    "qid": "Q27507803",
+    "label": "Alemannus (ADB)",
+    "description": "entry in the Allgemeine Deutsche Biographie"
+   }
+  ]
+ },
+ "Aragonie": {
+  "label": "LOC",
+  "lemma": "Aragonia",
+  "candidates": [
+   {
+    "qid": "Q204920",
+    "label": "Corona Aragoniae",
+    "description": "composite monarchy which existed between 1162–1716"
+   },
+   {
+    "qid": "Q4040",
+    "label": "Aragonia",
+    "description": "autonomous community in Spain"
+   },
+   {
+    "qid": "Q199442",
+    "label": "Regnum Aragoniae",
+    "description": "medieval and early modern kingdom in the Iberian Peninsula (1035-1707)"
+   },
+   {
+    "qid": "Q1235737",
+    "label": "Comitatus Aragoniae",
+    "description": "countship (802-1035)"
+   },
+   {
+    "qid": "Q22911845",
+    "label": "Aragonia",
+    "description": "genus of protists"
+   }
+  ]
+ },
+ "Prouincialibus": {
+  "label": "NORP",
+  "lemma": "prouincialis",
+  "candidates": []
+ },
+ "Apenini": {
+  "label": "LOC",
+  "lemma": "Appenninus",
+  "candidates": [
+   {
+    "qid": "Q19990559",
+    "label": "Appenninus 1 (Pauly-Wissowa)",
+    "description": "encyclopedic article in Paulys Realencyclopädie der classischen Altertumswissenschaft (RE)"
+   },
+   {
+    "qid": "Q19990560",
+    "label": "Appenninus 2 (Pauly-Wissowa)",
+    "description": "encyclopedic article in Paulys Realencyclopädie der classischen Altertumswissenschaft (RE)"
+   }
+  ]
+ },
+ "Gerardus de Brunel": {
+  "label": "PERSON",
+  "lemma": "Gerardus",
+  "candidates": [
+   {
+    "qid": "Q18282500",
+    "label": "Gerardus",
+    "description": "praenomen masculinum"
+   },
+   {
+    "qid": "Q184592",
+    "label": "Gerardus 't Hooft",
+    "description": "Dutch theoretical physicist"
+   },
+   {
+    "qid": "Q1559049",
+    "label": "Gerardus",
+    "description": "abbas Broniensis"
+   },
+   {
+    "qid": "Q3760950",
+    "label": "Gerardus",
+    "description": "episcopus Potentinus"
+   },
+   {
+    "qid": "Q116497676",
+    "label": "Gerardus",
+    "description": "confessor in castro Gallinario dioecesis Soranae"
+   }
+  ]
+ },
+ "Nauarre": {
+  "label": "LOC",
+  "lemma": "Nauarra",
+  "candidates": []
+ },
+ "Guido Guinizelli": {
+  "label": "PERSON",
+  "lemma": "Guido",
+  "candidates": [
+   {
+    "qid": "Q639762",
+    "label": "Guido",
+    "description": "praenomen masculinum"
+   },
+   {
+    "qid": "Q109061",
+    "label": "Guido Reni",
+    "description": "Bolognese painter (1575–1642)"
+   },
+   {
+    "qid": "Q18324624",
+    "label": "Guido",
+    "description": "nomen gentilicium"
+   },
+   {
+    "qid": "Q9327",
+    "label": "Guido de Maupassant",
+    "description": "French writer (1850-1893)"
+   },
+   {
+    "qid": "Q15798",
+    "label": "Guido of Siena",
+    "description": "Italian painter (1230-1290)"
+   }
+  ]
+ },
+ "Paduani": {
+  "label": "NORP",
+  "lemma": "Paduani",
+  "candidates": [
+   {
+    "qid": "Q37521992",
+    "label": "Paduani",
+    "description": "nomen gentilicium"
+   },
+   {
+    "qid": "Q41617322",
+    "label": "Fabrizio Padovani",
+    "description": "author (16th century)"
+   },
+   {
+    "qid": "Q389768",
+    "label": "Ottavio Leoni",
+    "description": "Roman painter (1578-1630)"
+   },
+   {
+    "qid": "Q1727824",
+    "label": "Alessandro Varotari",
+    "description": "painter from Italy (1588-1649)"
+   }
+  ]
+ },
+ "Pisani": {
+  "label": "NORP",
+  "lemma": "Pisani",
+  "candidates": [
+   {
+    "qid": "Q21491353",
+    "label": "Pisani",
+    "description": "nomen gentilicium"
+   },
+   {
+    "qid": "Q28798114",
+    "label": "Pisani",
+    "description": "given name"
+   },
+   {
+    "qid": "Q27720586",
+    "label": "Il Pisani : organo del Manicomio di Palermo",
+    "description": "journal"
+   },
+   {
+    "qid": "Q19661404",
+    "label": "Giovanni Paolo Pisani",
+    "description": "Italian painter (1574-1637)"
+   },
+   {
+    "qid": "Q18435612",
+    "label": "Pisani",
+    "description": "human settlement in Italy"
+   }
+  ]
+ },
+ "Mediolanenses": {
+  "label": "NORP",
+  "lemma": "Mediolanenses",
+  "candidates": []
+ },
+ "Ueronenses": {
+  "label": "NORP",
+  "lemma": "Ueronenses",
+  "candidates": []
+ },
+ "Florentini": {
+  "label": "NORP",
+  "lemma": "florentinus",
+  "candidates": [
+   {
+    "qid": "Q3746709",
+    "label": "Florentinus",
+    "description": "Roman civil servant"
+   },
+   {
+    "qid": "Q12347877",
+    "label": "Florentinus",
+    "description": "Christian martyr"
+   },
+   {
+    "qid": "Q13570581",
+    "label": "Bartholomaeus Fontius",
+    "description": "Italian translator, humanism and poet"
+   },
+   {
+    "qid": "Q11922217",
+    "label": "Florentinus",
+    "description": "Roman jurist"
+   },
+   {
+    "qid": "Q54913800",
+    "label": "Florentinus",
+    "description": "praenomen masculinum"
+   }
+  ]
+ },
+ "Neapoletani": {
+  "label": "NORP",
+  "lemma": "Neapoletani",
+  "candidates": []
+ },
+ "Caetani": {
+  "label": "NORP",
+  "lemma": "Caetani",
+  "candidates": [
+   {
+    "qid": "Q55087627",
+    "label": "Caetani",
+    "description": "nomen gentilicium"
+   },
+   {
+    "qid": "Q52899807",
+    "label": "Caetani",
+    "description": "high school in Rome, Rome, Lazio, Italy"
+   },
+   {
+    "qid": "Q15285432",
+    "label": "Caetani",
+    "description": "pagina discretiva Vicimediorum"
+   },
+   {
+    "qid": "Q940238",
+    "label": "House of Caetani",
+    "description": "Italian noble family"
+   },
+   {
+    "qid": "Q3662313",
+    "label": "Caetani Castle",
+    "description": "castle in Sermoneta, Italy"
+   }
+  ]
+ },
+ "Rauennates": {
+  "label": "NORP",
+  "lemma": "rauennas",
+  "candidates": []
+ },
+ "Fauentini": {
+  "label": "NORP",
+  "lemma": "fauentinus",
+  "candidates": []
+ },
+ "Bononienses": {
+  "label": "NORP",
+  "lemma": "Bononienses",
+  "candidates": []
+ },
+ "Burgi Sancti Felicis": {
+  "label": "LOC",
+  "lemma": "Burgi",
+  "candidates": [
+   {
+    "qid": "Q9580",
+    "label": "Burgi",
+    "description": "municipality in Castile and Leon, Spain"
+   },
+   {
+    "qid": "Q55271",
+    "label": "Burgi",
+    "description": "province in Castile and León, Spain"
+   },
+   {
+    "qid": "Q30185",
+    "label": "Demarchus",
+    "description": "head of municipal government such as a town or city"
+   },
+   {
+    "qid": "Q28972892",
+    "label": "Burgi",
+    "description": "nomen gentilicium"
+   },
+   {
+    "qid": "Q399342",
+    "label": "Burgivallis",
+    "description": "commune in Yvelines, France"
+   }
+  ]
+ },
+ "Strate Maioris": {
+  "label": "LOC",
+  "lemma": "strate",
+  "candidates": [
+   {
+    "qid": "Q6602",
+    "label": "Argentoratum",
+    "description": "urbs Franciae"
+   },
+   {
+    "qid": "Q36947480",
+    "label": "Strate",
+    "description": "nomen gentilicium"
+   },
+   {
+    "qid": "Q185451",
+    "label": "strategia",
+    "description": "high-level plan to achieve objectives in uncertain conditions"
+   },
+   {
+    "qid": "Q335954",
+    "label": "strategus",
+    "description": "Greek military leader"
+   },
+   {
+    "qid": "Q41036",
+    "label": "Stratella",
+    "description": "Italiae municipium"
+   }
+  ]
+ },
+ "Hee": {
+  "label": "PERSON",
+  "lemma": "hic",
+  "candidates": [
+   {
+    "qid": "Q502047",
+    "label": "Hickman Comitatus",
+    "description": "county in Tennessee, United States"
+   },
+   {
+    "qid": "Q405906",
+    "label": "Hicks",
+    "description": "nomen gentilicium"
+   },
+   {
+    "qid": "Q18039741",
+    "label": "MDFIC",
+    "description": "protein-coding gene in the species Homo sapiens"
+   },
+   {
+    "qid": "Q136679487",
+    "label": "HIC",
+    "description": "performing arts production during the season 2011-2012"
+   },
+   {
+    "qid": "Q66617663",
+    "label": "Version 2 of the Hipparcos Input Catalogue",
+    "description": null
+   }
+  ]
+ },
+ "Deo": {
+  "label": "PERSON",
+  "lemma": "deus",
+  "candidates": [
+   {
+    "qid": "Q190",
+    "label": "Deus",
+    "description": "principal object of faith in monotheistic religions, a divine entity that created and typically supervises all existence"
+   },
+   {
+    "qid": "Q2095353",
+    "label": "Deus",
+    "description": "Islamic conception of God"
+   },
+   {
+    "qid": "Q37495967",
+    "label": "Deus",
+    "description": "nomen gentilicium"
+   },
+   {
+    "qid": "Q186350",
+    "label": "Deus Pater",
+    "description": "prima persona in Trinitate"
+   },
+   {
+    "qid": "Q219944",
+    "label": "Deus",
+    "description": "Belgian rock group"
+   }
+  ]
+ },
+ "Papienses": {
+  "label": "NORP",
+  "lemma": "papiensis",
+  "candidates": [
+   {
+    "qid": "Q16231",
+    "label": "Provincia Papiensis",
+    "description": "province of Italy"
+   },
+   {
+    "qid": "Q93386966",
+    "label": "Simon Bevilaqua",
+    "description": null
+   }
+  ]
+ },
+ "Papiensibus": {
+  "label": "NORP",
+  "lemma": "papiensis",
+  "candidates": [
+   {
+    "qid": "Q16231",
+    "label": "Provincia Papiensis",
+    "description": "province of Italy"
+   },
+   {
+    "qid": "Q93386966",
+    "label": "Simon Bevilaqua",
+    "description": null
+   }
+  ]
+ },
+ "Ytalis": {
+  "label": "NORP",
+  "lemma": "italus",
+  "candidates": [
+   {
+    "qid": "Q16566771",
+    "label": "Italus",
+    "description": "praenomen masculinum"
+   },
+   {
+    "qid": "Q2722978",
+    "label": "Italus",
+    "description": "mythical eponym of Italy"
+   },
+   {
+    "qid": "Q154756",
+    "label": "Italus Calvino",
+    "description": "Italian journalist and writer (1923-1985)"
+   },
+   {
+    "qid": "Q216478",
+    "label": "Italus Svevo",
+    "description": "Italian writer (1861-1928)"
+   },
+   {
+    "qid": "Q1056",
+    "label": "Italus Balbo",
+    "description": "Italian Marshal of the Air Force and minister (1896–1940)"
+   }
+  ]
+ },
+ "Biblia": {
+  "label": "PERSON",
+  "lemma": "Biblia",
+  "candidates": [
+   {
+    "qid": "Q1845",
+    "label": "Biblia",
+    "description": "Scriptura Sancta Christianorum"
+   },
+   {
+    "qid": "Q131723734",
+    "label": "Biblia",
+    "description": "work by Ælfric of Eynsham"
+   },
+   {
+    "qid": "Q131175",
+    "label": "Biblia Vulgata",
+    "description": "4th-century Latin translation of the Bible mainly by Jerome"
+   },
+   {
+    "qid": "Q732870",
+    "label": "Biblia Hebraica",
+    "description": "Ancient Hebrew Sacred Text"
+   },
+   {
+    "qid": "Q124353559",
+    "label": "Biblia",
+    "description": "publisher in Korea"
+   }
+  ]
+ },
+ "Arturi": {
+  "label": "PERSON",
+  "lemma": "Arturus",
+  "candidates": [
+   {
+    "qid": "Q312361",
+    "label": "Arturus da Costa e Silva",
+    "description": "Military and President of Brazil (1899–1985) during the dictator ship"
+   },
+   {
+    "qid": "Q100934215",
+    "label": "Arturus",
+    "description": "praenomen masculinum"
+   },
+   {
+    "qid": "Q710597",
+    "label": "Arturus B. McDonald",
+    "description": "physicus, Canada"
+   },
+   {
+    "qid": "Q155106",
+    "label": "Arthurus Pérez-Reverte",
+    "description": "Spanish writer and journalist"
+   },
+   {
+    "qid": "Q848",
+    "label": "Arturus Alessandri",
+    "description": "Chilean politician and President (1868–1950)"
+   }
+  ]
+ },
+ "Petrus de Aluernia": {
+  "label": "PERSON",
+  "lemma": "Petrus",
+  "candidates": [
+   {
+    "qid": "Q33923",
+    "label": "Petrus",
+    "description": "apostle of Jesus Christ"
+   },
+   {
+    "qid": "Q15897708",
+    "label": "Petrus",
+    "description": "praenomen masculinum"
+   },
+   {
+    "qid": "Q654716",
+    "label": "Petrus",
+    "description": "American folk music group popular in the 1960s"
+   },
+   {
+    "qid": "Q354672",
+    "label": "Petrus",
+    "description": "Latin Emperor of Constantinople"
+   },
+   {
+    "qid": "Q531495",
+    "label": "Petrus",
+    "description": "Founder Capetian House of Courtenay (c.1126–1183)"
+   }
+  ]
+ },
+ "Cynus Pistoriensis": {
+  "label": "PERSON",
+  "lemma": "cynus",
+  "candidates": [
+   {
+    "qid": "Q12879792",
+    "label": "Cynus",
+    "description": "mythical son of Opus in Greek mythology"
+   },
+   {
+    "qid": "Q5200184",
+    "label": "Cynus",
+    "description": "ancient coastal settlement of central Greece"
+   },
+   {
+    "qid": "Q736348",
+    "label": "Cinus Pistoriensis",
+    "description": "Italian Renaissance jurist and poet (1270–1336)"
+   }
+  ]
+ },
+ "Tyrenum mare": {
+  "label": "LOC",
+  "lemma": "tyrrhenus",
+  "candidates": [
+   {
+    "qid": "Q1400413",
+    "label": "Tyrrhenus",
+    "description": "son of Atys in Greek mythology"
+   },
+   {
+    "qid": "Q1472688",
+    "label": "Tyrrhenus Mons",
+    "description": "mons on Mars"
+   },
+   {
+    "qid": "Q110143358",
+    "label": "Tyrrhenus (Pauly-Wissowa)",
+    "description": "encyclopedic article in Paulys Realencyclopädie der classischen Altertumswissenschaft (RE)"
+   },
+   {
+    "qid": "Q24066081",
+    "label": "Tyrrhenus Labyrinthus",
+    "description": "labyrinthus in Mare Tyrrhenum quadrangle on Mars"
+   },
+   {
+    "qid": "Q139367149",
+    "label": "Tyrrhenus",
+    "description": "pagina discretiva Vicimediorum"
+   }
+  ]
+ },
+ "Adriaticum": {
+  "label": "LOC",
+  "lemma": "hadriaticus",
+  "candidates": [
+   {
+    "qid": "Q13924",
+    "label": "Hadriaticum mare",
+    "description": "body of water between the Italian Peninsula and the Balkan Peninsula"
+   }
+  ]
+ },
+ "Apulia": {
+  "label": "LOC",
+  "lemma": "Apulia",
+  "candidates": [
+   {
+    "qid": "Q1447",
+    "label": "Apulia",
+    "description": "region of Italy"
+   },
+   {
+    "qid": "Q10416467",
+    "label": "Apulia",
+    "description": "genus of insects"
+   },
+   {
+    "qid": "Q89804530",
+    "label": "Apulia",
+    "description": "Italic district in classical antiquity"
+   },
+   {
+    "qid": "Q16541807",
+    "label": "Apulia",
+    "description": "Chamber of Deputies constituency"
+   },
+   {
+    "qid": "Q622686",
+    "label": "Freguesia de Apúlia",
+    "description": "civil parish in Portugal"
+   }
+  ]
+ },
+ "Ducatus": {
+  "label": "LOC",
+  "lemma": "ducatus",
+  "candidates": [
+   {
+    "qid": "Q154547",
+    "label": "Ducatus",
+    "description": "territory, fief, or domain ruled by a duke or duchess"
+   },
+   {
+    "qid": "Q484275",
+    "label": "ducatus",
+    "description": "ability or activity of an individual or organization to guide other individuals, teams, or entire organizations"
+   },
+   {
+    "qid": "Q202018",
+    "label": "Ducatus",
+    "description": "gold or silver coin used as a trade coin in Europe"
+   },
+   {
+    "qid": "Q1772543",
+    "label": "ducatus",
+    "description": "place used to provide centralized command"
+   },
+   {
+    "qid": "Q153529",
+    "label": "Ducatus Mediolanensis",
+    "description": "former duchy in Italy (1395–1447; 1450–1796)"
+   }
+  ]
+ },
+ "Tuscia": {
+  "label": "LOC",
+  "lemma": "tuscia",
+  "candidates": [
+   {
+    "qid": "Q1273",
+    "label": "Tuscia",
+    "description": "region in central Italy"
+   },
+   {
+    "qid": "Q2622697",
+    "label": "14486 Tuscia",
+    "description": "asteroides"
+   },
+   {
+    "qid": "Q695728",
+    "label": "Tuscia",
+    "description": "historical region of Italy, matching the Etruscan influence"
+   },
+   {
+    "qid": "Q212203",
+    "label": "Etruscae insulae",
+    "description": "archipelagus Italiae in Mari Tyrrheno"
+   },
+   {
+    "qid": "Q79607246",
+    "label": "Tuscia",
+    "description": "praenomen femininum"
+   }
+  ]
+ },
+ "Ianuensis Marchia": {
+  "label": "LOC",
+  "lemma": "ianuensis",
+  "candidates": [
+   {
+    "qid": "Q132880157",
+    "label": "Ianuensis Bernardus Henricus",
+    "description": null
+   },
+   {
+    "qid": "Q108749882",
+    "label": "Ianuensis non nascitur sed fit : studi per Dino Puncuh",
+    "description": "publication of Società Ligure di Storia Patria"
+   }
+  ]
+ },
+ "Apulie": {
+  "label": "LOC",
+  "lemma": "Apulia",
+  "candidates": [
+   {
+    "qid": "Q1447",
+    "label": "Apulia",
+    "description": "region of Italy"
+   },
+   {
+    "qid": "Q10416467",
+    "label": "Apulia",
+    "description": "genus of insects"
+   },
+   {
+    "qid": "Q89804530",
+    "label": "Apulia",
+    "description": "Italic district in classical antiquity"
+   },
+   {
+    "qid": "Q16541807",
+    "label": "Apulia",
+    "description": "Chamber of Deputies constituency"
+   },
+   {
+    "qid": "Q622686",
+    "label": "Freguesia de Apúlia",
+    "description": "civil parish in Portugal"
+   }
+  ]
+ },
+ "Marchia Anconitana": {
+  "label": "LOC",
+  "lemma": "marchius",
+  "candidates": [
+   {
+    "qid": "Q1047967",
+    "label": "Caspar March",
+    "description": "pagina discretiva Vicimediorum"
+   }
+  ]
+ },
+ "Romandiola": {
+  "label": "LOC",
+  "lemma": "Romandiola",
+  "candidates": [
+   {
+    "qid": "Q244482",
+    "label": "Romania",
+    "description": "Italian historical region that approximately corresponds to the south-eastern portion of present-day Emilia-Romagna"
+   },
+   {
+    "qid": "Q3940494",
+    "label": "Romandiola",
+    "description": null
+   }
+  ]
+ },
+ "Lombardia": {
+  "label": "LOC",
+  "lemma": "Lombardia",
+  "candidates": [
+   {
+    "qid": "Q1210",
+    "label": "Langobardia",
+    "description": "regio Italiae"
+   },
+   {
+    "qid": "Q136671391",
+    "label": "Lombardia",
+    "description": null
+   },
+   {
+    "qid": "Q3836534",
+    "label": "Lombardía",
+    "description": "municipal seat of Gabriel Zamora, State of Michoacán, Mexico"
+   },
+   {
+    "qid": "Q18352442",
+    "label": "RN Lombardia",
+    "description": "1890 Regioni-class cruiser"
+   },
+   {
+    "qid": "Q83585553",
+    "label": "Lombardia",
+    "description": "ship built in 2005"
+   }
+  ]
+ },
+ "Marchia Triuisiana": {
+  "label": "LOC",
+  "lemma": "Marchia",
+  "candidates": [
+   {
+    "qid": "Q7695",
+    "label": "Marchia",
+    "description": "administrative territorial entity"
+   },
+   {
+    "qid": "Q19298566",
+    "label": "Marchia",
+    "description": "genus of molluscs"
+   },
+   {
+    "qid": "Q1279",
+    "label": "Marchia Anconitana",
+    "description": "region in Italy"
+   },
+   {
+    "qid": "Q148499",
+    "label": "Marchia Brandenburgensis",
+    "description": "Holy Roman Empire principality (1157–1806)"
+   },
+   {
+    "qid": "Q60825105",
+    "label": "Marchia",
+    "description": null
+   }
+  ]
+ },
+ "Uenetiis": {
+  "label": "LOC",
+  "lemma": "uenetius",
+  "candidates": []
+ },
+ "Forum Iulii": {
+  "label": "LOC",
+  "lemma": "forum",
+  "candidates": [
+   {
+    "qid": "Q174782",
+    "label": "forum",
+    "description": "architectura"
+   },
+   {
+    "qid": "Q460479",
+    "label": "Forum",
+    "description": "municipality in Limburg, Belgium"
+   },
+   {
+    "qid": "Q1062780",
+    "label": "Forum",
+    "description": "public square in a Roman municipium"
+   },
+   {
+    "qid": "Q123550",
+    "label": "Forum",
+    "description": "charter in which grants privileges to the town or village"
+   },
+   {
+    "qid": "Q168210",
+    "label": "Forum interretiale",
+    "description": "online discussion site"
+   }
+  ]
+ },
+ "Ystria": {
+  "label": "LOC",
+  "lemma": "Histria",
+  "candidates": [
+   {
+    "qid": "Q639912",
+    "label": "Histria",
+    "description": "peninsula on the Adriatic Sea"
+   },
+   {
+    "qid": "Q58268",
+    "label": "Histriana",
+    "description": "county in Croatia"
+   },
+   {
+    "qid": "Q1164460",
+    "label": "Histria",
+    "description": "ancient Greek city on the western coast of the Black Sea"
+   },
+   {
+    "qid": "Q46620",
+    "label": "Histriana",
+    "description": "Italiae municipium"
+   },
+   {
+    "qid": "Q2154447",
+    "label": "Histriasaurus",
+    "description": "genus of reptiles (fossil)"
+   }
+  ]
+ },
+ "Tyreni maris": {
+  "label": "LOC",
+  "lemma": "tyrrhenus",
+  "candidates": [
+   {
+    "qid": "Q1400413",
+    "label": "Tyrrhenus",
+    "description": "son of Atys in Greek mythology"
+   },
+   {
+    "qid": "Q1472688",
+    "label": "Tyrrhenus Mons",
+    "description": "mons on Mars"
+   },
+   {
+    "qid": "Q110143358",
+    "label": "Tyrrhenus (Pauly-Wissowa)",
+    "description": "encyclopedic article in Paulys Realencyclopädie der classischen Altertumswissenschaft (RE)"
+   },
+   {
+    "qid": "Q24066081",
+    "label": "Tyrrhenus Labyrinthus",
+    "description": "labyrinthus in Mare Tyrrhenum quadrangle on Mars"
+   },
+   {
+    "qid": "Q139367149",
+    "label": "Tyrrhenus",
+    "description": "pagina discretiva Vicimediorum"
+   }
+  ]
+ },
+ "Sicilia": {
+  "label": "LOC",
+  "lemma": "Sicilia",
+  "candidates": [
+   {
+    "qid": "Q1460",
+    "label": "Sicilia",
+    "description": "island in the Mediterranean, region of Italy"
+   },
+   {
+    "qid": "Q691321",
+    "label": "Sicilia",
+    "description": "Roman province"
+   },
+   {
+    "qid": "Q4951156",
+    "label": "Sicilia insula",
+    "description": "Italian island in the Mediterranean Sea"
+   },
+   {
+    "qid": "Q37522024",
+    "label": "Sicilia",
+    "description": "nomen gentilicium"
+   },
+   {
+    "qid": "Q1248821",
+    "label": "Studium Generale Siciliae",
+    "description": "Italian university"
+   }
+  ]
+ },
+ "Sardinia": {
+  "label": "LOC",
+  "lemma": "Sardinia",
+  "candidates": [
+   {
+    "qid": "Q1462",
+    "label": "Sardinia",
+    "description": "island and autonomous region of Italy"
+   },
+   {
+    "qid": "Q19740031",
+    "label": "Sardinia",
+    "description": "insula"
+   },
+   {
+    "qid": "Q107268972",
+    "label": "Sardinia",
+    "description": "genus of fishes"
+   },
+   {
+    "qid": "Q12902006",
+    "label": "Sardinia",
+    "description": "provincia romana"
+   },
+   {
+    "qid": "Q87219830",
+    "label": "Sardinia",
+    "description": "plant genus"
+   }
+  ]
+ },
+ "Ytaliam": {
+  "label": "LOC",
+  "lemma": "Italia",
+  "candidates": [
+   {
+    "qid": "Q38",
+    "label": "Italia",
+    "description": "civitas Europae"
+   },
+   {
+    "qid": "Q913582",
+    "label": "Regiones Italicae Augustae",
+    "description": "Italy under ancient Roman rule"
+   },
+   {
+    "qid": "Q510613",
+    "label": "Italia",
+    "description": "praenomen femininum"
+   },
+   {
+    "qid": "Q652",
+    "label": "Italiane",
+    "description": "lingua romanica"
+   },
+   {
+    "qid": "Q37226722",
+    "label": "Italia",
+    "description": "nomen gentilicium"
+   }
+  ]
+ },
+ "Siculorum": {
+  "label": "NORP",
+  "lemma": "Siculi",
+  "candidates": [
+   {
+    "qid": "Q147540",
+    "label": "Siculi",
+    "description": "ethnolinguistic group, speakers of a Hungarian dialect who form an indogenous ethnic group in Romania"
+   },
+   {
+    "qid": "Q959419",
+    "label": "Siculi",
+    "description": "Italic tribe who inhabited eastern Sicily during the Iron Age"
+   },
+   {
+    "qid": "Q267469",
+    "label": "Siculiana",
+    "description": "Italiae municipium"
+   },
+   {
+    "qid": "Q12627051",
+    "label": "Siculi",
+    "description": "Roman colony in Croatia"
+   },
+   {
+    "qid": "Q100893808",
+    "label": "Siculi",
+    "description": null
+   }
+  ]
+ },
+ "Apulis": {
+  "label": "NORP",
+  "lemma": "Apuli",
+  "candidates": [
+   {
+    "qid": "Q1247006",
+    "label": "Apuli",
+    "description": "dacian tribe"
+   },
+   {
+    "qid": "Q1447",
+    "label": "Apulia",
+    "description": "region of Italy"
+   },
+   {
+    "qid": "Q125379062",
+    "label": "Apuli",
+    "description": "family name"
+   },
+   {
+    "qid": "Q10416467",
+    "label": "Apulia",
+    "description": "genus of insects"
+   },
+   {
+    "qid": "Q89804530",
+    "label": "Apulia",
+    "description": "Italic district in classical antiquity"
+   }
+  ]
+ },
+ "Apulorum": {
+  "label": "NORP",
+  "lemma": "Apulus",
+  "candidates": [
+   {
+    "qid": "Q132885139",
+    "label": "Apulus Albratius",
+    "description": null
+   }
+  ]
+ },
+ "Spoletanis": {
+  "label": "NORP",
+  "lemma": "spoletanus",
+  "candidates": []
+ },
+ "Tuscis": {
+  "label": "NORP",
+  "lemma": "Tusci",
+  "candidates": [
+   {
+    "qid": "Q17161",
+    "label": "Etrusci",
+    "description": "populus antiquus Italicus"
+   },
+   {
+    "qid": "Q1273",
+    "label": "Tuscia",
+    "description": "region in central Italy"
+   },
+   {
+    "qid": "Q212203",
+    "label": "Etruscae insulae",
+    "description": "archipelagus Italiae in Mari Tyrrheno"
+   },
+   {
+    "qid": "Q60836975",
+    "label": "Tuscia et Umbria",
+    "description": "provincia romana"
+   },
+   {
+    "qid": "Q13416558",
+    "label": "Tusciziphius",
+    "description": "genus of mammals"
+   }
+  ]
+ },
+ "Tuscorum": {
+  "label": "NORP",
+  "lemma": "tuscus",
+  "candidates": [
+   {
+    "qid": "Q139497254",
+    "label": "Tuscus",
+    "description": "Etruscan-Roman cognomen"
+   },
+   {
+    "qid": "Q4015718",
+    "label": "Vivianus Tuscus",
+    "description": "Italian jurist (13th century)"
+   },
+   {
+    "qid": "Q126955051",
+    "label": "Tuscus Vicus 1 (Pauly-Wissowa)",
+    "description": "encyclopedic article in Paulys Realencyclopädie der classischen Altertumswissenschaft (RE)"
+   },
+   {
+    "qid": "Q113398446",
+    "label": "Tuscus de Faenza Servasanctus",
+    "description": null
+   },
+   {
+    "qid": "Q11953787",
+    "label": "Tusc",
+    "description": "Wikimedia disambiguation page"
+   }
+  ]
+ },
+ "Ianuensibus": {
+  "label": "NORP",
+  "lemma": "Ianuensibus",
+  "candidates": []
+ },
+ "Sardis": {
+  "label": "NORP",
+  "lemma": "Sardi",
+  "candidates": [
+   {
+    "qid": "Q37510597",
+    "label": "Sardi",
+    "description": "nomen gentilicium"
+   },
+   {
+    "qid": "Q232615",
+    "label": "Sardis",
+    "description": "ancient city in Anatolia, today an archaeological site at Sart, Turkey"
+   },
+   {
+    "qid": "Q1462",
+    "label": "Sardinia",
+    "description": "island and autonomous region of Italy"
+   },
+   {
+    "qid": "Q208600",
+    "label": "Sardina pilchardus",
+    "description": "species of fish"
+   },
+   {
+    "qid": "Q123875229",
+    "label": "Sardi",
+    "description": "Indonesian politician (born 1976 in Kerantai)"
+   }
+  ]
+ },
+ "Calabrorum": {
+  "label": "NORP",
+  "lemma": "Calabri",
+  "candidates": [
+   {
+    "qid": "Q106419074",
+    "label": "Calabri",
+    "description": "nomen gentilicium"
+   },
+   {
+    "qid": "Q18437212",
+    "label": "Calabri",
+    "description": "human settlement in Italy"
+   },
+   {
+    "qid": "Q108314400",
+    "label": "Calabri",
+    "description": "ancient Italic tribe"
+   },
+   {
+    "qid": "Q108096050",
+    "label": "Calabri",
+    "description": "protected area in Switzerland"
+   },
+   {
+    "qid": "Q735628",
+    "label": "Sallentum",
+    "description": "peninsula in southeastern Italy which is a historical, geographical and cultural region"
+   }
+  ]
+ },
+ "Anconitanis": {
+  "label": "NORP",
+  "lemma": "anconitanus",
+  "candidates": [
+   {
+    "qid": "Q558074",
+    "label": "Kyriacus Anconitanus de Picenicollibus",
+    "description": "15th-century Italian humanist and antiquarian"
+   }
+  ]
+ },
+ "Romandiolis": {
+  "label": "NORP",
+  "lemma": "romandiolus",
+  "candidates": []
+ },
+ "Romandiolorum": {
+  "label": "NORP",
+  "lemma": "Romandiolorum",
+  "candidates": []
+ },
+ "Lombardis": {
+  "label": "NORP",
+  "lemma": "lombardus",
+  "candidates": [
+   {
+    "qid": "Q23770938",
+    "label": "Lombardus Sirichius",
+    "description": "Renaissance humanist ( -1390)"
+   },
+   {
+    "qid": "Q113679231",
+    "label": "Lombardus a Serico",
+    "description": "(n. saec. XIV ante med., m. 11-8-1390)"
+   },
+   {
+    "qid": "Q315347",
+    "label": "Petrus Lombardus",
+    "description": "medieval priest and theologian"
+   },
+   {
+    "qid": "Q27584211",
+    "label": "Lombardus, Lambert",
+    "description": "entry in the Allgemeine Deutsche Biographie"
+   }
+  ]
+ },
+ "Lombardorum": {
+  "label": "NORP",
+  "lemma": "Lombardorum",
+  "candidates": []
+ },
+ "Triuisianis": {
+  "label": "NORP",
+  "lemma": "Triuisiani",
+  "candidates": []
+ },
+ "Uenetis": {
+  "label": "NORP",
+  "lemma": "ueneti",
+  "candidates": []
+ },
+ "Aquilegiensibus": {
+  "label": "NORP",
+  "lemma": "aquileiensis",
+  "candidates": [
+   {
+    "qid": "Q738554",
+    "label": "Paulinus Aquileiensis",
+    "description": "patriarcha Aquileiensis"
+   }
+  ]
+ },
+ "Ystrianis": {
+  "label": "NORP",
+  "lemma": "Ystriani",
+  "candidates": []
+ },
+ "Ytalia": {
+  "label": "LOC",
+  "lemma": "italia",
+  "candidates": [
+   {
+    "qid": "Q38",
+    "label": "Italia",
+    "description": "civitas Europae"
+   },
+   {
+    "qid": "Q913582",
+    "label": "Regiones Italicae Augustae",
+    "description": "Italy under ancient Roman rule"
+   },
+   {
+    "qid": "Q510613",
+    "label": "Italia",
+    "description": "praenomen femininum"
+   },
+   {
+    "qid": "Q652",
+    "label": "Italiane",
+    "description": "lingua romanica"
+   },
+   {
+    "qid": "Q37226722",
+    "label": "Italia",
+    "description": "nomen gentilicium"
+   }
+  ]
+ },
+ "Senenses": {
+  "label": "NORP",
+  "lemma": "senensis",
+  "candidates": [
+   {
+    "qid": "Q117120901",
+    "label": "Senensis Riccius",
+    "description": null
+   },
+   {
+    "qid": "Q139869878",
+    "label": "Bindus Guerri, Senensis",
+    "description": "14th century college teacher and theologian and friar"
+   }
+  ]
+ },
+ "Aretini": {
+  "label": "NORP",
+  "lemma": "Aretini",
+  "candidates": [
+   {
+    "qid": "Q114600300",
+    "label": "Aretini",
+    "description": "family name"
+   },
+   {
+    "qid": "Q99906004",
+    "label": "Aretini-Sillani",
+    "description": "nomen gentilicium"
+   }
+  ]
+ },
+ "Ferrarenses": {
+  "label": "NORP",
+  "lemma": "ferrariensis",
+  "candidates": [
+   {
+    "qid": "Q3934689",
+    "label": "Riccobaldus Ferrariensis",
+    "description": "medieval Italian notary and Latin writer"
+   },
+   {
+    "qid": "Q5479589",
+    "label": "Franciscus Silvester",
+    "description": "Italian theologian"
+   }
+  ]
+ },
+ "Placentini": {
+  "label": "NORP",
+  "lemma": "placentinus",
+  "candidates": [
+   {
+    "qid": "Q974126",
+    "label": "Placentinus",
+    "description": "Italian jurist"
+   },
+   {
+    "qid": "Q104089304",
+    "label": "Placentinus",
+    "description": "nomen gentilicium"
+   },
+   {
+    "qid": "Q96587812",
+    "label": "Placentinus",
+    "description": "episcopus catholicus"
+   },
+   {
+    "qid": "Q138718707",
+    "label": "Placentinus (Pauly-Wissowa)",
+    "description": "encyclopedic article in Paulys Realencyclopädie der classischen Altertumswissenschaft (RE)"
+   },
+   {
+    "qid": "Q132881917",
+    "label": "Placentinus Raphael",
+    "description": null
+   }
+  ]
+ },
+ "ytalorum": {
+  "label": "NORP",
+  "lemma": "italus",
+  "candidates": [
+   {
+    "qid": "Q16566771",
+    "label": "Italus",
+    "description": "praenomen masculinum"
+   },
+   {
+    "qid": "Q2722978",
+    "label": "Italus",
+    "description": "mythical eponym of Italy"
+   },
+   {
+    "qid": "Q154756",
+    "label": "Italus Calvino",
+    "description": "Italian journalist and writer (1923-1985)"
+   },
+   {
+    "qid": "Q216478",
+    "label": "Italus Svevo",
+    "description": "Italian writer (1861-1928)"
+   },
+   {
+    "qid": "Q1056",
+    "label": "Italus Balbo",
+    "description": "Italian Marshal of the Air Force and minister (1896–1940)"
+   }
+  ]
+ },
+ "Anconitane Marchie": {
+  "label": "LOC",
+  "lemma": "Anconitanus",
+  "candidates": [
+   {
+    "qid": "Q558074",
+    "label": "Kyriacus Anconitanus de Picenicollibus",
+    "description": "15th-century Italian humanist and antiquarian"
+   }
+  ]
+ },
+ "Chignamente": {
+  "label": "PERSON",
+  "lemma": "Chignamens",
+  "candidates": []
+ },
+ "Spoletanos": {
+  "label": "NORP",
+  "lemma": "spoletanus",
+  "candidates": []
+ },
+ "Florentinus": {
+  "label": "NORP",
+  "lemma": "Florentinus",
+  "candidates": [
+   {
+    "qid": "Q3746709",
+    "label": "Florentinus",
+    "description": "Roman civil servant"
+   },
+   {
+    "qid": "Q12347877",
+    "label": "Florentinus",
+    "description": "Christian martyr"
+   },
+   {
+    "qid": "Q13570581",
+    "label": "Bartholomaeus Fontius",
+    "description": "Italian translator, humanism and poet"
+   },
+   {
+    "qid": "Q11922217",
+    "label": "Florentinus",
+    "description": "Roman jurist"
+   },
+   {
+    "qid": "Q54913800",
+    "label": "Florentinus",
+    "description": "praenomen masculinum"
+   }
+  ]
+ },
+ "Castra": {
+  "label": "PERSON",
+  "lemma": "castra",
+  "candidates": [
+   {
+    "qid": "Q88205",
+    "label": "Castra Romana",
+    "description": "ancient Roman fortification"
+   },
+   {
+    "qid": "Q1198413",
+    "label": "castra",
+    "description": "semi-permanent facility for the lodging of an army"
+   },
+   {
+    "qid": "Q396579",
+    "label": "Castra",
+    "description": "town in Croatia"
+   },
+   {
+    "qid": "Q618054",
+    "label": "Castra",
+    "description": "municipality in Wallonia, Belgium"
+   },
+   {
+    "qid": "Q2632941",
+    "label": "Castra",
+    "description": "section of Gooik, Belgium"
+   }
+  ]
+ },
+ "Una": {
+  "label": "PERSON",
+  "lemma": "unus",
+  "candidates": [
+   {
+    "qid": "Q199",
+    "label": "unus",
+    "description": "numerus naturalis"
+   },
+   {
+    "qid": "Q135842429",
+    "label": "Unus",
+    "description": "Pokich's EP, released on August 17, 2025"
+   },
+   {
+    "qid": "Q4814977",
+    "label": "Unus",
+    "description": "human settlement in Azerbaijan"
+   },
+   {
+    "qid": "Q1141527",
+    "label": "Unus the Untouchable",
+    "description": "fictional character in Marvel Comics"
+   },
+   {
+    "qid": "Q23772",
+    "label": "21",
+    "description": "annus"
+   }
+  ]
+ },
+ "Cascioli": {
+  "label": "LOC",
+  "lemma": "Cascioli",
+  "candidates": [
+   {
+    "qid": "Q20995955",
+    "label": "Cascioli",
+    "description": "nomen gentilicium"
+   },
+   {
+    "qid": "Q100273607",
+    "label": "Casciolini",
+    "description": "nomen gentilicium"
+   },
+   {
+    "qid": "Q47004490",
+    "label": "Cascioli",
+    "description": "pagina discretiva Vicimediorum"
+   },
+   {
+    "qid": "Q982802",
+    "label": "Luigi Cascioli",
+    "description": "Italian writer (1934-2010)"
+   }
+  ]
+ },
+ "Pergameos": {
+  "label": "NORP",
+  "lemma": "pergameus",
+  "candidates": []
+ },
+ "Aquilegienses": {
+  "label": "NORP",
+  "lemma": "Aquilegienses",
+  "candidates": []
+ },
+ "Ystrianos": {
+  "label": "NORP",
+  "lemma": "histrianus",
+  "candidates": []
+ },
+ "Ces": {
+  "label": "PERSON",
+  "lemma": "ces",
+  "candidates": [
+   {
+    "qid": "Q9056",
+    "label": "lingua Bohemica",
+    "description": "lingua"
+   },
+   {
+    "qid": "Q1051436",
+    "label": "cauda equina syndrome",
+    "description": "nerve damage at the end of the spinal cord"
+   },
+   {
+    "qid": "Q291796",
+    "label": "China Eastern Airlines",
+    "description": "airline headquartered in China"
+   },
+   {
+    "qid": "Q646089",
+    "label": "Consumer Electronics Show",
+    "description": "electronics and technology trade show"
+   },
+   {
+    "qid": "Q170263",
+    "label": "Cestria",
+    "description": "city in Cheshire, England"
+   }
+  ]
+ },
+ "Casentinenses": {
+  "label": "NORP",
+  "lemma": "casentinensis",
+  "candidates": []
+ },
+ "Fractenses": {
+  "label": "NORP",
+  "lemma": "fractensis",
+  "candidates": []
+ },
+ "Sardos": {
+  "label": "NORP",
+  "lemma": "Sardos",
+  "candidates": [
+   {
+    "qid": "Q111773467",
+    "label": "Sardos",
+    "description": "nomen gentilicium"
+   },
+   {
+    "qid": "Q2285617",
+    "label": "Sardostalita",
+    "description": "genus of arachnids"
+   },
+   {
+    "qid": "Q1646253",
+    "label": "Sardostalita patrizii",
+    "description": "species of arachnid"
+   },
+   {
+    "qid": "Q4289728",
+    "label": "Sardosoma franchettii",
+    "description": "species of myriapod"
+   },
+   {
+    "qid": "Q30090421",
+    "label": "Sardosoma",
+    "description": "genus of Diplopoda"
+   }
+  ]
+ },
+ "ytalis": {
+  "label": "NORP",
+  "lemma": "italus",
+  "candidates": [
+   {
+    "qid": "Q16566771",
+    "label": "Italus",
+    "description": "praenomen masculinum"
+   },
+   {
+    "qid": "Q2722978",
+    "label": "Italus",
+    "description": "mythical eponym of Italy"
+   },
+   {
+    "qid": "Q154756",
+    "label": "Italus Calvino",
+    "description": "Italian journalist and writer (1923-1985)"
+   },
+   {
+    "qid": "Q216478",
+    "label": "Italus Svevo",
+    "description": "Italian writer (1861-1928)"
+   },
+   {
+    "qid": "Q1056",
+    "label": "Italus Balbo",
+    "description": "Italian Marshal of the Air Force and minister (1896–1940)"
+   }
+  ]
+ },
+ "Ytali": {
+  "label": "NORP",
+  "lemma": "italus",
+  "candidates": [
+   {
+    "qid": "Q16566771",
+    "label": "Italus",
+    "description": "praenomen masculinum"
+   },
+   {
+    "qid": "Q2722978",
+    "label": "Italus",
+    "description": "mythical eponym of Italy"
+   },
+   {
+    "qid": "Q154756",
+    "label": "Italus Calvino",
+    "description": "Italian journalist and writer (1923-1985)"
+   },
+   {
+    "qid": "Q216478",
+    "label": "Italus Svevo",
+    "description": "Italian writer (1861-1928)"
+   },
+   {
+    "qid": "Q1056",
+    "label": "Italus Balbo",
+    "description": "Italian Marshal of the Air Force and minister (1896–1940)"
+   }
+  ]
+ },
+ "Ancor": {
+  "label": "PERSON",
+  "lemma": "Ancor",
+  "candidates": [
+   {
+    "qid": "Q39450",
+    "label": "Ancoraria",
+    "description": "consolidated city-borough and largest city in the U.S. state of Alaska"
+   },
+   {
+    "qid": "Q168432",
+    "label": "ancora",
+    "description": "mooring device"
+   },
+   {
+    "qid": "Q122590861",
+    "label": "Ancor",
+    "description": "hamlet in Hamilton County, Ohio, United States"
+   },
+   {
+    "qid": "Q770718",
+    "label": "Ancorina",
+    "description": "genus of sponges"
+   },
+   {
+    "qid": "Q6558666",
+    "label": "Ancorabolidae",
+    "description": "family of copepods"
+   }
+  ]
+ },
+ "trinacrie terre": {
+  "label": "LOC",
+  "lemma": "trinacrius",
+  "candidates": [
+   {
+    "qid": "Q107265213",
+    "label": "Trinacrius",
+    "description": null
+   }
+  ]
+ },
+ "Fredericus Cesar": {
+  "label": "PERSON",
+  "lemma": "Fredericus",
+  "candidates": [
+   {
+    "qid": "Q472675",
+    "label": "Fridericus",
+    "description": "city in Frederick County, Maryland, United States"
+   },
+   {
+    "qid": "Q18563344",
+    "label": "Fredericus",
+    "description": "praenomen masculinum"
+   },
+   {
+    "qid": "Q1335224",
+    "label": "Fridericus",
+    "description": "episcopus Traiectensis"
+   },
+   {
+    "qid": "Q97679870",
+    "label": "Fredericus",
+    "description": "episcopus catholicus"
+   },
+   {
+    "qid": "Q77098",
+    "label": "Fredericus Ludovicus Jahn",
+    "description": "German educator, writer and politician (1778-1852)"
+   }
+  ]
+ },
+ "Manfredus": {
+  "label": "PERSON",
+  "lemma": "Manfredus",
+  "candidates": [
+   {
+    "qid": "Q164889",
+    "label": "Manfredus",
+    "description": "King of Sicily from 1258 to 1266"
+   },
+   {
+    "qid": "Q97727454",
+    "label": "Manfredus",
+    "description": "episcopus"
+   },
+   {
+    "qid": "Q76600",
+    "label": "Manfredus Eigen",
+    "description": "chemicus, Germania"
+   },
+   {
+    "qid": "Q60777",
+    "label": "Manfredus Wörner",
+    "description": "German politician (1934-1994)"
+   },
+   {
+    "qid": "Q2601",
+    "label": "Manfredus Gerlach",
+    "description": "German jurist and politician (1928-2011)"
+   }
+  ]
+ },
+ "Racha": {
+  "label": "PERSON",
+  "lemma": "Racha",
+  "candidates": [
+   {
+    "qid": "Q1463301",
+    "label": "Racha",
+    "description": "geographic region"
+   },
+   {
+    "qid": "Q139985575",
+    "label": "Racha",
+    "description": "female given name"
+   },
+   {
+    "qid": "Q235248",
+    "label": "Rachael Taylor",
+    "description": "Australian actress and model"
+   },
+   {
+    "qid": "Q4972",
+    "label": "Almenusa",
+    "description": "Italiae municipium"
+   },
+   {
+    "qid": "Q16714098",
+    "label": "Racha",
+    "description": "railway station in Ukraine"
+   }
+  ]
+ },
+ "Frederici": {
+  "label": "PERSON",
+  "lemma": "Fredericus",
+  "candidates": [
+   {
+    "qid": "Q472675",
+    "label": "Fridericus",
+    "description": "city in Frederick County, Maryland, United States"
+   },
+   {
+    "qid": "Q18563344",
+    "label": "Fredericus",
+    "description": "praenomen masculinum"
+   },
+   {
+    "qid": "Q1335224",
+    "label": "Fridericus",
+    "description": "episcopus Traiectensis"
+   },
+   {
+    "qid": "Q97679870",
+    "label": "Fredericus",
+    "description": "episcopus catholicus"
+   },
+   {
+    "qid": "Q77098",
+    "label": "Fredericus Ludovicus Jahn",
+    "description": "German educator, writer and politician (1778-1852)"
+   }
+  ]
+ },
+ "Karoli": {
+  "label": "PERSON",
+  "lemma": "Karoli",
+  "candidates": [
+   {
+    "qid": "Q28750721",
+    "label": "Karoli",
+    "description": "nomen gentilicium"
+   },
+   {
+    "qid": "Q1734206",
+    "label": "Karolina",
+    "description": "praenomen femininum"
+   },
+   {
+    "qid": "Q111911873",
+    "label": "Karoli",
+    "description": null
+   },
+   {
+    "qid": "Q111671046",
+    "label": "Karoli",
+    "description": "praenomen femininum"
+   },
+   {
+    "qid": "Q961800",
+    "label": "Karoli",
+    "description": "village in Alutaguse Rural Municipality, Ida-Viru County, Estonia"
+   }
+  ]
+ },
+ "Azonis": {
+  "label": "PERSON",
+  "lemma": "Azo",
+  "candidates": [
+   {
+    "qid": "Q531181",
+    "label": "Azo",
+    "description": "Italian medieval jurist"
+   },
+   {
+    "qid": "Q25263",
+    "label": "Azores",
+    "description": "Atlantic Ocean archipelago and autonomous region of Portugal"
+   },
+   {
+    "qid": "Q110381992",
+    "label": "Azo",
+    "description": "nomen gentilicium"
+   },
+   {
+    "qid": "Q171639",
+    "label": "Azotus",
+    "description": "city in Israel"
+   },
+   {
+    "qid": "Q30890991",
+    "label": "Azimuth",
+    "description": "Russian joint-stock company airline based in Platov International Airport in Rostov-on-Don, the capital of Rostov Oblast"
+   }
+  ]
+ },
+ "Uenite": {
+  "label": "PERSON",
+  "lemma": "uenio",
+  "candidates": []
+ },
+ "Tragemi": {
+  "label": "PERSON",
+  "lemma": "Tragemius",
+  "candidates": []
+ },
+ "Apuli": {
+  "label": "NORP",
+  "lemma": "apulus",
+  "candidates": [
+   {
+    "qid": "Q132885139",
+    "label": "Apulus Albratius",
+    "description": null
+   }
+  ]
+ },
+ "Marchiani": {
+  "label": "NORP",
+  "lemma": "Marchiani",
+  "candidates": [
+   {
+    "qid": "Q25582841",
+    "label": "Marchiani",
+    "description": "family name"
+   },
+   {
+    "qid": "Q102118531",
+    "label": "Marchiani",
+    "description": "pagina discretiva Vicimediorum"
+   }
+  ]
+ },
+ "Bolzera": {
+  "label": "PERSON",
+  "lemma": "Bolzera",
+  "candidates": []
+ },
+ "Tuscos": {
+  "label": "NORP",
+  "lemma": "tuscus",
+  "candidates": [
+   {
+    "qid": "Q139497254",
+    "label": "Tuscus",
+    "description": "Etruscan-Roman cognomen"
+   },
+   {
+    "qid": "Q4015718",
+    "label": "Vivianus Tuscus",
+    "description": "Italian jurist (13th century)"
+   },
+   {
+    "qid": "Q126955051",
+    "label": "Tuscus Vicus 1 (Pauly-Wissowa)",
+    "description": "encyclopedic article in Paulys Realencyclopädie der classischen Altertumswissenschaft (RE)"
+   },
+   {
+    "qid": "Q113398446",
+    "label": "Tuscus de Faenza Servasanctus",
+    "description": null
+   },
+   {
+    "qid": "Q11953787",
+    "label": "Tusc",
+    "description": "Wikimedia disambiguation page"
+   }
+  ]
+ },
+ "Guittonem Aretinum": {
+  "label": "PERSON",
+  "lemma": "Guitto",
+  "candidates": [
+   {
+    "qid": "Q18436054",
+    "label": "Guitto",
+    "description": "human settlement in Italy"
+   },
+   {
+    "qid": "Q3779713",
+    "label": "Guitto",
+    "description": "Synonymous with an actor"
+   },
+   {
+    "qid": "Q1246333",
+    "label": "Guittone Arretinus",
+    "description": "Italian poet (1235-1294)"
+   },
+   {
+    "qid": "Q21450131",
+    "label": "Guitton",
+    "description": "nomen gentilicium"
+   },
+   {
+    "qid": "Q736348",
+    "label": "Cinus Pistoriensis",
+    "description": "Italian Renaissance jurist and poet (1270–1336)"
+   }
+  ]
+ },
+ "Bonagiuntam Lucensem": {
+  "label": "PERSON",
+  "lemma": "Bonagiunta",
+  "candidates": [
+   {
+    "qid": "Q3642016",
+    "label": "Bonagiunta",
+    "description": "praenomen masculinum"
+   },
+   {
+    "qid": "Q108572654",
+    "label": "Bonagiunta",
+    "description": "episcopus catholicus"
+   },
+   {
+    "qid": "Q530026",
+    "label": "Bonaiuncta Orbicciani",
+    "description": "Italian poet and author"
+   },
+   {
+    "qid": "Q108450576",
+    "label": "Bonagiunta de Perusio",
+    "description": "episcopus catholicus"
+   },
+   {
+    "qid": "Q69249229",
+    "label": "Bonagiunta de' Medici",
+    "description": null
+   }
+  ]
+ },
+ "Gallum Pisanum": {
+  "label": "PERSON",
+  "lemma": "gallus",
+  "candidates": [
+   {
+    "qid": "Q780",
+    "label": "Gallus",
+    "description": "subspecie"
+   },
+   {
+    "qid": "Q180936",
+    "label": "Gallus",
+    "description": "sanctus"
+   },
+   {
+    "qid": "Q222951",
+    "label": "Gallus",
+    "description": "taxon"
+   },
+   {
+    "qid": "Q58617",
+    "label": "Gallus",
+    "description": "Italiae municipium"
+   },
+   {
+    "qid": "Q2048385",
+    "label": "Gallus",
+    "description": "Romanum cognomen"
+   }
+  ]
+ },
+ "Minum Mocatum Senensem": {
+  "label": "PERSON",
+  "lemma": "minus",
+  "candidates": [
+   {
+    "qid": "Q40754",
+    "label": "subtractio",
+    "description": "process of subtracting a number from another (minuend−subtrahend=difference); mathematical operation that represents the operation of removing objects from a collection"
+   },
+   {
+    "qid": "Q37259404",
+    "label": "Minus",
+    "description": "nomen gentilicium"
+   },
+   {
+    "qid": "Q10764194",
+    "label": "-",
+    "description": "mathematical symbol used to represent the notion of negative as well as the operations of subtraction"
+   },
+   {
+    "qid": "Q131623824",
+    "label": "Minus",
+    "description": "vocal track by Beck"
+   },
+   {
+    "qid": "Q568180",
+    "label": "Minus",
+    "description": "Canadian-German record label"
+   }
+  ]
+ },
+ "Brunectum Florentinum": {
+  "label": "PERSON",
+  "lemma": "Brunectus",
+  "candidates": []
+ },
+ "Tuscanorum": {
+  "label": "NORP",
+  "lemma": "Tuscani",
+  "candidates": [
+   {
+    "qid": "Q482596",
+    "label": "Hyundai Tiburon",
+    "description": "line of sports coupe produced by Hyundai"
+   },
+   {
+    "qid": "Q180032",
+    "label": "Tuscana",
+    "description": "Italiae municipium"
+   },
+   {
+    "qid": "Q1273",
+    "label": "Tuscia",
+    "description": "region in central Italy"
+   },
+   {
+    "qid": "Q4005539",
+    "label": "Tuscania Calcio",
+    "description": "Italian football club"
+   },
+   {
+    "qid": "Q105952434",
+    "label": "Tuscanian dice",
+    "description": "Etruscan archaeological artifact from Tuscania, in Lazio, Italy, now at the Département des Monnaies, Médailles et Antiques de la Bibliothèque nationale de France"
+   }
+  ]
+ },
+ "Manichiamo": {
+  "label": "PERSON",
+  "lemma": "Manichiamus",
+  "candidates": []
+ },
+ "Pisa": {
+  "label": "LOC",
+  "lemma": "Pisa",
+  "candidates": [
+   {
+    "qid": "Q13375",
+    "label": "Pīsae",
+    "description": "Italiae urbs et municipium"
+   },
+   {
+    "qid": "Q6496891",
+    "label": "Pisa",
+    "description": "genus of crustaceans"
+   },
+   {
+    "qid": "Q37280807",
+    "label": "Pisa",
+    "description": "nomen gentilicium"
+   },
+   {
+    "qid": "Q13134",
+    "label": "Pisaurum",
+    "description": "town and comune in the Italian region of the Marche"
+   },
+   {
+    "qid": "Q323481",
+    "label": "Programme for International Student Assessment",
+    "description": "scholastic performance study by the OECD"
+   }
+  ]
+ },
+ "Fiorensa": {
+  "label": "LOC",
+  "lemma": "fiorensa",
+  "candidates": []
+ },
+ "Lucenses": {
+  "label": "NORP",
+  "lemma": "Lucenses",
+  "candidates": [
+   {
+    "qid": "Q11934031",
+    "label": "Lucenses",
+    "description": "Indo-European people living in the north-western part of the Iberian Peninsula"
+   },
+   {
+    "qid": "Q108617020",
+    "label": "Lucenses (Pauly-Wissowa)",
+    "description": "cross-reference in Paulys Realencyclopädie der classischen Altertumswissenschaft (RE)"
+   },
+   {
+    "qid": "Q125882378",
+    "label": "Lucenses de cuna o vínculo. Biografías y genealogías",
+    "description": "2003 edition of written work by Luis López Pombo"
+   },
+   {
+    "qid": "Q125882347",
+    "label": "Lucenses de cuna o vínculo. Biografías y genealogías",
+    "description": "written work by Luis López Pombo"
+   },
+   {
+    "qid": "Q9394503",
+    "label": "Liusena",
+    "description": null
+   }
+  ]
+ },
+ "Dio": {
+  "label": "PERSON",
+  "lemma": "Dium",
+  "candidates": [
+   {
+    "qid": "Q990247",
+    "label": "Dium",
+    "description": "village in Greece"
+   },
+   {
+    "qid": "Q9207638",
+    "label": "Dium (Graecia)",
+    "description": "Macedonian city and religious center in Greece"
+   },
+   {
+    "qid": "Q1230445",
+    "label": "Dium",
+    "description": null
+   },
+   {
+    "qid": "Q15696538",
+    "label": "Dium",
+    "description": "ancient city of Euboea"
+   },
+   {
+    "qid": "Q21484003",
+    "label": "Dium",
+    "description": "ancient Greek city of Chalkidice"
+   }
+  ]
+ },
+ "Lucca": {
+  "label": "LOC",
+  "lemma": "Lucca",
+  "candidates": [
+   {
+    "qid": "Q13373",
+    "label": "Luca",
+    "description": "Italiae municipium"
+   },
+   {
+    "qid": "Q539288",
+    "label": "Luccavia",
+    "description": "town in Dahme-Spreewald district, Brandenburg, Germany"
+   },
+   {
+    "qid": "Q37106905",
+    "label": "Lucca",
+    "description": "nomen gentilicium"
+   },
+   {
+    "qid": "Q56759872",
+    "label": "Lucca",
+    "description": "given name"
+   },
+   {
+    "qid": "Q2621413",
+    "label": "15497 Lucca",
+    "description": "asteroides"
+   }
+  ]
+ },
+ "Siena": {
+  "label": "LOC",
+  "lemma": "siena",
+  "candidates": [
+   {
+    "qid": "Q2751",
+    "label": "Sena Iulia",
+    "description": "Italiae municipium"
+   },
+   {
+    "qid": "Q37543776",
+    "label": "Siena",
+    "description": "nomen gentilicium"
+   },
+   {
+    "qid": "Q20001017",
+    "label": "Siena",
+    "description": "praenomen femininum"
+   },
+   {
+    "qid": "Q49280771",
+    "label": "Siena",
+    "description": null
+   },
+   {
+    "qid": "Q122032376",
+    "label": "Siena",
+    "description": "book edition published in 2018"
+   }
+  ]
+ },
+ "Ch": {
+  "label": "PERSON",
+  "lemma": "Ch",
+  "candidates": [
+   {
+    "qid": "Q39",
+    "label": "Helvetia",
+    "description": "civitas in Europa"
+   },
+   {
+    "qid": "Q531012",
+    "label": "congenital hypothyroidism",
+    "description": "hypothyroidism that is present at birth"
+   },
+   {
+    "qid": "Q33262",
+    "label": "lingua Chamoruana",
+    "description": "lingua"
+   },
+   {
+    "qid": "Q142237",
+    "label": "CH/Ch/ch",
+    "description": "Latin script digraph"
+   },
+   {
+    "qid": "Q44374960",
+    "label": "former IMDb character page",
+    "description": "identifier of character page in the old IMDb format. Such identifiers should be set to deprecate rank, not deleted."
+   }
+  ]
+ },
+ "Perusio": {
+  "label": "LOC",
+  "lemma": "Perusium",
+  "candidates": [
+   {
+    "qid": "Q25511097",
+    "label": "Perusium",
+    "description": "Wikimedia disambiguation page"
+   },
+   {
+    "qid": "Q138663749",
+    "label": "Perusium (Pauly-Wissowa)",
+    "description": "encyclopedic article in Paulys Realencyclopädie der classischen Altertumswissenschaft (RE)"
+   }
+  ]
+ },
+ "Urbe Ueteri": {
+  "label": "LOC",
+  "lemma": "Urbs",
+  "candidates": [
+   {
+    "qid": "Q515",
+    "label": "urbs",
+    "description": "magna perennisque hominum conlocatio urbana"
+   },
+   {
+    "qid": "Q13539802",
+    "label": "urbs",
+    "description": "place with town rights and privileges"
+   },
+   {
+    "qid": "Q60",
+    "label": "Novum Eboracum",
+    "description": "maxima urbs Civitatum Foederatarum Americae"
+   },
+   {
+    "qid": "Q8678",
+    "label": "Urbs Fluminensis",
+    "description": "city of Rio de Janeiro state, Brazil"
+   },
+   {
+    "qid": "Q239",
+    "label": "Bruxellae",
+    "description": "caput Belgicae"
+   }
+  ]
+ },
+ "Uiterbio": {
+  "label": "LOC",
+  "lemma": "Uiterbium",
+  "candidates": []
+ },
+ "Ciuitate Castellana": {
+  "label": "LOC",
+  "lemma": "ciuitas",
+  "candidates": [
+   {
+    "qid": "Q26198154",
+    "label": "civitas stipendiara",
+    "description": "tributary state/community of Rome"
+   }
+  ]
+ },
+ "Guidonem": {
+  "label": "PERSON",
+  "lemma": "Guido",
+  "candidates": [
+   {
+    "qid": "Q639762",
+    "label": "Guido",
+    "description": "praenomen masculinum"
+   },
+   {
+    "qid": "Q109061",
+    "label": "Guido Reni",
+    "description": "Bolognese painter (1575–1642)"
+   },
+   {
+    "qid": "Q18324624",
+    "label": "Guido",
+    "description": "nomen gentilicium"
+   },
+   {
+    "qid": "Q9327",
+    "label": "Guido de Maupassant",
+    "description": "French writer (1850-1893)"
+   },
+   {
+    "qid": "Q15798",
+    "label": "Guido of Siena",
+    "description": "Italian painter (1230-1290)"
+   }
+  ]
+ },
+ "Lapum": {
+  "label": "PERSON",
+  "lemma": "Lapus",
+  "candidates": [
+   {
+    "qid": "Q16801964",
+    "label": "Lapus",
+    "description": "nomen gentilicium"
+   },
+   {
+    "qid": "Q96656282",
+    "label": "Lapus",
+    "description": "praenomen masculinum"
+   },
+   {
+    "qid": "Q5067803",
+    "label": "Lăpuș",
+    "description": "commune in Maramureș County, Romania"
+   },
+   {
+    "qid": "Q3827021",
+    "label": "Lapus Gianni",
+    "description": "Italian poet and notary (13th-14th century)"
+   },
+   {
+    "qid": "Q1079866",
+    "label": "Lăpuș",
+    "description": "village in Maramureș County, Romania"
+   }
+  ]
+ },
+ "Florentinos": {
+  "label": "NORP",
+  "lemma": "florentinus",
+  "candidates": [
+   {
+    "qid": "Q3746709",
+    "label": "Florentinus",
+    "description": "Roman civil servant"
+   },
+   {
+    "qid": "Q12347877",
+    "label": "Florentinus",
+    "description": "Christian martyr"
+   },
+   {
+    "qid": "Q13570581",
+    "label": "Bartholomaeus Fontius",
+    "description": "Italian translator, humanism and poet"
+   },
+   {
+    "qid": "Q11922217",
+    "label": "Florentinus",
+    "description": "Roman jurist"
+   },
+   {
+    "qid": "Q54913800",
+    "label": "Florentinus",
+    "description": "praenomen masculinum"
+   }
+  ]
+ },
+ "Cynum Pistoriensem": {
+  "label": "PERSON",
+  "lemma": "Cynus",
+  "candidates": [
+   {
+    "qid": "Q12879792",
+    "label": "Cynus",
+    "description": "mythical son of Opus in Greek mythology"
+   },
+   {
+    "qid": "Q5200184",
+    "label": "Cynus",
+    "description": "ancient coastal settlement of central Greece"
+   },
+   {
+    "qid": "Q736348",
+    "label": "Cinus Pistoriensis",
+    "description": "Italian Renaissance jurist and poet (1270–1336)"
+   }
+  ]
+ },
+ "Ianuenses": {
+  "label": "NORP",
+  "lemma": "Ianuenses",
+  "candidates": []
+ },
+ "Romandiolam": {
+  "label": "LOC",
+  "lemma": "romandiola",
+  "candidates": [
+   {
+    "qid": "Q244482",
+    "label": "Romania",
+    "description": "Italian historical region that approximately corresponds to the south-eastern portion of present-day Emilia-Romagna"
+   },
+   {
+    "qid": "Q3940494",
+    "label": "Romandiola",
+    "description": null
+   }
+  ]
+ },
+ "Romandiolos": {
+  "label": "NORP",
+  "lemma": "romandiolus",
+  "candidates": []
+ },
+ "Forliuienses": {
+  "label": "NORP",
+  "lemma": "forliuiensis",
+  "candidates": []
+ },
+ "Ugolinum Bucciolam": {
+  "label": "PERSON",
+  "lemma": "Ugolinus",
+  "candidates": [
+   {
+    "qid": "Q28952929",
+    "label": "Ugolinus Parmensis",
+    "description": "Italian traveller, soldier and scholar"
+   },
+   {
+    "qid": "Q124831",
+    "label": "Gregorius IX",
+    "description": "pope of the Catholic Church from 1227 to 1241"
+   },
+   {
+    "qid": "Q111577507",
+    "label": "Ugolinus Bucciola",
+    "description": "poeta italicus saeculi XIII"
+   }
+  ]
+ },
+ "Fauentinos": {
+  "label": "NORP",
+  "lemma": "fauentinus",
+  "candidates": []
+ },
+ "Brixianos": {
+  "label": "NORP",
+  "lemma": "Brixiani",
+  "candidates": []
+ },
+ "Uigentinos": {
+  "label": "NORP",
+  "lemma": "Uigentini",
+  "candidates": []
+ },
+ "Paduanos": {
+  "label": "NORP",
+  "lemma": "Paduani",
+  "candidates": [
+   {
+    "qid": "Q37521992",
+    "label": "Paduani",
+    "description": "nomen gentilicium"
+   },
+   {
+    "qid": "Q41617322",
+    "label": "Fabrizio Padovani",
+    "description": "author (16th century)"
+   },
+   {
+    "qid": "Q389768",
+    "label": "Ottavio Leoni",
+    "description": "Roman painter (1578-1630)"
+   },
+   {
+    "qid": "Q1727824",
+    "label": "Alessandro Varotari",
+    "description": "painter from Italy (1588-1649)"
+   }
+  ]
+ },
+ "Triuisianos": {
+  "label": "NORP",
+  "lemma": "Triuisianos",
+  "candidates": []
+ },
+ "Brixianorum": {
+  "label": "NORP",
+  "lemma": "Brixianus",
+  "candidates": [
+   {
+    "qid": "Q6080970",
+    "label": "Isidorus Clarius",
+    "description": "episcopus catholicus"
+   },
+   {
+    "qid": "Q132881223",
+    "label": "Brixianus Marcus",
+    "description": null
+   },
+   {
+    "qid": "Q132874136",
+    "label": "Brixianus Johannes Franciscus",
+    "description": null
+   },
+   {
+    "qid": "Q132877000",
+    "label": "Brixianus Philopatris",
+    "description": null
+   },
+   {
+    "qid": "Q16573531",
+    "label": "Laurentius Gambara",
+    "description": null
+   }
+  ]
+ },
+ "Ueneti": {
+  "label": "NORP",
+  "lemma": "Ueneti",
+  "candidates": []
+ },
+ "Ildebrandinum Paduanum": {
+  "label": "PERSON",
+  "lemma": "Ildebrandinus",
+  "candidates": [
+   {
+    "qid": "Q15629915",
+    "label": "Ildebrandinus Mezzabati",
+    "description": "Italian poet"
+   }
+  ]
+ },
+ "ytalia": {
+  "label": "LOC",
+  "lemma": "italius",
+  "candidates": [
+   {
+    "qid": "Q25661048",
+    "label": "Italiusa",
+    "description": "subgenus of insects"
+   },
+   {
+    "qid": "Q273348",
+    "label": "Italian Wars",
+    "description": "Wars in Italy from the 15th to 16th centuries"
+   },
+   {
+    "qid": "Q145694",
+    "label": "Paeninsula Italiana",
+    "description": "peninsula of southern Europe"
+   },
+   {
+    "qid": "Q6093538",
+    "label": "Italic script",
+    "description": "semi-cursive, slightly sloped style of handwriting and calligraphy developed in Italy"
+   }
+  ]
+ },
+ "Ymolensibus": {
+  "label": "NORP",
+  "lemma": "imolensis",
+  "candidates": [
+   {
+    "qid": "Q132886969",
+    "label": "Imolensis Ludovicus",
+    "description": null
+   },
+   {
+    "qid": "Q773623",
+    "label": "Benevenutus Imolensis",
+    "description": "Italian scholar and historian"
+   }
+  ]
+ },
+ "Ferrarensibus": {
+  "label": "NORP",
+  "lemma": "ferrariensis",
+  "candidates": [
+   {
+    "qid": "Q3934689",
+    "label": "Riccobaldus Ferrariensis",
+    "description": "medieval Italian notary and Latin writer"
+   },
+   {
+    "qid": "Q5479589",
+    "label": "Franciscus Silvester",
+    "description": "Italian theologian"
+   }
+  ]
+ },
+ "Mutinensibus": {
+  "label": "NORP",
+  "lemma": "mutinensis",
+  "candidates": [
+   {
+    "qid": "Q12901141",
+    "label": "Mutinensis Gr. 122",
+    "description": "15th-century codex written in Greek"
+   },
+   {
+    "qid": "Q323281",
+    "label": "Guarino Guarini",
+    "description": "Italian mathematician and architect (1624-1683)"
+   },
+   {
+    "qid": "Q120752970",
+    "label": "Mutinensis de Grasulfo",
+    "description": "a.k.a. Magister Mutinensis de Grasulfo (active 1290-1300)"
+   },
+   {
+    "qid": "Q741777",
+    "label": "bellum Mutinense",
+    "description": "a civil war between the Roman Senate and Mark Antony"
+   },
+   {
+    "qid": "Q1106107",
+    "label": "Codex Mutinensis",
+    "description": "manuscript"
+   }
+  ]
+ },
+ "Sordellus de Mantua": {
+  "label": "PERSON",
+  "lemma": "Sordellus",
+  "candidates": [
+   {
+    "qid": "Q665165",
+    "label": "Sordellus",
+    "description": "Italian troubadour, poet and composer"
+   }
+  ]
+ },
+ "Cremone": {
+  "label": "LOC",
+  "lemma": "Cremona",
+  "candidates": [
+   {
+    "qid": "Q6231",
+    "label": "Cremona",
+    "description": "Italiae municipium"
+   },
+   {
+    "qid": "Q16163",
+    "label": "Provincia Cremonensis",
+    "description": "province of Italy"
+   },
+   {
+    "qid": "Q37280184",
+    "label": "Cremona",
+    "description": "nomen gentilicium"
+   },
+   {
+    "qid": "Q5184102",
+    "label": "Cremona",
+    "description": "genus of insects"
+   },
+   {
+    "qid": "Q154789",
+    "label": "486 Cremona",
+    "description": "asteroides"
+   }
+  ]
+ },
+ "Brixie": {
+  "label": "LOC",
+  "lemma": "Brixia",
+  "candidates": [
+   {
+    "qid": "Q6221",
+    "label": "Brixia",
+    "description": "Italiae municipium"
+   },
+   {
+    "qid": "Q17589902",
+    "label": "Brixia",
+    "description": "genus of planthoppers"
+   },
+   {
+    "qid": "Q155117",
+    "label": "521 Brixia",
+    "description": "asteroides"
+   },
+   {
+    "qid": "Q3645136",
+    "label": "Brixia",
+    "description": "gallo-roman city, ancestor of Brescia, Italy"
+   },
+   {
+    "qid": "Q2925791",
+    "label": "Brixia",
+    "description": null
+   }
+  ]
+ },
+ "Uerone": {
+  "label": "LOC",
+  "lemma": "Uerona",
+  "candidates": []
+ },
+ "Longobardorum": {
+  "label": "NORP",
+  "lemma": "longobardus",
+  "candidates": [
+   {
+    "qid": "Q130900",
+    "label": "Langobardi",
+    "description": "historical ethnical group"
+   }
+  ]
+ },
+ "Ferrarensium": {
+  "label": "NORP",
+  "lemma": "ferrariensis",
+  "candidates": [
+   {
+    "qid": "Q3934689",
+    "label": "Riccobaldus Ferrariensis",
+    "description": "medieval Italian notary and Latin writer"
+   },
+   {
+    "qid": "Q5479589",
+    "label": "Franciscus Silvester",
+    "description": "Italian theologian"
+   }
+  ]
+ },
+ "Mutinensium": {
+  "label": "NORP",
+  "lemma": "mutinensis",
+  "candidates": [
+   {
+    "qid": "Q12901141",
+    "label": "Mutinensis Gr. 122",
+    "description": "15th-century codex written in Greek"
+   },
+   {
+    "qid": "Q323281",
+    "label": "Guarino Guarini",
+    "description": "Italian mathematician and architect (1624-1683)"
+   },
+   {
+    "qid": "Q120752970",
+    "label": "Mutinensis de Grasulfo",
+    "description": "a.k.a. Magister Mutinensis de Grasulfo (active 1290-1300)"
+   },
+   {
+    "qid": "Q741777",
+    "label": "bellum Mutinense",
+    "description": "a civil war between the Roman Senate and Mark Antony"
+   },
+   {
+    "qid": "Q1106107",
+    "label": "Codex Mutinensis",
+    "description": "manuscript"
+   }
+  ]
+ },
+ "Regianorum": {
+  "label": "NORP",
+  "lemma": "regianus",
+  "candidates": [
+   {
+    "qid": "Q97481019",
+    "label": "Regianus",
+    "description": "Latin poet"
+   }
+  ]
+ },
+ "Parmensibus": {
+  "label": "NORP",
+  "lemma": "parmensis",
+  "candidates": [
+   {
+    "qid": "Q155922",
+    "label": "Parmensis",
+    "description": "Italian hard cheese"
+   },
+   {
+    "qid": "Q9348",
+    "label": "Parmigianino",
+    "description": "Italian Mannerist painter and printmaker (1503–1540)"
+   },
+   {
+    "qid": "Q3725198",
+    "label": "Aeneas Vicus",
+    "description": "Italian engraver (1523–1567)"
+   },
+   {
+    "qid": "Q108722151",
+    "label": "Parmensis (Pauly-Wissowa)",
+    "description": "cross-reference in Paulys Realencyclopädie der classischen Altertumswissenschaft (RE)"
+   },
+   {
+    "qid": "Q132881940",
+    "label": "Parmensis Placidus",
+    "description": null
+   }
+  ]
+ },
+ "bononiense": {
+  "label": "NORP",
+  "lemma": "bononiensis",
+  "candidates": [
+   {
+    "qid": "Q29385983",
+    "label": "Bononiensis de architectura libri quinque quibus cuncta fere architectonicae facultatis mysteria docte, perspicue . . .",
+    "description": "book by Sebastiano Serlio"
+   },
+   {
+    "qid": "Q103979564",
+    "label": "Bononiensis, Fr.",
+    "description": "encyclopedia article"
+   }
+  ]
+ },
+ "Guido Ghisilerius": {
+  "label": "PERSON",
+  "lemma": "Guido",
+  "candidates": [
+   {
+    "qid": "Q639762",
+    "label": "Guido",
+    "description": "praenomen masculinum"
+   },
+   {
+    "qid": "Q109061",
+    "label": "Guido Reni",
+    "description": "Bolognese painter (1575–1642)"
+   },
+   {
+    "qid": "Q18324624",
+    "label": "Guido",
+    "description": "nomen gentilicium"
+   },
+   {
+    "qid": "Q9327",
+    "label": "Guido de Maupassant",
+    "description": "French writer (1850-1893)"
+   },
+   {
+    "qid": "Q15798",
+    "label": "Guido of Siena",
+    "description": "Italian painter (1230-1290)"
+   }
+  ]
+ },
+ "Fabrutius": {
+  "label": "PERSON",
+  "lemma": "Fabrutius",
+  "candidates": [
+   {
+    "qid": "Q107559257",
+    "label": "Fabrutius de' Lambertazzi",
+    "description": null
+   }
+  ]
+ },
+ "Honestus": {
+  "label": "PERSON",
+  "lemma": "Honestus",
+  "candidates": [
+   {
+    "qid": "Q1224702",
+    "label": "Honestus",
+    "description": "ancient Greek epigrammatist"
+   },
+   {
+    "qid": "Q61999158",
+    "label": "Benjamin Austin",
+    "description": "American polemicist and Democratic-Republican leader (1752-1820)"
+   },
+   {
+    "qid": "Q15633596",
+    "label": "Honestus Bononiensis",
+    "description": "Italian poet"
+   },
+   {
+    "qid": "Q16784892",
+    "label": "Honestus",
+    "description": "Wikimedia disambiguation page"
+   },
+   {
+    "qid": "Q136262423",
+    "label": "Honestus (Pauly-Wissowa)",
+    "description": "encyclopedic article in Paulys Realencyclopädie der classischen Altertumswissenschaft (RE)"
+   }
+  ]
+ },
+ "Bononie": {
+  "label": "LOC",
+  "lemma": "Bononia",
+  "candidates": [
+   {
+    "qid": "Q1891",
+    "label": "Bononia",
+    "description": "Italiae municipium"
+   },
+   {
+    "qid": "Q81997",
+    "label": "Gesoriacum",
+    "description": "French commune in Pas-de-Calais, Hauts-de-France"
+   },
+   {
+    "qid": "Q172455",
+    "label": "Bononia ad Sequanam",
+    "description": "French commune in Hauts-de-Seine, Île-de-France"
+   },
+   {
+    "qid": "Q9177368",
+    "label": "Bononia",
+    "description": "ancient city, corresponding to Bologna"
+   },
+   {
+    "qid": "Q4942555",
+    "label": "Bononia",
+    "description": "genus of insects"
+   }
+  ]
+ },
+ "Maximus": {
+  "label": "PERSON",
+  "lemma": "Maximus",
+  "candidates": [
+   {
+    "qid": "Q324495",
+    "label": "Maximus",
+    "description": "Bulgarian Orthodox Patriarch"
+   },
+   {
+    "qid": "Q2302599",
+    "label": "Maximus",
+    "description": "Romanum cognomen"
+   },
+   {
+    "qid": "Q550622",
+    "label": "Maximus",
+    "description": "earlu 5th-century Roman usurper"
+   },
+   {
+    "qid": "Q18216059",
+    "label": "Maksym",
+    "description": "praenomen masculinum"
+   },
+   {
+    "qid": "Q20000647",
+    "label": "Maximus",
+    "description": "praenomen masculinum"
+   }
+  ]
+ },
+ "Guido": {
+  "label": "PERSON",
+  "lemma": "Guido",
+  "candidates": [
+   {
+    "qid": "Q639762",
+    "label": "Guido",
+    "description": "praenomen masculinum"
+   },
+   {
+    "qid": "Q109061",
+    "label": "Guido Reni",
+    "description": "Bolognese painter (1575–1642)"
+   },
+   {
+    "qid": "Q18324624",
+    "label": "Guido",
+    "description": "nomen gentilicium"
+   },
+   {
+    "qid": "Q9327",
+    "label": "Guido de Maupassant",
+    "description": "French writer (1850-1893)"
+   },
+   {
+    "qid": "Q15798",
+    "label": "Guido of Siena",
+    "description": "Italian painter (1230-1290)"
+   }
+  ]
+ },
+ "Donna": {
+  "label": "PERSON",
+  "lemma": "Donna",
+  "candidates": [
+   {
+    "qid": "Q489347",
+    "label": "Dønna",
+    "description": "municipality in Nordland, Norway"
+   },
+   {
+    "qid": "Q1993601",
+    "label": "Donna",
+    "description": "praenomen femininum"
+   },
+   {
+    "qid": "Q37019785",
+    "label": "Donna",
+    "description": "nomen gentilicium"
+   },
+   {
+    "qid": "Q1138610",
+    "label": "Don",
+    "description": "honorific title used in Iberia, the Hispanic world, Lusophone countries and Italy"
+   },
+   {
+    "qid": "Q976983",
+    "label": "Donna",
+    "description": "city in Hidalgo County, Texas, United States"
+   }
+  ]
+ },
+ "Lo": {
+  "label": "PERSON",
+  "lemma": "Lo",
+  "candidates": [
+   {
+    "qid": "Q9211",
+    "label": "Lingua Laotica",
+    "description": "lingua"
+   },
+   {
+    "qid": "Q16201",
+    "label": "Provincia Laudensis",
+    "description": "province in the Lombardy region of Italy"
+   },
+   {
+    "qid": "Q10135",
+    "label": "LibreOffice",
+    "description": "free and open-source productivity software suite"
+   },
+   {
+    "qid": "Q717763",
+    "label": "羅",
+    "description": "Seres cognomen (羅 / 罗)"
+   },
+   {
+    "qid": "Q746021",
+    "label": "London Overground",
+    "description": "suburban rail network in Greater London and Hertfordshire"
+   }
+  ]
+ },
+ "Tridentum": {
+  "label": "LOC",
+  "lemma": "tridentum",
+  "candidates": [
+   {
+    "qid": "Q3376",
+    "label": "Tridentum",
+    "description": "Italiae municipium"
+   },
+   {
+    "qid": "Q3998737",
+    "label": "Tridentum",
+    "description": "ancient Roman city in Italy"
+   },
+   {
+    "qid": "Q1221306",
+    "label": "Trente",
+    "description": "pagina discretiva Vicimediorum"
+   }
+  ]
+ },
+ "Taurinum": {
+  "label": "LOC",
+  "lemma": "taurinum",
+  "candidates": [
+   {
+    "qid": "Q495",
+    "label": "Augusta Taurinorum",
+    "description": "Italiae urbs et municipium"
+   },
+   {
+    "qid": "Q207051",
+    "label": "taurine",
+    "description": "compositum chemicum"
+   },
+   {
+    "qid": "Q108766598",
+    "label": "Taurinum 2 (Pauly-Wissowa)",
+    "description": "cross-reference in Paulys Realencyclopädie der classischen Altertumswissenschaft (RE)"
+   },
+   {
+    "qid": "Q108766605",
+    "label": "Taurinum 1 (Pauly-Wissowa)",
+    "description": "cross-reference in Paulys Realencyclopädie der classischen Altertumswissenschaft (RE)"
+   },
+   {
+    "qid": "Q108766590",
+    "label": "Taurinum 3 (Pauly-Wissowa)",
+    "description": "cross-reference in Paulys Realencyclopädie der classischen Altertumswissenschaft (RE)"
+   }
+  ]
+ },
+ "Deus": {
+  "label": "PERSON",
+  "lemma": "deus",
+  "candidates": [
+   {
+    "qid": "Q190",
+    "label": "Deus",
+    "description": "principal object of faith in monotheistic religions, a divine entity that created and typically supervises all existence"
+   },
+   {
+    "qid": "Q2095353",
+    "label": "Deus",
+    "description": "Islamic conception of God"
+   },
+   {
+    "qid": "Q37495967",
+    "label": "Deus",
+    "description": "nomen gentilicium"
+   },
+   {
+    "qid": "Q186350",
+    "label": "Deus Pater",
+    "description": "prima persona in Trinitate"
+   },
+   {
+    "qid": "Q219944",
+    "label": "Deus",
+    "description": "Belgian rock group"
+   }
+  ]
+ },
+ "latie": {
+  "label": "NORP",
+  "lemma": "latius",
+  "candidates": [
+   {
+    "qid": "Q108604295",
+    "label": "Latius (Pauly-Wissowa)",
+    "description": "cross-reference in Paulys Realencyclopädie der classischen Altertumswissenschaft (RE)"
+   },
+   {
+    "qid": "Q3083977",
+    "label": "Ioannes Latius",
+    "description": "Dutch geographer"
+   }
+  ]
+ },
+ "Seneca": {
+  "label": "PERSON",
+  "lemma": "Seneca",
+  "candidates": [
+   {
+    "qid": "Q2054",
+    "label": "Lucius Annaeus Seneca minor",
+    "description": "philosophus et scriptor"
+   },
+   {
+    "qid": "Q28807153",
+    "label": "Seneca",
+    "description": "praenomen masculinum"
+   },
+   {
+    "qid": "Q213422",
+    "label": "Seneca",
+    "description": "indigenous people of North America"
+   },
+   {
+    "qid": "Q114364152",
+    "label": "Seneca",
+    "description": "Romanum cognomen"
+   },
+   {
+    "qid": "Q2679162",
+    "label": "Seneca",
+    "description": "city in Oconee County, South Carolina, United States"
+   }
+  ]
+ },
+ "Alamannie": {
+  "label": "LOC",
+  "lemma": "Alamannia",
+  "candidates": [
+   {
+    "qid": "Q2208978",
+    "label": "Alamannia",
+    "description": "former territory inhabited by the Germanic Alemanni peoples"
+   },
+   {
+    "qid": "Q21683009",
+    "label": "Alamannia",
+    "description": "human settlement in Andros, Greece"
+   },
+   {
+    "qid": "Q130221089",
+    "label": "Alamannia",
+    "description": "personfication of the Alemanni (or Alamanni), a Germanic confederation and kingdom active in the third century CE"
+   },
+   {
+    "qid": "Q132990",
+    "label": "Alamanni",
+    "description": "Germanic people"
+   },
+   {
+    "qid": "Q47504469",
+    "label": "Alamannia",
+    "description": "Wikimedia disambiguation page"
+   }
+  ]
+ },
+ "Ytalos": {
+  "label": "NORP",
+  "lemma": "Ytalos",
+  "candidates": []
+ },
+ "Lombardie": {
+  "label": "LOC",
+  "lemma": "lombardia",
+  "candidates": [
+   {
+    "qid": "Q1210",
+    "label": "Langobardia",
+    "description": "regio Italiae"
+   },
+   {
+    "qid": "Q136671391",
+    "label": "Lombardia",
+    "description": null
+   },
+   {
+    "qid": "Q3836534",
+    "label": "Lombardía",
+    "description": "municipal seat of Gabriel Zamora, State of Michoacán, Mexico"
+   },
+   {
+    "qid": "Q18352442",
+    "label": "RN Lombardia",
+    "description": "1890 Regioni-class cruiser"
+   },
+   {
+    "qid": "Q83585553",
+    "label": "Lombardia",
+    "description": "ship built in 2005"
+   }
+  ]
+ },
+ "cremonense": {
+  "label": "NORP",
+  "lemma": "cremonensis",
+  "candidates": [
+   {
+    "qid": "Q16163",
+    "label": "Provincia Cremonensis",
+    "description": "province of Italy"
+   },
+   {
+    "qid": "Q136632495",
+    "label": "Cremonensis Lotharius",
+    "description": null
+   },
+   {
+    "qid": "Q139016627",
+    "label": "Cremonensis Jacobus",
+    "description": null
+   }
+  ]
+ },
+ "lombardum": {
+  "label": "NORP",
+  "lemma": "lombardus",
+  "candidates": [
+   {
+    "qid": "Q23770938",
+    "label": "Lombardus Sirichius",
+    "description": "Renaissance humanist ( -1390)"
+   },
+   {
+    "qid": "Q113679231",
+    "label": "Lombardus a Serico",
+    "description": "(n. saec. XIV ante med., m. 11-8-1390)"
+   },
+   {
+    "qid": "Q315347",
+    "label": "Petrus Lombardus",
+    "description": "medieval priest and theologian"
+   },
+   {
+    "qid": "Q27584211",
+    "label": "Lombardus, Lambert",
+    "description": "entry in the Allgemeine Deutsche Biographie"
+   }
+  ]
+ },
+ "semilatium": {
+  "label": "NORP",
+  "lemma": "semilatius",
+  "candidates": []
+ },
+ "Siculi": {
+  "label": "NORP",
+  "lemma": "siculus",
+  "candidates": [
+   {
+    "qid": "Q29652234",
+    "label": "Siculus",
+    "description": "Romanum cognomen"
+   },
+   {
+    "qid": "Q4419033",
+    "label": "Siculus",
+    "description": "son of Poseidon, eponym of Sicily"
+   },
+   {
+    "qid": "Q124624755",
+    "label": "Siculus",
+    "description": "genus of weevils"
+   },
+   {
+    "qid": "Q3624745",
+    "label": "Siculus Flaccus",
+    "description": "Roman gromaticus"
+   },
+   {
+    "qid": "Q124689261",
+    "label": "Siculus subglobicollis",
+    "description": "species of insect"
+   }
+  ]
+ },
+ "Romandioli": {
+  "label": "NORP",
+  "lemma": "Romandioli",
+  "candidates": []
+ },
+ "Lombardi": {
+  "label": "NORP",
+  "lemma": "Lombardi",
+  "candidates": [
+   {
+    "qid": "Q16872423",
+    "label": "Lombardi",
+    "description": "nomen gentilicium"
+   },
+   {
+    "qid": "Q21519440",
+    "label": "Julio Antonio Lombardi",
+    "description": "botanist"
+   },
+   {
+    "qid": "Q1190441",
+    "label": "9397 Lombardi",
+    "description": "asteroides"
+   },
+   {
+    "qid": "Q3258833",
+    "label": "Lombardo",
+    "description": "Italian family"
+   },
+   {
+    "qid": "Q18480366",
+    "label": "Lombardi",
+    "description": null
+   }
+  ]
+ },
+ "Marchie": {
+  "label": "LOC",
+  "lemma": "Marchie",
+  "candidates": [
+   {
+    "qid": "Q664772",
+    "label": "Marchiennes",
+    "description": "commune in Nord, France"
+   },
+   {
+    "qid": "Q941041",
+    "label": "Marchianae",
+    "description": "section of Charleroi, Wallonia, Belgium"
+   },
+   {
+    "qid": "Q21145195",
+    "label": "Marchiena",
+    "description": "given name"
+   },
+   {
+    "qid": "Q2310045",
+    "label": "Marchienne-au-Pont railway station",
+    "description": "railway station in Belgium"
+   },
+   {
+    "qid": "Q21143173",
+    "label": "Marchien",
+    "description": "given name"
+   }
+  ]
+ },
+ "Secundo": {
+  "label": "PERSON",
+  "lemma": "secundus",
+  "candidates": [
+   {
+    "qid": "Q104413417",
+    "label": "Secundus",
+    "description": "Romanum cognomen"
+   },
+   {
+    "qid": "Q3954008",
+    "label": "Secundus",
+    "description": "bishop of Asti"
+   },
+   {
+    "qid": "Q97764227",
+    "label": "Secundus",
+    "description": "metropolitan of Aquileia"
+   },
+   {
+    "qid": "Q17616555",
+    "label": "Secundus",
+    "description": "male given name"
+   },
+   {
+    "qid": "Q113587177",
+    "label": "Secundus",
+    "description": "episcopus catholicus"
+   }
+  ]
+ },
+ "Bertramum de Bornio": {
+  "label": "PERSON",
+  "lemma": "Bertramus",
+  "candidates": [
+   {
+    "qid": "Q118820",
+    "label": "Bertram",
+    "description": "episcopus catholicus"
+   },
+   {
+    "qid": "Q133372890",
+    "label": "Bertramus Caluinus",
+    "description": null
+   },
+   {
+    "qid": "Q55123680",
+    "label": "Bertram Buchholtz",
+    "description": "German printer"
+   },
+   {
+    "qid": "Q97764196",
+    "label": "Bertramus Pagessius",
+    "description": null
+   },
+   {
+    "qid": "Q703858",
+    "label": "Ratramnus Corbiensis",
+    "description": "Frankish monk"
+   }
+  ]
+ },
+ "Arnaldum Danielem": {
+  "label": "PERSON",
+  "lemma": "Arnaldus",
+  "candidates": [
+   {
+    "qid": "Q21543535",
+    "label": "Georgius Arnaldus",
+    "description": "Dutch classical philologist"
+   },
+   {
+    "qid": "Q594368",
+    "label": "Arnaldus Pomodoro",
+    "description": "Italian sculptor (1926–2025)"
+   },
+   {
+    "qid": "Q434786",
+    "label": "Arnaldus Forlani",
+    "description": "Italian politician (1925–2023)"
+   },
+   {
+    "qid": "Q356568",
+    "label": "Arnaldus Villanovanus",
+    "description": "physician and alchemist of Crown of Aragon"
+   },
+   {
+    "qid": "Q4344",
+    "label": "Arnaldus Daniel",
+    "description": "Occitan troubadour"
+   }
+  ]
+ },
+ "Gerardum de Bornello": {
+  "label": "PERSON",
+  "lemma": "Gerardus",
+  "candidates": [
+   {
+    "qid": "Q18282500",
+    "label": "Gerardus",
+    "description": "praenomen masculinum"
+   },
+   {
+    "qid": "Q184592",
+    "label": "Gerardus 't Hooft",
+    "description": "Dutch theoretical physicist"
+   },
+   {
+    "qid": "Q1559049",
+    "label": "Gerardus",
+    "description": "abbas Broniensis"
+   },
+   {
+    "qid": "Q3760950",
+    "label": "Gerardus",
+    "description": "episcopus Potentinus"
+   },
+   {
+    "qid": "Q116497676",
+    "label": "Gerardus",
+    "description": "confessor in castro Gallinario dioecesis Soranae"
+   }
+  ]
+ },
+ "Bertramus": {
+  "label": "PERSON",
+  "lemma": "Bertramus",
+  "candidates": [
+   {
+    "qid": "Q118820",
+    "label": "Bertram",
+    "description": "episcopus catholicus"
+   },
+   {
+    "qid": "Q133372890",
+    "label": "Bertramus Caluinus",
+    "description": null
+   },
+   {
+    "qid": "Q55123680",
+    "label": "Bertram Buchholtz",
+    "description": "German printer"
+   },
+   {
+    "qid": "Q97764196",
+    "label": "Bertramus Pagessius",
+    "description": null
+   },
+   {
+    "qid": "Q703858",
+    "label": "Ratramnus Corbiensis",
+    "description": "Frankish monk"
+   }
+  ]
+ },
+ "Arnaldus": {
+  "label": "PERSON",
+  "lemma": "Arnaldus",
+  "candidates": [
+   {
+    "qid": "Q21543535",
+    "label": "Georgius Arnaldus",
+    "description": "Dutch classical philologist"
+   },
+   {
+    "qid": "Q594368",
+    "label": "Arnaldus Pomodoro",
+    "description": "Italian sculptor (1926–2025)"
+   },
+   {
+    "qid": "Q434786",
+    "label": "Arnaldus Forlani",
+    "description": "Italian politician (1925–2023)"
+   },
+   {
+    "qid": "Q356568",
+    "label": "Arnaldus Villanovanus",
+    "description": "physician and alchemist of Crown of Aragon"
+   },
+   {
+    "qid": "Q4344",
+    "label": "Arnaldus Daniel",
+    "description": "Occitan troubadour"
+   }
+  ]
+ },
+ "Gerardus": {
+  "label": "PERSON",
+  "lemma": "Gherardus",
+  "candidates": [
+   {
+    "qid": "Q314548",
+    "label": "Gerardus de Honthorst",
+    "description": "Dutch Golden Age painter (1592-1656)"
+   },
+   {
+    "qid": "Q1997752",
+    "label": "Gerardus Mes",
+    "description": "musician"
+   },
+   {
+    "qid": "Q107585045",
+    "label": "Girardus de Buccabadhatis",
+    "description": "frater franciscanus atque legatus"
+   },
+   {
+    "qid": "Q61481055",
+    "label": "Gherardus de Paladinis",
+    "description": "author (14th century)"
+   },
+   {
+    "qid": "Q139870018",
+    "label": "Godefridus, Herilacensis",
+    "description": "14th century friar and monk"
+   }
+  ]
+ },
+ "Cynus": {
+  "label": "PERSON",
+  "lemma": "cynus",
+  "candidates": [
+   {
+    "qid": "Q12879792",
+    "label": "Cynus",
+    "description": "mythical son of Opus in Greek mythology"
+   },
+   {
+    "qid": "Q5200184",
+    "label": "Cynus",
+    "description": "ancient coastal settlement of central Greece"
+   },
+   {
+    "qid": "Q736348",
+    "label": "Cinus Pistoriensis",
+    "description": "Italian Renaissance jurist and poet (1270–1336)"
+   }
+  ]
+ },
+ "Doglia": {
+  "label": "PERSON",
+  "lemma": "doglia",
+  "candidates": [
+   {
+    "qid": "Q18491630",
+    "label": "Doglia",
+    "description": "human settlement in Italy"
+   },
+   {
+    "qid": "Q99996186",
+    "label": "Dogliani",
+    "description": "nomen gentilicium"
+   },
+   {
+    "qid": "Q20022",
+    "label": "Doliana",
+    "description": "Italiae municipium"
+   },
+   {
+    "qid": "Q453756",
+    "label": "Dogliani DOCG",
+    "description": "Italian controlled and guaranteed designation of origin wine from Piedmont"
+   },
+   {
+    "qid": "Q18503082",
+    "label": "Dogliano",
+    "description": "human settlement in Italy"
+   }
+  ]
+ },
+ "Oratius": {
+  "label": "PERSON",
+  "lemma": "horatius",
+  "candidates": [
+   {
+    "qid": "Q6197",
+    "label": "Quintus Horatius Flaccus",
+    "description": "Roman lyric poet (65 BC – 8 BC)"
+   },
+   {
+    "qid": "Q39689819",
+    "label": "Horatius",
+    "description": "praenomen masculinum"
+   },
+   {
+    "qid": "Q29968376",
+    "label": "Horatius",
+    "description": "Romanum nomen"
+   },
+   {
+    "qid": "Q153396",
+    "label": "4294 Horatius",
+    "description": "asteroides"
+   },
+   {
+    "qid": "Q83235",
+    "label": "Horatius Nelson",
+    "description": "British admiral (1758–1805)"
+   }
+  ]
+ },
+ "Poetrie": {
+  "label": "PERSON",
+  "lemma": "poetria",
+  "candidates": [
+   {
+    "qid": "Q49757",
+    "label": "poeta",
+    "description": "person who writes poetry"
+   },
+   {
+    "qid": "Q134613835",
+    "label": "Poetria",
+    "description": "work by Matthias of Linköping"
+   },
+   {
+    "qid": "Q131519747",
+    "label": "Poetria nova",
+    "description": "work by Geoffrey of Vinsauf"
+   }
+  ]
+ },
+ "Stilo": {
+  "label": "PERSON",
+  "lemma": "stilus",
+  "candidates": [
+   {
+    "qid": "Q2647209",
+    "label": "Stilus",
+    "description": "writing utensil or small tool for marking or shaping"
+   },
+   {
+    "qid": "Q14674",
+    "label": "stilus plumbatus",
+    "description": "writing implement"
+   },
+   {
+    "qid": "Q7617343",
+    "label": "Stilus",
+    "description": "genus of Diatomea"
+   },
+   {
+    "qid": "Q107281383",
+    "label": "Stilus",
+    "description": "genus of molluscs"
+   },
+   {
+    "qid": "Q1783255",
+    "label": "stilus coloratus",
+    "description": "art medium"
+   }
+  ]
+ },
+ "Elicone": {
+  "label": "PERSON",
+  "lemma": "Helicon",
+  "candidates": [
+   {
+    "qid": "Q215516",
+    "label": "Helicon",
+    "description": "mountain in Livadia municipality, Greece"
+   },
+   {
+    "qid": "Q2053589",
+    "label": "Helicon",
+    "description": "Israeli record label"
+   },
+   {
+    "qid": "Q779650",
+    "label": "helicon",
+    "description": "brass musical instrument in the tuba family"
+   },
+   {
+    "qid": "Q655665",
+    "label": "Heliconius",
+    "description": "genus of insects"
+   },
+   {
+    "qid": "Q624242",
+    "label": "Heliconia",
+    "description": "genus of plants"
+   }
+  ]
+ },
+ "Ara": {
+  "label": "PERSON",
+  "lemma": "Ara",
+  "candidates": [
+   {
+    "qid": "Q9253",
+    "label": "Ara",
+    "description": "constellation in the southern celestial hemisphere"
+   },
+   {
+    "qid": "Q13955",
+    "label": "Arabice",
+    "description": "lingua Semitica"
+   },
+   {
+    "qid": "Q213984",
+    "label": "Ara",
+    "description": "animal"
+   },
+   {
+    "qid": "Q34579",
+    "label": "Ara",
+    "description": "Italiae municipium"
+   },
+   {
+    "qid": "Q153394",
+    "label": "Ara",
+    "description": "river in Germany"
+   }
+  ]
+ },
+ "Al": {
+  "label": "PERSON",
+  "lemma": "Al",
+  "candidates": [
+   {
+    "qid": "Q222",
+    "label": "Albania",
+    "description": "country in southeastern Europe"
+   },
+   {
+    "qid": "Q663",
+    "label": "aluminium",
+    "description": "metallic chemical element of silvery appearance with symbol Al and atomic number 13"
+   },
+   {
+    "qid": "Q40885",
+    "label": "civitas Alagoasensis",
+    "description": "civitas Brasiliae"
+   },
+   {
+    "qid": "Q23649980",
+    "label": "AL",
+    "description": "rating category in the Kijkwijzer system"
+   },
+   {
+    "qid": "Q173",
+    "label": "Alabama",
+    "description": "state of the United States of America"
+   }
+  ]
+ },
+ "Columpnis": {
+  "label": "PERSON",
+  "lemma": "columna",
+  "candidates": [
+   {
+    "qid": "Q4817",
+    "label": "Columna",
+    "description": "structural element sustaining the weight of a building"
+   },
+   {
+    "qid": "Q133026",
+    "label": "Columna",
+    "description": "city of Moscow Oblast, Russia"
+   },
+   {
+    "qid": "Q54585",
+    "label": "Columna",
+    "description": "Italiae municipium"
+   },
+   {
+    "qid": "Q16958932",
+    "label": "Columna",
+    "description": "genus of air-breathing tropical land snails"
+   },
+   {
+    "qid": "Q482853",
+    "label": "Columna vertebralis",
+    "description": "bony structure found in vertebrates"
+   }
+  ]
+ },
+ "Renaldus": {
+  "label": "PERSON",
+  "lemma": "Renaldus",
+  "candidates": [
+   {
+    "qid": "Q55132977",
+    "label": "Renaldus de Novimagio",
+    "description": "15th-century printer from Venice"
+   },
+   {
+    "qid": "Q4032866",
+    "label": "Anteros renaldus",
+    "description": "species of insect"
+   },
+   {
+    "qid": "Q367016",
+    "label": "Realdus Columbus",
+    "description": "Italian physician"
+   },
+   {
+    "qid": "Q606926",
+    "label": "Raynald of Nocera",
+    "description": "episcopus catholicus"
+   },
+   {
+    "qid": "Q58642940",
+    "label": "Reinald Rats",
+    "description": null
+   }
+  ]
+ },
+ "Aquino": {
+  "label": "LOC",
+  "lemma": "aquinum",
+  "candidates": [
+   {
+    "qid": "Q116415",
+    "label": "Aquinum",
+    "description": "Italiae municipium"
+   },
+   {
+    "qid": "Q103142157",
+    "label": "Aquinum",
+    "description": "ancient city and archaeological site at Aquino, Italy"
+   },
+   {
+    "qid": "Q19990939",
+    "label": "Aquinum (Pauly-Wissowa)",
+    "description": "encyclopedic article in Paulys Realencyclopädie der classischen Altertumswissenschaft (RE)"
+   },
+   {
+    "qid": "Q28977987",
+    "label": "Aquinum amphitheatre",
+    "description": "Roman amphitheatre in Aquino, Italy"
+   },
+   {
+    "qid": "Q103142189",
+    "label": "Aquinum/Interamna (Samian Ware Discovery Site)",
+    "description": "Aquinum/Interamna as Samian Ware discovery site"
+   }
+  ]
+ },
+ "Pistoriensis": {
+  "label": "NORP",
+  "lemma": "pistoriensis",
+  "candidates": []
+ },
+ "Aristotiles": {
+  "label": "PERSON",
+  "lemma": "Aristoteles",
+  "candidates": [
+   {
+    "qid": "Q868",
+    "label": "Aristoteles",
+    "description": "philosophus Graecus, discipulus Platonis, magister Alexandri Magni"
+   },
+   {
+    "qid": "Q101142903",
+    "label": "Aristoteles",
+    "description": "praenomen masculinum"
+   },
+   {
+    "qid": "Q11906543",
+    "label": "Aristoteles",
+    "description": "author of a lost work on the Iliad"
+   },
+   {
+    "qid": "Q120832587",
+    "label": "Aristoteles",
+    "description": "navarch of Athenian fleet at time of third Diadochi war"
+   },
+   {
+    "qid": "Q30974798",
+    "label": "Aristoteles",
+    "description": "Spartan politician granted proxeny by Eretria"
+   }
+  ]
+ },
+ "Alexandri": {
+  "label": "PERSON",
+  "lemma": "Alexander",
+  "candidates": [
+   {
+    "qid": "Q923",
+    "label": "Alexander",
+    "description": "praenomen masculinum"
+   },
+   {
+    "qid": "Q162277",
+    "label": "Alexander",
+    "description": "2004 film by Oliver Stone"
+   },
+   {
+    "qid": "Q151742",
+    "label": "Alexander",
+    "description": "King of Greece (1917–1920)"
+   },
+   {
+    "qid": "Q319107",
+    "label": "Alexander",
+    "description": "second king of the Hasmonean dynasty of Judea"
+   },
+   {
+    "qid": "Q8409",
+    "label": "Alexander Magnus",
+    "description": "Macedonum rex"
+   }
+  ]
+ },
+ "Bertam": {
+  "label": "PERSON",
+  "lemma": "Berta",
+  "candidates": [
+   {
+    "qid": "Q4092653",
+    "label": "Berta",
+    "description": "praenomen femininum"
+   },
+   {
+    "qid": "Q827676",
+    "label": "Berta",
+    "description": "filia Caroli Magni"
+   },
+   {
+    "qid": "Q26905514",
+    "label": "Berta",
+    "description": "nomen gentilicium"
+   },
+   {
+    "qid": "Q4895400",
+    "label": "Berta",
+    "description": "genus of insects"
+   },
+   {
+    "qid": "Q33178",
+    "label": "Berta",
+    "description": "lingua"
+   }
+  ]
+ },
+ "Trinacriam": {
+  "label": "LOC",
+  "lemma": "Trinacria",
+  "candidates": [
+   {
+    "qid": "Q20720402",
+    "label": "Trinacria",
+    "description": "genus of algae (fossil)"
+   },
+   {
+    "qid": "Q14925689",
+    "label": "Trinacria",
+    "description": "genus of insects"
+   },
+   {
+    "qid": "Q2453416",
+    "label": "Trinacria",
+    "description": null
+   },
+   {
+    "qid": "Q24064315",
+    "label": "Trinacria",
+    "description": null
+   },
+   {
+    "qid": "Q52353158",
+    "label": "Sicilia",
+    "description": "ro-ro/passenger ship built in 2002"
+   }
+  ]
+ },
+ "Totila": {
+  "label": "PERSON",
+  "lemma": "Totila",
+  "candidates": [
+   {
+    "qid": "Q159707",
+    "label": "Totila",
+    "description": "king of the Ostrogoths and King of Italy (541–552)"
+   },
+   {
+    "qid": "Q85810276",
+    "label": "Totila",
+    "description": "opera by Giovanni Legrenzi"
+   },
+   {
+    "qid": "Q61058314",
+    "label": "Totila",
+    "description": "fictional character from The Tin Drum by Günter Grass"
+   },
+   {
+    "qid": "Q111995145",
+    "label": "Tótila",
+    "description": "praenomen masculinum"
+   },
+   {
+    "qid": "Q116020336",
+    "label": "Tòtila",
+    "description": "sardana by Sebastià Figuerola i Escusa"
+   }
+  ]
+ },
+ "Sobretos": {
+  "label": "NORP",
+  "lemma": "Sobretus",
+  "candidates": []
+ },
+ "Folquetus": {
+  "label": "PERSON",
+  "lemma": "Folquetus",
+  "candidates": []
+ },
+ "Marsilia": {
+  "label": "LOC",
+  "lemma": "Marsilia",
+  "candidates": [
+   {
+    "qid": "Q47666",
+    "label": "Marsilianigum",
+    "description": "Italiae municipium"
+   },
+   {
+    "qid": "Q16421960",
+    "label": "Marsilía",
+    "description": "praenomen femininum"
+   },
+   {
+    "qid": "Q23482",
+    "label": "Massilia",
+    "description": "French commune in Bouches-du-Rhône, Provence-Alpes-Côte d'Azur; the second largest city of France"
+   },
+   {
+    "qid": "Q2855078",
+    "label": "Marsiliana",
+    "description": "frazione of Italy"
+   },
+   {
+    "qid": "Q109426287",
+    "label": "Marsilia St Krenata",
+    "description": "Indonesian politician (born 1966 in Jakarta)"
+   }
+  ]
+ },
+ "Arnaldus Danielis": {
+  "label": "PERSON",
+  "lemma": "Arnaldus",
+  "candidates": [
+   {
+    "qid": "Q21543535",
+    "label": "Georgius Arnaldus",
+    "description": "Dutch classical philologist"
+   },
+   {
+    "qid": "Q594368",
+    "label": "Arnaldus Pomodoro",
+    "description": "Italian sculptor (1926–2025)"
+   },
+   {
+    "qid": "Q434786",
+    "label": "Arnaldus Forlani",
+    "description": "Italian politician (1925–2023)"
+   },
+   {
+    "qid": "Q356568",
+    "label": "Arnaldus Villanovanus",
+    "description": "physician and alchemist of Crown of Aragon"
+   },
+   {
+    "qid": "Q4344",
+    "label": "Arnaldus Daniel",
+    "description": "Occitan troubadour"
+   }
+  ]
+ },
+ "Namericus": {
+  "label": "PERSON",
+  "lemma": "Namericus",
+  "candidates": []
+ },
+ "Belnui": {
+  "label": "LOC",
+  "lemma": "Belnui",
+  "candidates": [
+   {
+    "qid": "Q125709426",
+    "label": "Belnuit Française",
+    "description": null
+   }
+  ]
+ },
+ "Peculiano": {
+  "label": "LOC",
+  "lemma": "Peculianum",
+  "candidates": []
+ },
+ "Tegno": {
+  "label": "PERSON",
+  "lemma": "tegno",
+  "candidates": [
+   {
+    "qid": "Q11016",
+    "label": "technologia",
+    "description": "making, modification, usage, and knowledge of tools, machines, techniques, crafts, systems, and methods of organization, or tools and techniques so created"
+   },
+   {
+    "qid": "Q237525",
+    "label": "singularitas technologica",
+    "description": "hypothetic future event in which artificial intelligence iteratively redesigns itself to rapidly become more intelligent, causing technological and social change beyond prediction"
+   },
+   {
+    "qid": "Q18489304",
+    "label": "Tegnoso",
+    "description": "human settlement in Missaglia, Italy"
+   },
+   {
+    "qid": "Q7692619",
+    "label": "technology policy",
+    "description": "policies related to technology support and development in a country"
+   },
+   {
+    "qid": "Q16594668",
+    "label": "Ravellino",
+    "description": "human settlement in Italy"
+   }
+  ]
+ },
+ "Guido Caualcantis": {
+  "label": "PERSON",
+  "lemma": "Guido",
+  "candidates": [
+   {
+    "qid": "Q639762",
+    "label": "Guido",
+    "description": "praenomen masculinum"
+   },
+   {
+    "qid": "Q109061",
+    "label": "Guido Reni",
+    "description": "Bolognese painter (1575–1642)"
+   },
+   {
+    "qid": "Q18324624",
+    "label": "Guido",
+    "description": "nomen gentilicium"
+   },
+   {
+    "qid": "Q9327",
+    "label": "Guido de Maupassant",
+    "description": "French writer (1850-1893)"
+   },
+   {
+    "qid": "Q15798",
+    "label": "Guido of Siena",
+    "description": "Italian painter (1230-1290)"
+   }
+  ]
+ },
+ "Pistorio": {
+  "label": "LOC",
+  "lemma": "Pistorium",
+  "candidates": [
+   {
+    "qid": "Q13376",
+    "label": "Pistorium",
+    "description": "Italiae municipium"
+   },
+   {
+    "qid": "Q134350654",
+    "label": "Pistoriae",
+    "description": "town of Etruria, situated in the northern part of that province at the foot of the Apennines"
+   },
+   {
+    "qid": "Q131214847",
+    "label": "Pistorium",
+    "description": null
+   }
+  ]
+ },
+ "Auegna": {
+  "label": "PERSON",
+  "lemma": "auegna",
+  "candidates": []
+ },
+ "Uirgilium": {
+  "label": "PERSON",
+  "lemma": "Uergilius",
+  "candidates": []
+ },
+ "Ouidium": {
+  "label": "PERSON",
+  "lemma": "Ouidius",
+  "candidates": []
+ },
+ "Statium": {
+  "label": "PERSON",
+  "lemma": "Statius",
+  "candidates": [
+   {
+    "qid": "Q243203",
+    "label": "Publius Papinius Statius",
+    "description": "1st century AD Roman poet"
+   },
+   {
+    "qid": "Q26180",
+    "label": "Sanctus Eustathius",
+    "description": "island in the Caribbean, part of the Netherlands"
+   },
+   {
+    "qid": "Q32979133",
+    "label": "Statius",
+    "description": "Romanum nomen"
+   },
+   {
+    "qid": "Q7604444",
+    "label": "Statius",
+    "description": "Romanus praenomen"
+   },
+   {
+    "qid": "Q107102254",
+    "label": "Statius",
+    "description": "Romanum cognomen"
+   }
+  ]
+ },
+ "Titum Liuium": {
+  "label": "PERSON",
+  "lemma": "Titus",
+  "candidates": [
+   {
+    "qid": "Q1421",
+    "label": "Titus",
+    "description": "tenth Roman Emperor (79–81)"
+   },
+   {
+    "qid": "Q52683",
+    "label": "Titus",
+    "description": "Italiae municipium"
+   },
+   {
+    "qid": "Q21473990",
+    "label": "Titus",
+    "description": "Romanus praenomen"
+   },
+   {
+    "qid": "Q12902246",
+    "label": "T.",
+    "description": "praenomen masculinum"
+   },
+   {
+    "qid": "Q320136",
+    "label": "Titus",
+    "description": "early Christian missionary and church leader"
+   }
+  ]
+ },
+ "Plinium": {
+  "label": "PERSON",
+  "lemma": "Plinius",
+  "candidates": [
+   {
+    "qid": "Q202692",
+    "label": "Plinius",
+    "description": "pagina discretiva Vicimediorum"
+   },
+   {
+    "qid": "Q82778",
+    "label": "Gaius Plinius Secundus",
+    "description": "miles, scriptor"
+   },
+   {
+    "qid": "Q53796985",
+    "label": "Plinius",
+    "description": "Romanum nomen"
+   },
+   {
+    "qid": "Q151072",
+    "label": "3226 Plinius",
+    "description": "asteroides"
+   },
+   {
+    "qid": "Q1637907",
+    "label": "Plinius",
+    "description": "lunar impact crater"
+   }
+  ]
+ },
+ "Frontinum": {
+  "label": "PERSON",
+  "lemma": "Frontinus",
+  "candidates": [
+   {
+    "qid": "Q297377",
+    "label": "Sextus Iulius Frontinus",
+    "description": "Roman civil engineer, author, soldier and senator (c. 30 – 103 AD)"
+   },
+   {
+    "qid": "Q107463540",
+    "label": "Frontinus",
+    "description": "Romanum cognomen"
+   },
+   {
+    "qid": "Q45272572",
+    "label": "Frontinus",
+    "description": "dictionary entry"
+   },
+   {
+    "qid": "Q19160120",
+    "label": "Frontinus",
+    "description": "street in Wijk bij Duurstede, the Netherlands"
+   },
+   {
+    "qid": "Q84349037",
+    "label": "Frontinus",
+    "description": "Wikimedia disambiguation page"
+   }
+  ]
+ },
+ "Paulum Orosium": {
+  "label": "PERSON",
+  "lemma": "Paulus",
+  "candidates": [
+   {
+    "qid": "Q9200",
+    "label": "Paulus",
+    "description": "apostulus Iesu"
+   },
+   {
+    "qid": "Q1242655",
+    "label": "Paulus",
+    "description": "praenomen masculinum (Павел)"
+   },
+   {
+    "qid": "Q4391614",
+    "label": "Paulus",
+    "description": "praenomen masculinum"
+   },
+   {
+    "qid": "Q155394",
+    "label": "Paulus",
+    "description": "King of Greece from 1947 to 1964"
+   },
+   {
+    "qid": "Q15732712",
+    "label": "Paulus",
+    "description": "nomen gentilicium"
+   }
+  ]
+ },
+ "Guictonem": {
+  "label": "PERSON",
+  "lemma": "Guitto",
+  "candidates": [
+   {
+    "qid": "Q18436054",
+    "label": "Guitto",
+    "description": "human settlement in Italy"
+   },
+   {
+    "qid": "Q3779713",
+    "label": "Guitto",
+    "description": "Synonymous with an actor"
+   },
+   {
+    "qid": "Q1246333",
+    "label": "Guittone Arretinus",
+    "description": "Italian poet (1235-1294)"
+   },
+   {
+    "qid": "Q21450131",
+    "label": "Guitton",
+    "description": "nomen gentilicium"
+   },
+   {
+    "qid": "Q736348",
+    "label": "Cinus Pistoriensis",
+    "description": "Italian Renaissance jurist and poet (1270–1336)"
+   }
+  ]
+ },
+ "Aretinum": {
+  "label": "NORP",
+  "lemma": "aretinus",
+  "candidates": [
+   {
+    "qid": "Q41566848",
+    "label": "Buonaguida Aretinus",
+    "description": "jurist (fl. 1251-1258)"
+   },
+   {
+    "qid": "Q41569878",
+    "label": "Gratia Aretinus",
+    "description": "author (12th century)"
+   },
+   {
+    "qid": "Q643486",
+    "label": "Aretinus",
+    "description": "pagina discretiva Vicimediorum"
+   },
+   {
+    "qid": "Q296272",
+    "label": "Petrus Aretinus",
+    "description": "Italian author, playwright, poet, satirist, and blackmailer (1492-1556)"
+   },
+   {
+    "qid": "Q5564003",
+    "label": "Giovanni Tortelli",
+    "description": "Italian Renaissance humanist"
+   }
+  ]
+ },
+ "Uirgilius": {
+  "label": "PERSON",
+  "lemma": "Uergilius",
+  "candidates": []
+ },
+ "Traggemi": {
+  "label": "PERSON",
+  "lemma": "Traggemus",
+  "candidates": []
+ },
+ "Guidonis": {
+  "label": "PERSON",
+  "lemma": "Guido",
+  "candidates": [
+   {
+    "qid": "Q639762",
+    "label": "Guido",
+    "description": "praenomen masculinum"
+   },
+   {
+    "qid": "Q109061",
+    "label": "Guido Reni",
+    "description": "Bolognese painter (1575–1642)"
+   },
+   {
+    "qid": "Q18324624",
+    "label": "Guido",
+    "description": "nomen gentilicium"
+   },
+   {
+    "qid": "Q9327",
+    "label": "Guido de Maupassant",
+    "description": "French writer (1850-1893)"
+   },
+   {
+    "qid": "Q15798",
+    "label": "Guido of Siena",
+    "description": "Italian painter (1230-1290)"
+   }
+  ]
+ },
+ "Yspanos": {
+  "label": "NORP",
+  "lemma": "hispanus",
+  "candidates": [
+   {
+    "qid": "Q5772653",
+    "label": "Hispanus",
+    "description": "eponymous mythological character from Hispania"
+   },
+   {
+    "qid": "Q41618707",
+    "label": "Vincentius Hispanus",
+    "description": "author (13th century)"
+   },
+   {
+    "qid": "Q1620695",
+    "label": "Hispanus",
+    "description": "pagina discretiva Vicimediorum"
+   },
+   {
+    "qid": "Q109821016",
+    "label": "Hispanus 1 (Pauly-Wissowa)",
+    "description": "encyclopedic article in Paulys Realencyclopädie der classischen Altertumswissenschaft (RE)"
+   },
+   {
+    "qid": "Q136225879",
+    "label": "Hispanus 2 (Pauly-Wissowa)",
+    "description": "cross-reference in Paulys Realencyclopädie der classischen Altertumswissenschaft (RE)"
+   }
+  ]
+ },
+ "Guidonem Guinizelli": {
+  "label": "PERSON",
+  "lemma": "Guido",
+  "candidates": [
+   {
+    "qid": "Q639762",
+    "label": "Guido",
+    "description": "praenomen masculinum"
+   },
+   {
+    "qid": "Q109061",
+    "label": "Guido Reni",
+    "description": "Bolognese painter (1575–1642)"
+   },
+   {
+    "qid": "Q18324624",
+    "label": "Guido",
+    "description": "nomen gentilicium"
+   },
+   {
+    "qid": "Q9327",
+    "label": "Guido de Maupassant",
+    "description": "French writer (1850-1893)"
+   },
+   {
+    "qid": "Q15798",
+    "label": "Guido of Siena",
+    "description": "Italian painter (1230-1290)"
+   }
+  ]
+ },
+ "Ghisileriis": {
+  "label": "LOC",
+  "lemma": "Ghisilerius",
+  "candidates": []
+ },
+ "Fabrutium": {
+  "label": "PERSON",
+  "lemma": "Fabrutius",
+  "candidates": [
+   {
+    "qid": "Q107559257",
+    "label": "Fabrutius de' Lambertazzi",
+    "description": null
+   }
+  ]
+ },
+ "Poscia": {
+  "label": "LOC",
+  "lemma": "poscia",
+  "candidates": [
+   {
+    "qid": "Q113519901",
+    "label": "Capitolo pastorale",
+    "description": "poem by Niccolò Machiavelli"
+   },
+   {
+    "qid": "Q17651490",
+    "label": "Poscia, più che 'l dolor poté 'l digiuno",
+    "description": null
+   }
+  ]
+ },
+ "Gottus Mantuanus": {
+  "label": "PERSON",
+  "lemma": "Gottus",
+  "candidates": [
+   {
+    "qid": "Q36894623",
+    "label": "Gottuso",
+    "description": "nomen gentilicium"
+   }
+  ]
+ }
+}

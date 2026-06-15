@@ -1,0 +1,861 @@
+[
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@485",
+    "text": "nunc autem uilia sunt.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@489",
+    "text": "At ille sustulit phialam de terra;",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@491",
+    "text": "deinde martiolum de sinu protulit et phialam otio belle correxit.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@492",
+    "text": "Hoc facto putabat se solium Iouis tenere, utique postquam Caesar illi dixit:",
+    "entities": [
+      {
+        "text": "Iouis",
+        "label": "PERSON",
+        "start": 28,
+        "end": 33,
+        "multi": false
+      },
+      {
+        "text": "Caesar",
+        "label": "PERSON",
+        "start": 58,
+        "end": 64,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@494",
+    "text": "uide modo.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@495",
+    "text": "Postquam negauit, iussit illum Caesar decollari:",
+    "entities": [
+      {
+        "text": "Caesar",
+        "label": "PERSON",
+        "start": 31,
+        "end": 37,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@499",
+    "text": "quemadmodum Cassandra occidit filios suos, et pueri mortui iacent sic ut uiuere putes.",
+    "entities": [
+      {
+        "text": "Cassandra",
+        "label": "PERSON",
+        "start": 12,
+        "end": 21,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@500",
+    "text": "Habeo capides M, quas reliquit patrono meo Mummius, ubi Daedalus Niobam in equum Troianum includit.",
+    "entities": [
+      {
+        "text": "Mummius",
+        "label": "PERSON",
+        "start": 43,
+        "end": 50,
+        "multi": false
+      },
+      {
+        "text": "Daedalus",
+        "label": "PERSON",
+        "start": 56,
+        "end": 64,
+        "multi": false
+      },
+      {
+        "text": "Niobam",
+        "label": "PERSON",
+        "start": 65,
+        "end": 71,
+        "multi": false
+      },
+      {
+        "text": "Troianum",
+        "label": "NORP",
+        "start": 81,
+        "end": 89,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@503",
+    "text": "Haec dum refert, puer calicem proiecit.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@509",
+    "text": "Tandem ergo exoratus a nobis missionem dedit puero.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@510",
+    "text": "Ille dimissus circa mensam percucurrit.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@514",
+    "text": "Credite mihi:",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@516",
+    "text": "Atque ipse erectis supra frontem manibus Syrum histrionem exhibebat concinente tota familia:",
+    "entities": [
+      {
+        "text": "Syrum",
+        "label": "NORP",
+        "start": 41,
+        "end": 46,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@518",
+    "text": "Et prodisset in medium, nisi Fortunata ad aurem accessisset;",
+    "entities": [
+      {
+        "text": "Fortunata",
+        "label": "PERSON",
+        "start": 29,
+        "end": 38,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@520",
+    "text": "Nihil autem tam inaequale erat;",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@522",
+    "text": "Et plane interpellauit saltationis libidinem actuarius, qui tanquam urbis acta recitauit:",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@525",
+    "text": "sublata in horreum ex area tritici millia modium quingenta;",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@526",
+    "text": "boues domiti quingenti.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@527",
+    "text": "Eodem die:",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@529",
+    "text": "Eodem die:",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@531",
+    "text": "Eodem die:",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@537",
+    "text": "Iam etiam edicta aedilium recitabantur et saltuariorum testamenta, quibus Trimalchio cum elogio exheredabatur;",
+    "entities": [
+      {
+        "text": "Trimalchio",
+        "label": "PERSON",
+        "start": 74,
+        "end": 84,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@538",
+    "text": "iam nomina uilicorum et repudiata a cilcitore Iiberta in balneatoris contubernio deprehensa et atriensis Baias relegatus;",
+    "entities": [
+      {
+        "text": "Baias",
+        "label": "LOC",
+        "start": 105,
+        "end": 110,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@539",
+    "text": "iam reus factus dispensator et iudicium inter cubicularios actum.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@540",
+    "text": "Petauristarii autem tandem uenerunt.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@542",
+    "text": "Mirabatur haec solus Trimalchio dicebat que ingratum artificium esse.",
+    "entities": [
+      {
+        "text": "Trimalchio",
+        "label": "PERSON",
+        "start": 21,
+        "end": 31,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@543",
+    "text": "Ceterum duo esse in rebus humanis, quae libentissime spectaret, petauristarios et cornicines;",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@548",
+    "text": "Conclamauit familia, nec minus conuiuae, non propter hominem tam putidum, cuius et ceruices fractas libenter uidissent, sed propter malum exitum cenae, ne necesse haberent alienum mortuum plorare.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@553",
+    "text": "Itaque totum circumspicere triclinium coepi, ne per parietem automatum aliquod exiret, utique postquam seruus uerberari coepi, qui brachium domini contusum alba potius quam conchyliata inuoluerat lana.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@556",
+    "text": "Comprobamus nos factum et quam in praecipiti res humanae essent, uario sermone garrimus.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@559",
+    "text": "et supra nos Fortuna negotia curat.",
+    "entities": [
+      {
+        "text": "Fortuna",
+        "label": "PERSON",
+        "start": 13,
+        "end": 20,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@562",
+    "text": "Ego alterum puto disertiorem fuisse, alterum honestiorem.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@566",
+    "text": "ciconia etiam, grata peregrina hospita pietaticultrix gracilipes crotalistria, auis exul hiemis, titulus tepidi temporis, nequitiae nidum in caccabo fecit modo.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@573",
+    "text": "Ego puto medicum et nummularium:",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@575",
+    "text": "nummularius, qui per argentum aes uidet.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@577",
+    "text": "boues, quorum beneficio panem manducamus;",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@580",
+    "text": "Apes enim ego diuinas bestias puto, quae mel uomunt, etiam si dicuntur illud a Ioue afferre;",
+    "entities": [
+      {
+        "text": "Ioue",
+        "label": "PERSON",
+        "start": 79,
+        "end": 83,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@582",
+    "text": "Iam etiam philosophos de negotio deiciebat, cum pittacia in scypho circumferri coepi, puer que super hoc positus officium apophoreta recitauit:",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@590",
+    "text": "flagellum et cultrum accepit;",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@592",
+    "text": "uuam passam et mel Atticum.",
+    "entities": [
+      {
+        "text": "Atticum",
+        "label": "NORP",
+        "start": 19,
+        "end": 26,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@594",
+    "text": "offlam et tabulas accepit.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@598",
+    "text": "murem cum rana alligata fascem que betae accepit.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@599",
+    "text": "Diu risimus:",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@603",
+    "text": "Tu enim beatior es et conuiuare melius soles.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@608",
+    "text": "Non mehercules soleo cito feruere, sed in molle carne uermes nascuntur.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@609",
+    "text": "Ridet.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@610",
+    "text": "Quid habet quod rideat?",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@611",
+    "text": "Numquid pater fetum emit lamna?",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@612",
+    "text": "Eques Romanus es:",
+    "entities": [
+      {
+        "text": "Romanus",
+        "label": "NORP",
+        "start": 6,
+        "end": 13,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@613",
+    "text": "et ego regis filius.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@614",
+    "text": "Quare ergo seruiuisti?",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@616",
+    "text": "Et nunc spero me sic uiuere, ut nemini iocus sim.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@617",
+    "text": "Homo inter homines sum, capite aperto ambulo;",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@618",
+    "text": "assem aerarium nemini debeo;",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@619",
+    "text": "constitutum habui nunquam;",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@620",
+    "text": "nemo mihi in foro dixit redde quod debes.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@621",
+    "text": "Glebulas emi, lamellulas paraui;",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@622",
+    "text": "uiginti uentres pasco et canem;",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@623",
+    "text": "contubernalem meam redemi, ne quis in sinu illius manus tergeret;",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@624",
+    "text": "mille denarios pro capite solui;",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@626",
+    "text": "spero, sic moriar, ut mortuus non erubescam.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@627",
+    "text": "Tu autem tam laboriosus es, ut post te non respicias?",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@628",
+    "text": "In alio peduclum uides, in te ricinum non uides.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@629",
+    "text": "Tibi soli ridiclei uidemur;",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@631",
+    "text": "placemus illi.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@633",
+    "text": "Tu beatior es:",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@634",
+    "text": "bis prande, bis cena.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@635",
+    "text": "Ego fidem meam malo quam thesauros.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@637",
+    "text": "Annis quadraginta seruiui;",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@638",
+    "text": "nemo tamen sciit, utrum seruus essem an liber.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@639",
+    "text": "Et puer capillatus in hanc coloniam ueni;",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@642",
+    "text": "Et habebam in domo, qui mihi pedem opponerent hac illac;",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@643",
+    "text": "tamengenio illius gratias enataui.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@644",
+    "text": "Haec sunt uera athla;",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@647",
+    "text": "Post hoc dictum Giton, qui ad pedes stabat, risum iam diu compressum etiam indecenter effudit.",
+    "entities": [
+      {
+        "text": "Giton",
+        "label": "PERSON",
+        "start": 16,
+        "end": 21,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@649",
+    "text": "Io Saturnalia, rogo, mensis December est?",
+    "entities": [
+      {
+        "text": "Saturnalia",
+        "label": "PERSON",
+        "start": 3,
+        "end": 13,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@650",
+    "text": "Quando uicesimam numerasti?",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@651",
+    "text": "Nescit quid faciat, crucis offla, coruorum cibaria.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@653",
+    "text": "Ita satur pane fiam, ut ego istud conliberto meo dono;",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@654",
+    "text": "alioquin iam tibi depraesentiarum reddidissem.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@655",
+    "text": "Bene nos habemus, at isti nugae, qui tibi non imperant.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@657",
+    "text": "Uix me teneo, nec sum natura caldicerebrius, sed cum coepi, matrem meam dupundii non facio.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@660",
+    "text": "Curabo, longe tibi sit comula ista besalis et dominus dupunduarius.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@661",
+    "text": "Recte, uenies sub dentem:",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@662",
+    "text": "aut ego non me noui, aut non deridebis, licet barbam auream habeas.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@666",
+    "text": "exi, defero lamnam.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@667",
+    "text": "Iam scies patrem tuum mercedes perdidisse, quamuis et rhetoricam scis.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@670",
+    "text": "Dicam tibi, qui de nobis currit et de loco non mouetur;",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@671",
+    "text": "qui de nobis crescit et minor fit.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@672",
+    "text": "Curris, stupes, satagis, tanquam mus in matella.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@673",
+    "text": "Ergo aut tace aut meliorem noli molestare, qui te natum non putat;",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@676",
+    "text": "Eamus in forum et pecunias mutuemur:",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@677",
+    "text": "iam scies hoc ferrum fidem habere.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@678",
+    "text": "Uah, bella res est uolpis uda.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@684",
+    "text": "caue, circumspicias;",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@685",
+    "text": "caue, maiorem maledicas.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@686",
+    "text": "Aut numera mapalia:",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@691",
+    "text": "Sanguen illi feruet, tu melior esto.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@692",
+    "text": "Semper in hac re qui uincitur, uincit.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@695",
+    "text": "Intrauit factio statim hastis que scuta concrepuit.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@696",
+    "text": "Ipse Trimalchio in puluino consedit, et cum Homeristae Graecis uersibus colloquerentur, ut insolenter solent, ille canora uoce Latine legebat librum.",
+    "entities": [
+      {
+        "text": "Trimalchio",
+        "label": "PERSON",
+        "start": 5,
+        "end": 15,
+        "multi": false
+      },
+      {
+        "text": "Homeristae",
+        "label": "NORP",
+        "start": 44,
+        "end": 54,
+        "multi": false
+      },
+      {
+        "text": "Graecis",
+        "label": "NORP",
+        "start": 55,
+        "end": 62,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@698",
+    "text": "Diomedes et Ganymedes duo fratres fuerunt.",
+    "entities": [
+      {
+        "text": "Diomedes",
+        "label": "PERSON",
+        "start": 0,
+        "end": 8,
+        "multi": false
+      },
+      {
+        "text": "Ganymedes",
+        "label": "PERSON",
+        "start": 12,
+        "end": 21,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@699",
+    "text": "Horum soror erat Helena.",
+    "entities": [
+      {
+        "text": "Helena",
+        "label": "PERSON",
+        "start": 17,
+        "end": 23,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@700",
+    "text": "Agamemnon illam rapuit et Dianae ceruam subiecit.",
+    "entities": [
+      {
+        "text": "Agamemnon",
+        "label": "PERSON",
+        "start": 0,
+        "end": 9,
+        "multi": false
+      },
+      {
+        "text": "Dianae",
+        "label": "PERSON",
+        "start": 26,
+        "end": 32,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@701",
+    "text": "Ita nunc Homeros dicit, quemadmodum inter se pugnent Troiani et Parentini.",
+    "entities": [
+      {
+        "text": "Homeros",
+        "label": "PERSON",
+        "start": 9,
+        "end": 16,
+        "multi": false
+      },
+      {
+        "text": "Troiani",
+        "label": "NORP",
+        "start": 53,
+        "end": 60,
+        "multi": false
+      },
+      {
+        "text": "Parentini",
+        "label": "NORP",
+        "start": 64,
+        "end": 73,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@702",
+    "text": "Uicit scilicet et Iphigeniam, filiam suam, Achilli dedit uxorem.",
+    "entities": [
+      {
+        "text": "Iphigeniam",
+        "label": "PERSON",
+        "start": 18,
+        "end": 28,
+        "multi": false
+      },
+      {
+        "text": "Achilli",
+        "label": "PERSON",
+        "start": 43,
+        "end": 50,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@708",
+    "text": "Consternatus ego exsurrexi et timui, ne per tectum petauristarius aliquis descenderet.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@709",
+    "text": "Nec minus reliqui conuiuae mirantes erexere uultus, expectantes quid noui de caelo nuntiaretur.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@710",
+    "text": "Ecce autem diductis lacunaribus subito circulus ingens, de cupa uidelicet grandi excussus, demittitur, cuius per totum orbem coronae aureae cum alabastris unguenti pendebant.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@713",
+    "text": "Auidius ad pompam manus porreximus, et repente noua ludorum remissio hilaritatem hic refecit.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@719",
+    "text": "Nos etiam ueram imaginem ipsius Trimalchionis, cum iam omnes basiarent, erubuimus praeterire.",
+    "entities": [
+      {
+        "text": "Trimalchionis",
+        "label": "PERSON",
+        "start": 32,
+        "end": 45,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@721",
+    "text": "nescio quid nunc taces nec muttis.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@724",
+    "text": "Itaque hilaria mera sint, etsi timeo istos scholasticos, ne me rideant.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@725",
+    "text": "Uiderint:",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@726",
+    "text": "narrabo tamen:",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@727",
+    "text": "quid enim mihi aufert, qui ridet?",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@731",
+    "text": "nune Gauillae domus est.",
+    "entities": [
+      {
+        "text": "Gauillae",
+        "label": "PERSON",
+        "start": 5,
+        "end": 13,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@732",
+    "text": "Ibi, quomodo dii uolunt, amare coepi uxorem Terentii coponis:",
+    "entities": [
+      {
+        "text": "Terentii",
+        "label": "PERSON",
+        "start": 44,
+        "end": 52,
+        "multi": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,1048 @@
+[
+  {
+    "sent_id": "10724",
+    "text": "et percurrentes uniuersam regionem illam coeperunt in grabattis eos qui se male habebant circumferre ubi audiebant eum esse .",
+    "entities": []
+  },
+  {
+    "sent_id": "10725",
+    "text": "et quocumque introibat in uicos uel in uillas aut ciuitates in plateis ponebant infirmos et deprecabantur eum ut uel fimbriam uestimenti eius tangerent et quotquot tangebant eum salui fiebant .",
+    "entities": []
+  },
+  {
+    "sent_id": "16657",
+    "text": "factum est autem in sabbato secundoprimo cum transiret per sata uellebant discipuli eius spicas et manducabant confricantes manibus .",
+    "entities": []
+  },
+  {
+    "sent_id": "16658",
+    "text": "quidam autem Pharisaeorum dicebant illis .",
+    "entities": [
+      {
+        "text": "Pharisaeorum",
+        "label": "NORP",
+        "start": 13,
+        "end": 25,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "16659",
+    "text": "quid facitis quod non licet in sabbatis .",
+    "entities": []
+  },
+  {
+    "sent_id": "16660",
+    "text": "et respondens Iesus ad eos dixit .",
+    "entities": [
+      {
+        "text": "Iesus",
+        "label": "PERSON",
+        "start": 14,
+        "end": 19,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "16661",
+    "text": "nec hoc legistis quod fecit Dauid cum esurisset ipse et qui cum eo erant .",
+    "entities": [
+      {
+        "text": "Dauid",
+        "label": "PERSON",
+        "start": 28,
+        "end": 33,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "58202",
+    "text": "quomodo intrauit in domum Dei et panes propositionis sumpsit et manducauit et dedit his qui cum ipso erant quos non licet manducare nisi tantum sacerdotibus .",
+    "entities": []
+  },
+  {
+    "sent_id": "16664",
+    "text": "et dicebat illis quia .",
+    "entities": []
+  },
+  {
+    "sent_id": "58203",
+    "text": "dominus est Filius hominis etiam sabbati .",
+    "entities": []
+  },
+  {
+    "sent_id": "16666",
+    "text": "factum est autem et in alio sabbato ut intraret in synagogam et doceret .",
+    "entities": []
+  },
+  {
+    "sent_id": "16667",
+    "text": "et erat ibi homo et manus eius dextra erat arida .",
+    "entities": []
+  },
+  {
+    "sent_id": "16668",
+    "text": "obseruabant autem scribae et Pharisaei si in sabbato curaret ut inuenirent accusare illum .",
+    "entities": [
+      {
+        "text": "Pharisaei",
+        "label": "NORP",
+        "start": 29,
+        "end": 38,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "16669",
+    "text": "ipse uero sciebat cogitationes eorum .",
+    "entities": []
+  },
+  {
+    "sent_id": "16670",
+    "text": "et ait homini qui habebat manum aridam .",
+    "entities": []
+  },
+  {
+    "sent_id": "16671",
+    "text": "surge et sta in medium .",
+    "entities": []
+  },
+  {
+    "sent_id": "16672",
+    "text": "et surgens stetit .",
+    "entities": []
+  },
+  {
+    "sent_id": "16673",
+    "text": "ait autem ad illos Iesus .",
+    "entities": [
+      {
+        "text": "Iesus",
+        "label": "PERSON",
+        "start": 19,
+        "end": 24,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "16674",
+    "text": "interrogo uos si licet sabbato bene facere an male animam saluam facere an perdere .",
+    "entities": []
+  },
+  {
+    "sent_id": "16676",
+    "text": "et circumspectis omnibus dixit homini .",
+    "entities": []
+  },
+  {
+    "sent_id": "16677",
+    "text": "extende manum tuam .",
+    "entities": []
+  },
+  {
+    "sent_id": "16678",
+    "text": "et extendit .",
+    "entities": []
+  },
+  {
+    "sent_id": "16679",
+    "text": "et restituta est manus eius .",
+    "entities": []
+  },
+  {
+    "sent_id": "16680",
+    "text": "ipsi autem repleti sunt insipientia et conloquebantur ad inuicem quidnam facerent Iesu .",
+    "entities": [
+      {
+        "text": "Iesu",
+        "label": "PERSON",
+        "start": 82,
+        "end": 86,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "16681",
+    "text": "factum est autem in illis diebus exiit in montem orare et erat pernoctans in oratione Dei .",
+    "entities": []
+  },
+  {
+    "sent_id": "16682",
+    "text": "et cum dies factus esset uocauit discipulos suos .",
+    "entities": []
+  },
+  {
+    "sent_id": "16683",
+    "text": "et elegit duodecim ex ipsis quos et apostolos nominauit Simonem quem cognominauit Petrum et Andream fratrem eius Iacobum et Iohannem Philippum et Bartholomeum Mattheum et Thomam Iacobum Alphei et Simonem qui uocatur Zelotes Iudam Iacobi et Iudam Scarioth qui fuit proditor .",
+    "entities": [
+      {
+        "text": "Simonem",
+        "label": "PERSON",
+        "start": 56,
+        "end": 63,
+        "multi": true
+      },
+      {
+        "text": "Petrum",
+        "label": "PERSON",
+        "start": 82,
+        "end": 88,
+        "multi": false
+      },
+      {
+        "text": "Andream",
+        "label": "PERSON",
+        "start": 92,
+        "end": 99,
+        "multi": false
+      },
+      {
+        "text": "Iacobum",
+        "label": "PERSON",
+        "start": 113,
+        "end": 120,
+        "multi": true
+      },
+      {
+        "text": "Iohannem",
+        "label": "PERSON",
+        "start": 124,
+        "end": 132,
+        "multi": false
+      },
+      {
+        "text": "Philippum",
+        "label": "PERSON",
+        "start": 133,
+        "end": 142,
+        "multi": false
+      },
+      {
+        "text": "Bartholomeum",
+        "label": "PERSON",
+        "start": 146,
+        "end": 158,
+        "multi": false
+      },
+      {
+        "text": "Mattheum",
+        "label": "PERSON",
+        "start": 159,
+        "end": 167,
+        "multi": false
+      },
+      {
+        "text": "Thomam",
+        "label": "PERSON",
+        "start": 171,
+        "end": 177,
+        "multi": false
+      },
+      {
+        "text": "Alphei",
+        "label": "PERSON",
+        "start": 186,
+        "end": 192,
+        "multi": false
+      },
+      {
+        "text": "Iudam",
+        "label": "PERSON",
+        "start": 224,
+        "end": 229,
+        "multi": true
+      },
+      {
+        "text": "Scarioth",
+        "label": "PERSON",
+        "start": 246,
+        "end": 254,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "48096",
+    "text": "et descendens cum illis stetit in loco campestri .",
+    "entities": []
+  },
+  {
+    "sent_id": "48097",
+    "text": "et turba discipulorum eius et multitudo copiosa plebis ab omni Iudaea et Hierusalem et maritimae Tyri et Sidonis qui uenerunt ut audirent eum et sanarentur a languoribus suis .",
+    "entities": [
+      {
+        "text": "Iudaea",
+        "label": "LOC",
+        "start": 63,
+        "end": 69,
+        "multi": false
+      },
+      {
+        "text": "Hierusalem",
+        "label": "LOC",
+        "start": 73,
+        "end": 83,
+        "multi": false
+      },
+      {
+        "text": "Tyri",
+        "label": "LOC",
+        "start": 97,
+        "end": 101,
+        "multi": false
+      },
+      {
+        "text": "Sidonis",
+        "label": "LOC",
+        "start": 105,
+        "end": 112,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "16686",
+    "text": "et qui uexabantur ab spiritibus inmundis curabantur .",
+    "entities": []
+  },
+  {
+    "sent_id": "16687",
+    "text": "et omnis turba quaerebant eum tangere quia uirtus de illo exiebat et sanabat omnes .",
+    "entities": []
+  },
+  {
+    "sent_id": "16689",
+    "text": "et ipse eleuatis oculis in discipulos suos dicebat .",
+    "entities": []
+  },
+  {
+    "sent_id": "16690",
+    "text": "beati pauperes quia uestrum est regnum Dei .",
+    "entities": []
+  },
+  {
+    "sent_id": "16691",
+    "text": "beati qui nunc esuritis quia saturabimini .",
+    "entities": []
+  },
+  {
+    "sent_id": "16692",
+    "text": "beati qui nunc fletis quia ridebitis .",
+    "entities": []
+  },
+  {
+    "sent_id": "16693",
+    "text": "beati eritis cum uos oderint homines et cum separauerint uos et exprobrauerint et eiecerint nomen uestrum tamquam malum propter Filium hominis .",
+    "entities": []
+  },
+  {
+    "sent_id": "16694",
+    "text": "gaudete in illa die et exultate .",
+    "entities": []
+  },
+  {
+    "sent_id": "16695",
+    "text": "ecce enim merces uestra multa in caelo .",
+    "entities": []
+  },
+  {
+    "sent_id": "16696",
+    "text": "secundum haec enim faciebant prophetis patres eorum .",
+    "entities": []
+  },
+  {
+    "sent_id": "16697",
+    "text": "uerumtamen uae uobis diuitibus quia habetis consolationem uestram .",
+    "entities": []
+  },
+  {
+    "sent_id": "16698",
+    "text": "uae uobis qui saturati estis quia esurietis .",
+    "entities": []
+  },
+  {
+    "sent_id": "16700",
+    "text": "uae uobis qui ridetis nunc quia lugebitis et flebitis .",
+    "entities": []
+  },
+  {
+    "sent_id": "16702",
+    "text": "uae cum bene uobis dixerint omnes homines .",
+    "entities": []
+  },
+  {
+    "sent_id": "16703",
+    "text": "secundum haec faciebant prophetis patres eorum .",
+    "entities": []
+  },
+  {
+    "sent_id": "16704",
+    "text": "sed uobis dico qui auditis .",
+    "entities": []
+  },
+  {
+    "sent_id": "48098",
+    "text": "diligite inimicos uestros .",
+    "entities": []
+  },
+  {
+    "sent_id": "48099",
+    "text": "benefacite his qui uos oderunt .",
+    "entities": []
+  },
+  {
+    "sent_id": "48100",
+    "text": "benedicite maledicentibus uobis .",
+    "entities": []
+  },
+  {
+    "sent_id": "48101",
+    "text": "orate pro calumniantibus uos .",
+    "entities": []
+  },
+  {
+    "sent_id": "16707",
+    "text": "ei qui te percutit in maxillam praebe et alteram .",
+    "entities": []
+  },
+  {
+    "sent_id": "16708",
+    "text": "et ab eo qui aufert tibi uestimentum etiam tunicam noli prohibere .",
+    "entities": []
+  },
+  {
+    "sent_id": "16709",
+    "text": "omni autem petenti te tribue et qui aufert quae tua sunt ne repetas .",
+    "entities": []
+  },
+  {
+    "sent_id": "16711",
+    "text": "et prout uultis ut faciant uobis homines et uos facite illis similiter .",
+    "entities": []
+  },
+  {
+    "sent_id": "16712",
+    "text": "et si diligitis eos qui uos diligunt quae uobis est gratia .",
+    "entities": []
+  },
+  {
+    "sent_id": "16713",
+    "text": "nam et peccatores diligentes se diligunt .",
+    "entities": []
+  },
+  {
+    "sent_id": "16714",
+    "text": "et si benefeceritis his qui uobis benefaciunt quae uobis est gratia siquidem et peccatores hoc faciunt .",
+    "entities": []
+  },
+  {
+    "sent_id": "16716",
+    "text": "et si mutuum dederitis his a quibus speratis recipere quae gratia est uobis .",
+    "entities": []
+  },
+  {
+    "sent_id": "16717",
+    "text": "nam et peccatores peccatoribus fenerantur ut recipiant aequalia .",
+    "entities": []
+  },
+  {
+    "sent_id": "16718",
+    "text": "uerumtamen diligite inimicos uestros et benefacite et mutuum date nihil desperantes .",
+    "entities": []
+  },
+  {
+    "sent_id": "16720",
+    "text": "et erit merces uestra multa et eritis filii Altissimi quia ipse benignus est super ingratos et malos .",
+    "entities": []
+  },
+  {
+    "sent_id": "16721",
+    "text": "estote ergo misericordes sicut et Pater uester misericors est .",
+    "entities": []
+  },
+  {
+    "sent_id": "16722",
+    "text": "nolite iudicare et non iudicabimini .",
+    "entities": []
+  },
+  {
+    "sent_id": "16723",
+    "text": "nolite condemnare et non condemnabimini .",
+    "entities": []
+  },
+  {
+    "sent_id": "16724",
+    "text": "dimittite et dimittemini .",
+    "entities": []
+  },
+  {
+    "sent_id": "16725",
+    "text": "date et dabitur uobis .",
+    "entities": []
+  },
+  {
+    "sent_id": "16726",
+    "text": "mensuram bonam confersam et coagitatam et supereffluentem dabunt in sinum uestrum .",
+    "entities": []
+  },
+  {
+    "sent_id": "16727",
+    "text": "eadem quippe mensura qua mensi fueritis remetietur uobis .",
+    "entities": []
+  },
+  {
+    "sent_id": "16728",
+    "text": "dicebat autem illis et similitudinem .",
+    "entities": []
+  },
+  {
+    "sent_id": "16729",
+    "text": "numquid potest caecus caecum ducere .",
+    "entities": []
+  },
+  {
+    "sent_id": "16730",
+    "text": "nonne ambo in foueam cadent .",
+    "entities": []
+  },
+  {
+    "sent_id": "16731",
+    "text": "non est discipulus super magistrum .",
+    "entities": []
+  },
+  {
+    "sent_id": "16732",
+    "text": "perfectus autem omnis erit sicut magister eius .",
+    "entities": []
+  },
+  {
+    "sent_id": "48102",
+    "text": "quid autem uides festucam in oculo fratris tui .",
+    "entities": []
+  },
+  {
+    "sent_id": "48103",
+    "text": "trabem autem quae in oculo tuo est non consideras .",
+    "entities": []
+  },
+  {
+    "sent_id": "16734",
+    "text": "et quomodo potes dicere fratri tuo frater sine eiciam festucam de oculo tuo ipse in oculo tuo trabem non uidens .",
+    "entities": []
+  },
+  {
+    "sent_id": "16737",
+    "text": "hypocrita eice primum trabem de oculo tuo et tunc perspicies ut educas festucam de oculo fratris tui .",
+    "entities": []
+  },
+  {
+    "sent_id": "16739",
+    "text": "non est enim arbor bona quae facit fructus malos neque arbor mala faciens fructum bonum .",
+    "entities": []
+  },
+  {
+    "sent_id": "16741",
+    "text": "unaquaeque enim arbor de fructu suo cognoscitur .",
+    "entities": []
+  },
+  {
+    "sent_id": "16742",
+    "text": "neque enim de spinis colligunt ficus .",
+    "entities": []
+  },
+  {
+    "sent_id": "16743",
+    "text": "neque de rubo uindemiant uuam .",
+    "entities": []
+  },
+  {
+    "sent_id": "16744",
+    "text": "bonus homo de bono thesauro cordis sui profert bonum .",
+    "entities": []
+  },
+  {
+    "sent_id": "16745",
+    "text": "et malus homo de malo profert malum .",
+    "entities": []
+  },
+  {
+    "sent_id": "16746",
+    "text": "ex abundantia enim cordis os loquitur .",
+    "entities": []
+  },
+  {
+    "sent_id": "16747",
+    "text": "quid autem uocatis me Domine Domine et non facitis quae dico .",
+    "entities": []
+  },
+  {
+    "sent_id": "16749",
+    "text": "omnis qui uenit ad me et audit sermones meos et facit eos ostendam uobis cui similis est .",
+    "entities": []
+  },
+  {
+    "sent_id": "16750",
+    "text": "similis est homini aedificanti domum qui fodit in altum et posuit fundamenta supra petram .",
+    "entities": []
+  },
+  {
+    "sent_id": "16751",
+    "text": "inundatione autem facta inlisum est flumen domui illi et non potuit eam mouere .",
+    "entities": []
+  },
+  {
+    "sent_id": "16752",
+    "text": "fundata enim erat supra petram .",
+    "entities": []
+  },
+  {
+    "sent_id": "16753",
+    "text": "qui autem audiuit et non fecit similis est homini aedificanti domum suam supra terram sine fundamento .",
+    "entities": []
+  },
+  {
+    "sent_id": "16754",
+    "text": "in quam inlisus est fluuius et continuo concidit .",
+    "entities": []
+  },
+  {
+    "sent_id": "16755",
+    "text": "et facta est ruina domus illius magna .",
+    "entities": []
+  },
+  {
+    "sent_id": "17600",
+    "text": "dicebat autem et ad discipulos suos .",
+    "entities": []
+  },
+  {
+    "sent_id": "17601",
+    "text": "homo quidam erat diues qui habebat uilicum .",
+    "entities": []
+  },
+  {
+    "sent_id": "17602",
+    "text": "et hic diffamatus est apud illum quasi dissipasset bona ipsius .",
+    "entities": []
+  },
+  {
+    "sent_id": "17603",
+    "text": "et uocauit illum et ait illi .",
+    "entities": []
+  },
+  {
+    "sent_id": "17604",
+    "text": "quid hoc audio de te .",
+    "entities": []
+  },
+  {
+    "sent_id": "17605",
+    "text": "redde rationem uilicationis tuae .",
+    "entities": []
+  },
+  {
+    "sent_id": "17606",
+    "text": "iam enim non poteris uilicare .",
+    "entities": []
+  },
+  {
+    "sent_id": "17607",
+    "text": "ait autem uilicus intra se .",
+    "entities": []
+  },
+  {
+    "sent_id": "17608",
+    "text": "quid faciam quia dominus meus aufert a me uilicationem .",
+    "entities": []
+  },
+  {
+    "sent_id": "48188",
+    "text": "fodere non ualeo .",
+    "entities": []
+  },
+  {
+    "sent_id": "48189",
+    "text": "mendicare erubesco .",
+    "entities": []
+  },
+  {
+    "sent_id": "17610",
+    "text": "scio quid faciam ut cum amotus fuero a uilicatione recipiant me in domos suas .",
+    "entities": []
+  },
+  {
+    "sent_id": "17611",
+    "text": "conuocatis itaque singulis debitoribus domini sui dicebat primo .",
+    "entities": []
+  },
+  {
+    "sent_id": "17612",
+    "text": "quantum debes domino meo .",
+    "entities": []
+  },
+  {
+    "sent_id": "17613",
+    "text": "at ille dixit .",
+    "entities": []
+  },
+  {
+    "sent_id": "17614",
+    "text": "centum cados olei .",
+    "entities": []
+  },
+  {
+    "sent_id": "17615",
+    "text": "dixit que illi .",
+    "entities": []
+  },
+  {
+    "sent_id": "17616",
+    "text": "accipe cautionem tuam .",
+    "entities": []
+  },
+  {
+    "sent_id": "48190",
+    "text": "et sede cito .",
+    "entities": []
+  },
+  {
+    "sent_id": "48191",
+    "text": "scribe quinquaginta .",
+    "entities": []
+  },
+  {
+    "sent_id": "17618",
+    "text": "deinde alio dixit .",
+    "entities": []
+  },
+  {
+    "sent_id": "17619",
+    "text": "tu uero quantum debes .",
+    "entities": []
+  },
+  {
+    "sent_id": "17620",
+    "text": "qui ait .",
+    "entities": []
+  },
+  {
+    "sent_id": "17621",
+    "text": "centum choros tritici .",
+    "entities": []
+  },
+  {
+    "sent_id": "17622",
+    "text": "ait illi .",
+    "entities": []
+  },
+  {
+    "sent_id": "17623",
+    "text": "accipe litteras tuas et scribe octoginta .",
+    "entities": []
+  },
+  {
+    "sent_id": "58192",
+    "text": "et laudauit dominus uilicum iniquitatis quia prudenter fecisset .",
+    "entities": []
+  },
+  {
+    "sent_id": "48193",
+    "text": "quia filii huius saeculi prudentiores filiis lucis in generatione sua sunt .",
+    "entities": []
+  },
+  {
+    "sent_id": "17626",
+    "text": "et ego uobis dico .",
+    "entities": []
+  },
+  {
+    "sent_id": "17627",
+    "text": "facite uobis amicos de mamona iniquitatis ut cum defeceritis recipiant uos in aeterna tabernacula .",
+    "entities": []
+  },
+  {
+    "sent_id": "17629",
+    "text": "qui fidelis est in minimo et in maiori fidelis est .",
+    "entities": []
+  },
+  {
+    "sent_id": "17630",
+    "text": "et qui in modico iniquus est et in maiori iniquus est .",
+    "entities": []
+  },
+  {
+    "sent_id": "17631",
+    "text": "si ergo in iniquo mamona fideles non fuistis quod uerum est quis credet uobis .",
+    "entities": []
+  },
+  {
+    "sent_id": "17632",
+    "text": "et si in alieno fideles non fuistis quod uestrum est quis dabit uobis .",
+    "entities": []
+  },
+  {
+    "sent_id": "17633",
+    "text": "nemo seruus potest duobus dominis seruire .",
+    "entities": []
+  },
+  {
+    "sent_id": "17634",
+    "text": "aut enim unum odiet et alterum diliget aut uni adherebit et alterum contemnet .",
+    "entities": []
+  },
+  {
+    "sent_id": "17636",
+    "text": "non potestis Deo seruire et mamonae .",
+    "entities": []
+  },
+  {
+    "sent_id": "17637",
+    "text": "audiebant autem omnia haec Pharisaei qui erant auari .",
+    "entities": [
+      {
+        "text": "Pharisaei",
+        "label": "NORP",
+        "start": 27,
+        "end": 36,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "17638",
+    "text": "et deridebant illum .",
+    "entities": []
+  },
+  {
+    "sent_id": "17639",
+    "text": "et ait illis .",
+    "entities": []
+  },
+  {
+    "sent_id": "17640",
+    "text": "uos estis qui iustificatis uos coram hominibus .",
+    "entities": []
+  },
+  {
+    "sent_id": "17641",
+    "text": "Deus autem nouit corda uestra .",
+    "entities": []
+  },
+  {
+    "sent_id": "17642",
+    "text": "quia quod hominibus altum est abominatio est ante Deum .",
+    "entities": []
+  },
+  {
+    "sent_id": "17643",
+    "text": "lex et prophetae usque ad Iohannem .",
+    "entities": [
+      {
+        "text": "Iohannem",
+        "label": "PERSON",
+        "start": 26,
+        "end": 34,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "17644",
+    "text": "ex eo regnum Dei euangelizatur et omnis in illud uim facit .",
+    "entities": []
+  },
+  {
+    "sent_id": "17645",
+    "text": "facilius est autem caelum et terram praeterire quam de lege unum apicem cadere .",
+    "entities": []
+  },
+  {
+    "sent_id": "17646",
+    "text": "omnis qui dimittit uxorem suam et ducit alteram moechatur .",
+    "entities": []
+  },
+  {
+    "sent_id": "17647",
+    "text": "et qui dimissam a uiro ducit moechatur .",
+    "entities": []
+  },
+  {
+    "sent_id": "17648",
+    "text": "homo quidam erat diues et induebatur purpura et bysso et epulabatur cotidie splendide .",
+    "entities": []
+  },
+  {
+    "sent_id": "17649",
+    "text": "et erat quidam mendicus nomine Lazarus qui iacebat ad ianuam eius ulceribus plenus cupiens saturari de micis quae cadebant de mensa diuitis .",
+    "entities": [
+      {
+        "text": "Lazarus",
+        "label": "PERSON",
+        "start": 31,
+        "end": 38,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "17650",
+    "text": "sed et canes ueniebant et lingebant ulcera eius .",
+    "entities": []
+  },
+  {
+    "sent_id": "17651",
+    "text": "factum est autem ut moreretur mendicus et portaretur ab angelis in sinum Abrahae .",
+    "entities": [
+      {
+        "text": "Abrahae",
+        "label": "PERSON",
+        "start": 73,
+        "end": 80,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "17652",
+    "text": "mortuus est autem et diues et sepultus est in inferno .",
+    "entities": []
+  },
+  {
+    "sent_id": "17653",
+    "text": "eleuans oculos suos cum esset in tormentis uidebat Abraham a longe et Lazarum in sinu eius .",
+    "entities": [
+      {
+        "text": "Abraham",
+        "label": "PERSON",
+        "start": 51,
+        "end": 58,
+        "multi": false
+      },
+      {
+        "text": "Lazarum",
+        "label": "PERSON",
+        "start": 70,
+        "end": 77,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "17654",
+    "text": "et ipse clamans dixit .",
+    "entities": []
+  },
+  {
+    "sent_id": "17655",
+    "text": "pater Abraham miserere mei et mitte Lazarum ut intinguat extremum digiti sui in aqua ut refrigeret linguam meam quia crucior in hac flamma .",
+    "entities": [
+      {
+        "text": "Abraham",
+        "label": "PERSON",
+        "start": 6,
+        "end": 13,
+        "multi": false
+      },
+      {
+        "text": "Lazarum",
+        "label": "PERSON",
+        "start": 36,
+        "end": 43,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "17656",
+    "text": "et dixit illi Abraham .",
+    "entities": [
+      {
+        "text": "Abraham",
+        "label": "PERSON",
+        "start": 14,
+        "end": 21,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "17657",
+    "text": "fili recordare quia recepisti bona in uita tua et Lazarus similiter mala .",
+    "entities": [
+      {
+        "text": "Lazarus",
+        "label": "PERSON",
+        "start": 50,
+        "end": 57,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "48194",
+    "text": "nunc autem hic consolatur .",
+    "entities": []
+  },
+  {
+    "sent_id": "48195",
+    "text": "tu uero cruciaris .",
+    "entities": []
+  },
+  {
+    "sent_id": "17659",
+    "text": "et in his omnibus inter nos et uos chasma magnum firmatum est ut hii qui uolunt hinc transire ad uos non possint neque inde huc transmeare .",
+    "entities": []
+  },
+  {
+    "sent_id": "17661",
+    "text": "et ait .",
+    "entities": []
+  },
+  {
+    "sent_id": "17662",
+    "text": "rogo ergo te pater ut mittas eum in domum patris mei habeo enim quinque fratres ut testetur illis ne et ipsi ueniant in locum hunc tormentorum .",
+    "entities": []
+  },
+  {
+    "sent_id": "17665",
+    "text": "et ait illi Abraham .",
+    "entities": [
+      {
+        "text": "Abraham",
+        "label": "PERSON",
+        "start": 12,
+        "end": 19,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "17666",
+    "text": "habent Mosen et prophetas .",
+    "entities": [
+      {
+        "text": "Mosen",
+        "label": "PERSON",
+        "start": 7,
+        "end": 12,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "17667",
+    "text": "audiant illos .",
+    "entities": []
+  },
+  {
+    "sent_id": "17668",
+    "text": "at ille dixit .",
+    "entities": []
+  }
+]

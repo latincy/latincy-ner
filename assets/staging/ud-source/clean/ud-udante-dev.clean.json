@@ -1,0 +1,5725 @@
+{
+ "metadata": {
+  "title": "UD UD_Latin-UDante NER candidates (dev)",
+  "source": "Universal Dependencies UD_Latin-UDante",
+  "latincy-ner-project": "ud-source",
+  "latincy-ner-project-subset": "udante-dev",
+  "license": {
+   "treebank": "UD_Latin-UDante",
+   "text_license": "CC BY-NC-SA 3.0",
+   "note": "NER candidates are PROPN-derived silver scaffold, untyped."
+  },
+  "ingested": "2026-06-14T12:53:27.997188+00:00",
+  "ingest_tool": "scripts/ingest_ud_source.py"
+ },
+ "annotation": {
+  "tagset": [
+   "PERSON",
+   "LOC",
+   "NORP"
+  ],
+  "candidate_label": "PROPN_CAND",
+  "review_level": "candidate"
+ },
+ "data": [
+  {
+   "text": "Reuerendissimo in Christo patri dominorum suorum carissimo domino Nicholao miseratione celesti Ostiensi et Uallatrensi episcopo, Apostolice Sedis legato, necnon in Tuscia Romandiola et Marchia Triuisiana et partibus circum adiacentibus paciario per sacrosanctam Ecclesiam ordinato, deuotissimi filii A. capitaneus, Consilium et Uniuersitas partis Alborum de Florentia semet ipsos deuotissime atque promptissime recommendant.",
+   "spans": [
+    {
+     "start": 18,
+     "end": 25,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 66,
+     "end": 74,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 164,
+     "end": 170,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 300,
+     "end": 301,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 358,
+     "end": 367,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-1",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Preceptis salutaribus moniti et Apostolica pietate rogati, sacre uocis contextui, quem misistis post cara nobis consilia, respondemus.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-2",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Et si negligentie sontes aut ignauie censeremur ob iniuriam tarditatis, citra iudicium discretio sancta uestra preponderet; et quantis qualibus que consiliis et responsis, obseruata sinceritate consortii, nostra Fraternitas decenter procedendo indigeat, et examinatis que tangimus, ubi forte contra debitam celeritatem defecisse despicimur, ut affluentia uestre Benignitatis indulgeat deprecamur.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-3",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Ceu filii non ingrati litteras igitur pie uestre Paternitatis aspeximus, que totius nostri desiderii personantes exordia, subito mentes nostras tanta letitia perfuderunt, quantam nemo ualeret seu uerbo seu cogitatione metiri.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-4",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Nam quam, fere pre desiderio sompniantes, inhiabamus patrie sanitatem, uestrarum litterarum series plusquam semel sub paterna monitione polluxit.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-5",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Et ad quid aliud in ciuile bellum corruimus, quid aliud candida nostra signa petebant, et ad quid aliud enses et tela nostra rubebant, nisi ut qui ciuilia iura temeraria uoluptate truncauerant, et iugo pie legis colla submitterent, et ad pacem patrie cogerentur?",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-6",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Quippe nostre intentionis cuspis legiptima, de neruo quem tendebamus prorumpens, quietem solam et libertatem populi Florentini petebat;",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-7-a",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "petit, atque petet in posterum.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-7-b",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Quod si tam gratissimo nobis beneficio uigilatis, et aduersarios nostros, prout sancta conamina uestra uoluerint, ad sulcos bone ciuilitatis intenditis remeare, quis uobis dignas grates persoluere attentabit?",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-8",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Nec opis est nostre, pater, nec quicquid Florentine gentis reperitur in terris.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-9",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Sed si qua celo est pietas que talia remuneranda prospiciat, illa uobis premia digna ferat, qui tante urbis misericordiam induistis et ad sedanda ciuium profana litigia festinatis.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-10",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Sane, cum per sancte religionis uirum fratrem L. ciuilitatis persuasorem et pacis, premoniti atque requisiti sumus instanter pro uobis, quemadmodum et ipse uestre littere continebant, ut ab omni guerrarum insultu cessaremus et usu, et nos ipsos in paternas manus uestras exhiberemus in totum, nos filii deuotissimi uobis et pacis amatores et iusti, exuti iam gladiis, arbitrio uestro spontanea et sincera uoluntate subimus, ceu relatu prefati uestri nuntii fratris L. narrabitur, et per publica instrumenta solempniter celebrata liquebit.",
+   "spans": [
+    {
+     "start": 46,
+     "end": 47,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 465,
+     "end": 466,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-11",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Idcirco pietati clementissime uestre filiali uoce affectuosissime supplicamus quatenus illam diu exagitatam Florentiam sopore tranquillitatis et pacis irrigare uelitis, eius que semper populum defensantes nos et que nostri sunt iuris, ut pius pater, commendatos habere; qui uelud a patrie caritate nunquam destitimus, sic de preceptorum uestrorum limitibus nunquam exorbitare intendimus, sed semper tam debite quam deuote quibuscunque uestris obedire mandatis.",
+   "spans": [
+    {
+     "start": 108,
+     "end": 118,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-12",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Patruus uester Alexander, comes illustris, qui diebus proximis celestem unde uenerat secundum spiritum remeauit ad patriam, dominus meus erat et memoria eius usquequo sub tempore uiuam dominabitur michi, quando magnificentia sua, que super astra nunc affluenter dignis premiis muneratur, me sibi ab annosis temporibus sponte sua fecit esse subiectum.",
+   "spans": [
+    {
+     "start": 15,
+     "end": 24,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-13",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Hec equidem, cunctis aliis uirtutibus comitata in illo, suum nomen pre titulis Ytalorum, ereum illustrabat.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-14",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Et quid aliud heroica sua signa dicebant, nisi «scuticam uitiorum fugatricem ostendimus»?",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-15",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Argenteas etenim scuticas in purpureo deferebat extrinsecus, et intrinsecus mentem in amore uirtutum uitia repellentem.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-16",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Doleat ergo, doleat progenies maxima Tuscanorum, que tanto uiro fulgebat, et doleant omnes amici eius et subditi, quorum spem mors crudeliter uerberauit; inter quos ultimos me miserum dolere oportet, qui a patria pulsus et exul inmeritus infortunia mea rependens continuo, cara spe memet consolabar in illo.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-17",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Sed quanquam sensualibus amissis doloris amaritudo incumbat, si considerentur intellectualia que supersunt sane mentis; oculis lux dulcis consolationis exoritur.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-18",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Nam qui uirtutem honorabat in terris, nunc a Uirtutibus honoratur in celis;",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-19-a",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "et qui Romane aule palatinus erat in Tuscia, nunc regie sempiterne aulicus preelectus in superna Ierusalem cum beatorum principibus gloriatur.",
+   "spans": [
+    {
+     "start": 37,
+     "end": 43,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 97,
+     "end": 106,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-19-b",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Quapropter, carissimi domini mei, supplici exhortatione uos deprecor quatenus modice dolere uelitis et sensualia postergare, nisi prout uobis exemplaria esse possunt;",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-20-a",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "et quemadmodum ipse iustissimus bonorum sibi uos instituit in heredes, sic ipsi uos, tanquam proximiores ad illum, mores eius egregios induatis.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-20-b",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Ego autem, preter hec, me uestrum uestre discretioni excuso de absentia lacrimosis exequiis; quia nec negligentia neue ingratitudo me tenuit, sed inopina paupertas quam fecit exilium.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-21",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Hec etenim, uelud effera persecutrix, equis armis que uacantem iam sue captiuitatis me detrusit in antrum, et nitentem cunctis exsurgere uiribus, hucusque preualens, impia retinere molitur.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-22",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Exulanti Pistoriensi Florentinus exul inmeritus per tempora diuturna salutem et perpetue caritatis ardorem.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-23",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Eructuauit incendium tue dilectionis uerbum confidentie uehementis ad me, in quo consuluisti, carissime, utrum de passione in passionem possit anima transformari: de passione in passionem dico secundum eandem potentiam et obiecta diuersa numero sed non specie; quod quamuis ex ore tuo iustius prodire debuerat, nichilominus me illius auctorem facere uoluisti, ut in declaratione rei nimium dubitate titulum mei nominis ampliares.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-24",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Hoc etenim, cum cognitum, quam acceptum quam que gratum extiterit, absque importuna diminutione uerba non caperent:",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-25-a",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "ideo, causa conticentie huius inspecta, ipse quod non exprimitur metiaris.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-25-b",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Redditur, ecce, sermo Calliopeus inferius, quo sententialiter canitur, quanquam transumptiue more poetico signetur intentum, amorem huius posse torpescere atque denique interire, nec non huius, quod corruptio unius generatio sit alterius, in anima reformari.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-26",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Et fides huius, quanquam sit ab experientia persuasum, ratione potest et autoritate muniri.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-27",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Omnis namque potentia que post corruptionem unius actus non deperit, naturaliter reseruatur in alium:",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-28-a",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "ergo potentie sensitiue, manente organo, per corruptionem unius actus non depereunt, et naturaliter reseruantur in alium.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-28-b",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Cum igitur potentia concupiscibilis, que sedes amoris est, sit potentia sensitiua, manifestum est quod post corruptionem unius passionis qua in actum reducitur, in alium reseruatur.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-29",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Maior et minor propositio sillogismi, quarum facilis patet introitus, tue diligentie relinquantur probande.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-30",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Autoritatem uero Nasonis, quarto De Rerum Transformatione, que directe atque ad litteram propositum respicit, superest ut intueare; scilicet ubi tradit autor equidem in fabula trium sororum contemtricum in semine Semeles, ad Solem loquens, qui, nymphis aliis derelictis atque neglectis in quas prius exarserat, nouiter Leucothoen diligebat «Quid nunc, Yperione nate», et reliqua.",
+   "spans": [
+    {
+     "start": 17,
+     "end": 24,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 213,
+     "end": 220,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 319,
+     "end": 329,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 352,
+     "end": 360,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-31",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Sub hoc, frater carissime, ad prudentiam, qua contra Rhamnusie spicula sis patiens, te exhortor.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-32",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Perlege, deprecor, Fortuitorum Remedia, que ab inclitissimo phylosophorum Seneca nobis uelut a patre filiis ministrantur, et illud de memoria sana tua non defluat: «Si de mundo fuissetis, mundus quod suum erat diligeret».",
+   "spans": [
+    {
+     "start": 74,
+     "end": 80,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-33",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Ne lateant dominum uincula serui sui, quam affectus gratuitas dominantis, et ne alia relata pro aliis, que falsarum oppinionum seminaria frequentius esse solent, negligentem predicent carceratum, ad conspectum Magnificentie uestre presentis oraculi seriem placuit destinare.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-34",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Igitur michi a limine suspirate postea curie separato, in qua, uelut sepe sub admiratione uidistis, fas fuit sequi libertatis officia, cum primum pedes iuxta Sarni fluenta securus et incautus defigerem, subito heu! mulier, ceu fulgur descendens, apparuit, nescio quomodo, meis auspitiis undique moribus et forma conformis.",
+   "spans": [
+    {
+     "start": 158,
+     "end": 163,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-35",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "O quam in eius apparitione obstupui!",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-36",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Sed stupor subsequentis tonitrui terrore cessauit.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-37",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Nam sicut diurnis coruscationibus illico succedunt tonitrua, sic inspecta flamma pulcritudinis huius, Amor terribilis et imperiosus me tenuit.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-38",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Atque hic ferox, tanquam dominus pulsus a patria post longum exilium sola in sua repatrians, quicquid eius contrarium fuerat intra me, uel occidit uel expulit uel ligauit.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-39",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Occidit ergo propositum illud laudabile quo a mulieribus suis que cantibus abstinebam;",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-40-a",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "ac meditationes assiduas, quibus tam celestia quam terrestria intuebar, quasi suspectas, impie relegauit;",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-40-b",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "et denique, ne contra se amplius anima rebellaret, liberum meum ligauit arbitrium, ut non quo ego, sed quo ille uult, me uerti oporteat.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-40-c",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Regnat itaque Amor in me, nulla refragante uirtute;",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-41-a",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "qualiter que me regat, inferius extra sinum presentium requiratis.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-41-b",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Uniuersis et singulis Ytalie Regibus et Senatoribus alme Urbis nec non Ducibus Marchionibus Comitibus atque Populis, humilis ytalus Dantes Alagherii fiorentinus et exul inmeritus orat pacem.",
+   "spans": [
+    {
+     "start": 22,
+     "end": 28,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 132,
+     "end": 148,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-42",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "«Ecce nunc tempus acceptabile», quo signa surgunt consolationis et pacis.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-43",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Nam dies noua splendescit auroram demonstrans, que iam tenebras diuturne calamitatis attenuat;",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-44-a",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "iam que aure orientales crebrescunt;",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-44-b",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "rutilat celum in labiis suis, et auspitia gentium blanda serenitate confortat.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-44-c",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Et nos gaudium expectatum uidebimus, qui diu pernoctitauimus in deserto, quoniam Titan exorietur pacificus, et iustitia, sine sole quasi eliotropium hebetata, cum primum iubar ille uibrauerit, reuirescet.",
+   "spans": [
+    {
+     "start": 81,
+     "end": 86,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-45",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Saturabuntur omnes qui esuriunt et sitiunt iustitiam in lumine radiorum eius, et confundentur qui diligunt iniquitatem a facie coruscantis.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-46",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Arrexit namque aures misericordes Leo fortis de tribu Iuda;",
+   "spans": [
+    {
+     "start": 54,
+     "end": 58,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-47-a",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "atque ullulatum uniuersalis captiuitatis miserans, Moysen alium suscitauit, qui de grauaminibus Egiptiorum populum suum eripiet, ad terram lacte ac melle manantem perducens.",
+   "spans": [
+    {
+     "start": 51,
+     "end": 57,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-47-b",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Letare iam nunc miseranda Ytalia etiam Saracenis, que statim inuidiosa per orbem uideberis, quia sponsus tuus, mundi solatium et gloria plebis tue, clementissimus Henricus, diuus et Augustus et Cesar, ad nuptias properat.",
+   "spans": [
+    {
+     "start": 26,
+     "end": 32,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 163,
+     "end": 171,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 182,
+     "end": 190,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 194,
+     "end": 199,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-48",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Exsicca lacrimas et meroris uestigia dele, pulcerrima, nam prope est qui liberabit te de carcere impiorum;",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-49-a",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "qui percutiens malignantes in ore gladii perdet eos, et uineam suam aliis locabit agricolis qui fructum iustitie reddant in tempore messis.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-49-b",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Sed an non miserebitur cuiquam?",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-50",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Ymo ignoscet omnibus misericordiam implorantibus, cum sit Cesar et maiestas eius de Fonte defluat pietatis.",
+   "spans": [
+    {
+     "start": 58,
+     "end": 63,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-51",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Huius iudicium omnem seueritatem abhorret, et semper citra medium plectens, ultra medium premiando se figit.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-52",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Anne propterea nequam hominum applaudet audacias, et initis presumptionum pocula propinabit?",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-53",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Absit, quoniam Augustus est.",
+   "spans": [
+    {
+     "start": 15,
+     "end": 23,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-54",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Et si Augustus, non ne relapsorum facinora uindicabit, et usque in Thessaliam persequetur, Thessaliam, inquam, finalis deletionis?",
+   "spans": [
+    {
+     "start": 6,
+     "end": 14,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 67,
+     "end": 77,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 91,
+     "end": 101,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-55",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Pone, sanguis Longobardorum, coadductam barbariem; et si quid de Troyanorum Latinorum que semine superest, illi cede, ne cum sublimis aquila fulguris instar descendens affuerit, abiectos uideat pullos eius, et prolis proprie locum coruulis occupatum.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-56",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Eya, facite, Scandinauie soboles, ut, cuius merito trepidatis aduentum, quod ex uobis est, presentiam sitiatis.",
+   "spans": [
+    {
+     "start": 13,
+     "end": 24,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-57",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Nec seducat alludens cupiditas, more Sirenum nescio qua dulcedine uigiliam rationis mortificans.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-58",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Preoccupetis faciem eius in confessione subiectionis, et in psalterio penitentie iubiletis, considerantes quia «potestati resistens Dei ordinationi resistit»;",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-59-a",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "et qui diuine ordinationi repugnat, uoluntati omnipotentie coequali recalcitrat;",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-59-b",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "et «durum est contra stimulum calcitrare».",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-59-c",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Uos autem qui lugetis oppressi «animum subleuate, quoniam prope est uestra salus».",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-60",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Assumite rastrum bone humilitatis, atque glebis exuste animositatis occatis, agellum sternite mentis uestre, ne forte celestis imber, sementem uestram ante iactum preueniens, in uacuum de altissimo cadat, neue resiliat gratia Dei ex uobis tanquam ros quotidianus ex lapide;",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-61-a",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "sed uelut fecunda uallis concipite ac uiride germinetis, uiride dico fructiferum uere pacis;",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-61-b",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "qua quidem uiriditate uestra terra uernante, nouus agricola Romanorum consilii sui boues ad aratrum affectuosius et confidentius coniugabit.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-61-c",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Parcite, parcite iam ex nunc, o carissimi, qui me cum iniuriam passi estis, ut Hectoreus pastor uos oues de ouili suo cognoscat; cui et si animaduersio temporalis diuinitus est indulta, tamen, ut eius bonitatem redoleat a quo uelut a puncto biffurcatur Petri Cesaris que potestas, uoluptuose familiam suam corrigit, sed ei uoluptuosius miseretur.",
+   "spans": [
+    {
+     "start": 253,
+     "end": 266,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-62",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Itaque, si culpa uetus non obest, que plerunque supinatur ut coluber et uertitur in se ipsam, hinc utrique potestis aduertere, pacem unicuique preparari, et insperate letitie iam primitias degustare.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-63",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Euigilate igitur omnes et assurgite regi uestro, incole Latiales, non solum sibi ad imperium, sed, ut liberi, ad regimen reseruati.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-64",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Nec tantum ut assurgatis exhortor, sed ut illius obstupescatis aspectum.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-65",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Qui bibitis fluenta eius eius que maria nauigatis; qui calcatis arenas littorum et Alpium summitates, que sue sunt; qui publicis quibuscunque gaudetis, et res priuatas uinculo sue legis, non aliter, possidetis; nolite, uelut ignari, decipere uosmet ipsos tanquam sompniantes, in cordibus et dicentes: «Dominum non habemus».",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-66",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Hortus enim eius et lacus est quod celum circuit; nam «Dei est mare, et ipse fecit illud, et aridam fundauerunt manus eius».",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-67",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Unde Deum romanum Principem predestinasse relucet in miris effectibus;",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-68-a",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "et uerbo Uerbi confirmasse posterius profitetur Ecclesia.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-68-b",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Nempe si «a creatura mundi inuisibilia Dei, per ea que facta sunt, intellectu conspiciuntur», et si ex notioribus nobis innotiora; si simpliciter interest humane apprehensioni ut per motum celi Motorem intelligamus et eius uelle; facile predestinatio hec etiam leuiter intuentibus innotescet.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-69",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Nam si a prima scintillula huius ignis reuoluamus preterita, ex quo scilicet Argis hospitalitas est a Frigibus denegata, et usque ad Octauiani triumphos mundi gesta reuisere uacet; non nulla eorum uidebimus humane uirtutis omnino culmina transcendisse, et Deum per homines, tanquam per celos nouos, aliquid operatum fuisse.",
+   "spans": [
+    {
+     "start": 133,
+     "end": 142,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-70",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Non etenim semper nos agimus, quin interdum utensilia Dei sumus;",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-71-a",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "ac uoluntates humane, quibus inest ex natura libertas, etiam inferioris affectus inmunes quandoque aguntur, et obnoxie uoluntati eterne sepe illi ancillantur ignare.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-71-b",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Et si hec, que uti principia sunt, ad probandum quod queritur non sufficiunt, quis non ab illata conclusione per talia precedentia me cum oppinari cogetur, pace uidelicet annorum duodecim orbem totaliter amplexata, que sui sillogizantis faciem Dei filium, sicuti opere patrato, ostendit?",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-72",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Et hic, cum ad reuelationem Spiritus, homo factus, euangelizaret in terris, quasi dirimens duo regna, sibi et Cesari uniuersa distribuens, alterutri iussit reddi que sua sunt.",
+   "spans": [
+    {
+     "start": 110,
+     "end": 116,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-73",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Quod si pertinax animus poscit ulterius, nondum annuens ueritati, uerba Christi examinet etiam iam ligati; cui cum potestatem suam Pilatus obiceret, Lux nostra de sursum esse asseruit quod ille iactabat qui Cesaris ibi auctoritate uicaria gerebat officium.",
+   "spans": [
+    {
+     "start": 72,
+     "end": 79,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 131,
+     "end": 138,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 207,
+     "end": 214,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-74",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "«Non igitur ambuletis sicut et gentes ambulant in uanitate sensus» tenebris obscurati;",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-75-a",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "sed aperite oculos mentis uestre, ac uidete quoniam regem nobis celi ac terre Dominus ordinauit.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-75-b",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Hic est quem Petrus, Dei uicarius, honorificare nos monet;",
+   "spans": [
+    {
+     "start": 13,
+     "end": 19,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-76-a",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "quem Clemens, nunc Petri successor, luce Apostolice benedictionis illuminat; ut ubi radius spiritualis non sufficit, ibi splendor minoris luminaris illustret.",
+   "spans": [
+    {
+     "start": 5,
+     "end": 12,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 19,
+     "end": 24,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-76-b",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Dantes Alagherii florentinus et exul inmeritus scelestissimis Florentinis intrinsecis.",
+   "spans": [
+    {
+     "start": 0,
+     "end": 16,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-77",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Eterni pia prouidentia Regis, qui dum celestia sua bonitate perpetuat, infera nostra despiciendo non deserit, sacrosancto Romanorum Imperio res humanas disposuit gubernandas, ut sub tanti serenitate presidii genus mortale quiesceret, et ubique, natura poscente, ciuiliter degeretur.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-78",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Hoc et si diuinis comprobatur eloquiis, hoc et si solius podio rationis innixa contestatur antiquitas, non leuiter tamen ueritati applaudit quod, solio augustali uacante, totus orbis exorbitat, quod nauclerus et remiges in nauicula Petri dormitant, et quod Ytalia misera, sola, priuatis arbitriis derelicta omni que publico moderamine destituta, quanta uentorum fluentorum ue concussione feratur uerba non caperent, sed et uix Ytali infelices lacrimis metiuntur.",
+   "spans": [
+    {
+     "start": 232,
+     "end": 237,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 257,
+     "end": 263,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-79",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Igitur in hanc Dei manifestissimam uoluntatem quicunque temere presumendo tumescunt, si gladius Eius qui dicit: «Mea est ultio» de celo non cecidit, ex nunc seueri iudicis aduentante iudicio pallore notentur.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-80",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Uos autem diuina iura et humana transgredientes, quos dira cupiditatis ingluuies paratos in omne nefas illexit, non ne terror secunde mortis exagitat, ex quo, primi et soli iugum libertatis horrentes, in romani Principis, mundi regis et Dei ministri, gloriam fremuistis, atque iure prescriptionis utentes, debite subiectionis officium denegando, in rebellionis uesaniam maluistis insurgere?",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-81",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "An ignoratis, amentes et discoli, publica iura cum sola temporis terminatione finiri, et nullius prescriptionis calculo fore obnoxia?",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-82",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Nempe legum sanctiones alme declarant, et humana ratio percontando decernit, publica rerum dominia, quantalibet diuturnitate neglecta, nunquam posse uanescere uel abstenuata conquiri; nam quod ad omnium cedit utilitatem, sine omnium detrimento interire non potest, uel etiam infirmari;",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-83-a",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "et hoc Deus et natura non uult, et mortalium penitus abhorreret adsensus.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-83-b",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Quid, fatua tali oppinione summota, tanquam alteri Babilonii, pium deserentes imperium noua regna temptatis, ut alia sit Florentina ciuilitas, alia sit Romana?",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-84",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Cur apostolice monarchie similiter inuidere non libet, ut si Delia geminatur in celo, geminetur et Delius?",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-85",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Atqui si male ausa rependere uobis terrori non est, territet saltim obstinata precordia quod non modo sapientia, sed initium eius ad penam culpe uobis ablatum est.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-86",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Nulla etenim conditio delinquentis formidolosior, quam impudenter et sine Dei timore quicquid libet agentis.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-87",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Hac nimirum persepe animaduersione percutitur impius, ut moriens obliuiscatur sui qui dum uiueret oblitus est Dei.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-88",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Sin prorsus arrogantia uestra insolens adeo roris altissimi, ceu cacumina Gelboe, uos fecit exsortes, ut Senatus eterni consulto restitisse timori non fuerit, nec etiam non timuisse timetis; num quid timor ille perniciosus, humanus uidelicet atque mundanus, abesse poterit, superbissimi uestri sanguinis uestre que multum lacrimande rapine ineuitabili naufragio properante?",
+   "spans": [
+    {
+     "start": 74,
+     "end": 80,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-89",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "An septi uallo ridiculo cuiquam defensioni confiditis?",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-90",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "O male concordes!",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-91",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "o mira cupidine obcecati!",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-92",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Quid uallo sepsisse, quid propugnaculis et pinnis urbem armasse iuuabit, cum aduolauerit aquila in auro terribilis, que nunc Pirenen, nunc Caucason, nunc Athlanta superuolans, militie celi magis confortata sufflamine, uasta maria quondam transuolando despexit?",
+   "spans": [
+    {
+     "start": 125,
+     "end": 132,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 139,
+     "end": 147,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 154,
+     "end": 162,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-93",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "quid, cum adfore stupescetis, miserrimi hominum, delirantis Hesperie domitorem?",
+   "spans": [
+    {
+     "start": 60,
+     "end": 68,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-94",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Non equidem spes, quam frustra sine more fouetis, reluctantia ista iuuabitur, sed hac obice iusti regis aduentus inflammabitur amplius, ac, indignata, misericordia semper concomitans eius exercitum auolabit;",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-95-a",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "et quo false libertatis trabeam tueri existimatis, eo uere seruitutis in ergastula concidetis.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-95-b",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Miro namque Dei iudicio quandoque agi credendum est, ut unde digna supplicia impius declinare arbitratur, inde in ea grauius precipitetur;",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-96-a",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "et qui diuine uoluntati reluctatus est et sciens et uolens, eidem militet nesciens atque nolens.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-96-b",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Uidebitis edificia uestra non necessitati prudenter instructa sed delitiis inconsulte mutata, que Pergama rediuiua non cingunt, tam ariete ruere, tristes, quam igne cremari.",
+   "spans": [
+    {
+     "start": 98,
+     "end": 105,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-97",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Uidebitis plebem circumquaque furentem nunc in contraria, pro et contra, deinde in idem aduersus uos horrenda clamantem, quoniam simul et ieiuna et timida nescit esse.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-98",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Templa quoque spoliata, cotidie matronarum frequentata concursu, paruulos que admirantes et inscios peccata patrum luere destinatos uidere pigebit.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-99",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Et si presaga mens mea non fallitur, sic signis ueridicis sicut inexpugnabilibus argumentis instructa prenuntians, urbem diutino merore confectam in manus alienorum tradi finaliter, plurima uestri parte seu nece seu captiuitate deperdita, perpessuri exilium pauci cum fletu cernetis.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-100",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Ut que breuiter colligam, quas tulit calamitates illa ciuitas gloriosa in fide pro libertate Saguntum, ignominiose uos eas in perfidia pro seruitute subire necesse est.",
+   "spans": [
+    {
+     "start": 93,
+     "end": 101,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-101",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Nec ab inopina Parmensium fortuna sumatis audaciam, qui malesuada fame urgente murmurantes in inuicem «prius moriamur et in media arma ruamus», in castra Cesaris, absente Cesare, proruperunt;",
+   "spans": [
+    {
+     "start": 154,
+     "end": 161,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 171,
+     "end": 177,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-102-a",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "nam et hii, quanquam de Uictoria uictoriam sint adepti, nichilominus ibi sunt de dolore dolorem memorabiliter consecuti.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-102-b",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Sed recensete fulmina Federici prioris, et Mediolanum consulite pariter et Spoletum; quoniam ipsorum peruersione simul et euersione discussa uiscera uestra nimium dilatata frigescent, et corda uestra nimium feruentia contrahentur.",
+   "spans": [
+    {
+     "start": 22,
+     "end": 30,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 43,
+     "end": 53,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 75,
+     "end": 83,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-103",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "A, Tuscorum uanissimi, tam natura quam uitio insensati!",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-104",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Quam in noctis tenebris malesane mentis pedes oberrent et rete frustra iaciatur ante oculos pennatorum, nec perpenditis nec figuratis ignari.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-105",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Uident namque uos pennati et inmaculati in uia, quasi stantes in limine carceris, et miserantem quempiam, ne forte uos liberet captiuatos et in compedibus astrictos et manicis, propulsantes.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-106",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Nec aduertitis dominantem cupidinem, quia ceci estis, uenenoso susurrio blandientem, minis frustratoriis cohibentem, nec non captiuantem uos in lege peccati, ac sacratissimis legibus que iustitie naturalis imitantur ymaginem, parere uetantem; obseruantia quarum, si leta, si libera, non tantum non seruitus esse probatur, quin ymo perspicaciter intuenti liquet ut est ipsa summa libertas.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-107",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Nam quid aliud hec nisi liber cursus uoluntatis in actum quem suis leges mansuetis expediunt?",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-108",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Itaque solis existentibus liberis qui uoluntarie legi obediunt, quos uos esse censebitis qui, dum pretenditis libertatis affectum, contra leges uniuersas in legum principem conspiratis?",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-109",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "O miserrima Fesulanorum propago, et iterum iam punita barbaries!",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-110",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "An parum timoris prelibata incutiunt?",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-111",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Omnino uos tremere arbitror uigilantes, quanquam spem simuletis in facie uerbo que mendaci, atque in somniis expergisci plerunque, siue pauescentes infusa presagia, siue diurna consilia recolentes.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-112",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Uerum si merito trepidantes insanisse penitet non dolentes, ut in amaritudinem penitentie metus doloris que riuuli confluant, uestris animis infigenda supersunt, quod Romane rei baiulus hic diuus et triumphator Henricus, non sua priuata sed publica mundi commoda sitiens, ardua queque pro nobis aggressus est sua sponte penas nostras participans, tanquam ad ipsum, post Christum, digitum prophetie propheta direxerit Ysaias, cum, spiritu Dei reuelante, predixit: «Uere languores nostros ipse tulit et dolores nostros ipse portauit».",
+   "spans": [
+    {
+     "start": 211,
+     "end": 219,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 370,
+     "end": 378,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 417,
+     "end": 423,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-113",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Igitur tempus amarissime penitendi uos temere presumptorum, si dissimulare non uultis, adesse conspicitis.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-114",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Et sera penitentia hoc a modo uenie genitiua non erit, quin potius tempestiue animaduersionis exordium.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-115",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Est enim: quoniam peccator percutitur, ut “sine retractatione moriatur”.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-116",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Scriptum pridie Kalendas Apriles in finibus Tuscie sub fontem Sarni, faustissimi cursus Henrici Cesaris ad Ytaliam anno primo.",
+   "spans": [
+    {
+     "start": 44,
+     "end": 50,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 62,
+     "end": 67,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 88,
+     "end": 103,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 107,
+     "end": 114,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-117",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Sanctissimo gloriosissimo atque felicissimo triumphatori et domino singulari domino Henrico diuina prouidentia Romanorum Regi et semper Augusto, deuotissimi sui Dantes Alagherii Florentinus et exul inmeritus ac uniuersaliter omnes Tusci qui pacem desiderant, terre osculum ante pedes.",
+   "spans": [
+    {
+     "start": 84,
+     "end": 91,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 136,
+     "end": 143,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 161,
+     "end": 177,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-118",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Inmensa Dei dilectione testante, relicta nobis est pacis hereditas, ut in sua mira dulcedine militie nostre dura mitescerent, et in usu eius patrie triumphantis gaudia mereremur.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-119",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "At liuor antiqui et implacabilis hostis, humane prosperitati semper et latenter insidians, non nullos exheredando uolentes, ob tutoris absentiam nos alios impius denudauit inuitos.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-120",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Hinc diu super flumina confusionis defleuimus, et patrocinia iusti regis incessanter implorabamus, qui satellitium seui tyranni disperderet et nos in nostra iustitia reformaret.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-121",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Cum que tu, Cesaris et Augusti successor, Apennini iuga transiliens ueneranda signa Tarpeia retulisti, protinus longa substiterunt suspiria lacrimarum que diluuia desierunt;",
+   "spans": [
+    {
+     "start": 12,
+     "end": 19,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 23,
+     "end": 30,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 42,
+     "end": 50,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-122-a",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "et, ceu Titan, preoptatus exoriens, noua spes Latio seculi melioris effulsit.",
+   "spans": [
+    {
+     "start": 8,
+     "end": 13,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 46,
+     "end": 51,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-122-b",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Tunc plerique uota sua preuenientes in iubilo tam Saturnia regna quam Uirginem redeuntem cum Marone cantabant.",
+   "spans": [
+    {
+     "start": 93,
+     "end": 99,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-123",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Uerum quia sol noster, siue desiderii feruor hoc submoneat siue facies ueritatis, aut morari iam creditur aut retrocedere supputatur, quasi Iosue denuo uel Amos filius imperaret, incertitudine dubitare compellimur et in uocem Precursoris irrumpere sic: «Tu es qui uenturus es, an alium expectamus?».",
+   "spans": [
+    {
+     "start": 140,
+     "end": 145,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 156,
+     "end": 160,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-124",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Et quamuis longa sitis in dubium que sunt certa propter esse propinqua, ut adsolet, furibunda deflectat, nichilominus in te credimus et speramus, asseuerantes te Dei ministrum et Ecclesie filium et Romane glorie promotorem.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-125",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Nam et ego qui scribo tam pro me quam pro aliis, uelut decet imperatoriam maiestatem benignissimum uidi et clementissimum te audiui, cum pedes tuos manus mee tractarunt et labia mea debitum persoluerunt.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-126",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Tunc exultauit in te spiritus meus, cum tacitus dixi me cum : «Ecce Agnus Dei, ecce qui tollit peccata mundi».",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-127",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Sed quid tam sera moretur segnities admiramur, quando iamdudum in ualle uictor Eridani non secus Tusciam derelinquis, pretermittis et negligis, quam si iura tutanda Imperii circumscribi Ligurum finibus arbitreris; non prorsus, ut suspicamur, aduertens, quoniam Romanorum gloriosa potestas nec metis Ytalie nec tricornis Europe margine coarctatur.",
+   "spans": [
+    {
+     "start": 79,
+     "end": 86,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 97,
+     "end": 104,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 299,
+     "end": 305,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 320,
+     "end": 326,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-128",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Nam et si uim passa in angustum gubernacula sua contraxerit, undique tamen de inuiolabili iure fluctus Amphitritis attingens uix ab inutili unda Oceani se circumcingi dignatur.",
+   "spans": [
+    {
+     "start": 103,
+     "end": 114,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 145,
+     "end": 151,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-129",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Scriptum etenim nobis est: Nascetur pulcra Troyanus origine Cesar, imperium Oceano, famam qui terminet astris.",
+   "spans": [
+    {
+     "start": 76,
+     "end": 82,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-130",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Et cum uniuersaliter orbem describi edixisset Augustus, ut bos noster euangelizans accensus Ignis eterni flamma remugit, si non de iustissimi principatus aula prodiisset edictum, unigenitus Dei Filius homo factus ad profitendum secundum naturam assumptam edicto se subditum, nequaquam tunc nasci de Uirgine uoluisset;",
+   "spans": [
+    {
+     "start": 46,
+     "end": 54,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-131-a",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "non enim suasisset iniustum, quem «omnem iustitiam implere» decebat.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-131-b",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Pudeat itaque in angustissima mundi area irretiri tam diu quem mundus omnis expectat;",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-132-a",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "et ab Augusti circumspectione non defluat quod Tuscana tyrannis in dilationis fiducia confortatur, et cotidie malignantium cohortando superbiam uires nouas accumulat, temeritatem temeritati adiciens.",
+   "spans": [
+    {
+     "start": 6,
+     "end": 13,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-132-b",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Intonet iterum uox illa Curionis in Cesarem: Dum trepidant nullo firmate robore partes, tolle moras:",
+   "spans": [
+    {
+     "start": 24,
+     "end": 32,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 36,
+     "end": 43,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-133-a",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "semper nocuit differre paratis:",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-133-b",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "par labor atque metus pretio maiore petuntur.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-133-c",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Intonet illa uox increpitantis Anubis iterum in Eneam: Si te nulla mouet tantarum gloria rerum, nec super ipse tua moliris laude laborem, Ascanium surgentem et spes heredis Iuli respice, cui regnum Ytalie Romana que tellus debentur.",
+   "spans": [
+    {
+     "start": 31,
+     "end": 37,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 48,
+     "end": 53,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 138,
+     "end": 146,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 173,
+     "end": 177,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 198,
+     "end": 204,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-134",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Iohannes namque, regius primogenitus tuus et rex, quem, post diei orientis occasum, mundi successiua posteritas prestolatur, nobis est alter Ascanius, qui uestigia magni genitoris obseruans, in Turnos ubique sicut leo deseuiet et in Latinos uelut agnus mitescet.",
+   "spans": [
+    {
+     "start": 0,
+     "end": 8,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 141,
+     "end": 149,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 194,
+     "end": 200,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-135",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Precaueant sacratissimi regis alta consilia, ne celeste iudicium Samuelis illa uerba reasperet: «Non ne cum paruulus esses in oculis tuis, caput in tribubus Israel factus es, unxit que te Dominus in regem super Israel, et misit te Deus in uia et ait: Uade et interfice peccatores Amalech?».",
+   "spans": [
+    {
+     "start": 65,
+     "end": 73,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 157,
+     "end": 163,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 211,
+     "end": 217,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 280,
+     "end": 287,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-136",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Nam et tu in regem sacratus es ut Amalech percutias et Agag non pareas, atque ulciscaris Illum qui misit te de gente brutali et de festina sua sollempnitate; que quidem et Amalech et Agag sonare dicuntur.",
+   "spans": [
+    {
+     "start": 34,
+     "end": 41,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 55,
+     "end": 59,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 172,
+     "end": 179,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 183,
+     "end": 187,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-137",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Tu Mediolani tam uernando quam hiemando moraris et hydram pestiferam per capitum amputationem reris extinguere?",
+   "spans": [
+    {
+     "start": 3,
+     "end": 12,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-138",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Quod si magnalia gloriosi Alcide recensuisses, te ut illum falli cognosceres, cui pestilens animal, capite repullulante multiplici, per damnum crescebat, donec instanter magnanimus uite principium impetiuit.",
+   "spans": [
+    {
+     "start": 26,
+     "end": 32,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-139",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Non etenim ad arbores extirpandas ualet ipsa ramorum incisio quin iterum multiplicius uirulenter ramificent, quousque radices incolumes fuerint ut prebeant alimentum.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-140",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Quid, preses unice mundi, peregisse preconicis cum ceruicem Cremone deflexeris contumacis?",
+   "spans": [
+    {
+     "start": 60,
+     "end": 67,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-141",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "non ne tunc uel Brixie uel Papie rabies inopina turgescet?",
+   "spans": [
+    {
+     "start": 16,
+     "end": 22,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 27,
+     "end": 32,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-142",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Ymo, que cum etiam flagellata resederit, mox alia Uercellis uel Pergami uel alibi returgebit, donec huius scatescentie causa radicalis tollatur, et radice tanti erroris auulsa, cum trunco rami pungitiui arescant.",
+   "spans": [
+    {
+     "start": 50,
+     "end": 59,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 64,
+     "end": 71,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-143",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "An ignoras, excellentissime principum, nec de specula summe celsitudinis deprehendis ubi uulpecula fetoris istius, uenantium secura, recumbat?",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-144",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Quippe nec Pado precipiti, nec Tiberi tuo criminosa potatur, uerum Sarni fluenta torrentis adhuc rictus eius inficiunt, et Florentia, forte nescis?, dira hec pernicies nuncupatur.",
+   "spans": [
+    {
+     "start": 11,
+     "end": 15,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 31,
+     "end": 37,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 67,
+     "end": 72,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 123,
+     "end": 132,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-145",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Hec est uipera uersa in uiscera genitricis;",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-146-a",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "hec est languida pecus gregem domini sui sua contagione commaculans;",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-146-b",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "hec Myrrha scelestis et impia in Cinyre patris amplexus exestuans;",
+   "spans": [
+    {
+     "start": 4,
+     "end": 10,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 33,
+     "end": 39,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-146-c",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "hec Amata illa impatiens, que, repulso fatali connubio, quem fata negabant generum sibi adscire non timuit, sed in bella furialiter prouocauit, et demum, male ausa luendo, laqueo se suspendit.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-146-d",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Uere matrem uiperea feritate dilaniare contendit, dum contra Romam cornua rebellionis exacuit, que ad ymaginem suam atque similitudinem fecit illam.",
+   "spans": [
+    {
+     "start": 61,
+     "end": 66,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-147",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Uere fumos, euaporante sanie, uitiantes exhalat, et inde uicine pecudes et inscie contabescunt, dum falsis illiciendo blanditiis et figmentis aggregat sibi finitimos et infatuat aggregatos.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-148",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Uere in paternos ardet ipsa concubitus, dum improba procacitate conatur summi Pontificis, qui pater est patrum, aduersum te uiolare assensum.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-149",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Uere «Dei ordinationi resistit», proprie uoluntatis ydolum uenerando, dum regem aspernata legiptimum non erubescit insana regi non suo iura non sua pro male agendi potestate pacisci.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-150",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Sed attendat ad laqueum mulier furiata quo se innectit.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-151",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Nam sepe quis in reprobum sensum traditur, ut traditus faciat ea que non conueniunt;",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-152-a",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "que quamuis iniusta sint opera, iusta tamen supplicia esse noscuntur.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-152-b",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Eia itaque, rumpe moras, proles altera Isai, sume tibi fiduciam de oculis Domini Dei Sabaoth coram quo agis, et Goliam hunc in funda sapientie tue atque in lapide uirium tuarum prosterne; quoniam in eius occasu nox et umbra timoris castra Philistinorum operiet:",
+   "spans": [
+    {
+     "start": 39,
+     "end": 43,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 112,
+     "end": 118,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-153-a",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "fugient Philistei et liberabitur Israel.",
+   "spans": [
+    {
+     "start": 33,
+     "end": 39,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-153-b",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Tunc hereditas nostra, quam sine intermissione deflemus ablatam, nobis erit in integrum restituta;",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-154-a",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "ac quemadmodum, sacrosancte Ierusalem memores, exules in Babilone gemiscimus, ita tunc ciues et respirantes in pace, confusionis miserias in gaudio recolemus.",
+   "spans": [
+    {
+     "start": 28,
+     "end": 37,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 57,
+     "end": 65,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-154-b",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Scriptum in Tuscia sub fonte Sarni xu Kalendas Maias, diui Henrici faustissimi cursus ad Ytaliam anno primo.",
+   "spans": [
+    {
+     "start": 12,
+     "end": 18,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 29,
+     "end": 34,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 59,
+     "end": 66,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 89,
+     "end": 96,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-155",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Gloriosissime atque clementissime domine domine Margarite diuina prouidentia Romanorum regine et semper Auguste, G. de Batifolle Dei et adiuualis Magnificentie gratia comitissa in Tuscia palatina, tam debite quam deuote subiectionis officium ante pedes.",
+   "spans": [
+    {
+     "start": 48,
+     "end": 57,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 113,
+     "end": 114,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 119,
+     "end": 128,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 180,
+     "end": 186,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-156",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Gratissima regie Benignitatis epistola et meis oculis uisa letanter et manibus fuit assumpta reuerenter, ut decuit.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-157",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Cum que significata per illam mentis aciem penetrando dulcescerent, adeo spiritus lectitantis feruore deuotionis incaluit, ut nunquam possint superare obliuia nec memoria sine gaudio memorare.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-158",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Nam quanta uel qualis ego, ut ad enarrandum michi de sospitate consortis et sua, utinam diuturna!, coniunx fortissima Cesaris condescendat?",
+   "spans": [
+    {
+     "start": 118,
+     "end": 125,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-159",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Quippe tanti pondus honoris neque merita gratulantis neque dignitas postulabat;",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-160-a",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "sed nec etiam inclinari humanorum graduum dedecuit apicem, unde, uelut a uiuo fonte, sancte ciuilitatis exempla debent inferioribus emanare.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-160-b",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Dignas itaque persoluere grates non opis est hominis;",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-161-a",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "uerum ab homine alienum esse non reor pro insufficientie supplemento Deum exorare quandoque.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-161-b",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Nunc ideo regni siderii iustis precibus atque piis aula pulsetur, et impetret supplicantis affectus quatenus mundi gubernator eternus condescensui tanto premia coequata retribuat, et ad auspitia Cesaris et Auguste dexteram gratie coadiutricis extendat; ut qui romani principatus imperio barbaras nationes et ciues in mortalium tutamenta subegit, delirantis eui familiam sub triumphis et gloria sui Henrici reformet in melius.",
+   "spans": [
+    {
+     "start": 195,
+     "end": 202,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 398,
+     "end": 405,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-162",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Serenissime atque piissime domine domine Margarite celestis miserationis intuitu Romanorum regine et semper Auguste, deuotissima sua G. de Batifolle Dei et Imperii gratia largiente comitissa in Tuscia palatina, flexis humiliter genibus reuerentie debitum exhibet.",
+   "spans": [
+    {
+     "start": 41,
+     "end": 50,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 133,
+     "end": 134,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 139,
+     "end": 148,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 194,
+     "end": 200,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-163",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Regalis epistole documenta gratuita ea qua potui ueneratione recepi, intellexi deuote.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-164",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Sed cum de prosperitate successuum uestri felicissimi cursus familiariter intimata concepi, quanto libens animus concipientis arriserit, placet potius commendare silentio, tanquam nuntio meliori;",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-165-a",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "non enim uerba significando sufficiunt ubi mens ipsa quasi debria superatur.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-165-b",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Itaque suppleat regie Celsitudinis apprehensio que scribentis humilitas explicare non potest.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-166",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "At quamuis insinuata per litteras ineffabiliter grata fuerint et iocunda, spes amplior tamen et letandi causas accumulat et simul uota iusta confectat.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-167",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Spero equidem, de celesti prouisione confidens quam nunquam falli uel prepediri posse non dubito et que humane ciuilitati de Principe singulari prouidit, quod exordia uestri regni felicia semper in melius prosperata procedent.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-168",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Sic igitur in presentibus et futuris exultans, ad Auguste clementiam sine ulla hesitatione recurro, et suppliciter tempestiua deposco quatenus me sub umbra tutissima uestri Culminis taliter collocare dignemini, ut cuiusque sinistrationis ab estu sim semper et uidear esse secura.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-169",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Illustrissime atque piissime domine domine Margarite diuina prouidentia Romanorum regine et semper Auguste, fidelissima sua G. de Batifolle Dei et imperialis indulgentie gratia comitissa in Tuscia palatina, cum promptissima recommendatione se ipsam et uoluntarium ad obsequia famulatum.",
+   "spans": [
+    {
+     "start": 43,
+     "end": 52,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 124,
+     "end": 125,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 130,
+     "end": 139,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 190,
+     "end": 196,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-170",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Cum pagina uestre Serenitatis apparuit ante scribentis et gratulantis aspectum, experta est mea pura fidelitas quam in dominorum successibus animi subditorum fidelium colletentur.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-171",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Nam per ea que continebantur in ipsa, cum tota cordis hilaritate concepi qualiter dextera summi Regis uota Cesaris et Auguste feliciter adimplebat.",
+   "spans": [
+    {
+     "start": 107,
+     "end": 114,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-172",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Proinde gradum mee fidelitatis experta, petentis audeo iam inire officium.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-173",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Ergo ad audientiam uestre Sublimitatis exorans et suppliciter precor et deuote deposco quatenus mentis oculis intueri dignemini prelibate interdum fidei puritatem.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-174",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Uerum quia non nulla regalium clausularum uidebatur hortari ut, si quando nuntiorum facultas adesset, Celsitudini regie aliquid peroptando de status mei conditione referrem, quamuis quedam presumptionis facies interdicat, obedientie tamen suadente uirtute obediam.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-175",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Audiat, ex quo iubet, Romanorum pia et serena Maiestas, quoniam tempore missionis presentium coniunx predilectus et ego, Dei dono, uigebamus incolumes, liberorum sospitate gaudentes, tanto solito letiores quanto signa resurgentis Imperii meliora iam secula promittebant.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-176",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Missum de Castro Poppii xu Kalendas Iunias, faustissimi cursus Henrici Cesaris ad Ytaliam anno primo.",
+   "spans": [
+    {
+     "start": 17,
+     "end": 23,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 63,
+     "end": 78,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 82,
+     "end": 89,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-177",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "«Quomodo sola sedet ciuitas plena populo!",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-178",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "facta est quasi uidua domina gentium».",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-179",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Principum quondam Phariseorum cupiditas que sacerdotium uetus abominabile fecit, non modo leuitice prolis ministerium transtulit, quin et preelecte ciuitati Dauid obsidionem peperit et ruinam.",
+   "spans": [
+    {
+     "start": 157,
+     "end": 162,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-180",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Quod quidem de specula punctalis eternitatis intuens qui solus eternus est, mentem Deo dignam uiri prophetici per Spiritum Sanctum sua iussione impressit, et is sanctam Ierusalem uelut exstinctam per uerba presignata et nimium, proh dolor!, iterata defleuit.",
+   "spans": [
+    {
+     "start": 169,
+     "end": 178,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-181",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Nos quoque eundem Patrem et Filium, eundem Deum et hominem, nec non eandem Matrem et Uirginem profitentes, propter quos et propter quorum salutem ter de caritate interrogatum et dictum est: Petre, pasce sacrosanctum ouile; Romam - cui, post tot triumphorum pompas, et uerbo et opere Christus orbis confirmauit imperium, quam etiam ille Petrus, et Paulus gentium predicator, in apostolicam sedem aspergine proprii sanguinis consecrauit -, cum Ieremia, non lugenda preuenientes sed post ipsa dolentes, uiduam et desertam lugere compellimur.",
+   "spans": [
+    {
+     "start": 190,
+     "end": 195,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 223,
+     "end": 228,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 283,
+     "end": 291,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 336,
+     "end": 342,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 347,
+     "end": 353,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 442,
+     "end": 449,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-182",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Piget, heu!, non minus quam plagam lamentabilem cernere, quod heresium, impietatis fautores, Iudei, Saraceni et gentes, sabbata nostra rident, et, ut fertur, conclamant: «Ubi est Deus eorum?»;",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-183-a",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "et quod forsan suis insidiis apostate Potestates contra defensantes Angelos hoc adscribunt;",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-183-b",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "et, quod horribilius est, quod astronomi quidam et crude prophetantes necessarium asserunt quod, male usi libertate arbitrii, eligere maluistis.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-183-c",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Uos equidem, Ecclesie militantis ueluti primi prepositi pili, per manifestam orbitam Crucifixi currum Sponse regere negligentes, non aliter quam falsus auriga Pheton exorbitastis;",
+   "spans": [
+    {
+     "start": 159,
+     "end": 165,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-184-a",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "et quorum sequentem gregem per saltus peregrinationis huius illustrare intererat, ipsum una uobis cum ad precipitium traduxistis.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-184-b",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Nec adimitanda recenseo - cum dorsa, non uultus, ad Sponse uehiculum habeatis, et uere dici possetis, qui Prophete ostensi sunt, male uersi ad templum - uobis ignem de celo missum despicientibus, ubi nunc are ab alieno calescunt; uobis columbas in templo uendentibus, ubi que pretio mensurari non possunt, in detrimentum hinc inde commutantium uenalia facta sunt.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-185",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Sed attendatis ad funiculum, attendatis ad ignem, neque patientiam contemnatis Illius qui ad penitentiam uos expectat.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-186",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Quod si de prelibato precipitio dubitatur, quid aliud declarando respondeam, nisi quod in Alcimum cum Demetrio consensistis?",
+   "spans": [
+    {
+     "start": 90,
+     "end": 97,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 102,
+     "end": 110,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-187",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Forsitan “et quis iste, qui Oze repentinum supplicium non formidans, ad arcam, quamuis labantem, se erigit?” indignanter obiurgabitis.",
+   "spans": [
+    {
+     "start": 28,
+     "end": 31,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-188",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Quippe de ouibus in pascuis Iesu Christi minima una sum;",
+   "spans": [
+    {
+     "start": 28,
+     "end": 40,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-189-a",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "quippe nulla pastorali auctoritate abutens, quoniam diuitie me cum non sunt.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-189-b",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Non ergo diuitiarum, sed «gratia Dei sum id quod sum», et «zelus domus eius comedit me».",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-190",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Nam etiam in «ore lactentium et infantium» sonuit iam Deo placita ueritas, et cecus natus ueritatem confessus est, quam Pharisei non modo tacebant, sed et maligne reflectere conabantur.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-191",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Hiis habeo persuasum quod audeo.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-192",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Habeo preter hec preceptorem Phylosophum qui, cuncta moralia dogmatizans, amicis omnibus ueritatem docuit preferendam.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-193",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Nec Oze presumptio quam obiectandam quis crederet, quasi temere prorumpentem me inficit sui tabe reatus; quia ille ad arcam, ego ad boues calcitrantes et per abuia distrahentes attendo.",
+   "spans": [
+    {
+     "start": 4,
+     "end": 7,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-194",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Ille ad arcam proficiat qui salutiferos oculos ad nauiculam fluctuantem aperuit.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-195",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Non itaque uideor quemquam exacerbasse ad iurgia; quin potius confusionis ruborem et in uobis et aliis, nomine solo archimandritis, per orbem dumtaxat pudor eradicatus non sit totaliter, accendisse; cum de tot pastoris officium usurpantibus, de tot ouibus, et si non ablatis, neglectis tamen et incustoditis in pascuis, una sola uox, sola pia, et hec priuata, in matris Ecclesie quasi funere audiatur.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-196",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Cupiditatem unusquisque sibi duxit uxorem, quemadmodum et uos, que nunquam pietatis et equitatis, ut caritas, sed semper impietatis et iniquitatis est genitrix.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-198",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "A, mater piissima, sponsa Christi, que in aqua et Spiritu generas tibi filios ad ruborem!",
+   "spans": [
+    {
+     "start": 26,
+     "end": 33,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-199",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Non caritas, non Astrea, sed filie sanguisuge facte sunt tibi nurus; que quales pariant tibi fetus, preter Lunensem pontificem omnes alii contestantur.",
+   "spans": [
+    {
+     "start": 17,
+     "end": 23,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-200",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Iacet Gregorius tuus in telis aranearum;",
+   "spans": [
+    {
+     "start": 6,
+     "end": 15,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-201-a",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "iacet Ambrosius in neglectis clericorum latibulis;",
+   "spans": [
+    {
+     "start": 6,
+     "end": 15,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-201-b",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "iacet Augustinus abiectus, Dionysius, Damascenus et Beda;",
+   "spans": [
+    {
+     "start": 6,
+     "end": 16,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 27,
+     "end": 36,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 52,
+     "end": 56,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-201-c",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "et nescio quod “Speculum”, Innocentium et Ostiensem declamant.",
+   "spans": [
+    {
+     "start": 27,
+     "end": 38,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-201-d",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Cur non?",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-202",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Illi Deum querebant, ut finem et optimum;",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-203-a",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "isti census et beneficia consecuntur.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-203-b",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Sed, o patres, ne me phenicem extimetis in orbe terrarum;",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-204-a",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "omnes enim que garrio murmurant aut mussant aut cogitant aut somniant, et que inuenta non attestantur.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-204-b",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Non nulli sunt in admiratione suspensi:",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-205-a",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "an semper et hoc silebunt, neque Factori suo testimonium reddent?",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-205-b",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Uiuit Dominus, quia Qui mouit linguam in asina Balaam, Dominus est etiam modernorum brutorum.",
+   "spans": [
+    {
+     "start": 47,
+     "end": 53,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-206",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Iam garrulus factus sum:",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-207-a",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "uos me coegistis.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-207-b",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Pudeat ergo tam ab infra, non de celo ut absoluat, argui uel moneri.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-208",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Recte quidem nobis cum agitur, cum ex ea parte pulsatur ad nos ad quam cum ceteris sensibus inflet auditum, ac pariat pudor in nobis penitudinem, primogenitam suam, et hec propositum emendationis aggeneret.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-209",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "quod ut gloriosa longanimitas foueat et defendat, Romam urbem, nunc utroque lumine destitutam, nunc Annibali nedum alii miserandam, solam sedentem et uiduam prout superius proclamatur, qualis est, pro modulo uestre ymaginis ante mentales oculos affigatis oportet.",
+   "spans": [
+    {
+     "start": 50,
+     "end": 55,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 100,
+     "end": 108,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-210",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Et ad uos hec sunt maxime qui sacrum Tiberim paruuli cognouistis.",
+   "spans": [
+    {
+     "start": 37,
+     "end": 44,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-211",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Nam et si Latiale caput pie cunctis est Ytalis diligendum tanquam comune sue ciuilitatis principium, uestrum iuste censetur accuratissime colere ipsum, cum sit uobis principium ipsius quoque esse.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-212",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Et si ceteros Ytalos in presens miseria dolore confecit et rubore confudit, erubescendum esse uobis dolendum que quis dubitet, qui causa insolite sui uel Solis eclipsis tum fuistis?",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-213",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Tu pre omnibus, Urse, ne degratiati college perpetuo remanerent inglorii;",
+   "spans": [
+    {
+     "start": 16,
+     "end": 20,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-214-a",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "et illi, ut militantis Ecclesie ueneranda insignia que forsan non emeriti sed immeriti coacti posuerant, apostolici culminis auctoritate resumerent.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-214-b",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Tu quoque, Transtiberine, sectator factionis alterius, ut ira defuncti Antistitis in te uelut ramus insitionis in trunco non suo frondesceret, quam in triumphatam Carthaginem nondum exueras, illustrium Scipionum patrie potuisti hunc animum sine ulla tui iudicii contradictione preferre.",
+   "spans": [
+    {
+     "start": 163,
+     "end": 174,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 202,
+     "end": 211,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-215",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Emendabitur quidem - quanquam non sit quin nota infamis Apostolicam Sedem usque ad ignem, cui celi qui nunc sunt et terra sunt reseruati, deturpet -, si unanimes omnes qui huiusmodi exorbitationis fuistis auctores, pro Sponsa Christi, pro sede Sponse que Roma est, pro Ytalia nostra, et ut plenius dicam, pro tota ciuitate peregrinante in terris, uiriliter propugnetis, ut de palestra iam coepi certaminis undique ab Occeani margine circumspecta, uosmet ipsos cum gloria offerentes, audire possitis: «Gloria in excelsis»;",
+   "spans": [
+    {
+     "start": 226,
+     "end": 233,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 255,
+     "end": 259,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 269,
+     "end": 275,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 417,
+     "end": 424,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-216-a",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "et ut Uasconum obprobrium qui tam dira cupidine conflagrantes Latinorum gloriam sibi usurpare contendunt, per secula cuncta futura sit posteris in exemplum.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-216-b",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "In litteris uestris et reuerentia debita et affectione receptis, quam repatriatio mea cure sit uobis et animo, grata mente ac diligenti animaduersione concepi;",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-217-a",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "et inde tanto me districtius obligastis, quando rarius exules inuenire amicos contingit.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-217-b",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Ad illarum uero significata responsio, et si non erit qualem forsan pusillanimitas appeteret aliquorum, ut sub examine uestri consilii ante iudicium uentiletur, affectuose deposco.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-218",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Ecce igitur quod per litteras uestras mei que nepotis nec non aliorum quamplurium amicorum, significatum est michi per ordinamentum nuper factum Florentie super absolutione bannitorum quod si soluere uellem certam pecunie quantitatem uellem que pati notam oblationis, et absolui possem et redire ad presens.",
+   "spans": [
+    {
+     "start": 145,
+     "end": 154,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-219",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "In qua quidem duo ridenda et male preconsiliata sunt, pater;",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-220-a",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "dico male preconsiliata per illos qui talia expresserunt, nam uestre littere discretius et consultius clausulate nichil de talibus continebant.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-220-b",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Est ne ista reuocatio gratiosa qua Dantes Alagherii reuocatur ad patriam, per trilustrium fere perpessus exilium?",
+   "spans": [
+    {
+     "start": 35,
+     "end": 51,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-221",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Hoc ne meruit innocentia manifesta quibuslibet?",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-222",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "hoc sudor et labor continuatus in studio?",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-223",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Absit a uiro phylosophie domestico temeraria tantum cordis humilitas, ut more cuiusdam Cioli et aliorum infamium quasi uinctus ipse se patiatur offerri!",
+   "spans": [
+    {
+     "start": 87,
+     "end": 92,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-224",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Absit a uiro predicante iustitiam ut perpessus iniurias, iniuriam inferentibus, uelut benemerentibus pecuniam suam soluat!",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-225",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Non est hec uia redeundi ad patriam, pater mi;",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-226-a",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "sed si alia per uos ante aut deinde per alios inuenitur, que fame Dantis que honori non deroget, illam non lentis passibus acceptabo; quod si per nullam talem Florentia introitur, nunquam Florentiam introibo.",
+   "spans": [
+    {
+     "start": 66,
+     "end": 72,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 159,
+     "end": 168,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 188,
+     "end": 198,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-226-b",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "non ne solis astrorum que specula ubique conspiciam?",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-228",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "non ne dulcissimas ueritates potero speculari ubique sub celo, ni prius inglorium, ymo ignominiosum populo Florentino, ciuitati me reddam?",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-229",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Quippe nec panis deficiet.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-230",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Magnifico atque uictorioso domino domino Cani Grandi de la Scala sacratissimi Cesarei Principatus in urbe Uerona et ciuitate Uicentie Uicario generali, deuotissimus suus Dantes Alagherii florentinus natione non moribus, uitam orat per tempora diuturna felicem et gloriosi nominis perpetuum incrementum.",
+   "spans": [
+    {
+     "start": 106,
+     "end": 112,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 125,
+     "end": 133,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 170,
+     "end": 186,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-231",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Inclita uestre Magnificentie laus, quam fama uigil uolitando disseminat, sic distrahit in diuersa diuersos, ut hos in spem sue prosperitatis attollat, hos exterminii deiciat in terrorem.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-232",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Huius quidem preconium, facta modernorum exsuperans, tanquam ueri existentia latius arbitrabar aliquando superfluum.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-233",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Uerum ne diuturna me nimis incertitudo suspenderet, uelut Austri regina Ierusalem petiit, uelut Pallas petiit Elicona, Ueronam petii fidis oculis discursurus audita, ibi que magnalia uestra uidi, uidi beneficia simul et tetigi;",
+   "spans": [
+    {
+     "start": 72,
+     "end": 81,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 96,
+     "end": 102,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 110,
+     "end": 117,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 119,
+     "end": 126,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-234-a",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "et quemadmodum prius dictorum ex parte suspicabar excessum, sic posterius ipsa facta excessiua cognoui.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-234-b",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Quo factum ut ex auditu solo cum quadam animi subiectione beniuolus prius exstiterim, sed ex uisu postmodum deuotissimus et amicus.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-235",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Nec reor amici nomen assumens, ut non nulli forsitan obiectarent, reatum presumptionis incurrere, cum non minus dispares connectantur quam pares amicitie sacramento.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-236",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Nam si delectabiles et utiles amicitias inspicere libeat, illis persepius inspicienti patebit preheminentes inferioribus coniugari personas.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-237",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Et si ad ueram ac per se amicitiam torqueatur intuitus, non ne summorum illustrium que principum plerunque uiros fortuna obscuros, honestate preclaros, amicos fuisse constabit?",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-238",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Quid ni , cum etiam Dei et hominis amicitia nequaquam impediatur excessu?",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-239",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Quod si cuiquam quod asseritur nunc uideretur indignum, Spiritum Sanctum audiat, amicitie sue participes quosdam homines profitentem;",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-240-a",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "nam in Sapientia de sapientia legitur «quoniam infinitus thesaurus est hominibus, quo qui usi sunt, participes facti sunt amicitie Dei».",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-240-b",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Sed habet imperitia uulgi sine discretione iudicium;",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-241-a",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "et quemadmodum solem pedalis magnitudinis arbitratur, sic et circa mores uana credulitate decipitur.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-241-b",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Nos autem quibus optimum quod est in nobis noscere datum est, gregum uestigia sectari non decet, quin ymo suis erroribus obuiare tenemur.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-242",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Nam intellectu ac ratione uigentes, diuina quadam libertate dotati, nullis consuetudinibus astringuntur;",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-243-a",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "nec mirum, cum non ipsi legibus, sed ipsis leges potius dirigantur.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-243-b",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Liquet igitur quod superius dixi, me scilicet esse deuotissimum et amicum, nullatenus esse presumptum.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-244",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Preferens ergo amicitiam uestram quasi thesaurum carissimum, prouidentia diligenti et accurata solicitudine illam seruare desidero.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-245",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Itaque, cum in dogmatibus moralis negotii amicitiam adequari et saluari analogo doceatur, ad retribuendum pro collatis beneficiis plus quam semel analogiam sequi mihi uotiuum est;",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-246-a",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "et propter hoc munuscula mea sepe multum conspexi et ab inuicem segregaui nec non segregata percensui, dignius que gratius que uobis inquirens.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-246-b",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Neque ipsi preheminentie uestre congruum comperi magis quam Comedie sublimem canticam que decoratur titulo Paradisi;",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-247-a",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "et illam sub presenti epistola, tanquam sub epigrammate proprio dedicatam, uobis ascribo, uobis offero, uobis denique recommendo.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-247-b",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Illud quoque preterire silentio simpliciter inardescens non sinit affectus, quod in hac donatione plus dono quam domino et honoris et fame conferri uideri potest; quin ymo cum eius titulo iam presagium de gloria uestri nominis amplianda satis attentis uidebar expressisse; quod de proposito.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-248",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Sed zelus gratie uestre, quam sitio uitam paruipendens, a primordio metam prefixam urgebit ulterius.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-249",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Itaque, formula consumata epistole, ad introductionem oblati operis aliquid sub lectoris officio compendiose aggrediar.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-250",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Sicut dicit Phylosophus in secundo Metaphysicorum, «sicut res se habet ad esse, sic se habet ad ueritatem»; cuius ratio est, quia ueritas de re, que in ueritate consistit tanquam in subiecto, est similitudo perfecta rei sicut est.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-251",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Eorum uero que sunt, quedam sic sunt ut habeant esse absolutum in se;",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-252-a",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "quedam sunt ita ut habeant esse dependens ab alio per relationem quandam, ut eodem tempore esse et ad aliud se habere ut relatiua; sicut pater et filius, dominus et seruus, duplum et dimidium, totum et pars, et huiusmodi, in quantum talia.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-252-b",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Propterea quod esse talium dependet ab alio, consequens est quod eorum ueritas ab alio dependeat;",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-253-a",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "ignorato enim dimidio, nunquam cognoscitur duplum, et sic de aliis.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-253-b",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Uolentes igitur aliqualem introductionem tradere de parte operis alicuius, oportet aliquam notitiam tradere de toto cuius est pars.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-254",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Quapropter et ego, uolens de parte supra nominata totius Comedie aliquid tradere per modum introductionis, aliquid de toto opere premittendum existimaui, ut facilior et perfectior sit ad partem introitus.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-255",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Sex igitur sunt que in principio cuiusque doctrinalis operis inquirenda sunt, uidelicet subiectum, agens, forma, finis, libri titulus, et genus phylosophie.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-256",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "De istis tria sunt in quibus pars ista quam uobis destinare proposui uariatur a toto, scilicet subiectum, forma et titulus;",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-257-a",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "in aliis uero non uariatur, sicut apparet inspicienti;",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-257-b",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "et ideo circa considerationem de toto ista tria inquirenda seorsum sunt:",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-257-c",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "quo facto, satis patebit ad introductionem partis.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-257-d",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Deinde inquiremus alia tria non solum per respectum ad totum, sed etiam per respectum ad ipsam partem oblatam.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-258",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Ad euidentiam itaque dicendorum sciendum est quod istius operis non est simplex sensus, ymo dici potest polisemos, hoc est plurium sensuum;",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-259-a",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "nam primus sensus est qui habetur per litteram, alius est qui habetur per significata per litteram.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-259-b",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Et primus dicitur litteralis, secundus uero allegoricus siue moralis siue anagogicus.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-260",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Qui modus tractandi, ut melius pateat, potest considerari in hiis uersibus: «In exitu Israel de Egipto, domus Iacob de populo barbaro, facta est Iudea sanctificatio eius, Israel potestas eius».",
+   "spans": [
+    {
+     "start": 86,
+     "end": 92,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 96,
+     "end": 102,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 110,
+     "end": 115,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 145,
+     "end": 150,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 171,
+     "end": 177,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-261",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Nam si ad litteram solam inspiciamus, significatur nobis exitus filiorum Israel de Egipto, tempore Moysis;",
+   "spans": [
+    {
+     "start": 73,
+     "end": 79,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 83,
+     "end": 89,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 99,
+     "end": 105,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-262-a",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "si ad allegoriam, nobis significatur nostra redemptio facta per Christum;",
+   "spans": [
+    {
+     "start": 64,
+     "end": 72,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-262-b",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "si ad moralem sensum, significatur nobis conuersio anime de luctu et miseria peccati ad statum gratie;",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-262-c",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "si ad anagogicum, significatur exitus anime sancte ab huius corruptionis seruitute ad eterne glorie libertatem.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-262-d",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Et quanquam isti sensus mistici uariis appellentur nominibus, generaliter omnes dici possunt allegorici, cum sint a litterali siue historiali diuersi.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-263",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Nam allegoria dicitur ab “alleon” grece, quod in latinum dicitur “alienum”, siue “diuersum”.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-264",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Hiis uisis, manifestum est quod duplex oportet esse subiectum, circa quod currant alterni sensus.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-265",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Et ideo uidendum est de subiecto huius operis, prout ad litteram accipitur;",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-266-a",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "deinde de subiecto, prout allegorice sententiatur.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-266-b",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Est ergo subiectum totius operis, litteraliter tantum accepti, status animarum post mortem simpliciter sumptus;",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-267-a",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "nam de illo et circa illum totius operis uersatur processus.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-267-b",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Si uero accipiatur opus allegorice, subiectum est homo prout merendo et demerendo per arbitrii libertatem iustitie premiandi et puniendi obnoxius est.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-268",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Forma uero est duplex: forma tractatus et forma tractandi.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-269",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Forma tractatus est triplex, secundum triplicem diuisionem.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-270",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Prima diuisio est, qua totum opus diuiditur in tres canticas.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-271",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Secunda, qua quelibet cantica diuiditur in cantus.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-272",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Tertia, qua quilibet cantus diuiditur in rithimos.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-273",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Forma siue modus tractandi est poeticus, fictiuus, descriptiuus, digressiuus, transumptiuus, et cum hoc diffinitiuus, diuisiuus, probatiuus, improbatiuus, et exemplorum positiuus.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-274",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Libri titulus est: “Incipit Comedia Dantis Alagherii, florentini natione, non moribus”.",
+   "spans": [
+    {
+     "start": 36,
+     "end": 52,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-275",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Ad cuius notitiam sciendum est quod comedia dicitur a “comos” uilla et “oda” quod est cantus, unde comedia quasi “uillanus cantus”.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-276",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Et est comedia genus quoddam poetice narrationis ab omnibus aliis differens.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-277",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Differt ergo a tragedia in materia per hoc, quod tragedia in principio est admirabilis et quieta, in fine seu exitu est fetida et horribilis; et dicitur propter hoc a “tragos” quod est hircus et “oda” quasi “cantus hircinus”, id est fetidus ad modum hirci; ut patet per Senecam in suis tragediis.",
+   "spans": [
+    {
+     "start": 270,
+     "end": 277,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-278",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Comedia uero inchoat asperitatem alicuius rei, sed eius materia prospere terminatur, ut patet per Terentium in suis comediis.",
+   "spans": [
+    {
+     "start": 98,
+     "end": 107,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-279",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Et hinc consueuerunt dictatores quidam in suis salutationibus dicere loco salutis “tragicum principium et comicum finem”.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-280",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Similiter differunt in modo loquendi: elate et sublime tragedia; comedia uero remisse et humiliter, sicut uult Oratius in sua Poetria, ubi licentiat aliquando comicos ut tragedos loqui, et sic e conuerso: Interdum tamen et uocem comedia tollit, iratus que Chremes tumido delitigat ore;",
+   "spans": [
+    {
+     "start": 111,
+     "end": 118,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 256,
+     "end": 263,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-281-a",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "et tragicus plerunque dolet sermone pedestri Telephus et Peleus, etc.",
+   "spans": [
+    {
+     "start": 45,
+     "end": 53,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 57,
+     "end": 63,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-281-b",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Et per hoc patet quod Comedia dicitur presens opus.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-282",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Nam si ad materiam respiciamus, a principio horribilis et fetida est, quia Infernus, in fine prospera, desiderabilis et grata, quia Paradisus;",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-283-a",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "ad modum loquendi, remissus est modus et humilis, quia locutio uulgaris in qua et muliercule comunicant.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-283-b",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Sunt et alia genera narrationum poeticarum, scilicet carmen bucolicum, elegia, satira, et sententia uotiua, ut etiam per Oratium patere potest in sua Poetria;",
+   "spans": [
+    {
+     "start": 121,
+     "end": 128,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-284-a",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "sed de istis ad presens nichil dicendum est.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-284-b",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Potest amodo patere quomodo assignandum sit subiectum partis oblate.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-285",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Nam si totius operis litteraliter sumpti sic est subiectum, status animarum post mortem non contractus sed simpliciter acceptus, manifestum est quod hac in parte talis status est subiectum, sed contractus, scilicet status animarum beatarum post mortem.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-286",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Et si totius operis allegorice sumpti subiectum est homo prout merendo et demerendo per arbitrii libertatem est iustitie premiandi et puniendi obnoxius, manifestum est in hac parte hoc subiectum contrahi, et est homo prout merendo obnoxius est iustitie premiandi.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-287",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Et sic patet de forma partis per formam assignatam totius;",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-288-a",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "nam si forma tractatus in toto est triplex, in hac parte tantum est duplex, scilicet diuisio cantuum et rithimorum.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-288-b",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Non eius potest esse propria forma diuisio prima, cum ista pars sit prime diuisionis.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-289",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Patet etiam de libri titulo;",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-290-a",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "nam titulus totius libri est “Incipit Comedia etc.”, ut supra;",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-290-b",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "titulus autem huius partis est “Incipit cantica tertia Comedie Dantis etc. que dicitur Paradisus”.",
+   "spans": [
+    {
+     "start": 63,
+     "end": 69,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-290-c",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Inquisitis hiis tribus in quibus uariatur pars a toto, uidendum est de aliis tribus in quibus nulla uariatio est a toto.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-291",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Agens igitur totius et partis est ille qui dictus est, et totaliter uidetur esse.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-292",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Finis totius et partis esse posset et multiplex, scilicet propinquus et remotus;",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-293-a",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "sed, omissa subtili inuestigatione, dicendum est breuiter quod finis totius et partis est remouere uiuentes in hac uita de statu miserie et perducere ad statum felicitatis.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-293-b",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Genus uero phylosophie sub quo hic in toto et parte proceditur, est morale negotium, siue ethica; quia non ad speculandum, sed ad opus inuentum est totum et pars.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-294",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Nam si in aliquo loco uel passu pertractatur ad modum speculatiui negotii, hoc non est gratia speculatiui negotii, sed gratia operis; quia, ut ait Phylosophus in secundo Metaphysicorum, «ad aliquid et nunc speculantur practici aliquando».",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-295",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Hiis itaque premissis, ad expositionem littere secundum quandam prelibationem accedendum est, et illud prenuntiandum quod expositio littere nichil aliud est quam forme operis manifestatio.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-296",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Diuiditur ergo ista pars, seu tertia cantica que Paradisus dicitur, principaliter in duas partes, scilicet in prologum et partem executiuam.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-297",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Pars secunda incipit ibi: «Surgit mortalibus per diuersas fauces».",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-298",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "De parte prima sciendum est quod, quamuis comuni ratione dici posset exordium, proprie autem loquendo non debet dici nisi prologus;",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-299-a",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "quod Phylosophus in tertio Rethoricorum uidetur innuere, ubi dicit quod «proemium est principium in oratione rethorica sicut prologus in poetica et preludium in fistulatione».",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-299-b",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Est etiam prenotandum quod prenuntiatio ista, que comuniter exordium dici potest, aliter fit a poetis, aliter fit a rethoribus.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-300",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Rethores enim concessere prelibare dicenda ut animum comparent auditoris;",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-301-a",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "sed poete non solum hoc faciunt, quin ymo post hec inuocationem quandam emittunt.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-301-b",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Et hoc est eis conueniens, quia multa inuocatione opus est eis, cum aliquid contra comunem modum hominum a superioribus substantiis petendum est, quasi diuinum quoddam munus.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-302",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Ergo presens prologus diuiditur in partes duas, quia in prima premittitur quid dicendum sit, in secunda inuocatur Apollo;",
+   "spans": [
+    {
+     "start": 114,
+     "end": 120,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-303-a",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "et incipit secunda pars ibi: “O bone Apollo, ad ultimum laborem”.",
+   "spans": [
+    {
+     "start": 37,
+     "end": 43,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-303-b",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Propter primam partem notandum quod ad bene exordiendum tria requiruntur, ut dicit Tullius in Noua Rethorica, scilicet ut beniuolum et attentum et docilem reddat aliquis auditorem;",
+   "spans": [
+    {
+     "start": 83,
+     "end": 90,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-304-a",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "et hoc, maxime in admirabili genere cause, ut ipsemet Tullius dicit.",
+   "spans": [
+    {
+     "start": 54,
+     "end": 61,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-304-b",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Cum ergo materia circa quam uersatur presens tractatus sit admirabilis, et propterea ad admirabile reducenda, ista tria intenduntur in principio exordii siue prologi.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-305",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Nam dicit se dicturum ea que uidit in primo celo et retinere mente potuit.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-306",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "In quo dicto omnia illa tria comprehenduntur;",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-307-a",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "nam in utilitate dicendorum beniuolentia paratur;",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-307-b",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "in admirabilitate attentio;",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-307-c",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "in possibilitate docilitas.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-307-d",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Utilitatem innuit, cum recitaturum se dicit ea que maxime allectiua sunt desiderii humani, scilicet gaudia Paradisi;",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-308-a",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "admirabilitatem tangit, cum promittit se tam ardua tam sublimia dicere, scilicet conditiones regni celestis;",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-308-b",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "possibilitatem ostendit, cum dicit se dicturum que mente retinere potuit;",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-308-c",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "si enim ipse, et alii poterunt.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-308-d",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Hec omnia tanguntur in uerbis illis ubi dicit se fuisse in primo celo, et quod dicere uult de regno celesti quicquid in mente sua, quasi thesaurum, potuit retinere.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-309",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Uiso igitur de bonitate ac perfectione prime partis prologi, ad litteram accedatur.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-310",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Dicit ergo quod “gloria primi Motoris”, qui Deus est, “in omnibus partibus uniuersi resplendet”, sed ita ut “in aliqua parte magis, et in aliqua minus”.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-311",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Quod autem ubique resplendeat, ratio et auctoritas manifestat.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-312",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Ratio sic: Omne quod est, aut habet esse a se, aut ab alio:",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-313-a",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "sed constat quod habere esse a se non conuenit nisi uni, scilicet primo seu principio, qui Deus est, cum habere esse non arguat per se necesse esse, et per se necesse esse non competat nisi uni, scilicet primo seu principio, quod est causa omnium;",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-313-b",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "ergo omnia que sunt, preter unum ipsum, habent esse ab alio.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-313-c",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Si ergo accipiatur ultimum in uniuerso, non quodcunque manifestum est quod id habet esse ab aliquo;",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-314-a",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "et illud a quo habet, a se uel ab aliquo habet.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-314-b",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Si a se, sic est primum;",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-315-a",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "si ab aliquo, et illud similiter uel a se uel ab aliquo.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-315-b",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Et cum esset sic procedere in infinitum in causis agentibus, ut probatur in secundo Metaphysicorum, erit deuenire ad primum, qui Deus est.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-316",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Et sic, mediate uel inmediate, omne quod habet esse habet esse ab eo; quia ex eo quod causa secunda recipit a prima, influit super causatum ad modum recipientis et reddentis radium, propter quod causa prima est magis causa.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-317",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Et hoc dicitur in libro De Causis quod «omnis causa primaria plus influit super suum causatum quam causa uniuersalis secunda».",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-318",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Sed hoc quantum ad esse.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-319",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Quantum uero ad essentiam, probo sic: Omnis essentia, preter primam, est causata, aliter essent plura que essent per se necesse esse, quod est impossibile:",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-320-a",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "quod causatum, uel a natura est uel ab intellectu, et quod a natura, per consequens causatum est ab intellectu, cum natura sit opus intelligentie;",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-320-b",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "omne ergo quod est causatum, est causatum ab aliquo intellectu uel mediate uel inmediate.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-320-c",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Cum ergo uirtus sequatur essentiam cuius est uirtus, si essentia intellectiua, est tota et unius que causat.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-321",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Et sic quemadmodum prius deuenire erat ad primam causam ipsius esse, sic nunc essentie et uirtutis.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-322",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Propter quod patet quod omnis essentia et uirtus procedat a prima, et intelligentie inferiores recipiant quasi a radiante, et reddant radios superioris ad suum inferius ad modum speculorum.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-323",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Quod satis aperte tangere uidetur Dionysius de Celesti Hierarchia loquens.",
+   "spans": [
+    {
+     "start": 34,
+     "end": 43,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-324",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Et propter hoc dicitur in libro De Causis quod «omnis intelligentia est plena formis».",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-325",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Patet ergo quomodo ratio manifestat diuinum lumen, id est diuinam bonitatem, sapientiam et uirtutem, resplendere ubique.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-326",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Similiter etiam et scientius facit auctoritas.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-327",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Dicit enim Spiritus Sanctus per Hieremiam: «Celum et terram ego impleo»;",
+   "spans": [
+    {
+     "start": 32,
+     "end": 41,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-328-a",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "et in Psalmo: «Quo ibo a spiritu tuo?",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-328-b",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "et quo a facie tua fugiam?",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-328-c",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Si ascendero in celum, tu illic es;",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-329-a",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "si descendero in infernum, ades.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-329-b",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Si sumpsero pennas meas etc.».",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-330",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Et Sapientia dicit quod «Spiritus Domini repleuit orbem terrarum».",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-331",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Et Ecclesiasticus in quadragesimo secundo: «Gloria Domini plenum est opus eius».",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-332",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Quod etiam scriptura paganorum contestatur;",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-333-a",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "unde Lucanus in nono: «Iuppiter est quodcunque uides, quocunque moueris».",
+   "spans": [
+    {
+     "start": 5,
+     "end": 12,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 23,
+     "end": 31,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-333-b",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Bene ergo dictum est cum dicit quod diuinus radius siue diuina gloria, “per uniuersum penetrat et resplendet”:",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-334-a",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "penetrat, quantum ad essentiam;",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-334-b",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "resplendet, quantum ad esse.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-334-c",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Quod autem subicit de “magis et minus”, habet ueritatem in manifesto; quoniam uidemus in aliquo excellentiori gradu essentiam aliquam, aliquam uero in inferiori; ut patet de celo et elementis, quorum quidem illud incorruptibile, illa uero corruptibilia sunt.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-335",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Et postquam premisit hanc ueritatem, prosequitur ab ea circumloquens Paradisum;",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-336-a",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "et dicit quod fuit in celo illo quod de gloria Dei, siue de luce, recipit affluentius.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-336-b",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Propter quod sciendum quod illud celum est celum supremum, continens corpora uniuersa et a nullo contentum, intra quod omnia corpora mouentur, ipso in sempiterna quiete permanente uirtute sua omnia sua contenta recipiens et a nulla corporali substantia uirtutem recipiens.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-337",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Et dicitur empyreum, quod est idem quod celum igne sui ardoris flagrans; non quod in eo sit ignis uel ardor materialis, sed spiritualis, quod est amor sanctus siue caritas.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-338",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Quod autem de diuina luce plus recipiat, potest probari per duo: primo, per suum omnia continere et a nullo contineri, secundo, per sempiternam suam quietem siue pacem.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-339",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Quantum ad primum probatur sic: Continens se habet ad contentum in naturali situ sicut formatiuum ad formabile, ut habetur in quarto Physicorum:",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-340-a",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "sed in naturali situ totius uniuersi primum celum est omnia continens;",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-340-b",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "ergo se habet ad omnia sicut formatiuum ad formabile, quod est se habere per modum cause.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-340-c",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Et cum omnis uis causandi sit radius quidam influens a prima causa que Deus est, manifestum est quod illud celum quod magis habet rationem cause, magis de luce diuina recipit.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-341",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Quantum ad secundum, probatur sic: Omne quod mouetur, mouetur propter aliquid quod non habet, quod est terminus sui motus; sicut celum lune mouetur propter aliquam partem sui, que non habet illud ubi ad quod mouetur;",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-342-a",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "et quia sui pars quelibet non adepto quolibet ubi, quod est impossibile, mouetur ad aliud, inde est quod semper mouetur et nunquam quiescit, et est eius appetitus.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-342-b",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Et quod dico de celo lune, intelligendum est de omnibus, preter primum.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-343",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Omne quod mouetur est in aliquo defectu, et non habet totum suum esse simul.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-344",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Illud igitur celum quod a nullo mouetur, in se in qualibet sui parte habet quicquid potest modo perfecto, ita quod motu non indiget ad suam perfectionem.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-345",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Et cum omnis perfectio sit radius primi, quod est in summo gradu perfectionis; manifestum est quod celum primum magis recipit de luce primi, qui est Deus.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-346",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Ista tamen ratio uidetur arguere ad destructionem antecedentis, ita quod simpliciter et secundum formam arguendi non probat.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-347",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Sed si consideremus materiam eius, bene probat, quia de quodam sempiterno, in quo potest defectus sempiternari:",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-348-a",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "ita quod, si Deus non dedit sibi motum, patet quod non dedit sibi materiam in aliquo egentem.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-348-b",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Et per hanc suppositionem tenet argumentum ratione materie;",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-349-a",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "et est similis modus arguendi ac si dicerem: Si homo est, est risibile;",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-349-b",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "nam in omnibus conuertibilibus tenet similis ratio gratia materie.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-349-c",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Sic ergo patet: cum dicit “in illo celo, quod plus de luce Dei recipit”, intelligit circumloqui Paradisum, siue celum empyreum.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-350",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Premissis quoque rationibus consonanter dicit Phylosophus in primo De Celo quod celum «tanto habet honorabiliorem materiam istis inferioribus, quanto magis elongatum est ab hiis que hic».",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-351",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Ad hoc etiam posset adduci quod dicit Apostolus ad Ephesios de Christo: «Qui ascendit super omnes celos, ut adimpleret omnia».",
+   "spans": [
+    {
+     "start": 63,
+     "end": 70,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-352",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Hoc est celum delitiarum Domini; de quibus delitiis dicitur contra Luciferum per Ezechielem: «Tu signaculum similitudinis, sapientia plenus et perfectione decorus in deliciis Paradisi Dei fuisti».",
+   "spans": [
+    {
+     "start": 67,
+     "end": 76,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 81,
+     "end": 91,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-353",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Et postquam dixit quod fuit in loco illo Paradisi per suam circumlocutionem, prosequitur dicens se uidisse aliqua que recitare non potest qui descendit.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-354",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Et reddit causam dicens “quod intellectus in tantum profundat se” in ipsum “desiderium suum”, quod est Deus, “quod memoria sequi non potest”.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-355",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Ad que intelligenda sciendum est quod intellectus humanus in hac uita, propter connaturalitatem et affinitatem quam habet ad substantiam intellectualem separatam, quando eleuatur, in tantum eleuatur, ut memoria post, reditum deficiat propter transcendisse humanum modum.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-356",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Et hoc insinuatur nobis per Apostolum ad Corinthios loquentem, ubi dicit: «Scio hominem, siue in corpore siue extra corpus nescio, Deus scit, raptum usque ad tertium celum, et uidit arcana Dei, que non licet homini loqui».",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-357",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Ecce, postquam humanam rationem intellectus, ascensione transierat, quid extra se ageretur non recordabatur.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-358",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Et hoc est insinuatum nobis in Matheo, ubi tres discipuli ceciderunt in faciem suam, nichil postea recitantes, quasi obliti.",
+   "spans": [
+    {
+     "start": 31,
+     "end": 37,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-359",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Et in Ezechiele scribitur: «Uidi, et cecidi in faciem meam».",
+   "spans": [
+    {
+     "start": 6,
+     "end": 15,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-360",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Et ubi ista inuidis non sufficiant, legant Richardum de Sancto Uictore in libro De Contemplatione, legant Bernardum in libro De Consideratione, legant Augustinum in libro De Quantitate Anime, et non inuidebunt.",
+   "spans": [
+    {
+     "start": 43,
+     "end": 52,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 63,
+     "end": 70,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 106,
+     "end": 115,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 151,
+     "end": 161,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-361",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Si uero in dispositionem eleuationis tante propter peccatum loquentis oblatrarent, legant Danielem, ubi et Nabuchodonosor inuenient contra peccatores aliqua uidisse diuinitus, obliuioni que mandasse.",
+   "spans": [
+    {
+     "start": 90,
+     "end": 98,
+     "label": "PROPN_CAND"
+    },
+    {
+     "start": 107,
+     "end": 121,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-362",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Nam «qui oriri solem suum facit super bonos et malos, et pluit super iustos et iniustos», aliquando misericorditer ad conuersionem, aliquando seuere ad punitionem, plus et minus, ut uult, gloriam suam quantumcunque male uiuentibus manifestat.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-363",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Uidit ergo, ut dicit, aliqua “que referre nescit et nequit rediens”.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-364",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Diligenter quippe notandum est quod dicit “nescit et nequit”:",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-365-a",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "nescit quia oblitus, nequit quia, si recordatur et contentum tenet, sermo tamen deficit.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-365-b",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Multa namque per intellectum uidemus quibus signa uocalia desunt: quod satis Plato insinuat in suis libris per assumptionem metaphorismorum;",
+   "spans": [
+    {
+     "start": 77,
+     "end": 82,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-366-a",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "multa enim per lumen intellectuale uidit que sermone proprio nequiuit exprimere.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-366-b",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Postea dicit se dicturum illa que de regno celesti retinere potuit, et hoc dicit esse “materiam” sui operis;",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-367-a",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "que qualia sint et quanta, in parte executiua patebit.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-367-b",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Deinde cum dicit: “O bone Apollo”, etc., facit inuocationem suam.",
+   "spans": [
+    {
+     "start": 26,
+     "end": 32,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-368",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Et diuiditur ista pars in partes duas:",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-369-a",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "in prima inuocando petit;",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-369-b",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "in secunda suadet Apollini petitionem factam, remunerationem quandam prenuntians;",
+   "spans": [
+    {
+     "start": 18,
+     "end": 26,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-369-c",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "et incipit secunda pars ibi: “O diuina uirtus”.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-369-d",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Prima pars diuiditur in partes duas:",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-370-a",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "in prima petit diuinum auxilium, in secunda tangit necessitatem sue petitionis, quod est iustificare ipsam, ibi: “Hucusque alterum iugum Parnassi” etc.",
+   "spans": [
+    {
+     "start": 137,
+     "end": 145,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-370-b",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Hec est sententia secunde partis prologi in generali.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-371",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "In speciali uero non exponam ad presens;",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-372-a",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "urget enim me rei familiaris angustia, ut hec et alia utilia rei publice derelinquere oporteat.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-372-b",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Sed spero de Magnificentia uestra ita ut alias habeatur procedendi ad utilem expositionem facultas.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-373",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "In parte uero executiua, que fuit diuisa contra prologum, nec diuidendo nec sententiando quicquam dicetur ad presens, nisi hoc, quod ubique procedetur ascendendo de celo in celum, et recitabitur de animabus beatis inuentis in quolibet orbe, et quod uera illa beatitudo in sentiendo ueritatis principium consistit; ut patet per Iohannem ibi: «Hec est uita eterna, ut cognoscant te Deum uerum etc.»;",
+   "spans": [
+    {
+     "start": 327,
+     "end": 335,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-374-a",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "et per Boetium in tertio De Consolatione ibi: «Te cernere finis».",
+   "spans": [
+    {
+     "start": 7,
+     "end": 14,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-374-b",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Inde est quod ad ostendendum gloriam beatitudinis in illis animabus, ab eis tanquam uidentibus omnem ueritatem multa querentur que magnam habent utilitatem et delectationem.",
+   "spans": [],
+   "meta": {
+    "sent_id": "Epi-375",
+    "newdoc_id": null
+   },
+   "flags": []
+  },
+  {
+   "text": "Et quia, inuento principio seu primo, uidelicet Deo, nichil est quod ulterius queratur, cum sit Alfa et Omega, idest principium et finis, ut uisio Iohannis designat, in ipso Deo terminatur tractatus, qui est benedictus in secula seculorum.",
+   "spans": [
+    {
+     "start": 147,
+     "end": 155,
+     "label": "PROPN_CAND"
+    }
+   ],
+   "meta": {
+    "sent_id": "Epi-376",
+    "newdoc_id": null
+   },
+   "flags": []
+  }
+ ]
+}

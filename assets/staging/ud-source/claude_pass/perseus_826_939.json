@@ -1,0 +1,583 @@
+[
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@75",
+    "text": "Qui modo securus nostra irridebas mala, Simili querela fata deploras tua.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@76",
+    "text": "Quicumque turpi fraude semel innotuit, Etiam si uerum dicit, amittit fidem.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@77",
+    "text": "Hoc attestatur breuis Aesopi fabula.",
+    "entities": [
+      {
+        "text": "Aesopi",
+        "label": "PERSON",
+        "start": 22,
+        "end": 28,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@78",
+    "text": "Lupus arguebat uulpem furti crimine;",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@79",
+    "text": "Negabat illa se esse culpae proximam.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@80",
+    "text": "Tunc iudex inter illos sedit simius.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@81",
+    "text": "Uterque causam cum perorassent suam, Dixisse fertur simius sententiam:",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@82",
+    "text": "Tu non uideris perdidisse quod petis;",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@83",
+    "text": "Te credo surripuisse quod pulchre negas.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@84",
+    "text": "Uirtutis expers, uerbis iactans gloriam, Ignotos fallit, notis est derisui.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@85",
+    "text": "Uenari asello comite cum uellet leo, Contexit illum frutice et admonuit simul, Ut insueta uoce terreret feras, Fugientes ipse exciperet.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@86",
+    "text": "Hic auritulus Clamorem subito totis tollit uiribus Nouo que turbat bestias miraculo.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@87",
+    "text": "Quae dum pauentes exitus notos petunt, Leonis affliguntur horrendo impetu.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@88",
+    "text": "Qui postquam caede fessus est, asinum euocat Iubet que uocem premere.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@90",
+    "text": "Qualis uidetur opera tibi uocis meae?",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@92",
+    "text": "Laudatis utiliora quae contempseris Saepe inueniri haec asserit narratio.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@93",
+    "text": "Ad fontem ceruus, cum bibisset, restitit Et in liquore uidit effigiem suam.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@95",
+    "text": "Silua tum excepit ferum, In qua retentis impeditus cornibus Lacerari coepi morsibus saeuis canum.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@96",
+    "text": "Tunc moriens edidisse uocem hanc dicitur:",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@98",
+    "text": "qui nunc demum intellego Utilia mihi quam fuerint quae despexeram, Et quae laudaram quantum luctus habuerint.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@99",
+    "text": "Qui se laudari gaudet uerbis subdolis, Fere dat poenas turpi paenitentia.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@100",
+    "text": "Cum de fenestra coruus raptum caseum Comesse uellet, celsa residens arbore, Uulpes hunc uidit, deinde sic coepi loqui:",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@101",
+    "text": "O qui tuarum, corue, pennarum est nitor!",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@102",
+    "text": "Quantum decoris corpore et uultu geris!",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@103",
+    "text": "Si uocem haberes, nulla prior ales foret.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@104",
+    "text": "At ille stultus, dum uult uocem ostendere, Emisit ore caseum, quem celeriter Dolosa uulpes auidis rapuit dentibus.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@105",
+    "text": "Tunc demum ingemuit corui deceptus stupor.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@106",
+    "text": "Hac re probatur quantum ingenium ualet;",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@107",
+    "text": "Uirtute semper praeualet sapientia.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@108",
+    "text": "Malus cum sutor inopia deperditus Medicinam ignoto facere coepi loco Et uenditaret falso antidotum nomine, Uerbosis acquisiuit sibi famam strophis.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@109",
+    "text": "Hic cum iaceret morbo confectus graui Rex urbis, eius experiendi gratia Scyphum poposcit:",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@110",
+    "text": "fusa dein simulans aqua Miscere illius antidoto se toxicum, Ebibere iussit ipsum posito praemio.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@112",
+    "text": "Rex aduocata contione haec addidit:",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@114",
+    "text": "Hoc pertinere uere ad illos dixerim, Quorum stultitia quaestus impudentiae est.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@115",
+    "text": "In principatu commutando saepius Nil praeter domini mores mutant pauperes.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@116",
+    "text": "Id esse uerum parua haec fabella indicat.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@117",
+    "text": "Asellum in prato timidus pascebat senex.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@118",
+    "text": "Is hostium clamore subito territus Suadebat asino fugere, ne possent capi.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@120",
+    "text": "Quaeso, num binas mihi Clitellas impositurum uictorem putas?",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@121",
+    "text": "Senex negauit.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@122",
+    "text": "Ergo quid refert mea Cui seruiam clitellas cum portem meas?",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@123",
+    "text": "Fraudator homines cum aduocat sponsum improbos, Non rem expedire, sed mala uidere expetit.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@124",
+    "text": "Ouem rogabat ceruus modium tritici Lupo sponsore.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@127",
+    "text": "Ubi uos requiram cum dies aduenerit?",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@128",
+    "text": "Solent mendaces luere poenas malefici.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@130",
+    "text": "Ouis damnata falso testimonio Quod non debebat soluit.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@131",
+    "text": "Post paucos dies Bidens iacentem in fouea conspexit lupum:",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@132",
+    "text": "Haec inquit merces fraudis a superis datur.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@133",
+    "text": "Nemo libenter recolit qui laesit locum.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@134",
+    "text": "Instante partu mulier actis mensibus Humi iacebat flebilis gemitus ciens.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@137",
+    "text": "Habent insidias hominis blanditiae mali:",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@138",
+    "text": "Quas ut uitemus uersus subiecti monent.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@139",
+    "text": "Canis parturiens cum rogasset alteram, Ut fetum in eius tugurio deponeret, Facile impetrauit:",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@140",
+    "text": "dein reposcenti locum Preces admouit, tempus exorans breue, Dum firmiores posset catulos ducere.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@141",
+    "text": "Hoc quoque consumpto flagitari ualidius Cubile coepi.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@142",
+    "text": "Si mihi et turbae meae Par inquit esse potueris, cedam loco.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@143",
+    "text": "Stultum consilium non modo effectu caret, Sed ad perniciem quoque mortalis deuocat.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@144",
+    "text": "Corium depressum in fluuio uiderunt canes.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@145",
+    "text": "Id ut comesse extractum possent facilius, Aquam coepi ebibere:",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@146",
+    "text": "sed rupti prius Periere quam quod petierant contingerent.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@148",
+    "text": "Defectus annis et desertus uiribus Leo cum iaceret spiritum extremum trahens, Aper fulmineis uenit ad eum dentibus Et uindicauit ictu ueterem iniuriam.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@149",
+    "text": "Infestis taurus mox confodit cornibus Hostile corpus.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@150",
+    "text": "Asinus, ut uidit ferum Impune laedi, calcibus frontem extudit.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@152",
+    "text": "Fortis indigne tuli Mihi insultare:",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@153",
+    "text": "te, naturae dedecus, Quod ferre certe cogor bis uideor mori.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@155",
+    "text": "Parce, quaeso inquit mihi, Quae tibi molestis muribus purgo domum.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@156",
+    "text": "Respondit ille:",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@157",
+    "text": "Faceres si causa mea, Gratum esset et dedissem ueniam supplici.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@159",
+    "text": "Atque ita locutus improbam leto dedit.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@163",
+    "text": "Heus inquit linguam uis meam praecludere, Ne latrem pro re domini?",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@164",
+    "text": "Multum falleris.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@165",
+    "text": "Namque ista subita me iubet benignitas Uigilare, facias ne mea culpa lucrum.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@167",
+    "text": "In prato quondam rana conspexit bouem Et tacta inuidia tantae magnitudinis Rugosam inflauit pellem:",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@168",
+    "text": "tum natos suos Interrogauit, an boue esset latior.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@169",
+    "text": "Illi negarunt.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@170",
+    "text": "Rursus intendit cutem Maiore nisu et simili quaesiuit modo, Quis maior esset.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@172",
+    "text": "Nouissime indignata dum uult ualidius Inflare sese, rupto iacuit corpore.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@173",
+    "text": "Consilia qui dant praua cautis hominibus, Et perdunt operam et deridentur turpiter.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@176",
+    "text": "Quamlibet lambe otio;",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@177",
+    "text": "Noli uereri.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@179",
+    "text": "Facerem mehercule, Nisi esse scirem carnis te cupidum meae.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@180",
+    "text": "Nulli nocendum:",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@182",
+    "text": "Uulpes ad cenam dicitur ciconiam Prior inuitasse et illi in patina liquidam Posuisse sorbitionem, quam nullo modo Gustare esuriens potuerit ciconia.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@183",
+    "text": "Quae uulpem cum reuocasset, intrito cibo Plenam lagonam posuit:",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@184",
+    "text": "huic rostrum inserens Satiatur ipsa et torquet conuiuam fame.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@185",
+    "text": "Quae cum lagonae collum frustra lamberet, Peregrinam sic locutam uolucrem accepimus:",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@186",
+    "text": "Sua quisque exempla debet aequo animo pati.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@187",
+    "text": "Haec res auaris esse conueniens potest Et qui humiles nati dici locupletes student.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@190",
+    "text": "quem stans uulturius super Fertur locutus:",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@191",
+    "text": "O canis, merito iaces, Qui concupisti subito regales opes, Triuio conceptus, educatus stercore.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@192",
+    "text": "Quamuis sublimes debent humiles metuere, Uindicta docili quia patet sollertiae.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@193",
+    "text": "Uulpinos catulos aquila quondam sustulit Nido que posuit pullis, escam ut carperent.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@194",
+    "text": "Hanc persecuta mater orare incipit, Ne tantum miserae luctum importaret sibi.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@196",
+    "text": "Uulpes ab ara rapuit ardentem facem Totam que flammis arborem circumdedit, Hosti dolorem damno miscens sanguinis.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@197",
+    "text": "Aquila ut periclo mortis eriperet suos Incolumes natos supplex uulpi tradidit.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@198",
+    "text": "Plerumque stulti risum dum captant leuem, Graui destringunt alios contumelia Et sibi nociuum concitant periculum.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@200",
+    "text": "Salue inquit frater.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@201",
+    "text": "Ille indignans repudiat Officium et quaerit, cur sic mentiri uelit.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@203",
+    "text": "Similem si negas Tibi me esse, certe simile est hoc rostro tuo.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@205",
+    "text": "Facilis uindicta est mihi, Sed inquinari nolo ignauo sanguine.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@206",
+    "text": "Humiles laborant ubi potentes dissident.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@208",
+    "text": "Heu quanta nobis instat pernicies!",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@209",
+    "text": "ait.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@212",
+    "text": "Expulsus regno nemoris qui profugerit, Paludis in secreta ueniet latibula Et proculcatas obteret duro pede.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@213",
+    "text": "Ita caput ad nostrum furor illorum pertinet.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@214",
+    "text": "Qui se committit homini tutandum improbo, Auxilia dum requirit, exitium inuenit.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@216",
+    "text": "Quare sollicitum potius aeuum ducitis, Quam regem me creatis icto foedere, Qui uos ab omni tutas praestem iniuria?",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@217",
+    "text": "Illae credentes tradunt sese miluo;",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@218",
+    "text": "Qui regnum adeptus coepi uesci singulas Et exercere imperium saeuis unguibus.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@220",
+    "text": "Merito plectimur.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@221",
+    "text": "Exemplis continetur Aesopi genus;",
+    "entities": [
+      {
+        "text": "Aesopi",
+        "label": "PERSON",
+        "start": 20,
+        "end": 26,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@224",
+    "text": "Equidem omni cura morem seruabo senis;",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0975.phi001.perseus-lat1.tb.xml@225",
+    "text": "Sed si libuerit aliquid interponere, Dictorum sensus ut delectet uarietas, Bonas in partes, lector, accipias uelim, Ita si rependet illi breuitas gratiam.",
+    "entities": []
+  }
+]

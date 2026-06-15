@@ -1,0 +1,1809 @@
+[
+  {
+    "sent_id": "52851",
+    "text": "Eorum satisfactione accepta et itinere exquisito per Diuiciacum quod ex Gallis ei maximam fidem habebat ut milium amplius quinquaginta circuitu locis apertis exercitum duceret de quarta uigilia ut dixerat profectus est .",
+    "entities": [
+      {
+        "text": "Diuiciacum",
+        "label": "PERSON",
+        "start": 53,
+        "end": 63,
+        "multi": false
+      },
+      {
+        "text": "Gallis",
+        "label": "NORP",
+        "start": 72,
+        "end": 78,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "52852",
+    "text": "Septimo die cum iter non intermitteret ab exploratoribus certior factus est Ariouisti copias a nostris milia passuum quattuor et uiginti abesse .",
+    "entities": [
+      {
+        "text": "Ariouisti",
+        "label": "PERSON",
+        "start": 76,
+        "end": 85,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "52853",
+    "text": "Cognito Caesaris aduentu Ariouistus legatos ad eum mittit .",
+    "entities": [
+      {
+        "text": "Caesaris",
+        "label": "PERSON",
+        "start": 8,
+        "end": 16,
+        "multi": false
+      },
+      {
+        "text": "Ariouistus",
+        "label": "PERSON",
+        "start": 25,
+        "end": 35,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "64226",
+    "text": "quod antea de conloquio postulasset id per se fieri licere quoniam propius accessisset se que id sine periculo facere posse existimaret .",
+    "entities": []
+  },
+  {
+    "sent_id": "52854",
+    "text": "Non respuit condicionem Caesar iam que eum ad sanitatem reuerti arbitrabatur cum id quod antea petenti denegasset ultro polliceretur magnam que in spem ueniebat pro suis tantis populi que Romani in eum beneficiis cognitis suis postulatis fore uti pertinacia desisteret .",
+    "entities": [
+      {
+        "text": "Caesar",
+        "label": "PERSON",
+        "start": 24,
+        "end": 30,
+        "multi": false
+      },
+      {
+        "text": "Romani",
+        "label": "NORP",
+        "start": 188,
+        "end": 194,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "52855",
+    "text": "Dies conloquio dictus est ex eo die quintus .",
+    "entities": []
+  },
+  {
+    "sent_id": "52856",
+    "text": "Interim saepe cum legati ultro citro que inter eos mitterentur Ariouistus postulauit ne quem peditem ad conloquium Caesar adduceret .",
+    "entities": [
+      {
+        "text": "Ariouistus",
+        "label": "PERSON",
+        "start": 63,
+        "end": 73,
+        "multi": false
+      },
+      {
+        "text": "Caesar",
+        "label": "PERSON",
+        "start": 115,
+        "end": 121,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "64227",
+    "text": "uereri se ne per insidias ab eo circumueniretur .",
+    "entities": []
+  },
+  {
+    "sent_id": "52857",
+    "text": "uterque cum equitatu ueniret .",
+    "entities": []
+  },
+  {
+    "sent_id": "64228",
+    "text": "alia ratione sese non esse uenturum .",
+    "entities": []
+  },
+  {
+    "sent_id": "52858",
+    "text": "Caesar quod neque conloquium interposita causa tolli uolebat neque salutem suam Gallorum equitatui committere audebat commodissimum esse statuit omnibus equis Gallis equitibus detractis eo legionarios milites legionis decimae cui quam maxime confidebat imponere ut praesidium quam amicissimum si quid opus facto esset haberet .",
+    "entities": [
+      {
+        "text": "Caesar",
+        "label": "PERSON",
+        "start": 0,
+        "end": 6,
+        "multi": false
+      },
+      {
+        "text": "Gallorum",
+        "label": "NORP",
+        "start": 80,
+        "end": 88,
+        "multi": false
+      },
+      {
+        "text": "Gallis",
+        "label": "NORP",
+        "start": 159,
+        "end": 165,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "52859",
+    "text": "Quod cum fieret non inridicule quidam ex militibus decimae legionis dixit plus quam pollicitus esset Caesarem facere .",
+    "entities": [
+      {
+        "text": "Caesarem",
+        "label": "PERSON",
+        "start": 101,
+        "end": 109,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "52860",
+    "text": "pollicitum se in cohortis praetoriae loco decimam legionem habiturum ad equum rescribere .",
+    "entities": []
+  },
+  {
+    "sent_id": "52973",
+    "text": "Cum ab iis quaereret quae ciuitates quantae que in armis essent et quid in bello possent sic reperiebat .",
+    "entities": []
+  },
+  {
+    "sent_id": "56939",
+    "text": "plerosque Belgos esse ortos a Germanis Rhenum que antiquitus traductos propter loci fertilitatem ibi consedisse Gallos que qui ea loca incolerent expulisse solos que esse qui patrum nostrorum memoria omni Gallia uexata Teutonos Cimbros que intra suos fines ingredi prohibuerint .",
+    "entities": [
+      {
+        "text": "Belgos",
+        "label": "NORP",
+        "start": 10,
+        "end": 16,
+        "multi": false
+      },
+      {
+        "text": "Germanis",
+        "label": "NORP",
+        "start": 30,
+        "end": 38,
+        "multi": false
+      },
+      {
+        "text": "Rhenum",
+        "label": "LOC",
+        "start": 39,
+        "end": 45,
+        "multi": false
+      },
+      {
+        "text": "Gallos",
+        "label": "NORP",
+        "start": 112,
+        "end": 118,
+        "multi": false
+      },
+      {
+        "text": "Gallia",
+        "label": "LOC",
+        "start": 205,
+        "end": 211,
+        "multi": false
+      },
+      {
+        "text": "Teutonos",
+        "label": "NORP",
+        "start": 219,
+        "end": 227,
+        "multi": false
+      },
+      {
+        "text": "Cimbros",
+        "label": "NORP",
+        "start": 228,
+        "end": 235,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "52974",
+    "text": "qua ex re fieri uti earum rerum memoria magnam sibi auctoritatem magnos que spiritus in re militari sumerent .",
+    "entities": []
+  },
+  {
+    "sent_id": "52975",
+    "text": "De numero eorum omnia se habere explorata Remi dicebant propterea quod propinquitatibus adfinitatibus que coniuncti quantam quisque multitudinem in communi Belgarum concilio ad id bellum pollicitus sit cognouerint .",
+    "entities": [
+      {
+        "text": "Remi",
+        "label": "NORP",
+        "start": 42,
+        "end": 46,
+        "multi": false
+      },
+      {
+        "text": "Belgarum",
+        "label": "NORP",
+        "start": 156,
+        "end": 164,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "52976",
+    "text": "Plurimum inter eos Bellouacos et uirtute et auctoritate et hominum numero ualere .",
+    "entities": [
+      {
+        "text": "Bellouacos",
+        "label": "NORP",
+        "start": 19,
+        "end": 29,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "63644",
+    "text": "hos posse conficere armata milia centum pollicitos ex eo numero electa milia sexaginta totius que belli imperium sibi postulare .",
+    "entities": []
+  },
+  {
+    "sent_id": "52977",
+    "text": "Suessiones suos esse finitimos .",
+    "entities": [
+      {
+        "text": "Suessiones",
+        "label": "NORP",
+        "start": 0,
+        "end": 10,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "52978",
+    "text": "fines latissimos feracissimos que agros possidere .",
+    "entities": []
+  },
+  {
+    "sent_id": "52979",
+    "text": "Apud eos fuisse regem nostra etiam memoria Diuiciacum totius Galliae potentissimum qui cum magnae partis harum regionum tum etiam Britanniae imperium obtinuerit .",
+    "entities": [
+      {
+        "text": "Diuiciacum",
+        "label": "PERSON",
+        "start": 43,
+        "end": 53,
+        "multi": false
+      },
+      {
+        "text": "Galliae",
+        "label": "LOC",
+        "start": 61,
+        "end": 68,
+        "multi": false
+      },
+      {
+        "text": "Britanniae",
+        "label": "LOC",
+        "start": 130,
+        "end": 140,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "52980",
+    "text": "nunc esse regem Galbam ad hunc propter iustitiam prudentiam que summam totius belli omnium uoluntate deferri .",
+    "entities": [
+      {
+        "text": "Galbam",
+        "label": "PERSON",
+        "start": 16,
+        "end": 22,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "52981",
+    "text": "oppida habere numero duodecim polliceri milia armata quinquaginta .",
+    "entities": []
+  },
+  {
+    "sent_id": "52982",
+    "text": "totidem Neruios qui maxime feri inter ipsos habeantur longissime que absint .",
+    "entities": [
+      {
+        "text": "Neruios",
+        "label": "NORP",
+        "start": 8,
+        "end": 15,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "52983",
+    "text": "quindecim milia Atrebates Ambianos decem milia Morinos uiginti quinque milia Menapios septem milia Caletos decem milia Ueliocasses et Uiromanduos totidem Atuatucos undeuiginti milia .",
+    "entities": [
+      {
+        "text": "Atrebates",
+        "label": "NORP",
+        "start": 16,
+        "end": 25,
+        "multi": false
+      },
+      {
+        "text": "Ambianos",
+        "label": "NORP",
+        "start": 26,
+        "end": 34,
+        "multi": false
+      },
+      {
+        "text": "Morinos",
+        "label": "NORP",
+        "start": 47,
+        "end": 54,
+        "multi": false
+      },
+      {
+        "text": "Menapios",
+        "label": "NORP",
+        "start": 77,
+        "end": 85,
+        "multi": false
+      },
+      {
+        "text": "Caletos",
+        "label": "NORP",
+        "start": 99,
+        "end": 106,
+        "multi": false
+      },
+      {
+        "text": "Ueliocasses",
+        "label": "NORP",
+        "start": 119,
+        "end": 130,
+        "multi": false
+      },
+      {
+        "text": "Uiromanduos",
+        "label": "NORP",
+        "start": 134,
+        "end": 145,
+        "multi": false
+      },
+      {
+        "text": "Atuatucos",
+        "label": "NORP",
+        "start": 154,
+        "end": 163,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "52984",
+    "text": "Condrusos Eburones Caerosos Paemanos qui uno nomine Germani appellantur arbitrari ad quadraginta milia .",
+    "entities": [
+      {
+        "text": "Condrusos",
+        "label": "NORP",
+        "start": 0,
+        "end": 9,
+        "multi": false
+      },
+      {
+        "text": "Eburones",
+        "label": "NORP",
+        "start": 10,
+        "end": 18,
+        "multi": false
+      },
+      {
+        "text": "Caerosos",
+        "label": "NORP",
+        "start": 19,
+        "end": 27,
+        "multi": false
+      },
+      {
+        "text": "Paemanos",
+        "label": "NORP",
+        "start": 28,
+        "end": 36,
+        "multi": false
+      },
+      {
+        "text": "Germani",
+        "label": "NORP",
+        "start": 52,
+        "end": 59,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "52985",
+    "text": "Caesar Remos cohortatus liberaliter que oratione prosecutus omnem senatum ad se conuenire principum que liberos obsides ad se adduci iussit .",
+    "entities": [
+      {
+        "text": "Caesar",
+        "label": "PERSON",
+        "start": 0,
+        "end": 6,
+        "multi": false
+      },
+      {
+        "text": "Remos",
+        "label": "NORP",
+        "start": 7,
+        "end": 12,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "52986",
+    "text": "Quae omnia ab his diligenter ad diem facta sunt .",
+    "entities": []
+  },
+  {
+    "sent_id": "52987",
+    "text": "Ipse Diuiciacum Haeduum magnopere cohortatus docet quanto opere rei publicae communis que salutis intersit manus hostium distineri ne cum tanta multitudine uno tempore confligendum sit .",
+    "entities": [
+      {
+        "text": "Diuiciacum",
+        "label": "PERSON",
+        "start": 5,
+        "end": 15,
+        "multi": false
+      },
+      {
+        "text": "Haeduum",
+        "label": "NORP",
+        "start": 16,
+        "end": 23,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "52988",
+    "text": "Id fieri posse si suas copias Haedui in fines Bellouacorum introduxerint et eorum agros populari coeperint .",
+    "entities": [
+      {
+        "text": "Haedui",
+        "label": "NORP",
+        "start": 30,
+        "end": 36,
+        "multi": false
+      },
+      {
+        "text": "Bellouacorum",
+        "label": "NORP",
+        "start": 46,
+        "end": 58,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "52989",
+    "text": "His datis mandatis eum a se dimittit .",
+    "entities": []
+  },
+  {
+    "sent_id": "52990",
+    "text": "Postquam omnes Belgarum copias in unum locum coactas ad se uenire uidit neque iam longe abesse ab iis quos miserat exploratoribus et ab Remis cognouit flumen Axonam quod est in extremis Remorum finibus exercitum traducere maturauit atque ibi castra posuit .",
+    "entities": [
+      {
+        "text": "Belgarum",
+        "label": "NORP",
+        "start": 15,
+        "end": 23,
+        "multi": false
+      },
+      {
+        "text": "Remis",
+        "label": "NORP",
+        "start": 136,
+        "end": 141,
+        "multi": false
+      },
+      {
+        "text": "Axonam",
+        "label": "LOC",
+        "start": 158,
+        "end": 164,
+        "multi": false
+      },
+      {
+        "text": "Remorum",
+        "label": "NORP",
+        "start": 186,
+        "end": 193,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "52991",
+    "text": "Quae res et latus unum castrorum ripis fluminis muniebat et post eum quae erant tuta ab hostibus reddebat et commeatus ab Remis reliquis que ciuitatibus ut sine periculo ad eum portari possent efficiebat .",
+    "entities": [
+      {
+        "text": "Remis",
+        "label": "NORP",
+        "start": 122,
+        "end": 127,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "52992",
+    "text": "In eo flumine pons erat .",
+    "entities": []
+  },
+  {
+    "sent_id": "52993",
+    "text": "Ibi praesidium ponit et in altera parte fluminis Quintum Titurium Sabinum legatum cum sex cohortibus relinquit .",
+    "entities": [
+      {
+        "text": "Quintum Titurium Sabinum",
+        "label": "PERSON",
+        "start": 49,
+        "end": 73,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "52994",
+    "text": "castra in altitudinem pedum duodecim uallo fossa que duodeuiginti pedum muniri iubet .",
+    "entities": []
+  },
+  {
+    "sent_id": "52995",
+    "text": "Ab his castris oppidum Remorum nomine Bibrax aberat milia passuum octo .",
+    "entities": [
+      {
+        "text": "Remorum",
+        "label": "NORP",
+        "start": 23,
+        "end": 30,
+        "multi": false
+      },
+      {
+        "text": "Bibrax",
+        "label": "LOC",
+        "start": 38,
+        "end": 44,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "52996",
+    "text": "Id ex itinere magno impetu Belgae oppugnare coeperunt .",
+    "entities": [
+      {
+        "text": "Belgae",
+        "label": "NORP",
+        "start": 27,
+        "end": 33,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "52997",
+    "text": "Aegre eo die sustentatum est .",
+    "entities": []
+  },
+  {
+    "sent_id": "52998",
+    "text": "Gallorum eadem atque Belgarum oppugnatio est haec .",
+    "entities": [
+      {
+        "text": "Gallorum",
+        "label": "NORP",
+        "start": 0,
+        "end": 8,
+        "multi": false
+      },
+      {
+        "text": "Belgarum",
+        "label": "NORP",
+        "start": 21,
+        "end": 29,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "56940",
+    "text": "ubi circumiecta multitudine hominum totis moenibus undique in murum lapides iaci coepti sunt murus que defensoribus nudatus est testudine facta portas succedunt murum que subruunt .",
+    "entities": []
+  },
+  {
+    "sent_id": "52999",
+    "text": "Quod tum facile fiebat .",
+    "entities": []
+  },
+  {
+    "sent_id": "53000",
+    "text": "Nam cum tanta multitudo lapides ac tela coicerent in muro consistendi potestas erat nulli .",
+    "entities": []
+  },
+  {
+    "sent_id": "53001",
+    "text": "Cum finem oppugnandi nox fecisset Iccius Remus summa nobilitate et gratia inter suos qui tum oppido praeerat unus ex iis qui legati de pace ad Caesarem uenerant nuntium ad eum mittit .",
+    "entities": [
+      {
+        "text": "Iccius",
+        "label": "PERSON",
+        "start": 34,
+        "end": 40,
+        "multi": false
+      },
+      {
+        "text": "Remus",
+        "label": "NORP",
+        "start": 41,
+        "end": 46,
+        "multi": false
+      },
+      {
+        "text": "Caesarem",
+        "label": "PERSON",
+        "start": 143,
+        "end": 151,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "56941",
+    "text": "nisi subsidium sibi submittatur sese diutius sustinere non posse .",
+    "entities": []
+  },
+  {
+    "sent_id": "53215",
+    "text": "Compluribus expugnatis oppidis Caesar ubi intellexit frustra tantum laborem sumi neque hostium fugam captis oppidis reprimi neque iis noceri posse statuit expectandam classem .",
+    "entities": [
+      {
+        "text": "Caesar",
+        "label": "PERSON",
+        "start": 31,
+        "end": 37,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "53216",
+    "text": "Quae ubi conuenit ac primum ab hostibus uisa est circiter ducentae uiginti naues eorum paratissimae atque omni genere armorum ornatissimae profectae ex portu nostris aduersae constiterunt .",
+    "entities": []
+  },
+  {
+    "sent_id": "53217",
+    "text": "neque satis Bruto qui classi praeerat uel tribunis militum centurionibus que quibus singulae naues erant attributae constabat quid agerent aut quam rationem pugnae insisterent .",
+    "entities": [
+      {
+        "text": "Bruto",
+        "label": "PERSON",
+        "start": 12,
+        "end": 17,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "53218",
+    "text": "Rostro enim noceri non posse cognouerant .",
+    "entities": []
+  },
+  {
+    "sent_id": "53219",
+    "text": "turribus autem excitatis tamen has altitudo puppium ex barbaris nauibus superabat ut neque ex inferiore loco satis commode tela adigi possent et missa a Gallis grauius acciderent .",
+    "entities": [
+      {
+        "text": "Gallis",
+        "label": "NORP",
+        "start": 153,
+        "end": 159,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "53220",
+    "text": "Una erat magno usui res praeparata a nostris falces praeacutae insertae adfixae que longuriis non absimili forma muralium falcium .",
+    "entities": []
+  },
+  {
+    "sent_id": "53221",
+    "text": "His cum funes qui antemnas ad malos destinabant comprehensi adducti que erant nauigio remis incitato praerumpebantur .",
+    "entities": []
+  },
+  {
+    "sent_id": "53222",
+    "text": "Quibus abscisis antemnae necessario concidebant ut cum omnis Gallicis nauibus spes in uelis armamentis que consisteret his ereptis omnis usus nauium uno tempore eriperetur .",
+    "entities": [
+      {
+        "text": "Gallicis",
+        "label": "NORP",
+        "start": 61,
+        "end": 69,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "53223",
+    "text": "Reliquum erat certamen positum in uirtute qua nostri milites facile superabant atque eo magis quod in conspectu Caesaris atque omnis exercitus res gerebatur ut nullum paulo fortius factum latere posset .",
+    "entities": [
+      {
+        "text": "Caesaris",
+        "label": "PERSON",
+        "start": 112,
+        "end": 120,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "53224",
+    "text": "omnes enim colles ac loca superiora unde erat propinquus despectus in mare ab exercitu tenebantur .",
+    "entities": []
+  },
+  {
+    "sent_id": "53225",
+    "text": "Deiectis ut diximus antemnis cum singulas binae ac ternae naues circumsteterant milites summa ui transcendere in hostium naues contendebant .",
+    "entities": []
+  },
+  {
+    "sent_id": "53226",
+    "text": "Quod postquam barbari fieri animaduerterunt expugnatis compluribus nauibus cum ei rei nullum reperiretur auxilium fuga salutem petere contenderunt .",
+    "entities": []
+  },
+  {
+    "sent_id": "53227",
+    "text": "Ac iam conuersis in eam partem nauibus quo uentus ferebat tanta subito malacia ac tranquillitas extitit ut se ex loco mouere non possent .",
+    "entities": []
+  },
+  {
+    "sent_id": "53228",
+    "text": "Quae quidem res ad negotium conficiendum maximae fuit oportunitati .",
+    "entities": []
+  },
+  {
+    "sent_id": "63200",
+    "text": "nam singulas nostri consectati expugnauerunt ut perpaucae ex omni numero noctis interuentu ad terram per uenirent cum ab hora fere quattuor usque ad solis occasum pugnaretur .",
+    "entities": []
+  },
+  {
+    "sent_id": "53229",
+    "text": "Quo proelio bellum Uenetorum totius que orae maritimae confectum est .",
+    "entities": [
+      {
+        "text": "Uenetorum",
+        "label": "NORP",
+        "start": 19,
+        "end": 28,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "53230",
+    "text": "Nam cum omnis iuuentus omnes etiam grauioris aetatis in quibus aliquid consilii aut dignitatis fuit eo conuenerant tum nauium quod ubique fuerat in unum locum coegerant .",
+    "entities": []
+  },
+  {
+    "sent_id": "53231",
+    "text": "quibus amissis reliqui neque quo se reciperent neque quem ad modum oppida defenderent habebant .",
+    "entities": []
+  },
+  {
+    "sent_id": "53232",
+    "text": "Itaque se sua que omnia Caesari dediderunt .",
+    "entities": [
+      {
+        "text": "Caesari",
+        "label": "PERSON",
+        "start": 24,
+        "end": 31,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "53233",
+    "text": "In quos eo grauius Caesar uindicandum statuit quo diligentius in reliquum tempus a barbaris ius legatorum conseruaretur .",
+    "entities": []
+  },
+  {
+    "sent_id": "53234",
+    "text": "Itaque omni senatu necato reliquos sub corona uendidit .",
+    "entities": []
+  },
+  {
+    "sent_id": "53235",
+    "text": "Dum haec in Uenetis geruntur Quintus Titurius Sabinus cum iis copiis quas a Caesare acceperat in fines Uenellorum peruenit .",
+    "entities": [
+      {
+        "text": "Uenetis",
+        "label": "NORP",
+        "start": 12,
+        "end": 19,
+        "multi": false
+      },
+      {
+        "text": "Quintus Titurius Sabinus",
+        "label": "PERSON",
+        "start": 29,
+        "end": 53,
+        "multi": false
+      },
+      {
+        "text": "Caesare",
+        "label": "PERSON",
+        "start": 76,
+        "end": 83,
+        "multi": false
+      },
+      {
+        "text": "Uenellorum",
+        "label": "NORP",
+        "start": 103,
+        "end": 113,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "53236",
+    "text": "His praeerat Uiridouix ac summam imperii tenebat earum omnium ciuitatum quae defecerant ex quibus exercitum coegerat .",
+    "entities": [
+      {
+        "text": "Uiridouix",
+        "label": "PERSON",
+        "start": 13,
+        "end": 22,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "53237",
+    "text": "atque his paucis diebus Aulerci Eburouices Lexouii que senatu suo interfecto quod auctores belli esse nolebant portas clauserunt se que cum Uiridouice coniunxerunt .",
+    "entities": [
+      {
+        "text": "Aulerci Eburouices",
+        "label": "NORP",
+        "start": 24,
+        "end": 42,
+        "multi": false
+      },
+      {
+        "text": "Lexouii",
+        "label": "NORP",
+        "start": 43,
+        "end": 50,
+        "multi": false
+      },
+      {
+        "text": "Uiridouice",
+        "label": "PERSON",
+        "start": 140,
+        "end": 150,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "53238",
+    "text": "magna que praeterea multitudo undique ex Gallia perditorum hominum latronum que conuenerat quos spes praedandi studium que bellandi ab agri cultura et cotidiano labore reuocabat .",
+    "entities": [
+      {
+        "text": "Gallia",
+        "label": "LOC",
+        "start": 41,
+        "end": 47,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "53239",
+    "text": "Sabinus idoneo omnibus rebus loco castris sese tenebat cum Uiridouix contra eum duorum milium spatio consedisset cotidie que productis copiis pugnandi potestatem faceret ut iam non solum hostibus in contemptionem Sabinus ueniret sed etiam nostrorum militum uocibus non nihil carperetur .",
+    "entities": [
+      {
+        "text": "Sabinus",
+        "label": "PERSON",
+        "start": 0,
+        "end": 7,
+        "multi": true
+      },
+      {
+        "text": "Uiridouix",
+        "label": "PERSON",
+        "start": 59,
+        "end": 68,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "53240",
+    "text": "tantam que opinionem timoris praebuit ut iam ad uallum castrorum hostes accedere auderent .",
+    "entities": []
+  },
+  {
+    "sent_id": "53241",
+    "text": "Id ea de causa faciebat quod cum tanta multitudine hostium praesertim eo absente qui summam imperii teneret nisi aequo loco aut oportunitate aliqua data legato dimicandum non existimabat .",
+    "entities": []
+  },
+  {
+    "sent_id": "53242",
+    "text": "Hac confirmata opinione timoris idoneum quendam hominem et callidum deligit Gallum ex iis quos auxilii causa se cum habebat .",
+    "entities": [
+      {
+        "text": "Gallum",
+        "label": "NORP",
+        "start": 76,
+        "end": 82,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "53243",
+    "text": "Huic magnis praemiis pollicitationibus que persuadet uti ad hostes transeat et quid fieri uelit edocet .",
+    "entities": []
+  },
+  {
+    "sent_id": "53244",
+    "text": "Qui ubi pro perfuga ad eos uenit timorem Romanorum proponit .",
+    "entities": [
+      {
+        "text": "Romanorum",
+        "label": "NORP",
+        "start": 41,
+        "end": 50,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "63498",
+    "text": "quibus angustiis ipse Caesar a Uenetis prematur docet neque longius abesse quin proxima nocte Sabinus clam ex castris exercitum educat et ad Caesarem auxilii ferendi causa proficiscatur .",
+    "entities": [
+      {
+        "text": "Caesar",
+        "label": "PERSON",
+        "start": 22,
+        "end": 28,
+        "multi": true
+      },
+      {
+        "text": "Uenetis",
+        "label": "NORP",
+        "start": 31,
+        "end": 38,
+        "multi": false
+      },
+      {
+        "text": "Sabinus",
+        "label": "PERSON",
+        "start": 94,
+        "end": 101,
+        "multi": false
+      },
+      {
+        "text": "Caesarem",
+        "label": "PERSON",
+        "start": 141,
+        "end": 149,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "53245",
+    "text": "Quod ubi auditum est conclamant omnes occasionem negotii bene gerendi amittendam non esse ad castra iri oportere .",
+    "entities": []
+  },
+  {
+    "sent_id": "53246",
+    "text": "Multae res ad hoc consilium Gallos hortabantur superiorum dierum Sabini cunctatio perfugae confirmatio inopia cibariorum cui rei parum diligenter ab iis erat prouisum spes Uenetici belli et quod fere libenter homines id quod uolunt credunt .",
+    "entities": [
+      {
+        "text": "Gallos",
+        "label": "NORP",
+        "start": 28,
+        "end": 34,
+        "multi": false
+      },
+      {
+        "text": "Sabini",
+        "label": "PERSON",
+        "start": 65,
+        "end": 71,
+        "multi": false
+      },
+      {
+        "text": "Uenetici",
+        "label": "NORP",
+        "start": 172,
+        "end": 180,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "53247",
+    "text": "His rebus adducti non prius Uiridouicem reliquos que duces ex concilio dimittunt quam ab iis sit concessum arma uti capiant et ad castra contendant .",
+    "entities": [
+      {
+        "text": "Uiridouicem",
+        "label": "PERSON",
+        "start": 28,
+        "end": 39,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "53248",
+    "text": "Qua re concessa laeti ut explorata uictoria sarmentis uirgultis que collectis quibus fossas Romanorum compleant ad castra pergunt .",
+    "entities": [
+      {
+        "text": "Romanorum",
+        "label": "NORP",
+        "start": 92,
+        "end": 101,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "53367",
+    "text": "Acie triplici instituta et celeriter octo milium itinere confecto prius ad hostium castra peruenit quam quid ageretur Germani sentire possent .",
+    "entities": [
+      {
+        "text": "Germani",
+        "label": "NORP",
+        "start": 118,
+        "end": 125,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "53368",
+    "text": "Qui omnibus rebus subito perterriti et celeritate aduentus nostri et discessu suorum neque consilii habendi neque arma capiendi spatio dato perturbantur copias ne aduersus hostem ducere an castra defendere an fuga salutem petere praestaret .",
+    "entities": []
+  },
+  {
+    "sent_id": "53369",
+    "text": "Quorum timor cum fremitu et concursu significaretur milites nostri pristini diei perfidia incitati in castra inruperunt .",
+    "entities": []
+  },
+  {
+    "sent_id": "53370",
+    "text": "Quo loco qui celeriter arma capere potuerunt paulisper nostris restiterunt atque inter carros impedimenta que proelium commiserunt .",
+    "entities": []
+  },
+  {
+    "sent_id": "53371",
+    "text": "at reliqua multitudo puerorum mulierum que nam cum omnibus suis domo excesserant Rhenum que transierant passim fugere coepit .",
+    "entities": [
+      {
+        "text": "Rhenum",
+        "label": "LOC",
+        "start": 81,
+        "end": 87,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "63481",
+    "text": "ad quos consectandos Caesar equitatum misit .",
+    "entities": [
+      {
+        "text": "Caesar",
+        "label": "PERSON",
+        "start": 21,
+        "end": 27,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "53372",
+    "text": "Germani post tergum clamore audito cum suos interfici uiderent armis abiectis signis que militaribus relictis se ex castris eiecerunt et cum ad confluentem Mosae et Rheni peruenissent reliqua fuga desperata magno numero interfecto reliqui se in flumen praecipitauerunt atque ibi timore lassitudine ui fluminis oppressi perierunt .",
+    "entities": [
+      {
+        "text": "Germani",
+        "label": "NORP",
+        "start": 0,
+        "end": 7,
+        "multi": false
+      },
+      {
+        "text": "Mosae",
+        "label": "LOC",
+        "start": 156,
+        "end": 161,
+        "multi": false
+      },
+      {
+        "text": "Rheni",
+        "label": "LOC",
+        "start": 165,
+        "end": 170,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "53373",
+    "text": "Nostri ad unum omnes incolumes perpaucis uulneratis ex tanti belli timore cum hostium numerus capitum quadringentorum triginta milium fuisset se in castra receperunt .",
+    "entities": []
+  },
+  {
+    "sent_id": "53374",
+    "text": "Caesar iis quos in castris retinuerat discedendi potestatem fecit .",
+    "entities": [
+      {
+        "text": "Caesar",
+        "label": "PERSON",
+        "start": 0,
+        "end": 6,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "53375",
+    "text": "Illi supplicia cruciatus que Gallorum ueriti quorum agros uexauerant remanere se apud eum uelle dixerunt .",
+    "entities": [
+      {
+        "text": "Gallorum",
+        "label": "NORP",
+        "start": 29,
+        "end": 37,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "53376",
+    "text": "His Caesar libertatem concessit .",
+    "entities": [
+      {
+        "text": "Caesar",
+        "label": "PERSON",
+        "start": 4,
+        "end": 10,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "53377",
+    "text": "Germanico bello confecto multis de causis Caesar statuit sibi Rhenum esse transeundum .",
+    "entities": [
+      {
+        "text": "Caesar",
+        "label": "PERSON",
+        "start": 42,
+        "end": 48,
+        "multi": false
+      },
+      {
+        "text": "Rhenum",
+        "label": "LOC",
+        "start": 62,
+        "end": 68,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "53378",
+    "text": "quarum illa fuit iustissima quod cum uideret Germanos tam facile impelli ut in Galliam uenirent suis quoque rebus eos timere uoluit cum intellegerent et posse et audere populi Romani exercitum Rhenum transire .",
+    "entities": [
+      {
+        "text": "Germanos",
+        "label": "NORP",
+        "start": 45,
+        "end": 53,
+        "multi": false
+      },
+      {
+        "text": "Galliam",
+        "label": "LOC",
+        "start": 79,
+        "end": 86,
+        "multi": false
+      },
+      {
+        "text": "Romani",
+        "label": "NORP",
+        "start": 176,
+        "end": 182,
+        "multi": false
+      },
+      {
+        "text": "Rhenum",
+        "label": "LOC",
+        "start": 193,
+        "end": 199,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "53379",
+    "text": "Accessit etiam quod illa pars equitatus Usipetum et Tencterorum quam supra commemoraui praedandi frumentandi que causa Mosam transisse neque proelio interfuisse post fugam suorum se trans Rhenum in fines Sugambrorum receperat se que cum his coniunxerat .",
+    "entities": [
+      {
+        "text": "Usipetum",
+        "label": "NORP",
+        "start": 40,
+        "end": 48,
+        "multi": false
+      },
+      {
+        "text": "Tencterorum",
+        "label": "NORP",
+        "start": 52,
+        "end": 63,
+        "multi": false
+      },
+      {
+        "text": "Mosam",
+        "label": "LOC",
+        "start": 119,
+        "end": 124,
+        "multi": false
+      },
+      {
+        "text": "Rhenum",
+        "label": "LOC",
+        "start": 188,
+        "end": 194,
+        "multi": false
+      },
+      {
+        "text": "Sugambrorum",
+        "label": "NORP",
+        "start": 204,
+        "end": 215,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "53380",
+    "text": "Ad quos cum Caesar nuntios misisset qui postularent eos qui sibi Galliae que bellum intulissent sibi dederent responderunt populi Romani imperium Rhenum finire .",
+    "entities": [
+      {
+        "text": "Caesar",
+        "label": "PERSON",
+        "start": 12,
+        "end": 18,
+        "multi": false
+      },
+      {
+        "text": "Galliae",
+        "label": "LOC",
+        "start": 65,
+        "end": 72,
+        "multi": false
+      },
+      {
+        "text": "Romani",
+        "label": "NORP",
+        "start": 130,
+        "end": 136,
+        "multi": false
+      },
+      {
+        "text": "Rhenum",
+        "label": "LOC",
+        "start": 146,
+        "end": 152,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "53381",
+    "text": "si se inuito Germanos in Galliam transire non aequum existimaret cur sui quicquam esse imperii aut potestatis trans Rhenum postularet .",
+    "entities": [
+      {
+        "text": "Germanos",
+        "label": "NORP",
+        "start": 13,
+        "end": 21,
+        "multi": false
+      },
+      {
+        "text": "Galliam",
+        "label": "LOC",
+        "start": 25,
+        "end": 32,
+        "multi": false
+      },
+      {
+        "text": "Rhenum",
+        "label": "LOC",
+        "start": 116,
+        "end": 122,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "53382",
+    "text": "Ubii autem qui uni ex Transrhenanis ad Caesarem legatos miserant amicitiam fecerant obsides dederant magnopere orabant ut sibi auxilium ferret quod grauiter ab Suebis premerentur .",
+    "entities": [
+      {
+        "text": "Ubii",
+        "label": "NORP",
+        "start": 0,
+        "end": 4,
+        "multi": false
+      },
+      {
+        "text": "Transrhenanis",
+        "label": "NORP",
+        "start": 22,
+        "end": 35,
+        "multi": false
+      },
+      {
+        "text": "Caesarem",
+        "label": "PERSON",
+        "start": 39,
+        "end": 47,
+        "multi": false
+      },
+      {
+        "text": "Suebis",
+        "label": "NORP",
+        "start": 160,
+        "end": 166,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "53383",
+    "text": "uel si id facere occupationibus rei publicae prohiberetur exercitum modo Rhenum transportaret .",
+    "entities": [
+      {
+        "text": "Rhenum",
+        "label": "LOC",
+        "start": 73,
+        "end": 79,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "63482",
+    "text": "id sibi ad auxilium spem que reliqui temporis satis futurum .",
+    "entities": []
+  },
+  {
+    "sent_id": "53384",
+    "text": "Tantum esse nomen atque opinionem eius exercitus Ariouisto pulso et hoc nouissimo proelio facto etiam ad ultimas Germanorum nationes uti opinione et amicitia populi Romani tuti esse possint .",
+    "entities": [
+      {
+        "text": "Ariouisto",
+        "label": "PERSON",
+        "start": 49,
+        "end": 58,
+        "multi": false
+      },
+      {
+        "text": "Germanorum",
+        "label": "NORP",
+        "start": 113,
+        "end": 123,
+        "multi": false
+      },
+      {
+        "text": "Romani",
+        "label": "NORP",
+        "start": 165,
+        "end": 171,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "53385",
+    "text": "Nauium magnam copiam ad transportandum exercitum pollicebantur .",
+    "entities": []
+  },
+  {
+    "sent_id": "54011",
+    "text": "Deum maxime Mercurium colunt .",
+    "entities": [
+      {
+        "text": "Mercurium",
+        "label": "PERSON",
+        "start": 12,
+        "end": 21,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "54012",
+    "text": "Huius sunt plurima simulacra .",
+    "entities": []
+  },
+  {
+    "sent_id": "74721",
+    "text": "hunc omnium inuentorem artium ferunt .",
+    "entities": []
+  },
+  {
+    "sent_id": "74722",
+    "text": "hunc uiarum atque itinerum ducem .",
+    "entities": []
+  },
+  {
+    "sent_id": "74723",
+    "text": "hunc ad quaestus pecuniae mercaturas que habere uim maximam arbitrantur .",
+    "entities": []
+  },
+  {
+    "sent_id": "54013",
+    "text": "Post hunc Apollinem et Martem et Iouem et Mineruam .",
+    "entities": [
+      {
+        "text": "Apollinem",
+        "label": "PERSON",
+        "start": 10,
+        "end": 19,
+        "multi": false
+      },
+      {
+        "text": "Martem",
+        "label": "PERSON",
+        "start": 23,
+        "end": 29,
+        "multi": false
+      },
+      {
+        "text": "Iouem",
+        "label": "PERSON",
+        "start": 33,
+        "end": 38,
+        "multi": false
+      },
+      {
+        "text": "Mineruam",
+        "label": "PERSON",
+        "start": 42,
+        "end": 50,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "54014",
+    "text": "De his eandem fere quam reliquae gentes habent opinionem .",
+    "entities": []
+  },
+  {
+    "sent_id": "74724",
+    "text": "Apollinem morbos depellere Mineruam operum atque artificiorum initia tradere Iouem imperium caelestium tenere Martem bella regere .",
+    "entities": [
+      {
+        "text": "Apollinem",
+        "label": "PERSON",
+        "start": 0,
+        "end": 9,
+        "multi": false
+      },
+      {
+        "text": "Mineruam",
+        "label": "PERSON",
+        "start": 27,
+        "end": 35,
+        "multi": false
+      },
+      {
+        "text": "Iouem",
+        "label": "PERSON",
+        "start": 77,
+        "end": 82,
+        "multi": false
+      },
+      {
+        "text": "Martem",
+        "label": "PERSON",
+        "start": 110,
+        "end": 116,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "54015",
+    "text": "Huic cum proelio dimicare constituerunt ea quae bello ceperint plerumque deuouent .",
+    "entities": []
+  },
+  {
+    "sent_id": "74725",
+    "text": "Cum superauerunt animalia capta immolant reliquas que res in unum locum conferunt .",
+    "entities": []
+  },
+  {
+    "sent_id": "54016",
+    "text": "Multis in ciuitatibus harum rerum exstructos tumulos locis consecratis conspicari licet .",
+    "entities": []
+  },
+  {
+    "sent_id": "54017",
+    "text": "neque saepe accidit ut neglecta quispiam religione aut capta apud se occultare aut posita tollere auderet grauissimum que ei rei supplicium cum cruciatu constitutum est .",
+    "entities": []
+  },
+  {
+    "sent_id": "86051",
+    "text": "Principio generi animantium omni est a natura tributum ut se uitam corpus que tueatur declinet ea quae nocitura uideantur omnia que quae sint ad uiuendum necessaria anquirat et paret ut pastum ut latibula ut alia generis eiusdem .",
+    "entities": []
+  },
+  {
+    "sent_id": "86052",
+    "text": "Commune item animantium omnium est coniunctionis adpetitus procreandi causa et cura quaedam eorum quae procreata sint .",
+    "entities": []
+  },
+  {
+    "sent_id": "86053",
+    "text": "sed inter hominem et beluam hoc maxime interest quod haec tantum quantum sensu mouetur ad id solum quod adest quod que praesens est se accommodat paulum admodum sentiens praeteritum aut futurum .",
+    "entities": []
+  },
+  {
+    "sent_id": "86054",
+    "text": "homo autem quod rationis est particeps per quam consequentia cernit causas rerum uidet earum que praegressus et quasi antecessiones non ignorat .",
+    "entities": []
+  },
+  {
+    "sent_id": "88124",
+    "text": "similitudines comparat rebus que praesentibus adiungit atque annectit futuras .",
+    "entities": []
+  },
+  {
+    "sent_id": "88125",
+    "text": "facile totius uitae cursum uidet ad eam que degendam praeparat res necessarias .",
+    "entities": []
+  },
+  {
+    "sent_id": "86055",
+    "text": "Eadem que natura ui rationis hominem conciliat homini et ad orationis et ad uitae societatem ingenerat que in primis praecipuum quendam amorem in eos qui procreati sunt impellit que ut hominum coetus et celebrationes et esse et a se obiri uelit ob eas que causas studeat parare ea quae suppeditent ad cultum et ad uictum nec sibi soli sed coniugi liberis ceteris que quos caros habeat tueri que debeat .",
+    "entities": []
+  },
+  {
+    "sent_id": "86056",
+    "text": "quae cura exsuscitat etiam animos et maiores ad rem gerendam facit .",
+    "entities": []
+  },
+  {
+    "sent_id": "86057",
+    "text": "In primis que hominis est propria ueri inquisitio atque inuestigatio .",
+    "entities": []
+  },
+  {
+    "sent_id": "86058",
+    "text": "Itaque cum sumus necessariis negotiis curis que uacui tum auemus aliquid uidere audire addiscere cognitionem que rerum aut occultarum aut admirabilium ad beate uiuendum necessariam ducimus .",
+    "entities": []
+  },
+  {
+    "sent_id": "86059",
+    "text": "Ex quo intellegitur quod uerum simplex sincerum que sit id esse naturae hominis aptissimum .",
+    "entities": []
+  },
+  {
+    "sent_id": "86060",
+    "text": "Huic ueri uidendi cupiditati adiuncta est appetitio quaedam principatus ut nemini parere animus bene informatus a natura uelit nisi praecipienti aut docenti aut utilitatis causa iuste et legitime imperanti .",
+    "entities": []
+  },
+  {
+    "sent_id": "86061",
+    "text": "ex quo magnitudo animi exsistit humanarum que rerum contemptio .",
+    "entities": []
+  },
+  {
+    "sent_id": "86062",
+    "text": "Nec uero illa parua uis naturae est rationis que quod unum hoc animal sentit quid sit ordo quid sit quod deceat in factis dictis que qui modus .",
+    "entities": []
+  },
+  {
+    "sent_id": "86064",
+    "text": "Itaque eorum ipsorum quae aspectu sentiuntur nullum aliud animal pulchritudinem uenustatem conuenientiam partium sentit .",
+    "entities": []
+  },
+  {
+    "sent_id": "86065",
+    "text": "quam similitudinem natura ratio que ab oculis ad animum transferens multo etiam magis pulchritudinem constantiam ordinem in consiliis factis que conseruandam putat cauet que ne quid indecore effeminate ue faciat tum in omnibus et opinionibus et factis ne quid libidinose aut faciat aut cogitet .",
+    "entities": []
+  },
+  {
+    "sent_id": "86066",
+    "text": "Quibus ex rebus conflatur et efficitur id quod quaerimus honestum quod etiamsi nobilitatum non sit tamen honestum sit quod que uere dicimus etiamsi a nullo laudetur natura esse laudabile .",
+    "entities": []
+  },
+  {
+    "sent_id": "86067",
+    "text": "Formam quidem ipsam Marce fili et tamquam faciem honesti uides quae si oculis cerneretur mirabiles amores ut ait Plato excitaret sapientiae .",
+    "entities": [
+      {
+        "text": "Marce",
+        "label": "PERSON",
+        "start": 20,
+        "end": 25,
+        "multi": false
+      },
+      {
+        "text": "Plato",
+        "label": "PERSON",
+        "start": 113,
+        "end": 118,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "86068",
+    "text": "Sed omne quod est honestum id quattuor partium oritur ex aliqua .",
+    "entities": []
+  },
+  {
+    "sent_id": "86069",
+    "text": "aut enim in perspicientia ueri sollertia que uersatur aut in hominum societate tuenda tribuendo que suum cuique et rerum contractarum fide aut in animi excelsi atque inuicti magnitudine ac robore aut in omnium quae fiunt quae que dicuntur ordine et modo in quo inest modestia et temperantia .",
+    "entities": []
+  },
+  {
+    "sent_id": "86070",
+    "text": "Quae quattuor quamquam inter se colligata atque implicata sunt tamen ex singulis certa officiorum genera nascuntur uelut ex ea parte quae prima discripta est in qua sapientiam et prudentiam ponimus inest indagatio atque inuentio ueri eius que uirtutis hoc munus est proprium .",
+    "entities": []
+  },
+  {
+    "sent_id": "86071",
+    "text": "Ut enim quisque maxime perspicit quid in re quaque uerissimum sit qui que acutissime et celerrime potest et uidere et explicare rationem is prudentissimus et sapientissimus rite haberi solet .",
+    "entities": []
+  },
+  {
+    "sent_id": "86073",
+    "text": "Quocirca huic quasi materia quam tractet et in qua uersetur subiecta est ueritas .",
+    "entities": []
+  },
+  {
+    "sent_id": "86074",
+    "text": "Reliquis autem tribus uirtutibus necessitates propositae sunt ad eas res parandas tuendas que quibus actio uitae continetur ut et societas hominum coniunctio que seruetur et animi excellentia magnitudo que cum in augendis opibus utilitatibus que et sibi et suis comparandis tum multo magis in his ipsis despiciendis eluceat .",
+    "entities": []
+  },
+  {
+    "sent_id": "86075",
+    "text": "Ordo autem et constantia et moderatio et ea quae sunt his similia uersantur in eo genere ad quod est adhibenda actio quaedam non solum mentis agitatio .",
+    "entities": []
+  },
+  {
+    "sent_id": "86076",
+    "text": "Iis enim rebus quae tractantur in uita modum quendam et ordinem adhibentes honestatem et decus conseruabimus .",
+    "entities": []
+  },
+  {
+    "sent_id": "86077",
+    "text": "Ex quattuor autem locis in quos honesti naturam uim que diuisimus primus ille qui in ueri cognitione consistit maxime naturam attingit humanam .",
+    "entities": []
+  },
+  {
+    "sent_id": "86078",
+    "text": "Omnes enim trahimur et ducimur ad cognitionis et scientiae cupiditatem in qua excellere pulchrum putamus .",
+    "entities": []
+  },
+  {
+    "sent_id": "88126",
+    "text": "labi autem errare nescire decipi et malum et turpe ducimus .",
+    "entities": []
+  },
+  {
+    "sent_id": "86079",
+    "text": "In hoc genere et naturali et honesto duo uitia uitanda sunt unum ne incognita pro cognitis habeamus iis que temere assentiamur .",
+    "entities": []
+  },
+  {
+    "sent_id": "86080",
+    "text": "quod uitium effugere qui uolet omnes autem uelle debent adhibebit ad considerandas res et tempus et diligentiam .",
+    "entities": []
+  },
+  {
+    "sent_id": "86081",
+    "text": "Alterum est uitium quod quidam nimis magnum studium multam que operam in res obscuras atque difficiles conferunt easdem que non necessarias .",
+    "entities": []
+  },
+  {
+    "sent_id": "86082",
+    "text": "Quibus uitiis declinatis quod in rebus honestis et cognitione dignis operae curae que ponetur id iure laudabitur ut in astrologia Gaium Sulpicium audiuimus in geometria Sextium Pompeium ipsi cognouimus multos in dialecticis plures in iure ciuili quae omnes artes in ueri inuestigatione uersantur .",
+    "entities": [
+      {
+        "text": "Gaium Sulpicium",
+        "label": "PERSON",
+        "start": 130,
+        "end": 145,
+        "multi": false
+      },
+      {
+        "text": "Sextium Pompeium",
+        "label": "PERSON",
+        "start": 169,
+        "end": 185,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "86085",
+    "text": "cuius studio a rebus gerendis abduci contra officium est .",
+    "entities": []
+  },
+  {
+    "sent_id": "86086",
+    "text": "Uirtutis enim laus omnis in actione consistit .",
+    "entities": []
+  },
+  {
+    "sent_id": "86087",
+    "text": "a qua tamen fit intermissio saepe multi que dantur ad studia reditus .",
+    "entities": []
+  },
+  {
+    "sent_id": "86088",
+    "text": "tum agitatio mentis quae numquam acquiescit potest nos in studiis cognitionis etiam sine opera nostra continere .",
+    "entities": []
+  },
+  {
+    "sent_id": "86089",
+    "text": "Omnis autem cogitatio motus que animi aut in consiliis capiendis de rebus honestis et pertinentibus ad bene beate que uiuendum aut in studiis scientiae cognitionis que uersabitur .",
+    "entities": []
+  },
+  {
+    "sent_id": "86090",
+    "text": "Ac de primo quidem officii fonte diximus .",
+    "entities": []
+  }
+]

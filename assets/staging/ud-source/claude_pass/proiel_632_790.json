@@ -1,0 +1,894 @@
+[
+  {
+    "sent_id": "26599",
+    "text": "qui abominaris idola sacrilegium facis .",
+    "entities": []
+  },
+  {
+    "sent_id": "26600",
+    "text": "qui in lege gloriaris per praeuaricationem legis Deum inhonoras .",
+    "entities": []
+  },
+  {
+    "sent_id": "26601",
+    "text": "nomen enim Dei per uos blasphematur inter gentes sicut scriptum est .",
+    "entities": []
+  },
+  {
+    "sent_id": "26602",
+    "text": "circumcisio quidem prodest si legem obserues .",
+    "entities": []
+  },
+  {
+    "sent_id": "26603",
+    "text": "si autem praeuaricator legis sis circumcisio tua praeputium facta est .",
+    "entities": []
+  },
+  {
+    "sent_id": "26604",
+    "text": "si igitur praeputium iustitias legis custodiat nonne praeputium illius in circumcisionem reputabitur .",
+    "entities": []
+  },
+  {
+    "sent_id": "26605",
+    "text": "et iudicabit quod ex natura est praeputium legem consummans te qui per litteram et circumcisionem praeuaricator legis es .",
+    "entities": []
+  },
+  {
+    "sent_id": "26606",
+    "text": "non enim qui in manifesto Iudaeus est neque quae in manifesto in carne circumcisio .",
+    "entities": [
+      {
+        "text": "Iudaeus",
+        "label": "NORP",
+        "start": 26,
+        "end": 33,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "26608",
+    "text": "sed qui in abscondito Iudaeus .",
+    "entities": [
+      {
+        "text": "Iudaeus",
+        "label": "NORP",
+        "start": 22,
+        "end": 29,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "26609",
+    "text": "et circumcisio cordis in spiritu non littera .",
+    "entities": []
+  },
+  {
+    "sent_id": "26610",
+    "text": "cuius laus non ex hominibus sed ex Deo est .",
+    "entities": []
+  },
+  {
+    "sent_id": "33551",
+    "text": "et angelo ecclesiae Sardis scribe .",
+    "entities": [
+      {
+        "text": "Sardis",
+        "label": "LOC",
+        "start": 20,
+        "end": 26,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "33552",
+    "text": "haec dicit qui habet septem spiritus Dei et septem stellas .",
+    "entities": []
+  },
+  {
+    "sent_id": "33553",
+    "text": "scio opera tua quia nomen habes quod uiuas et mortuus es .",
+    "entities": []
+  },
+  {
+    "sent_id": "33554",
+    "text": "esto uigilans et confirma cetera quae moritura erant .",
+    "entities": []
+  },
+  {
+    "sent_id": "33555",
+    "text": "non enim inuenio opera tua plena coram Deo meo .",
+    "entities": []
+  },
+  {
+    "sent_id": "33556",
+    "text": "in mente ergo habe qualiter acceperis et audieris et serua et paenitentiam age .",
+    "entities": []
+  },
+  {
+    "sent_id": "33557",
+    "text": "si ergo non uigilaueris ueniam tamquam fur et nescies qua hora ueniam ad te .",
+    "entities": []
+  },
+  {
+    "sent_id": "33558",
+    "text": "sed habes pauca nomina in Sardis qui non inquinauerunt uestimenta sua .",
+    "entities": [
+      {
+        "text": "Sardis",
+        "label": "LOC",
+        "start": 26,
+        "end": 32,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "33559",
+    "text": "et ambulabunt me cum in albis quia digni sunt .",
+    "entities": []
+  },
+  {
+    "sent_id": "33560",
+    "text": "qui uicerit sic uestietur uestimentis albis et non delebo nomen eius de libro uitae et confitebor nomen eius coram Patre meo et coram angelis eius .",
+    "entities": []
+  },
+  {
+    "sent_id": "33561",
+    "text": "qui habet aurem audiat quid Spiritus dicat ecclesiis .",
+    "entities": []
+  },
+  {
+    "sent_id": "33562",
+    "text": "et angelo Philadelphiae ecclesiae scribe .",
+    "entities": [
+      {
+        "text": "Philadelphiae",
+        "label": "LOC",
+        "start": 10,
+        "end": 23,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "33563",
+    "text": "haec dicit sanctus et uerus qui habet clauem Dauid .",
+    "entities": [
+      {
+        "text": "Dauid",
+        "label": "PERSON",
+        "start": 45,
+        "end": 50,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "33564",
+    "text": "qui aperit et nemo cludit .",
+    "entities": []
+  },
+  {
+    "sent_id": "33565",
+    "text": "et cludit et nemo aperit .",
+    "entities": []
+  },
+  {
+    "sent_id": "33566",
+    "text": "scio opera tua .",
+    "entities": []
+  },
+  {
+    "sent_id": "33567",
+    "text": "ecce dedi coram te ostium apertum quod nemo potest cludere quia modicam habes uirtutem et seruasti uerbum meum et non negasti nomen meum .",
+    "entities": []
+  },
+  {
+    "sent_id": "33569",
+    "text": "ecce dabo de synagoga Satanae qui dicunt se Iudaeos esse et non sunt sed mentiuntur .",
+    "entities": [
+      {
+        "text": "Satanae",
+        "label": "PERSON",
+        "start": 22,
+        "end": 29,
+        "multi": false
+      },
+      {
+        "text": "Iudaeos",
+        "label": "NORP",
+        "start": 44,
+        "end": 51,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "33570",
+    "text": "ecce faciam illos ut ueniant et adorent ante pedes tuos .",
+    "entities": []
+  },
+  {
+    "sent_id": "33571",
+    "text": "et scient quia ego dilexi te quoniam seruasti uerbum patientiae meae et ego te seruabo ab hora temptationis quae uentura est in orbem uniuersum temptare habitantes in terra .",
+    "entities": []
+  },
+  {
+    "sent_id": "33572",
+    "text": "uenio cito .",
+    "entities": []
+  },
+  {
+    "sent_id": "33573",
+    "text": "tene quod habes ut nemo accipiat coronam tuam .",
+    "entities": []
+  },
+  {
+    "sent_id": "33574",
+    "text": "qui uicerit faciam illum columnam in templo Dei mei et foras non egredietur amplius .",
+    "entities": []
+  },
+  {
+    "sent_id": "33575",
+    "text": "et scribam super eum nomen Dei mei et nomen ciuitatis Dei mei nouae Hierusalem quae descendit de caelo a Deo meo et nomen meum nouum .",
+    "entities": [
+      {
+        "text": "Hierusalem",
+        "label": "LOC",
+        "start": 68,
+        "end": 78,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "33576",
+    "text": "qui habet aurem audiat quid Spiritus dicat ecclesiis .",
+    "entities": []
+  },
+  {
+    "sent_id": "33577",
+    "text": "et angelo Laodiciae ecclesiae scribe .",
+    "entities": [
+      {
+        "text": "Laodiciae",
+        "label": "LOC",
+        "start": 10,
+        "end": 19,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "33578",
+    "text": "haec dicit Amen testis fidelis et uerus qui est principium creaturae Dei .",
+    "entities": []
+  },
+  {
+    "sent_id": "33580",
+    "text": "scio opera tua quia .",
+    "entities": []
+  },
+  {
+    "sent_id": "33581",
+    "text": "neque frigidus es neque calidus .",
+    "entities": []
+  },
+  {
+    "sent_id": "33582",
+    "text": "utinam frigidus esses aut calidus .",
+    "entities": []
+  },
+  {
+    "sent_id": "33583",
+    "text": "sed quia tepidus es et nec frigidus nec calidus incipiam te euomere ex ore meo .",
+    "entities": []
+  },
+  {
+    "sent_id": "33584",
+    "text": "quia dicis quod diues sum et locupletatus et nullius egeo .",
+    "entities": []
+  },
+  {
+    "sent_id": "33586",
+    "text": "et nescis quia tu es miser et miserabilis et pauper et caecus et nudus .",
+    "entities": []
+  },
+  {
+    "sent_id": "33587",
+    "text": "suadeo tibi emere a me aurum ignitum probatum ut locuples fias et uestimentis albis induaris et non appareat confusio nuditatis tuae et collyrio inungue oculos tuos ut uideas .",
+    "entities": []
+  },
+  {
+    "sent_id": "33588",
+    "text": "ego quos amo arguo et castigo .",
+    "entities": []
+  },
+  {
+    "sent_id": "33589",
+    "text": "aemulare ergo et paenitentiam age .",
+    "entities": []
+  },
+  {
+    "sent_id": "33590",
+    "text": "ecce sto ad ostium et pulso .",
+    "entities": []
+  },
+  {
+    "sent_id": "33591",
+    "text": "si quis audierit uocem meam et aperuerit ianuam introibo ad illum et cenabo cum illo et ipse me cum .",
+    "entities": []
+  },
+  {
+    "sent_id": "33592",
+    "text": "qui uicerit dabo ei sedere me cum in throno meo .",
+    "entities": []
+  },
+  {
+    "sent_id": "33593",
+    "text": "sicut et ego uici et sedi cum Patre meo in throno eius .",
+    "entities": []
+  },
+  {
+    "sent_id": "33594",
+    "text": "qui habet aurem audiat quid Spiritus dicat ecclesiis .",
+    "entities": []
+  },
+  {
+    "sent_id": "33595",
+    "text": "post haec uidi .",
+    "entities": []
+  },
+  {
+    "sent_id": "33596",
+    "text": "et ecce ostium apertum in caelo et uox prima quam audiui tamquam tubae loquentis me cum dicens .",
+    "entities": []
+  },
+  {
+    "sent_id": "33597",
+    "text": "ascende huc et ostendam tibi quae oportet fieri post haec .",
+    "entities": []
+  },
+  {
+    "sent_id": "33598",
+    "text": "statim fui in spiritu .",
+    "entities": []
+  },
+  {
+    "sent_id": "33599",
+    "text": "et ecce sedis posita erat in caelo et supra sedem sedens .",
+    "entities": []
+  },
+  {
+    "sent_id": "33600",
+    "text": "et qui sedebat similis erat aspectui lapidis iaspidis et sardini .",
+    "entities": []
+  },
+  {
+    "sent_id": "33601",
+    "text": "et iris erat in circuitu sedis similis uisioni zmaragdinae .",
+    "entities": []
+  },
+  {
+    "sent_id": "33602",
+    "text": "et in circuitu sedis sedilia uiginti quattuor .",
+    "entities": []
+  },
+  {
+    "sent_id": "33603",
+    "text": "et super thronos uiginti quattuor seniores sedentes circumamictos uestimentis albis .",
+    "entities": []
+  },
+  {
+    "sent_id": "225129",
+    "text": "et in capitibus eorum coronas aureas .",
+    "entities": []
+  },
+  {
+    "sent_id": "33604",
+    "text": "et de throno procedunt fulgura et uoces et tonitrua .",
+    "entities": []
+  },
+  {
+    "sent_id": "33605",
+    "text": "et septem lampades ardentes ante thronum quae sunt septem spiritus Dei .",
+    "entities": []
+  },
+  {
+    "sent_id": "33606",
+    "text": "et in conspectu sedis tamquam mare uitreum simile cristallo .",
+    "entities": []
+  },
+  {
+    "sent_id": "33607",
+    "text": "et in medio sedis et in circuitu sedis quattuor animalia plena oculis ante et retro .",
+    "entities": []
+  },
+  {
+    "sent_id": "33608",
+    "text": "et animal primum simile leoni et secundum animal simile uitulo et tertium animal habens faciem quasi hominis et quartum animal simile aquilae uolanti .",
+    "entities": []
+  },
+  {
+    "sent_id": "33609",
+    "text": "et quattuor animalia singula eorum habebant alas senas .",
+    "entities": []
+  },
+  {
+    "sent_id": "33610",
+    "text": "et in circuitu et intus plena sunt oculis .",
+    "entities": []
+  },
+  {
+    "sent_id": "33611",
+    "text": "et requiem non habent die et nocte dicentia .",
+    "entities": []
+  },
+  {
+    "sent_id": "33612",
+    "text": "sanctus sanctus sanctus Dominus Deus omnipotens qui erat et qui est et qui uenturus est .",
+    "entities": []
+  },
+  {
+    "sent_id": "33613",
+    "text": "et cum darent illa animalia gloriam et honorem et benedictionem sedenti super thronum uiuenti in saecula saeculorum procident uiginti quattuor seniores ante sedentem in throno et adorabunt uiuentem in saecula saeculorum et mittent coronas suas ante thronum dicentes .",
+    "entities": []
+  },
+  {
+    "sent_id": "33614",
+    "text": "dignus es Domine et Deus noster accipere gloriam et honorem et uirtutem quia tu creasti omnia .",
+    "entities": []
+  },
+  {
+    "sent_id": "225130",
+    "text": "et propter uoluntatem tuam erant et creata sunt .",
+    "entities": []
+  },
+  {
+    "sent_id": "33616",
+    "text": "et uidi in dextera sedentis super thronum librum scriptum intus et foris signatum sigillis septem .",
+    "entities": []
+  },
+  {
+    "sent_id": "33617",
+    "text": "et uidi angelum fortem praedicantem uoce magna .",
+    "entities": []
+  },
+  {
+    "sent_id": "33618",
+    "text": "quis est dignus aperire librum et soluere signacula eius .",
+    "entities": []
+  },
+  {
+    "sent_id": "33619",
+    "text": "et nemo poterat in caelo neque in terra neque subtus terram aperire librum neque respicere illum .",
+    "entities": []
+  },
+  {
+    "sent_id": "33620",
+    "text": "et ego flebam multum quoniam nemo dignus inuentus est aperire librum nec uidere eum .",
+    "entities": []
+  },
+  {
+    "sent_id": "33621",
+    "text": "et unus de senioribus dicit mihi .",
+    "entities": []
+  },
+  {
+    "sent_id": "33622",
+    "text": "ne fleueris .",
+    "entities": []
+  },
+  {
+    "sent_id": "33623",
+    "text": "ecce uicit leo de tribu Iuda radix Dauid aperire librum et septem signacula eius .",
+    "entities": [
+      {
+        "text": "Iuda",
+        "label": "NORP",
+        "start": 24,
+        "end": 28,
+        "multi": false
+      },
+      {
+        "text": "Dauid",
+        "label": "PERSON",
+        "start": 35,
+        "end": 40,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "33624",
+    "text": "et uidi .",
+    "entities": []
+  },
+  {
+    "sent_id": "33625",
+    "text": "et ecce in medio throni et quattuor animalium et in medio seniorum agnum stantem tamquam occisum habentem cornua septem et oculos septem .",
+    "entities": []
+  },
+  {
+    "sent_id": "33626",
+    "text": "qui sunt spiritus Dei missi in omnem terram .",
+    "entities": []
+  },
+  {
+    "sent_id": "33627",
+    "text": "et uenit .",
+    "entities": []
+  },
+  {
+    "sent_id": "33628",
+    "text": "et accepit de dextera sedentis de throno .",
+    "entities": []
+  },
+  {
+    "sent_id": "33629",
+    "text": "et cum aperuisset librum quattuor animalia et uiginti quattuor seniores ceciderunt coram agno habentes singuli citharas et fialas aureas plenas odoramentorum quae sunt orationes sanctorum .",
+    "entities": []
+  },
+  {
+    "sent_id": "33630",
+    "text": "et cantant nouum canticum dicentes .",
+    "entities": []
+  },
+  {
+    "sent_id": "33631",
+    "text": "dignus es accipere librum et aperire signacula eius quoniam occisus es et redemisti nos Deo in sanguine tuo ex omni tribu et lingua et populo et natione .",
+    "entities": []
+  },
+  {
+    "sent_id": "33633",
+    "text": "et fecisti eos Deo nostro regnum et sacerdotes .",
+    "entities": []
+  },
+  {
+    "sent_id": "33634",
+    "text": "et regnabunt super terram .",
+    "entities": []
+  },
+  {
+    "sent_id": "33635",
+    "text": "et uidi et audiui uocem angelorum multorum in circuitu throni et animalium et seniorum .",
+    "entities": []
+  },
+  {
+    "sent_id": "33636",
+    "text": "et erat numerus eorum milia milium dicentium uoce magna .",
+    "entities": []
+  },
+  {
+    "sent_id": "33637",
+    "text": "dignus est agnus qui occisus est accipere uirtutem et diuinitatem et sapientiam et fortitudinem et honorem et gloriam et benedictionem .",
+    "entities": []
+  },
+  {
+    "sent_id": "33638",
+    "text": "et omnem creaturam quae in caelo est et super terram et sub terram et quae sunt in mari et quae in ea omnes audiui dicentes .",
+    "entities": []
+  },
+  {
+    "sent_id": "33640",
+    "text": "sedenti in throno et agno benedictio et honor et gloria et potestas in saecula saeculorum .",
+    "entities": []
+  },
+  {
+    "sent_id": "33641",
+    "text": "et quattuor animalia dicebant .",
+    "entities": []
+  },
+  {
+    "sent_id": "33642",
+    "text": "amen .",
+    "entities": []
+  },
+  {
+    "sent_id": "33643",
+    "text": "et seniores ceciderunt .",
+    "entities": []
+  },
+  {
+    "sent_id": "33644",
+    "text": "et adorauerunt .",
+    "entities": []
+  },
+  {
+    "sent_id": "159701",
+    "text": "Aeris igitur salubritatem declarant loca ab infimis uallibus libera et nebularum noctibus absoluta et habitatorum considerata corpuscula si eis color sanus capitis firma sinceritas inoffensum lumen oculorum purus auditus fauces commeatum liquidae uocis exercent .",
+    "entities": []
+  },
+  {
+    "sent_id": "159702",
+    "text": "Hoc genere benignitas aeris adprobatur .",
+    "entities": []
+  },
+  {
+    "sent_id": "159703",
+    "text": "His autem contraria noxium caeli illius spiritum confitentur .",
+    "entities": []
+  },
+  {
+    "sent_id": "224646",
+    "text": "ne alba et nuda sit gleba .",
+    "entities": []
+  },
+  {
+    "sent_id": "224647",
+    "text": "ne macer sabulo sine admixtione terreni .",
+    "entities": []
+  },
+  {
+    "sent_id": "224648",
+    "text": "ne creta sola .",
+    "entities": []
+  },
+  {
+    "sent_id": "224649",
+    "text": "ne harenae squallentes .",
+    "entities": []
+  },
+  {
+    "sent_id": "224650",
+    "text": "ne ieiuna glarea .",
+    "entities": []
+  },
+  {
+    "sent_id": "224651",
+    "text": "ne aurosi pulueris lapidosa macies .",
+    "entities": []
+  },
+  {
+    "sent_id": "224652",
+    "text": "ne salsa uel amara ne uliginosa terra .",
+    "entities": []
+  },
+  {
+    "sent_id": "224654",
+    "text": "ne tofus harenosus atque ieiunus .",
+    "entities": []
+  },
+  {
+    "sent_id": "159714",
+    "text": "Ferat quod frumentis dandis utile signum sit ebulum iuncum calamum gramen trifolium non macrum rubos pingues pruna siluestria .",
+    "entities": []
+  },
+  {
+    "sent_id": "159715",
+    "text": "Color tamen non magno opere quaerendus est sed pinguedo atque dulcedo .",
+    "entities": []
+  },
+  {
+    "sent_id": "159716",
+    "text": "Pinguem sic agnosces .",
+    "entities": []
+  },
+  {
+    "sent_id": "159717",
+    "text": "Glebam paruulam dulci aqua consparges et subiges .",
+    "entities": []
+  },
+  {
+    "sent_id": "159718",
+    "text": "si glutinosa est et adhaeret constat illi inesse pinguedinem .",
+    "entities": []
+  },
+  {
+    "sent_id": "159719",
+    "text": "Item scrobe effossa et repleta si superauerit terra pinguis est .",
+    "entities": []
+  },
+  {
+    "sent_id": "207338",
+    "text": "si defuerit exilis .",
+    "entities": []
+  },
+  {
+    "sent_id": "207339",
+    "text": "si conuenerit aequata mediocris .",
+    "entities": []
+  },
+  {
+    "sent_id": "159720",
+    "text": "Dulcedo autem cognoscitur si ex ea parte agri quae magis displicet glebam fictili uase dulci aqua madefactam iudicio saporis explores .",
+    "entities": []
+  },
+  {
+    "sent_id": "159724",
+    "text": "sed ex his omnibus utilis semper est aequata mediocritas et uel campus apertior et umorem pluuium cliuo fallente subducens uel collis molliter per latera inclinata deductus uel uallis cum quadam moderatione et aeris laxitate submissa uel mons alterius culminis defensus obiectu et a molestioribus uentis liber auxilio aliquo uel sublimis asper sed nemorosus et herbidus .",
+    "entities": []
+  },
+  {
+    "sent_id": "159725",
+    "text": "Sed cum sint genera terrarum plurima ut pinguis aut macra spissa uel rara sicca uel umida et ex his pleraque uitiosa tamen propter seminum differentiam saepe necessaria maxime sicut supra dixi eligendus est pinguis ac resolutus ager qui minimum laborem petit fructum maximum reddit .",
+    "entities": []
+  },
+  {
+    "sent_id": "159726",
+    "text": "Secundi meriti est spissus qui labore quidem maximo tamen ad uota respondent .",
+    "entities": []
+  },
+  {
+    "sent_id": "159727",
+    "text": "Illud uero deterrimum genus est quod erit siccum simul et spissum et macrum uel frigidum qui ager pestiferi more fugiendus est .",
+    "entities": []
+  },
+  {
+    "sent_id": "159878",
+    "text": "Cameras in agrestibus aedificiis ex ea materia utilius erit formare quae facile inuenietur in uilla .",
+    "entities": []
+  },
+  {
+    "sent_id": "159879",
+    "text": "Itaque aut tabulis faciemus aut cannis hoc genere .",
+    "entities": []
+  },
+  {
+    "sent_id": "159880",
+    "text": "Asseres ligni gallici uel cupressi directos et aequales constituemus in eo loco ubi camera facienda est ita ordinatos ut inter se sesquipedalis mensura sit uacua .",
+    "entities": [
+      {
+        "text": "gallici",
+        "label": "NORP",
+        "start": 14,
+        "end": 21,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "159881",
+    "text": "Tunc eos catenis ligneis ex iunipero aut oliua aut buxo aut cupresso factis ad contignationem suspendemus et binas inter eos perticas dirigemus tomicibus alligatas .",
+    "entities": []
+  },
+  {
+    "sent_id": "159882",
+    "text": "Postea palustrem cannam uel hanc crassiorem quae in usu est contusam facta et strictim iuncta crate subnectemus et per omne spatium cum ipsis asseribus et perticis alligabimus .",
+    "entities": []
+  },
+  {
+    "sent_id": "159883",
+    "text": "Dehinc primo inpensa pumicea induemus et trulla aequabimus ut inter se cannarum membra constringat .",
+    "entities": []
+  },
+  {
+    "sent_id": "159884",
+    "text": "Post harena et calce coaequabimus .",
+    "entities": []
+  },
+  {
+    "sent_id": "159885",
+    "text": "Tertio tusi marmoris puluerem mixtum cum calce ducemus et poliemus ad summum nitorem .",
+    "entities": []
+  },
+  {
+    "sent_id": "159958",
+    "text": "Sed columbarii cellae duo subiecta cubicula fiant unum breue et prope obscurum quo turtures claudi possint quos nutrire facillimum est .",
+    "entities": []
+  },
+  {
+    "sent_id": "159959",
+    "text": "Nam nihil expetunt nisi ut aestate qua sola maxime pinguescunt triticum uel milium mulsa maceratum semper accipiant .",
+    "entities": []
+  },
+  {
+    "sent_id": "159960",
+    "text": "Semodius unus diurnus centum uiginti turturibus sufficit .",
+    "entities": []
+  },
+  {
+    "sent_id": "159961",
+    "text": "Aqua sane eis frequenter mundior debet offerri .",
+    "entities": []
+  },
+  {
+    "sent_id": "160263",
+    "text": "Pingues et sicci et agri proscindi et apparari iam possunt .",
+    "entities": []
+  },
+  {
+    "sent_id": "160264",
+    "text": "Sed boues melius collo quam capite iunguntur .",
+    "entities": []
+  },
+  {
+    "sent_id": "160265",
+    "text": "quos ubi ad uersuram uenerint arator retineat et iugum propellat ut eorum colla refrigerentur .",
+    "entities": []
+  },
+  {
+    "sent_id": "160266",
+    "text": "Sulcus autem in arationibus longior quam centum uiginti pedum esse non debet .",
+    "entities": []
+  },
+  {
+    "sent_id": "160267",
+    "text": "Seruandum est ne inter sulcos non mota terra relinquatur .",
+    "entities": []
+  },
+  {
+    "sent_id": "160268",
+    "text": "Glebae omnes dolabris dissipandae sunt .",
+    "entities": []
+  },
+  {
+    "sent_id": "160269",
+    "text": "Sed aequaliter terram motam esse cognoscis si transuersam per sulcos perticam mittas .",
+    "entities": []
+  },
+  {
+    "sent_id": "160271",
+    "text": "Obseruandum ne lutosus ager aretur aut quod saepe fit post longas siccitates leui imbre perfusus .",
+    "entities": []
+  },
+  {
+    "sent_id": "160272",
+    "text": "Nam terra quae lutosa tractatur in primordio fertur toto anno non posse tractari .",
+    "entities": []
+  },
+  {
+    "sent_id": "160273",
+    "text": "quae autem supra leuiter infusa est et subter sicca si tunc aretur adseritur per triennium sterilis fieri .",
+    "entities": []
+  },
+  {
+    "sent_id": "160275",
+    "text": "Si collis est transuersus per latera sulcetur .",
+    "entities": []
+  },
+  {
+    "sent_id": "160276",
+    "text": "Quae forma tunc seruanda est cum semen accipiet .",
+    "entities": []
+  },
+  {
+    "sent_id": "160279",
+    "text": "Cicercula mense hoc seritur loco laeto caelo umido .",
+    "entities": []
+  },
+  {
+    "sent_id": "160280",
+    "text": "Tres modii iugerum conplent .",
+    "entities": []
+  },
+  {
+    "sent_id": "160281",
+    "text": "Sed hoc genus seminis raro respondet quia decipitur austro uel siccitate dum floret quod tunc prope necesse est euenire .",
+    "entities": []
+  },
+  {
+    "sent_id": "160328",
+    "text": "nec campestre nec praeceps sed potius edito campo .",
+    "entities": []
+  },
+  {
+    "sent_id": "160329",
+    "text": "nec siccum nec uliginosum modice tamen roscidum .",
+    "entities": []
+  },
+  {
+    "sent_id": "160330",
+    "text": "nec salsum nec amarum quod uitium sapore corrupto uina contristat .",
+    "entities": []
+  },
+  {
+    "sent_id": "160331",
+    "text": "Caelum mediocris qualitatis tepidum tamen magis quam frigidum siccum potius quam nimis imbridum .",
+    "entities": []
+  },
+  {
+    "sent_id": "160332",
+    "text": "Sed ante omnia uitis procellas uentos que formidat .",
+    "entities": []
+  },
+  {
+    "sent_id": "160333",
+    "text": "Ad pastinandum rudes agros potius eligamus uel maxime siluestres .",
+    "entities": []
+  }
+]

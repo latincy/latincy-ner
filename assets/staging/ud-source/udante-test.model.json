@@ -1,0 +1,5182 @@
+[
+ {
+  "sent_id": "DVE-1",
+  "text": "Cum neminem ante nos de uulgaris eloquentie doctrina quicquam inueniamus tractasse, atque talem scilicet eloquentiam penitus omnibus necessariam uideamus - cum ad eam non tantum uiri sed etiam mulieres et paruuli nitantur, in quantum natura permictit -, uolentes discretionem aliqualiter lucidare illorum qui tanquam ceci ambulant per plateas, plerunque anteriora posteriora putantes, Uerbo aspirante de celis locutioni uulgarium gentium prodesse temptabimus, non solum aquam nostri ingenii ad tantum poculum aurientes, sed, accipiendo uel compilando ab aliis, potiora miscentes, ut exinde potionare possimus dulcissimum ydromellum.",
+  "model_ents": [
+   {
+    "start": 385,
+    "end": 390,
+    "label": "PERSON",
+    "text": "Uerbo"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-2-a",
+  "text": "Sed quia unamquanque doctrinam oportet non probare, sed suum aperire subiectum, ut sciatur quid sit super quod illa uersatur dicimus, celeriter actendentes, quod uulgarem locutionem appellamus eam qua infantes assuefiunt ab assistentibus cum primitus distinguere uoces incipiunt;",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-2-b",
+  "text": "uel, quod breuius dici potest, uulgarem locutionem asserimus quam sine omni regula nutricem imitantes accipimus.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-3",
+  "text": "Est et inde alia locutio secundaria nobis, quam Romani gramaticam uocauerunt.",
+  "model_ents": [
+   {
+    "start": 48,
+    "end": 54,
+    "label": "NORP",
+    "text": "Romani"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-4-a",
+  "text": "Hanc quidem secundariam Greci habent et alii, sed non omnes:",
+  "model_ents": [
+   {
+    "start": 24,
+    "end": 29,
+    "label": "NORP",
+    "text": "Greci"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-4-b",
+  "text": "ad habitum uero huius pauci perueniunt, quia non nisi per spatium temporis et studii assiduitatem regulamur et doctrinamur in illa.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-5-a",
+  "text": "Harum quoque duarum nobilior est uulgaris: tum quia prima fuit humano generi usitata;",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-5-b",
+  "text": "tum quia totus orbis ipsa perfruitur, licet in diuersas prolationes et uocabula sit diuisa;",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-5-c",
+  "text": "tum quia naturalis est nobis, cum illa potius artificialis existat.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-6",
+  "text": "Et de hac nobiliori nostra est intentio pertractare.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-7",
+  "text": "Hec est nostra uera prima locutio.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-8-a",
+  "text": "Non dico autem “nostra” ut et aliam sit esse locutionem quam hominis:",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-8-b",
+  "text": "nam eorum que sunt omnium soli homini datum est loqui, cum solum sibi necessarium fuerit.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-9",
+  "text": "Non angelis, non inferioribus animalibus necessarium fuit loqui, sed nequicquam datum fuisset eis: quod nempe facere natura aborret.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-10",
+  "text": "Si etenim perspicaciter consideramus quid cum loquimur intendamus, patet quod nichil aliud quam nostre mentis enucleare aliis conceptum.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-11",
+  "text": "Cum igitur angeli ad pandendas gloriosas eorum conceptiones habeant promptissimam atque ineffabilem sufficientiam intellectus, qua uel alter alteri totaliter innotescit per se, uel saltim per illud fulgentissimum Speculum in quo cuncti representantur pulcerrimi atque auidissimi speculantur, nullo signo locutionis indiguisse uidentur.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-12-a",
+  "text": "Et si obiciatur de hiis qui corruerunt spiritibus, dupliciter responderi potest: primo quod, cum de hiis que necessaria sunt ad bene esse tractemus, eos preterire debemus, cum diuinam curam peruersi expectare noluerunt;",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-12-b",
+  "text": "secundo et melius quod ipsi demones ad manifestandam inter se perfidiam suam non indigent nisi ut sciat quilibet de quolibet quia est et quantus est; quod quidem sciunt: cognouerunt enim se inuicem ante ruinam suam.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-13-a",
+  "text": "Inferioribus quoque animalibus, cum solo nature instinctu ducantur, de locutione non oportuit prouideri:",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-13-b",
+  "text": "nam omnibus eiusdem speciei sunt iidem actus et passiones, et sic possunt per proprios alienos cognoscere;",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-13-c",
+  "text": "inter ea uero que diuersarum sunt specierum non solum non necessaria fuit locutio, sed prorsus dampnosa fuisset, cum nullum amicabile commertium fuisset in illis.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-14-a",
+  "text": "Et si obiciatur de serpente loquente ad primam mulierem, uel de asina Balaam, quod locuti sint, ad hoc respondemus quod angelus in illa et dyabolus in illo taliter operati sunt quod ipsa animalia mouerunt organa sua, sic ut uox inde resultauit distincta tanquam uera locutio;",
+  "model_ents": [
+   {
+    "start": 70,
+    "end": 76,
+    "label": "PERSON",
+    "text": "Balaam"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-14-b",
+  "text": "non quod aliud esset asine illud quam rudere, neque quam sibilare serpenti.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-15",
+  "text": "Si uero contra argumentetur quis de eo quod Ouidius dicit in quinto Metamorfoseos de picis loquentibus, dicimus quod hoc figurate dicit, aliud intelligens.",
+  "model_ents": [
+   {
+    "start": 44,
+    "end": 51,
+    "label": "PERSON",
+    "text": "Ouidius"
+   },
+   {
+    "start": 68,
+    "end": 81,
+    "label": "LOC",
+    "text": "Metamorfoseos"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-16-a",
+  "text": "Et si dicatur quod pice adhuc et alie aues locuntur, dicimus quod falsum est, quia talis actus locutio non est, sed quedam imitatio soni nostre uocis;",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-16-b",
+  "text": "uel quod nituntur imitari nos in quantum sonamus, sed non in quantum loquimur.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-17",
+  "text": "Unde si expresse dicenti “pica” resonaret etiam “pica”, non esset hec nisi representatio uel imitatio soni illius qui prius dixisset.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-18",
+  "text": "Et sic patet soli homini datum fuisse loqui.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-19",
+  "text": "Sed qua re necessarium sibi foret, breuiter pertractare conemur.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-20",
+  "text": "Cum igitur homo non nature instinctu, sed ratione moueatur, et ipsa ratio uel circa discretionem uel circa iudicium uel circa electionem diuersificetur in singulis, adeo ut fere quilibet sua propria specie uideatur gaudere, per proprios actus uel passiones, ut brutum animal, neminem alium intelligere opinamur.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-21",
+  "text": "Nec per spiritualem speculationem, ut angelum, alterum alterum introire contingit, cum grossitie atque opacitate mortalis corporis humanus spiritus sit obtectus.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-22-a",
+  "text": "Oportuit ergo genus humanum ad comunicandas inter se conceptiones suas aliquod rationale signum et sensuale habere: quia, cum de ratione accipere habeat et in rationem portare, rationale esse oportuit;",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-22-b",
+  "text": "cum que de una ratione in aliam nichil deferri possit nisi per medium sensuale, sensuale esse oportuit.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-23-a",
+  "text": "Qua re , si tantum rationale esset, pertransire non posset;",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-23-b",
+  "text": "si tantum sensuale, nec a ratione accipere nec in rationem deponere potuisset.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-24-a",
+  "text": "Hoc equidem signum est ipsum subiectum nobile de quo loquimur:",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-24-b",
+  "text": "nam sensuale quid est in quantum sonus est;",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-24-c",
+  "text": "rationale uero in quantum aliquid significare uidetur ad placitum.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-25",
+  "text": "Soli homini datum fuit ut loqueretur, ut ex premissis manifestum est.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-26",
+  "text": "Nunc quoque inuestigandum esse existimo cui hominum primum locutio data sit, et quid primitus locutus fuerit, et ad quem, et ubi, et quando, nec non et sub quo ydiomate primiloquium emanauit.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-27-a",
+  "text": "Secundum quidem quod in principio Genesis loquitur, ubi de primordio mundi Sacratissima Scriptura pertractat, mulierem inuenitur ante omnes fuisse locutam, scilicet presumptuosissimam Euam, cum dyabolo sciscitanti respondit: «De fructu lignorum que sunt in paradiso uescimur;",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-27-b",
+  "text": "de fructu uero ligni quod est in medio paradisi precepit nobis Deus ne comederemus nec tangeremus, ne forte moriamur».",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-28",
+  "text": "Sed quanquam mulier in scriptis prius inueniatur locuta, rationabilius tamen est ut hominem prius locutum fuisse credamus, et inconuenienter putatur tam egregium humani generis actum non prius a uiro quam a femina profluxisse.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-29",
+  "text": "Rationabiliter ergo credimus ipsi Ade prius datum fuisse loqui ab Eo qui statim ipsum plasmauerat.",
+  "model_ents": [
+   {
+    "start": 34,
+    "end": 37,
+    "label": "PERSON",
+    "text": "Ade"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-30",
+  "text": "Quid autem prius uox primi loquentis sonauerit, uiro sane mentis in promptu esse non titubo ipsum fuisse quod “Deus” est, scilicet El, uel per modum interrogationis uel per modum responsionis.",
+  "model_ents": [
+   {
+    "start": 131,
+    "end": 133,
+    "label": "PERSON",
+    "text": "El"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-31",
+  "text": "Absurdum atque rationi uidetur orrificum ante Deum ab homine quicquam nominatum fuisse, cum ab ipso et in ipsum factus fuisset homo.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-32-a",
+  "text": "Nam sicut post preuaricationem humani generis quilibet exordium sue locutionis incipit ab “heu”, rationabile est quod ante qui fuit inciperet a gaudio;",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-32-b",
+  "text": "et cum nullum gaudium sit extra Deum, sed totum in Deo, et ipse Deus totus sit gaudium, consequens est quod primus loquens primo et ante omnia dixisset “Deus”.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-33",
+  "text": "Oritur et hinc ista questio, cum dicimus superius per uiam responsionis hominem primum fuisse locutum, si responsio fuit ad Deum.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-34",
+  "text": "Nam, si ad Deum fuit, iam uideretur quod Deus locutus extitisset, quod contra superius prelibata uidetur insurgere.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-35",
+  "text": "Ad quod quidem dicimus quod bene potuit respondisse Deo interrogante, nec propter hoc Deus locutus est ipsa quam dicimus locutionem.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-36",
+  "text": "Quis enim dubitat quicquid est ad Dei nutum esse flexibile, quo quidem facta, quo conseruata, quo etiam gubernata sunt omnia?",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-37",
+  "text": "Igitur cum ad tantas alterationes moueatur aer imperio nature inferioris, que ministra et factura Dei est, ut tonitrua personet, ignem fulgoret, aquam gemat, spargat niuem, grandines lancinet, non ne imperio Dei mouebitur ad quedam sonare uerba, Ipso distinguente qui maiora distinxit?",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-38",
+  "text": "Quid ni?",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-39",
+  "text": "Qua re ad hoc et ad quedam alia hec sufficere credimus.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-40",
+  "text": "Opinantes autem non sine ratione, tam ex superioribus quam inferioribus sumpta, ad ipsum Deum primitus primum hominem direxisse locutionem, rationabiliter dicimus ipsum loquentem primum, mox postquam afflatus est ab Animante Uirtute, incunctanter fuisse locutum.",
+  "model_ents": [
+   {
+    "start": 225,
+    "end": 232,
+    "label": "PERSON",
+    "text": "Uirtute"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-41",
+  "text": "Nam in homine sentiri humanius credimus quam sentire, dummodo sentiatur et sentiat tanquam homo.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-42",
+  "text": "Si ergo Faber ille atque Perfectionis Principium et Amator afflando primum nostrum omni perfectione compleuit, rationabile nobis apparet nobilissimum animal non ante sentire quam sentiri coepi.",
+  "model_ents": [
+   {
+    "start": 25,
+    "end": 37,
+    "label": "PERSON",
+    "text": "Perfectionis"
+   },
+   {
+    "start": 52,
+    "end": 58,
+    "label": "PERSON",
+    "text": "Amator"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-43",
+  "text": "Si quis uero fatetur contra obiciens quod non oportebat illum loqui, cum solus adhuc homo existeret, et Deus omnia sine uerbis archana nostra discernat etiam ante quam nos, cum illa reuerentia dicimus qua uti oportet cum de Eterna Uoluntate aliquid iudicamus, quod licet Deus sciret, immo presciret (quod idem est quantum ad Deum) absque locutione conceptum primi loquentis, uoluit tamen et ipsum loqui, ut in explicatione tante dotis gloriaretur ipse qui gratis dotauerat.",
+  "model_ents": [
+   {
+    "start": 231,
+    "end": 240,
+    "label": "PERSON",
+    "text": "Uoluntate"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-44",
+  "text": "Et ideo diuinitus in nobis esse credendum est quod in actu nostrorum effectuum ordinato letamur.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-45",
+  "text": "Et hinc penitus elicere possumus locum illum ubi effutita est prima locutio: quoniam, si extra paradisum afflatus est homo, extra, si uero intra, intra fuisse locum prime locutionis conuicimus.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-46",
+  "text": "Quoniam permultis ac diuersis ydiomatibus negotium exercitatur humanum, ita quod multi multis non aliter intelligantur uerbis quam sine uerbis, de ydiomate illo uenari nos decet quo uir sine matre, uir sine lacte, qui nec pupillarem etatem nec uidit adultam, creditur usus.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-47",
+  "text": "In hoc, sicut etiam in multis aliis, Petramala ciuitas amplissima est, et patria maiori parti filiorum Adam.",
+  "model_ents": [
+   {
+    "start": 103,
+    "end": 107,
+    "label": "PERSON",
+    "text": "Adam"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-48",
+  "text": "Nam quicunque tam obscene rationis est ut locum sue nationis delitiosissimum credat esse sub sole, hic etiam pre cunctis proprium uulgare licetur, idest maternam locutionem, et per consequens credit ipsum fuisse illud quod fuit Ade.",
+  "model_ents": [
+   {
+    "start": 228,
+    "end": 231,
+    "label": "PERSON",
+    "text": "Ade"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-49",
+  "text": "Nos autem, cui mundus est patria uelut piscibus equor, quanquam Sarnum biberimus ante dentes et Florentiam adeo diligamus ut, quia dileximus, exilium patiamur iniuste, rationi magis quam sensui spatulas nostri iudicii podiamus.",
+  "model_ents": [
+   {
+    "start": 64,
+    "end": 70,
+    "label": "LOC",
+    "text": "Sarnum"
+   },
+   {
+    "start": 96,
+    "end": 106,
+    "label": "PERSON",
+    "text": "Florentiam"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-50",
+  "text": "Et quamuis ad uoluptatem nostram siue nostre sensualitatis quietem in terris amenior locus quam Florentia non existat, reuoluentes et poetarum et aliorum scriptorum uolumina quibus mundus uniuersaliter et membratim describitur, ratiocinantes que in nobis situationes uarias mundi locorum et eorum habitudinem ad utrunque polum et circulum equatorem, multas esse perpendimus firmiter que censemus et magis nobiles et magis delitiosas et regiones et urbes quam Tusciam et Florentiam, unde sumus oriundus et ciuis, et plerasque nationes et gentes delectabiliori atque utiliori sermone uti quam Latinos.",
+  "model_ents": [
+   {
+    "start": 96,
+    "end": 105,
+    "label": "LOC",
+    "text": "Florentia"
+   },
+   {
+    "start": 459,
+    "end": 466,
+    "label": "LOC",
+    "text": "Tusciam"
+   },
+   {
+    "start": 591,
+    "end": 598,
+    "label": "NORP",
+    "text": "Latinos"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-51",
+  "text": "Redeuntes igitur ad propositum, dicimus certam formam locutionis a Deo cum anima prima concreatam fuisse.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-52",
+  "text": "Dico autem “formam” et quantum ad rerum uocabula et quantum ad uocabulorum constructionem et quantum ad constructionis prolationem: qua quidem forma omnis lingua loquentium uteretur, nisi culpa presumptionis humane dissipata fuisset, ut inferius ostendetur.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-53-a",
+  "text": "Hac forma locutionis locutus est Adam;",
+  "model_ents": [
+   {
+    "start": 33,
+    "end": 37,
+    "label": "PERSON",
+    "text": "Adam"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-53-b",
+  "text": "hac forma locutionis locuti sunt omnes posteri eius usque ad edificationem turris Babel, que “turris confusionis” interpretatur;",
+  "model_ents": [
+   {
+    "start": 82,
+    "end": 87,
+    "label": "LOC",
+    "text": "Babel"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-53-c",
+  "text": "hanc formam locutionis hereditati sunt filii Heber, qui ab eo dicti sunt Hebrei.",
+  "model_ents": [
+   {
+    "start": 45,
+    "end": 50,
+    "label": "PERSON",
+    "text": "Heber"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-54",
+  "text": "Hiis solis post confusionem remansit, ut Redemptor noster, qui ex illis oriturus erat secundum humanitatem, non lingua confusionis, sed gratie frueretur.",
+  "model_ents": [
+   {
+    "start": 41,
+    "end": 50,
+    "label": "PERSON",
+    "text": "Redemptor"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-55",
+  "text": "Fuit ergo hebraicum ydioma illud quod primi loquentis labia fabricarunt.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-56",
+  "text": "Dispudet, heu, nunc humani generis ignominiam renouare!",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-57",
+  "text": "Sed quia preterire non possumus quin transeamus per illam, quanquam rubor ad ora consurgat animus que refugiat, percurremus.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-58",
+  "text": "O semper natura nostra prona peccatis!",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-59",
+  "text": "O ab initio et nunquam desinens nequitatrix!",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-60",
+  "text": "Num fuerat satis ad tui correptionem quod, per primam preuaricationem eluminata, delitiarum exulabas a patria?",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-61",
+  "text": "Num satis quod, per uniuersalem familie tue luxuriem et trucitatem, unica reseruata domo, quicquid tui iuris erat cataclismo perierat, et que commiseras tu animalia celi terre que iam luerant?",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-62",
+  "text": "Quippe satis extiterat.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-63",
+  "text": "Sed, sicut prouerbialiter dici solet «Non ante tertium equitabis», misera miserum uenire maluisti ad equum.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-64",
+  "text": "Ecce, lector, quod uel oblitus homo uel uilipendens disciplinas priores, et auertens oculos a uibicibus que remanserant, tertio insurrexit ad uerbera, per superbam stultitiam presumendo.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-65",
+  "text": "Presumpsit ergo in corde suo incurabilis homo, sub persuasione gigantis Nembroth, arte sua non solum superare naturam, sed etiam ipsum naturantem, qui Deus est, et coepi edificare turrim in Sennaar, que postea dicta est Babel, hoc est “confusio”, per quam celum sperabat ascendere, intendens inscius non equare, sed suum superare Factorem.",
+  "model_ents": [
+   {
+    "start": 72,
+    "end": 80,
+    "label": "PERSON",
+    "text": "Nembroth"
+   },
+   {
+    "start": 220,
+    "end": 225,
+    "label": "LOC",
+    "text": "Babel"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-66",
+  "text": "O sine mensura clementia celestis imperii!",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-67",
+  "text": "Quis patrum tot sustineret insultus a filio?",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-68",
+  "text": "Sed exurgens non hostili scutica sed paterna et alias uerberibus assueta, rebellantem filium pia correctione nec non memorabili castigauit.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-69-a",
+  "text": "Siquidem pene totum humanum genus ad opus iniquitatis coierat:",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-69-b",
+  "text": "pars imperabant, pars architectabantur, pars muros moliebantur, pars amussibus regulabant, pars trullis linebant, pars scindere rupes, pars mari, pars terra uehere intendebant, partes que diuerse diuersis aliis operibus indulgebant; cum celitus tanta confusione percussi sunt ut, qui omnes una eadem que loquela deseruiebant ad opus, ab opere multis diuersificati loquelis desinerent et nunquam ad idem commertium conuenirent.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-70-a",
+  "text": "Solis etenim in uno conuenientibus actu eadem loquela remansit:",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-70-b",
+  "text": "puta cunctis architectoribus una, cunctis saxa uoluentibus una, cunctis ea parantibus una;",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-70-c",
+  "text": "et sic de singulis operantibus accidit.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-71-a",
+  "text": "Quot quot autem exercitii uarietates tendebant ad opus, tot tot ydiomatibus tunc genus humanum disiungitur;",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-71-b",
+  "text": "et quanto excellentius exercebant, tanto rudius nunc barbarius que locuntur.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-72",
+  "text": "Quibus autem sacratum ydioma remansit nec aderant nec exercitium commendabant, sed grauiter detestantes stoliditatem operantium deridebant.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-73",
+  "text": "Sed hec minima pars, quantum ad numerum, fuit de semine Sem, sicut conicio, qui fuit tertius filius Noe: de qua quidem ortus est populus Israel, qui antiquissima locutione sunt usi usque ad suam dispersionem.",
+  "model_ents": [
+   {
+    "start": 56,
+    "end": 59,
+    "label": "PERSON",
+    "text": "Sem"
+   },
+   {
+    "start": 100,
+    "end": 103,
+    "label": "PERSON",
+    "text": "Noe"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-74",
+  "text": "Ex precedenter memorata confusione linguarum non leuiter opinamur per uniuersa mundi climata climatum que plagas incolendas et angulos tunc primum homines fuisse dispersos.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-75",
+  "text": "Et cum radix humane propaginis principalis in oris orientalibus sit plantata, nec non ab inde ad utrunque latus per diffusos multipliciter palmites nostra sit extensa propago, demum que ad fines occidentales protracta, forte primitus tunc uel totius Europe flumina, uel saltim quedam, rationalia guctura potauerunt.",
+  "model_ents": [
+   {
+    "start": 250,
+    "end": 256,
+    "label": "LOC",
+    "text": "Europe"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-76-a",
+  "text": "Sed si ue aduene tunc primitus aduenissent, si ue ad Europam indigene repedassent, ydioma se cum tripharium homines actulerunt;",
+  "model_ents": [
+   {
+    "start": 53,
+    "end": 60,
+    "label": "LOC",
+    "text": "Europam"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-76-b",
+  "text": "et afferentium hoc alii meridionalem, alii septentrionalem regionem in Europa sibi sortiti sunt;",
+  "model_ents": [
+   {
+    "start": 71,
+    "end": 77,
+    "label": "LOC",
+    "text": "Europa"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-76-c",
+  "text": "et tertii, quos nunc Grecos uocamus, partim Europe, partim Asye occuparunt.",
+  "model_ents": [
+   {
+    "start": 21,
+    "end": 27,
+    "label": "NORP",
+    "text": "Grecos"
+   },
+   {
+    "start": 44,
+    "end": 50,
+    "label": "LOC",
+    "text": "Europe"
+   },
+   {
+    "start": 59,
+    "end": 63,
+    "label": "LOC",
+    "text": "Asye"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-77",
+  "text": "Ab uno postea eodem que ydiomate in uindice confusione recepto diuersa uulgaria traxerunt originem, sicut inferius ostendemus.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-78",
+  "text": "Nam totum quod ab hostiis Danubii siue Meotidis paludibus usque ad fines occidentales Anglie Ytalorum Francorum que finibus et Oceano limitatur, solum unum obtinuit ydioma, licet postea per Sclauones, Ungaros, Teutonicos, Saxones, Anglicos et alias nationes quamplures fuerit per diuersa uulgaria diriuatum, hoc solo fere omnibus in signum eiusdem principii remanente, quod quasi predicti omnes iò affirmando respondent.",
+  "model_ents": [
+   {
+    "start": 26,
+    "end": 33,
+    "label": "LOC",
+    "text": "Danubii"
+   },
+   {
+    "start": 39,
+    "end": 47,
+    "label": "LOC",
+    "text": "Meotidis"
+   },
+   {
+    "start": 127,
+    "end": 133,
+    "label": "LOC",
+    "text": "Oceano"
+   },
+   {
+    "start": 190,
+    "end": 199,
+    "label": "NORP",
+    "text": "Sclauones"
+   },
+   {
+    "start": 201,
+    "end": 208,
+    "label": "NORP",
+    "text": "Ungaros"
+   },
+   {
+    "start": 210,
+    "end": 220,
+    "label": "NORP",
+    "text": "Teutonicos"
+   },
+   {
+    "start": 222,
+    "end": 229,
+    "label": "NORP",
+    "text": "Saxones"
+   },
+   {
+    "start": 231,
+    "end": 239,
+    "label": "NORP",
+    "text": "Anglicos"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-79",
+  "text": "Ab isto incipiens ydiomate, uidelicet a finibus Ungarorum uersus orientem, aliud occupauit totum quod ab inde uocatur Europa, nec non ulterius est protractum.",
+  "model_ents": [
+   {
+    "start": 48,
+    "end": 57,
+    "label": "LOC",
+    "text": "Ungarorum"
+   },
+   {
+    "start": 118,
+    "end": 124,
+    "label": "LOC",
+    "text": "Europa"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-80-a",
+  "text": "Totum uero quod in Europa restat ab istis, tertium tenuit ydioma, licet nunc tripharium uideatur:",
+  "model_ents": [
+   {
+    "start": 19,
+    "end": 25,
+    "label": "LOC",
+    "text": "Europa"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-80-b",
+  "text": "nam alii oc alii oïl, alii si affirmando locuntur, ut puta Yspani, Franci et Latini.",
+  "model_ents": [
+   {
+    "start": 59,
+    "end": 65,
+    "label": "PERSON",
+    "text": "Yspani"
+   },
+   {
+    "start": 67,
+    "end": 73,
+    "label": "NORP",
+    "text": "Franci"
+   },
+   {
+    "start": 77,
+    "end": 83,
+    "label": "NORP",
+    "text": "Latini"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-81",
+  "text": "Signum autem quod ab uno eodem que ydiomate istarum trium gentium progrediantur uulgaria, in promptu est, quia multa per eadem uocabula nominare uidentur, ut “Deum”, “celum”, “amorem”, “mare”, “terram”, “est”, “uiuit”, “moritur”, “amat”, alia fere omnia.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-82",
+  "text": "Istorum uero proferentes oc meridionalis Europe tenent partem occidentalem, a Ianuensium finibus incipientes.",
+  "model_ents": [
+   {
+    "start": 41,
+    "end": 47,
+    "label": "LOC",
+    "text": "Europe"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-83",
+  "text": "Qui autem si dicunt a predictis finibus orientalem tenent, uidelicet usque ad promuntorium illud Ytalie qua sinus Adriatici maris incipit, et Siciliam.",
+  "model_ents": [
+   {
+    "start": 114,
+    "end": 123,
+    "label": "LOC",
+    "text": "Adriatici"
+   },
+   {
+    "start": 142,
+    "end": 150,
+    "label": "LOC",
+    "text": "Siciliam"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-84-a",
+  "text": "Sed loquentes oïl quodam modo septentrionales sunt respectu istorum:",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-84-b",
+  "text": "nam ab oriente Alamannos habent et ab occidente et septentrione anglico mari uallati sunt et montibus Aragonie terminati;",
+  "model_ents": [
+   {
+    "start": 15,
+    "end": 24,
+    "label": "NORP",
+    "text": "Alamannos"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-84-c",
+  "text": "a meridie quoque Prouincialibus et Apenini deuexione clauduntur.",
+  "model_ents": [
+   {
+    "start": 35,
+    "end": 42,
+    "label": "PERSON",
+    "text": "Apenini"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-85",
+  "text": "Nos autem nunc oportet quam habemus rationem periclitari, cum inquirere intendamus de hiis in quibus nullius autoritate fulcimur, hoc est de unius eiusdem que a principio ydiomatis uariatione secuta.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-86-a",
+  "text": "Et quia per notiora itinera salubrius breuius que transitur, per illud tantum quod nobis est ydioma pergamus, alia desinentes:",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-86-b",
+  "text": "nam quod in uno est rationale, uidetur in aliis esse causa.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-87",
+  "text": "Est igitur super quod gradimur ydioma tractando tripharium, ut superius dictum est: nam alii oc, alii si, alii uero dicunt oïl.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-88",
+  "text": "Et quod unum fuerit a principio confusionis (quod prius probandum est) apparet, quia conuenimus in uocabulis multis, uelut eloquentes doctores ostendunt: que quidem conuenientia ipsi confusioni repugnat, que ruit celitus in edificatione Babel.",
+  "model_ents": [
+   {
+    "start": 237,
+    "end": 242,
+    "label": "LOC",
+    "text": "Babel"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-89",
+  "text": "Trilingues ergo doctores in multis conueniunt, et maxime in hoc uocabulo quod est “amor”.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-90-a",
+  "text": "Gerardus de Brunel: Si·m sentis fezelz amics, per uer encusera amor;",
+  "model_ents": [
+   {
+    "start": 0,
+    "end": 8,
+    "label": "PERSON",
+    "text": "Gerardus"
+   },
+   {
+    "start": 12,
+    "end": 18,
+    "label": "PERSON",
+    "text": "Brunel"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-90-b",
+  "text": "Rex Nauarre: De fin amor si uient sen et bonté;",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-90-c",
+  "text": "Dominus Guido Guinizelli: Né fe' amor prima che gentil core, né gentil cor prima che amor, natura.",
+  "model_ents": [
+   {
+    "start": 14,
+    "end": 24,
+    "label": "PERSON",
+    "text": "Guinizelli"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-91-a",
+  "text": "Qua re autem tripharie principalius uariatum sit, inuestigemus;",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-91-b",
+  "text": "et quare quelibet istarum uariationum in se ipsa uariatur, puta dextre Ytalie locutio ab ea que est sinistre (nam aliter Paduani et aliter Pisani locuntur;",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-91-c",
+  "text": ") et quare uicinius habitantes adhuc discrepant in loquendo, ut Mediolanenses et Ueronenses, Romani et Florentini, nec non conuenientes in eodem genere gentis, ut Neapoletani et Caetani, Rauennates et Fauentini, et, quod mirabilius est, sub eadem ciuilitate morantes, ut Bononienses Burgi Sancti Felicis et Bononienses Strate Maioris.",
+  "model_ents": [
+   {
+    "start": 64,
+    "end": 77,
+    "label": "NORP",
+    "text": "Mediolanenses"
+   },
+   {
+    "start": 81,
+    "end": 91,
+    "label": "NORP",
+    "text": "Ueronenses"
+   },
+   {
+    "start": 93,
+    "end": 99,
+    "label": "NORP",
+    "text": "Romani"
+   },
+   {
+    "start": 163,
+    "end": 174,
+    "label": "NORP",
+    "text": "Neapoletani"
+   },
+   {
+    "start": 178,
+    "end": 185,
+    "label": "NORP",
+    "text": "Caetani"
+   },
+   {
+    "start": 187,
+    "end": 197,
+    "label": "NORP",
+    "text": "Rauennates"
+   },
+   {
+    "start": 201,
+    "end": 210,
+    "label": "PERSON",
+    "text": "Fauentini"
+   },
+   {
+    "start": 271,
+    "end": 282,
+    "label": "NORP",
+    "text": "Bononienses"
+   },
+   {
+    "start": 283,
+    "end": 288,
+    "label": "LOC",
+    "text": "Burgi"
+   },
+   {
+    "start": 296,
+    "end": 303,
+    "label": "PERSON",
+    "text": "Felicis"
+   },
+   {
+    "start": 326,
+    "end": 333,
+    "label": "PERSON",
+    "text": "Maioris"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-92",
+  "text": "Hee omnes differentie atque sermonum uarietates quid accidant, una eadem que ratione patebit.",
+  "model_ents": [
+   {
+    "start": 0,
+    "end": 3,
+    "label": "PERSON",
+    "text": "Hee"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-93",
+  "text": "Dicimus ergo quod nullus effectus superat suam causam, in quantum effectus est, quia nil potest efficere quod non est.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-94",
+  "text": "Cum igitur omnis nostra loquela - preter illam homini primo concreatam a Deo - sit a nostro beneplacito reparata post confusionem illam que nil aliud fuit quam prioris obliuio, et homo sit instabilissimum atque uariabilissimum animal, nec durabilis nec continua esse potest, sed sicut alia que nostra sunt, puta mores et habitus, per locorum temporum que distantias uariari oportet.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-95-a",
+  "text": "Nec dubitandum reor modo in eo quod diximus “temporum”, sed potius opinamur tenendum:",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-95-b",
+  "text": "nam si alia nostra opera perscrutemur, multo magis discrepare uidemur a uetustissimis conciuibus nostris quam a coetaneis perlonginquis.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-96",
+  "text": "Quapropter audacter testamur quod si uetustissimi Papienses nunc resurgerent, sermone uario uel diuerso cum modernis Papiensibus loquerentur.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-97-a",
+  "text": "Nec aliter mirum uideatur quod dicimus quam percipere iuuenem exoletum quem exolescere non uidemus:",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-97-b",
+  "text": "nam que paulatim mouentur, minime perpenduntur a nobis, et quanto longiora tempora uariatio rei ad perpendi requirit, tanto rem illam stabiliorem putamus.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-98",
+  "text": "Non etenim ammiramur si extimationes hominum qui parum distant a brutis putant eandem ciuitatem sub inuariabili semper ciuicasse sermone, cum sermonis uariatio ciuitatis eiusdem non sine longissima temporum successione paulatim contingat, et hominum uita sit etiam, ipsa sua natura, breuissima.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-99",
+  "text": "Si ergo per eandem gentem sermo uariatur, ut dictum est, successiue per tempora, nec stare ullo modo potest, necesse est ut disiunctim abmotim que morantibus uarie uarietur, ceu uarie uariantur mores et habitus qui nec natura nec consortio confirmantur, sed humanis beneplacitis locali que congruitate nascuntur.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-100-a",
+  "text": "Hinc moti sunt inuentores gramatice facultatis:",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-100-b",
+  "text": "que quidem gramatica nichil aliud est quam quedam inalterabilis locutionis ydemptitas diuersibus temporibus atque locis.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-101",
+  "text": "Hec cum de comuni consensu multarum gentium fuerit regulata, nulli singulari arbitrio uidetur obnoxia, et per consequens nec uariabilis esse potest.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-102",
+  "text": "Adinuenerunt ergo illam ne, propter uariationem sermonis arbitrio singularium fluitantis, uel nullo modo uel saltim imperfecte antiquorum actingeremus autoritates et gesta, siue illorum quos a nobis locorum diuersitas facit esse diuersos.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-103",
+  "text": "Triphario nunc existente nostro ydiomate, ut superius dictum est, in comparatione sui ipsius, secundum quod trisonum factum est, cum tanta timiditate cunctamur librantes quod hanc uel istam uel illam partem in comparando preponere non audemus, nisi eo quo gramatice positores inueniuntur accepisse “sic” aduerbium affirmandi: quod quandam anterioritatem erogare uidetur Ytalis, qui si dicunt.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-104",
+  "text": "Quelibet enim partium largo testimonio se tuetur.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-105",
+  "text": "Allegat ergo pro se lingua oïl quod propter sui faciliorem ac delectabiliorem uulgaritatem quicquid redactum est siue inuentum ad uulgare prosaycum, suum est: uidelicet Biblia cum Troianorum Romanorum que gestibus compilata et Arturi regis ambages pulcerrime et quamplures alie ystorie ac doctrine.",
+  "model_ents": [
+   {
+    "start": 169,
+    "end": 175,
+    "label": "PERSON",
+    "text": "Biblia"
+   },
+   {
+    "start": 227,
+    "end": 233,
+    "label": "PERSON",
+    "text": "Arturi"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-106",
+  "text": "Pro se uero argumentatur alia, scilicet oc, quod uulgares eloquentes in ea primitus poetati sunt tanquam in perfectiori dulciori que loquela, ut puta Petrus de Aluernia et alii antiquiores doctores.",
+  "model_ents": [
+   {
+    "start": 150,
+    "end": 156,
+    "label": "PERSON",
+    "text": "Petrus"
+   },
+   {
+    "start": 160,
+    "end": 168,
+    "label": "PERSON",
+    "text": "Aluernia"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-107-a",
+  "text": "Tertia quoque, que Latinorum est, se duobus priuilegiis actestatur preesse: primo quidem quod qui dulcius subtilius que poetati uulgariter sunt, hii familiares et domestici sui sunt, puta Cynus Pistoriensis et amicus eius;",
+  "model_ents": [
+   {
+    "start": 19,
+    "end": 28,
+    "label": "NORP",
+    "text": "Latinorum"
+   },
+   {
+    "start": 188,
+    "end": 193,
+    "label": "PERSON",
+    "text": "Cynus"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-107-b",
+  "text": "secundo quia magis uidetur initi gramatice que comunis est, quod rationabiliter inspicientibus uidetur grauissimum argumentum.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-108",
+  "text": "Nos uero iudicium relinquentes in hoc et tractatum nostrum ad uulgare latium retrahentes, et receptas in se uariationes dicere nec non illas inuicem comparare conemur.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-109",
+  "text": "Dicimus ergo primo Latium bipartitum esse in dextrum et sinistrum.",
+  "model_ents": [
+   {
+    "start": 19,
+    "end": 25,
+    "label": "LOC",
+    "text": "Latium"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-110-a",
+  "text": "Si quis autem querat de linea diuidente, breuiter respondemus esse iugum Apenini, quod, ceu fistule culmen hinc inde ad diuersa stillicidia grundat aquas, ad alterna hinc inde litora per ymbricia longa distillat, ut Lucanus in secundo describit:",
+  "model_ents": [
+   {
+    "start": 73,
+    "end": 80,
+    "label": "PERSON",
+    "text": "Apenini"
+   },
+   {
+    "start": 216,
+    "end": 223,
+    "label": "PERSON",
+    "text": "Lucanus"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-110-b",
+  "text": "dextrum quoque latus Tyrenum mare grundatorium habet, leuum uero in Adriaticum cadit.",
+  "model_ents": [
+   {
+    "start": 21,
+    "end": 28,
+    "label": "LOC",
+    "text": "Tyrenum"
+   },
+   {
+    "start": 68,
+    "end": 78,
+    "label": "LOC",
+    "text": "Adriaticum"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-111-a",
+  "text": "Et dextri regiones sunt Apulia, sed non tota, Roma, Ducatus, Tuscia et Ianuensis Marchia;",
+  "model_ents": [
+   {
+    "start": 24,
+    "end": 30,
+    "label": "LOC",
+    "text": "Apulia"
+   },
+   {
+    "start": 46,
+    "end": 50,
+    "label": "LOC",
+    "text": "Roma"
+   },
+   {
+    "start": 52,
+    "end": 59,
+    "label": "PERSON",
+    "text": "Ducatus"
+   },
+   {
+    "start": 61,
+    "end": 67,
+    "label": "LOC",
+    "text": "Tuscia"
+   },
+   {
+    "start": 81,
+    "end": 88,
+    "label": "LOC",
+    "text": "Marchia"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-111-b",
+  "text": "sinistri autem pars Apulie, Marchia Anconitana, Romandiola, Lombardia, Marchia Triuisiana cum Uenetiis.",
+  "model_ents": [
+   {
+    "start": 20,
+    "end": 26,
+    "label": "LOC",
+    "text": "Apulie"
+   },
+   {
+    "start": 36,
+    "end": 46,
+    "label": "LOC",
+    "text": "Anconitana"
+   },
+   {
+    "start": 48,
+    "end": 58,
+    "label": "NORP",
+    "text": "Romandiola"
+   },
+   {
+    "start": 60,
+    "end": 69,
+    "label": "LOC",
+    "text": "Lombardia"
+   },
+   {
+    "start": 94,
+    "end": 102,
+    "label": "PERSON",
+    "text": "Uenetiis"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-112-a",
+  "text": "Forum Iulii uero et Ystria non nisi leue Ytalie esse possunt;",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-112-b",
+  "text": "nec insule Tyreni maris, uidelicet Sicilia et Sardinia, non nisi dextre Ytalie sunt, uel ad dextram Ytaliam sociande.",
+  "model_ents": [
+   {
+    "start": 11,
+    "end": 17,
+    "label": "LOC",
+    "text": "Tyreni"
+   },
+   {
+    "start": 35,
+    "end": 42,
+    "label": "LOC",
+    "text": "Sicilia"
+   },
+   {
+    "start": 46,
+    "end": 54,
+    "label": "LOC",
+    "text": "Sardinia"
+   },
+   {
+    "start": 100,
+    "end": 107,
+    "label": "LOC",
+    "text": "Ytaliam"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-113-a",
+  "text": "In utroque quidem duorum laterum, et hiis que secuntur ad ea, lingue hominum uariantur: ut lingua Siculorum cum Apulis, Apulorum cum Romanis, Romanorum cum Spoletanis, horum cum Tuscis, Tuscorum cum Ianuensibus, Ianuensium cum Sardis;",
+  "model_ents": [
+   {
+    "start": 98,
+    "end": 107,
+    "label": "NORP",
+    "text": "Siculorum"
+   },
+   {
+    "start": 112,
+    "end": 118,
+    "label": "NORP",
+    "text": "Apulis"
+   },
+   {
+    "start": 120,
+    "end": 128,
+    "label": "NORP",
+    "text": "Apulorum"
+   },
+   {
+    "start": 133,
+    "end": 140,
+    "label": "NORP",
+    "text": "Romanis"
+   },
+   {
+    "start": 142,
+    "end": 151,
+    "label": "NORP",
+    "text": "Romanorum"
+   },
+   {
+    "start": 156,
+    "end": 166,
+    "label": "NORP",
+    "text": "Spoletanis"
+   },
+   {
+    "start": 178,
+    "end": 184,
+    "label": "NORP",
+    "text": "Tuscis"
+   },
+   {
+    "start": 186,
+    "end": 194,
+    "label": "NORP",
+    "text": "Tuscorum"
+   },
+   {
+    "start": 199,
+    "end": 210,
+    "label": "NORP",
+    "text": "Ianuensibus"
+   },
+   {
+    "start": 212,
+    "end": 222,
+    "label": "NORP",
+    "text": "Ianuensium"
+   },
+   {
+    "start": 227,
+    "end": 233,
+    "label": "LOC",
+    "text": "Sardis"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-113-b",
+  "text": "nec non Calabrorum cum Anconitanis, horum cum Romandiolis, Romandiolorum cum Lombardis, Lombardorum cum Triuisianis et Uenetis, horum cum Aquilegiensibus, et istorum cum Ystrianis.",
+  "model_ents": [
+   {
+    "start": 8,
+    "end": 18,
+    "label": "NORP",
+    "text": "Calabrorum"
+   },
+   {
+    "start": 23,
+    "end": 34,
+    "label": "NORP",
+    "text": "Anconitanis"
+   },
+   {
+    "start": 46,
+    "end": 57,
+    "label": "NORP",
+    "text": "Romandiolis"
+   },
+   {
+    "start": 59,
+    "end": 72,
+    "label": "NORP",
+    "text": "Romandiolorum"
+   },
+   {
+    "start": 77,
+    "end": 86,
+    "label": "LOC",
+    "text": "Lombardis"
+   },
+   {
+    "start": 88,
+    "end": 99,
+    "label": "NORP",
+    "text": "Lombardorum"
+   },
+   {
+    "start": 104,
+    "end": 115,
+    "label": "PERSON",
+    "text": "Triuisianis"
+   },
+   {
+    "start": 119,
+    "end": 126,
+    "label": "NORP",
+    "text": "Uenetis"
+   },
+   {
+    "start": 138,
+    "end": 153,
+    "label": "NORP",
+    "text": "Aquilegiensibus"
+   },
+   {
+    "start": 170,
+    "end": 179,
+    "label": "PERSON",
+    "text": "Ystrianis"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-114",
+  "text": "De quo Latinorum neminem nobis cum dissentire putamus.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-115",
+  "text": "Qua re adminus xiiii uulgaribus sola uidetur Ytalia uariari.",
+  "model_ents": [
+   {
+    "start": 45,
+    "end": 51,
+    "label": "LOC",
+    "text": "Ytalia"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-116-a",
+  "text": "Que adhuc omnia uulgaria in sese uariantur, ut puta in Tuscia Senenses et Aretini, in Lombardia Ferrarenses et Placentini;",
+  "model_ents": [
+   {
+    "start": 55,
+    "end": 61,
+    "label": "LOC",
+    "text": "Tuscia"
+   },
+   {
+    "start": 62,
+    "end": 70,
+    "label": "NORP",
+    "text": "Senenses"
+   },
+   {
+    "start": 74,
+    "end": 81,
+    "label": "NORP",
+    "text": "Aretini"
+   },
+   {
+    "start": 86,
+    "end": 95,
+    "label": "LOC",
+    "text": "Lombardia"
+   },
+   {
+    "start": 96,
+    "end": 107,
+    "label": "NORP",
+    "text": "Ferrarenses"
+   },
+   {
+    "start": 111,
+    "end": 121,
+    "label": "NORP",
+    "text": "Placentini"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-116-b",
+  "text": "nec non in eadem ciuitate aliqualem uariationem perpendimus, ut superius in capitulo inmediato posuimus.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-117",
+  "text": "Quapropter, si primas et secundarias et subsecundarias uulgaris Ytalie uariationes calculare uelimus, et in hoc minimo mundi angulo non solum ad millenam loquele uariationem uenire contigerit, sed etiam ad magis ultra.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-118-a",
+  "text": "Quam multis uarietatibus latio dissonante uulgari, decentiorem atque illustrem Ytalie uenemur loquelam;",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-118-b",
+  "text": "et ut nostre uenationi peruium callem habere possimus, perplexos frutices atque sentes prius eiciamus de silua.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-119",
+  "text": "Sicut ergo Romani se cunctis preponendos existimant, in hac eradicatione siue discerptione non inmerito eos aliis preponamus, protestantes eosdem in nulla uulgaris eloquentie ratione fore tangendos.",
+  "model_ents": [
+   {
+    "start": 11,
+    "end": 17,
+    "label": "NORP",
+    "text": "Romani"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-120-a",
+  "text": "Dicimus igitur Romanorum non uulgare, sed potius tristiloquium, ytalorum uulgarium omnium esse turpissimum;",
+  "model_ents": [
+   {
+    "start": 15,
+    "end": 24,
+    "label": "NORP",
+    "text": "Romanorum"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-120-b",
+  "text": "nec mirum, cum etiam morum habituum que deformitate pre cunctis uideantur fetere.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-121",
+  "text": "Dicunt enim: Messure quinto dici .",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-122",
+  "text": "Post hos incolas Anconitane Marchie decerpamus, qui Chignamente state siate locuntur: cum quibus et Spoletanos abicimus.",
+  "model_ents": [
+   {
+    "start": 28,
+    "end": 35,
+    "label": "PERSON",
+    "text": "Marchie"
+   },
+   {
+    "start": 52,
+    "end": 63,
+    "label": "PERSON",
+    "text": "Chignamente"
+   },
+   {
+    "start": 100,
+    "end": 110,
+    "label": "NORP",
+    "text": "Spoletanos"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-123-a",
+  "text": "Nec pretereundum est quod in improperium istarum trium gentium cantiones quamplures inuente sunt: inter quas unam uidimus recte atque perfecte ligatam, quam quidam Florentinus nomine Castra posuerat;",
+  "model_ents": [
+   {
+    "start": 164,
+    "end": 175,
+    "label": "PERSON",
+    "text": "Florentinus"
+   },
+   {
+    "start": 183,
+    "end": 189,
+    "label": "LOC",
+    "text": "Castra"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-123-b",
+  "text": "incipiebat etenim Una fermana scopai da Cascioli cita cita se 'n gìa 'n grande aina.",
+  "model_ents": [
+   {
+    "start": 18,
+    "end": 21,
+    "label": "PERSON",
+    "text": "Una"
+   },
+   {
+    "start": 40,
+    "end": 48,
+    "label": "LOC",
+    "text": "Cascioli"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-124",
+  "text": "Post quos Mediolanenses atque Pergameos eorum que finitimos eruncemus, in quorum etiam improperium quendam cecinisse recolimus Enter l'ora del uesper ciò fu del mes d'ochiouer.",
+  "model_ents": [
+   {
+    "start": 10,
+    "end": 23,
+    "label": "NORP",
+    "text": "Mediolanenses"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-125",
+  "text": "Post hos Aquilegienses et Ystrianos cribremus, qui Ces fas - tu crudeliter accentuando eructuant.",
+  "model_ents": [
+   {
+    "start": 9,
+    "end": 22,
+    "label": "NORP",
+    "text": "Aquilegienses"
+   },
+   {
+    "start": 26,
+    "end": 35,
+    "label": "NORP",
+    "text": "Ystrianos"
+   },
+   {
+    "start": 51,
+    "end": 54,
+    "label": "PERSON",
+    "text": "Ces"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-126",
+  "text": "Cum que hiis montaninas omnes et rusticanas loquelas eicimus, que semper mediastinis ciuibus accentus enormitate dissonare uidentur, ut Casentinenses et Fractenses.",
+  "model_ents": [
+   {
+    "start": 136,
+    "end": 149,
+    "label": "NORP",
+    "text": "Casentinenses"
+   },
+   {
+    "start": 153,
+    "end": 163,
+    "label": "NORP",
+    "text": "Fractenses"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-127-a",
+  "text": "Sardos etiam, qui non Latii sunt sed Latiis associandi uidentur, eiciamus, quoniam soli sine proprio uulgari esse uidentur, gramaticam tanquam simie homines imitantes:",
+  "model_ents": [
+   {
+    "start": 0,
+    "end": 6,
+    "label": "NORP",
+    "text": "Sardos"
+   },
+   {
+    "start": 22,
+    "end": 27,
+    "label": "NORP",
+    "text": "Latii"
+   },
+   {
+    "start": 37,
+    "end": 43,
+    "label": "LOC",
+    "text": "Latiis"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-127-b",
+  "text": "nam domus noua et dominus meus locuntur.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-128",
+  "text": "Exaceratis quodam modo uulgaribus ytalis, inter ea que remanserunt in cribro comparationem facientes honorabilius atque honorificentius breuiter seligamus.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-129-a",
+  "text": "Et primo de siciliano examinemus ingenium:",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-129-b",
+  "text": "nam uidetur sicilianum uulgare sibi famam pre aliis asciscere eo quod quicquid poetantur Ytali sicilianum uocatur, et eo quod perplures doctores indigenas inuenimus grauiter cecinisse, puta in cantionibus illis Ancor che l'aigua per lo foco lassi, et Amor, che lungiamente m'hai menato.",
+  "model_ents": [
+   {
+    "start": 211,
+    "end": 216,
+    "label": "PERSON",
+    "text": "Ancor"
+   },
+   {
+    "start": 251,
+    "end": 255,
+    "label": "PERSON",
+    "text": "Amor"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-130",
+  "text": "Sed hec fama trinacrie terre, si recte signum ad quod tendit inspiciamus, uidetur tantum in obproprium ytalorum principum remansisse, qui non heroico more sed plebeio secuntur superbiam.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-131",
+  "text": "Siquidem illustres heroes, Fredericus Cesar et benegenitus eius Manfredus, nobilitatem ac rectitudinem sue forme pandentes, donec fortuna permisit humana secuti sunt, brutalia dedignantes.",
+  "model_ents": [
+   {
+    "start": 27,
+    "end": 37,
+    "label": "PERSON",
+    "text": "Fredericus"
+   },
+   {
+    "start": 64,
+    "end": 73,
+    "label": "PERSON",
+    "text": "Manfredus"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-132-a",
+  "text": "Propter quod corde nobiles atque gratiarum dotati inherere tantorum principum maiestati conati sunt, ita ut eorum tempore quicquid excellentes animi Latinorum enitebantur primitus in tantorum coronatorum aula prodibat;",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-132-b",
+  "text": "et quia regale solium erat Sicilia, factum est ut quicquid nostri predecessores uulgariter protulerunt, sicilianum uocetur: quod quidem retinemus et nos, nec posteri nostri permutare ualebunt.",
+  "model_ents": [
+   {
+    "start": 27,
+    "end": 34,
+    "label": "LOC",
+    "text": "Sicilia"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-133",
+  "text": "Racha, racha!",
+  "model_ents": [
+   {
+    "start": 0,
+    "end": 5,
+    "label": "PERSON",
+    "text": "Racha"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-134",
+  "text": "Quid nunc personat tuba nouissimi Frederici, quid tintinabulum secundi Karoli, quid cornua Iohannis et Azonis marchionum potentum, quid aliorum magnatum tibie, nisi “Uenite carnifices, uenite altriplices, uenite auaritie sectatores”?",
+  "model_ents": [
+   {
+    "start": 34,
+    "end": 43,
+    "label": "PERSON",
+    "text": "Frederici"
+   },
+   {
+    "start": 71,
+    "end": 77,
+    "label": "PERSON",
+    "text": "Karoli"
+   },
+   {
+    "start": 91,
+    "end": 99,
+    "label": "PERSON",
+    "text": "Iohannis"
+   },
+   {
+    "start": 103,
+    "end": 109,
+    "label": "PERSON",
+    "text": "Azonis"
+   },
+   {
+    "start": 166,
+    "end": 172,
+    "label": "PERSON",
+    "text": "Uenite"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-135",
+  "text": "Sed prestat ad propositum repedare quam frustra loqui.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-136",
+  "text": "Et dicimus quod, si uulgare sicilianum accipere uolumus secundum quod prodit a terrigenis mediocribus, ex ore quorum iudicium eliciendum uidetur, prelationis honore minime dignum est, quia non sine quodam tempore profertur; ut puta ibi: Tragemi d'este focora se t'este a bolontate Si autem ipsum accipere uolumus secundum quod ab ore primorum Siculorum emanat, ut in preallegatis cantionibus perpendi potest, nichil differt ab illo quod laudabilissimum est, sicut inferius ostendemus.",
+  "model_ents": [
+   {
+    "start": 237,
+    "end": 244,
+    "label": "PERSON",
+    "text": "Tragemi"
+   },
+   {
+    "start": 343,
+    "end": 352,
+    "label": "NORP",
+    "text": "Siculorum"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-137-a",
+  "text": "Apuli quoque uel sui acerbitate uel finitimorum suorum contiguitate, qui Romani et Marchiani sunt, turpiter barbarizant:",
+  "model_ents": [
+   {
+    "start": 0,
+    "end": 5,
+    "label": "LOC",
+    "text": "Apuli"
+   },
+   {
+    "start": 73,
+    "end": 79,
+    "label": "NORP",
+    "text": "Romani"
+   },
+   {
+    "start": 83,
+    "end": 92,
+    "label": "NORP",
+    "text": "Marchiani"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-137-b",
+  "text": "dicunt enim Bòlzera che chiangesse lo quatraro Sed quamuis terrigene Apuli loquantur obscene comuniter, prefulgentes eorum quidam polite locuti sunt, uocabula curialiora in suis cantionibus compilantes, ut manifeste apparet eorum dicta perspicientibus, ut puta Madonna, dir ui uoglio, et Per fino amore uo si letamente.",
+  "model_ents": [
+   {
+    "start": 12,
+    "end": 19,
+    "label": "PERSON",
+    "text": "Bolzera"
+   },
+   {
+    "start": 69,
+    "end": 74,
+    "label": "LOC",
+    "text": "Apuli"
+   },
+   {
+    "start": 261,
+    "end": 268,
+    "label": "PERSON",
+    "text": "Madonna"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-138",
+  "text": "Quapropter superiora notantibus innotescere debet nec siculum nec apulum esse illud quod in Ytalia pulcerrimum est uulgare, cum eloquentes indigenas ostenderimus a proprio diuertisse.",
+  "model_ents": [
+   {
+    "start": 92,
+    "end": 98,
+    "label": "LOC",
+    "text": "Ytalia"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-139",
+  "text": "Post hec ueniamus ad Tuscos, qui propter amentiam suam infroniti titulum sibi uulgaris illustris arrogare uidentur.",
+  "model_ents": [
+   {
+    "start": 21,
+    "end": 27,
+    "label": "NORP",
+    "text": "Tuscos"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-140",
+  "text": "Et in hoc non solum plebeia dementat intentio, sed famosos quamplures uiros hoc tenuisse comperimus puta: Guittonem Aretinum, qui nunquam se ad curiale uulgare direxit, Bonagiuntam Lucensem, Gallum Pisanum, Minum Mocatum Senensem, Brunectum Florentinum, quorum dicta, si rimari uacauerit, non curialia sed municipalia tantum inuenientur.",
+  "model_ents": [
+   {
+    "start": 106,
+    "end": 115,
+    "label": "PERSON",
+    "text": "Guittonem"
+   },
+   {
+    "start": 169,
+    "end": 180,
+    "label": "PERSON",
+    "text": "Bonagiuntam"
+   },
+   {
+    "start": 181,
+    "end": 189,
+    "label": "LOC",
+    "text": "Lucensem"
+   },
+   {
+    "start": 191,
+    "end": 197,
+    "label": "NORP",
+    "text": "Gallum"
+   },
+   {
+    "start": 198,
+    "end": 205,
+    "label": "NORP",
+    "text": "Pisanum"
+   },
+   {
+    "start": 207,
+    "end": 212,
+    "label": "NORP",
+    "text": "Minum"
+   },
+   {
+    "start": 231,
+    "end": 240,
+    "label": "PERSON",
+    "text": "Brunectum"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-141",
+  "text": "Et quoniam Tusci pre aliis in hac ebrietate baccantur, dignum utile que uidetur municipalia uulgaria Tuscanorum sigillatim in aliquo depompare.",
+  "model_ents": [
+   {
+    "start": 11,
+    "end": 16,
+    "label": "NORP",
+    "text": "Tusci"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-142",
+  "text": "Locuntur Florentini et dicunt Manichiamo introcque che noi non facciamo altro.",
+  "model_ents": [
+   {
+    "start": 30,
+    "end": 40,
+    "label": "PERSON",
+    "text": "Manichiamo"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-143",
+  "text": "Pisani: Bene andonno li fanti de Fiorensa per Pisa.",
+  "model_ents": [
+   {
+    "start": 0,
+    "end": 6,
+    "label": "NORP",
+    "text": "Pisani"
+   },
+   {
+    "start": 46,
+    "end": 50,
+    "label": "PERSON",
+    "text": "Pisa"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-144",
+  "text": "Lucenses: Fo uoto a Dio ke in grassarra eie lo comuno de Lucca.",
+  "model_ents": [
+   {
+    "start": 0,
+    "end": 8,
+    "label": "NORP",
+    "text": "Lucenses"
+   },
+   {
+    "start": 20,
+    "end": 23,
+    "label": "PERSON",
+    "text": "Dio"
+   },
+   {
+    "start": 57,
+    "end": 62,
+    "label": "LOC",
+    "text": "Lucca"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-145-1",
+  "text": "Senenses: Onche renegata auess'io Siena Ch'ee chesto .",
+  "model_ents": [
+   {
+    "start": 0,
+    "end": 8,
+    "label": "NORP",
+    "text": "Senenses"
+   },
+   {
+    "start": 40,
+    "end": 42,
+    "label": "PERSON",
+    "text": "Ch"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-145-2",
+  "text": "Aretini: Uuo' tu uenire ouelle .",
+  "model_ents": [
+   {
+    "start": 0,
+    "end": 7,
+    "label": "NORP",
+    "text": "Aretini"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-145-3",
+  "text": "De Perusio, Urbe Ueteri, Uiterbio, nec non de Ciuitate Castellana, propter affinitatem quam habent cum Romanis et Spoletanis, nichil tractare intendimus.",
+  "model_ents": [
+   {
+    "start": 12,
+    "end": 16,
+    "label": "LOC",
+    "text": "Urbe"
+   },
+   {
+    "start": 17,
+    "end": 23,
+    "label": "NORP",
+    "text": "Ueteri"
+   },
+   {
+    "start": 25,
+    "end": 33,
+    "label": "LOC",
+    "text": "Uiterbio"
+   },
+   {
+    "start": 55,
+    "end": 65,
+    "label": "LOC",
+    "text": "Castellana"
+   },
+   {
+    "start": 103,
+    "end": 110,
+    "label": "NORP",
+    "text": "Romanis"
+   },
+   {
+    "start": 114,
+    "end": 124,
+    "label": "NORP",
+    "text": "Spoletanis"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-146",
+  "text": "Sed quanquam fere omnes Tusci in suo turpiloquio sint obtusi, non nullos uulgaris excellentiam cognouisse sentimus, scilicet Guidonem, Lapum et unum alium, Florentinos, et Cynum Pistoriensem, quem nunc indigne postponimus, non indigne coacti.",
+  "model_ents": [
+   {
+    "start": 24,
+    "end": 29,
+    "label": "NORP",
+    "text": "Tusci"
+   },
+   {
+    "start": 125,
+    "end": 133,
+    "label": "PERSON",
+    "text": "Guidonem"
+   },
+   {
+    "start": 135,
+    "end": 140,
+    "label": "PERSON",
+    "text": "Lapum"
+   },
+   {
+    "start": 156,
+    "end": 167,
+    "label": "NORP",
+    "text": "Florentinos"
+   },
+   {
+    "start": 172,
+    "end": 177,
+    "label": "NORP",
+    "text": "Cynum"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-147",
+  "text": "Itaque si tuscanas examinemus loquelas, et pensemus qualiter uiri prehonorati a propria diuerterunt, non restat in dubio quin aliud sit uulgare quod querimus quam quod actingit populus Tuscanorum.",
+  "model_ents": [
+   {
+    "start": 185,
+    "end": 195,
+    "label": "NORP",
+    "text": "Tuscanorum"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-148",
+  "text": "Si quis autem quod de Tuscis asserimus, de Ianuensibus asserendum non putet, hoc solum in mente premat, quod si per obliuionem Ianuenses ammicterent z licteram, uel mutire totaliter eos uel nouam reparare oporteret loquelam.",
+  "model_ents": [
+   {
+    "start": 22,
+    "end": 28,
+    "label": "NORP",
+    "text": "Tuscis"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-149",
+  "text": "Est enim z maxima pars eorum locutionis, que quidem lictera non sine multa rigiditate profertur.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-150",
+  "text": "Transeuntes nunc humeros Apenini frondiferos leuam Ytaliam contatim uenemur ceu solemus, orientaliter ineuntes.",
+  "model_ents": [
+   {
+    "start": 25,
+    "end": 32,
+    "label": "PERSON",
+    "text": "Apenini"
+   },
+   {
+    "start": 51,
+    "end": 58,
+    "label": "LOC",
+    "text": "Ytaliam"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-151",
+  "text": "Romandiolam igitur ingredientes, dicimus nos duo in Latio inuenisse uulgaria quibusdam conuenientiis contrariis alternata.",
+  "model_ents": [
+   {
+    "start": 52,
+    "end": 57,
+    "label": "LOC",
+    "text": "Latio"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-152",
+  "text": "Quorum unum in tantum muliebre uidetur propter uocabulorum et prolationis mollitiem quod uirum, etiam si uiriliter sonet, feminam tamen facit esse credendum.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-153-a",
+  "text": "Hoc Romandiolos omnes habet, et presertim Forliuienses, quorum ciuitas, licet nouissima sit, meditullium tamen esse uidetur totius prouincie:",
+  "model_ents": [
+   {
+    "start": 4,
+    "end": 15,
+    "label": "NORP",
+    "text": "Romandiolos"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-153-b",
+  "text": "hii deuscì affirmando locuntur, et oclo meo et corada mea proferunt blandientes.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-154",
+  "text": "Horum aliquos a proprio poetando diuertisse audiuimus, Thomam uidelicet et Ugolinum Bucciolam, Fauentinos.",
+  "model_ents": [
+   {
+    "start": 55,
+    "end": 61,
+    "label": "PERSON",
+    "text": "Thomam"
+   },
+   {
+    "start": 75,
+    "end": 83,
+    "label": "PERSON",
+    "text": "Ugolinum"
+   },
+   {
+    "start": 95,
+    "end": 105,
+    "label": "NORP",
+    "text": "Fauentinos"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-155",
+  "text": "Est et aliud, sicut dictum est, adeo uocabulis accentibus que yrsutum et yspidum quod propter sui rudem asperitatem mulierem loquentem non solum disterminat, sed esse uirum dubitares, lector.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-156-a",
+  "text": "Hoc omnes qui maia dicunt, Brixianos uidelicet, Ueronenses et Uigentinos, habet;",
+  "model_ents": [
+   {
+    "start": 27,
+    "end": 36,
+    "label": "NORP",
+    "text": "Brixianos"
+   },
+   {
+    "start": 48,
+    "end": 58,
+    "label": "NORP",
+    "text": "Ueronenses"
+   },
+   {
+    "start": 62,
+    "end": 72,
+    "label": "NORP",
+    "text": "Uigentinos"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-156-b",
+  "text": "nec non Paduanos, turpiter sincopantes omnia in “- tus” participia et denominatiua in “- tas”, ut mercò et bonté.",
+  "model_ents": [
+   {
+    "start": 8,
+    "end": 16,
+    "label": "NORP",
+    "text": "Paduanos"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-157",
+  "text": "Cum quibus et Triuisianos adducimus, qui more Brixianorum et finitimorum suorum u consonantem per f apocopando proferunt, puta nof pro “nouem” et uif pro “uiuo”: quod quidem barbarissimum reprobamus.",
+  "model_ents": [
+   {
+    "start": 14,
+    "end": 25,
+    "label": "NORP",
+    "text": "Triuisianos"
+   },
+   {
+    "start": 46,
+    "end": 57,
+    "label": "NORP",
+    "text": "Brixianorum"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-158",
+  "text": "Ueneti quoque nec sese inuestigati uulgaris honore dignantur; et si quis eorum, errore confossus, uanitaret in hoc, recordetur si unquam dixit Per le plage de Dio tu no ueras Inter quos omnes unum uidimus nitentem diuertere a materno et ad curiale uulgare intendere, uidelicet Ildebrandinum Paduanum.",
+  "model_ents": [
+   {
+    "start": 0,
+    "end": 6,
+    "label": "NORP",
+    "text": "Ueneti"
+   },
+   {
+    "start": 159,
+    "end": 162,
+    "label": "PERSON",
+    "text": "Dio"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-159",
+  "text": "Qua re omnibus presentis capituli ad iudicium comparentibus arbitramur nec romandiolum, nec suum oppositum ut dictum est, nec uenetianum esse illud quod querimus uulgare illustre.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-160",
+  "text": "Illud autem quod de ytalia silua residet percontari conemur expedientes.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-161",
+  "text": "Dicimus ergo quod forte non male opinantur qui Bononienses asserunt pulcriori locutione loquentes, cum ab Ymolensibus, Ferrarensibus et Mutinensibus circunstantibus aliquid proprio uulgari asciscunt, sicut facere quoslibet a finitimis suis conicimus, ut Sordellus de Mantua sua ostendit, Cremone, Brixie atque Uerone confini: qui, tantus eloquentie uir existens, non solum in poetando sed quomodocunque loquendo patrium uulgare deseruit.",
+  "model_ents": [
+   {
+    "start": 47,
+    "end": 58,
+    "label": "NORP",
+    "text": "Bononienses"
+   },
+   {
+    "start": 106,
+    "end": 117,
+    "label": "NORP",
+    "text": "Ymolensibus"
+   },
+   {
+    "start": 119,
+    "end": 132,
+    "label": "NORP",
+    "text": "Ferrarensibus"
+   },
+   {
+    "start": 136,
+    "end": 148,
+    "label": "NORP",
+    "text": "Mutinensibus"
+   },
+   {
+    "start": 267,
+    "end": 273,
+    "label": "LOC",
+    "text": "Mantua"
+   },
+   {
+    "start": 288,
+    "end": 295,
+    "label": "LOC",
+    "text": "Cremone"
+   },
+   {
+    "start": 297,
+    "end": 303,
+    "label": "LOC",
+    "text": "Brixie"
+   },
+   {
+    "start": 310,
+    "end": 316,
+    "label": "PERSON",
+    "text": "Uerone"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-162-a",
+  "text": "Accipiunt enim prefati ciues ab Ymolensibus lenitatem atque mollitiem, a Ferrarensibus uero et Mutinensibus aliqualem garrulitatem que proprie Lombardorum est:",
+  "model_ents": [
+   {
+    "start": 143,
+    "end": 154,
+    "label": "LOC",
+    "text": "Lombardorum"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-162-b",
+  "text": "hanc ex commixtione aduenarum Longobardorum terrigenis credimus remansisse.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-163-a",
+  "text": "Et hec est causa qua re Ferrarensium, Mutinensium uel Regianorum nullum inuenimus poetasse:",
+  "model_ents": [
+   {
+    "start": 38,
+    "end": 49,
+    "label": "NORP",
+    "text": "Mutinensium"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-163-b",
+  "text": "nam proprie garrulitati assuefacti nullo modo possunt ad uulgare aulicum sine quadam acerbitate uenire.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-164",
+  "text": "Quod multo magis de Parmensibus est putandum, qui monto pro “multo” dicunt.",
+  "model_ents": [
+   {
+    "start": 20,
+    "end": 31,
+    "label": "NORP",
+    "text": "Parmensibus"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-165",
+  "text": "Si ergo Bononienses utrinque accipiunt, ut dictum est, rationabile uidetur esse quod eorum locutio per commixtionem oppositorum ut dictum est ad laudabilem suauitatem remaneat temperata: quod procul dubio nostro iudicio sic esse censemus.",
+  "model_ents": [
+   {
+    "start": 8,
+    "end": 19,
+    "label": "NORP",
+    "text": "Bononienses"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-166-a",
+  "text": "Itaque si preponentes eos in uulgari sermone sola municipalia Latinorum uulgaria comparando considerant, allubescentes concordamus cum illis;",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-166-b",
+  "text": "si uero simpliciter uulgare bononiense preferendum existimant, dissentientes discordamus ab eis.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-167",
+  "text": "Non etenim est quod aulicum et illustre uocamus: quoniam, si fuisset, maximus Guido Guinizelli, Guido Ghisilerius, Fabrutius et Honestus et alii poetantes Bononie nunquam a proprio diuertissent: qui doctores fuerunt illustres et uulgarium discretione repleti.",
+  "model_ents": [
+   {
+    "start": 84,
+    "end": 94,
+    "label": "PERSON",
+    "text": "Guinizelli"
+   },
+   {
+    "start": 102,
+    "end": 113,
+    "label": "PERSON",
+    "text": "Ghisilerius"
+   },
+   {
+    "start": 115,
+    "end": 124,
+    "label": "PERSON",
+    "text": "Fabrutius"
+   },
+   {
+    "start": 128,
+    "end": 136,
+    "label": "PERSON",
+    "text": "Honestus"
+   },
+   {
+    "start": 155,
+    "end": 162,
+    "label": "LOC",
+    "text": "Bononie"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-168-a",
+  "text": "Maximus Guido: Madonna, 'l fino amore ch'io ui porto;",
+  "model_ents": [
+   {
+    "start": 0,
+    "end": 7,
+    "label": "PERSON",
+    "text": "Maximus"
+   },
+   {
+    "start": 15,
+    "end": 22,
+    "label": "PERSON",
+    "text": "Madonna"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-168-b",
+  "text": "Guido Ghisilerius: Donna, lo fermo core;",
+  "model_ents": [
+   {
+    "start": 6,
+    "end": 17,
+    "label": "PERSON",
+    "text": "Ghisilerius"
+   },
+   {
+    "start": 19,
+    "end": 24,
+    "label": "PERSON",
+    "text": "Donna"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-168-c",
+  "text": "Fabrutius: Lo meo lontano gire;",
+  "model_ents": [
+   {
+    "start": 0,
+    "end": 9,
+    "label": "PERSON",
+    "text": "Fabrutius"
+   },
+   {
+    "start": 11,
+    "end": 13,
+    "label": "PERSON",
+    "text": "Lo"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-168-d",
+  "text": "Honestus: Più non attendo il tuo soccorso, amore.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-169",
+  "text": "Que quidem uerba prorsus a mediastinis Bononie sunt diuersa.",
+  "model_ents": [
+   {
+    "start": 39,
+    "end": 46,
+    "label": "LOC",
+    "text": "Bononie"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-170",
+  "text": "Cum que de residuis in extremis Ytalie ciuitatibus neminem dubitare pendamus - et si quis dubitat, illum nulla nostra solutione dignamur -, parum restat in nostra discussione dicendum.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-171-a",
+  "text": "Qua re , cribellum cupientes deponere, ut residentiam cito uisamus, dicimus Tridentum atque Taurinum nec non Alexandriam ciuitates metis Ytalie in tantum sedere propinquas quod puras nequeunt habere loquelas;",
+  "model_ents": [
+   {
+    "start": 76,
+    "end": 85,
+    "label": "LOC",
+    "text": "Tridentum"
+   },
+   {
+    "start": 92,
+    "end": 100,
+    "label": "LOC",
+    "text": "Taurinum"
+   },
+   {
+    "start": 109,
+    "end": 120,
+    "label": "LOC",
+    "text": "Alexandriam"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-171-b",
+  "text": "ita quod si etiam quod turpissimum habent uulgare, haberent pulcerrimum, propter aliorum commixtionem esse uere latium negaremus.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-172",
+  "text": "Qua re , si latium illustre uenamur, quod uenamur in illis inueniri non potest.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-173",
+  "text": "Postquam uenati saltus et pascua sumus Ytalie, nec pantheram quam sequimur adinuenimus, ut ipsam reperire possimus rationabilius inuestigemus de illa ut, solerti studio, redolentem ubique et necubi apparentem nostris penitus irretiamus tenticulis.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-174",
+  "text": "Resumentes igitur uenabula nostra, dicimus quod in omni genere rerum unum esse oportet quo generis illius omnia comparentur et ponderentur, et a quo omnium aliorum mensuram accipiamus: sicut in numero cuncta mensurantur uno, et plura uel pauciora dicuntur secundum quod distant ab uno uel ei propinquant, et sicut in coloribus omnes albo mensurantur - nam uisibiles magis et minus dicuntur secundum quod accedunt uel recedunt ab albo.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-175",
+  "text": "Et quemadmodum de hiis dicimus que quantitatem et qualitatem ostendunt, de predicamentorum quolibet, etiam de substantia, posse dici putamus: scilicet ut unumquodque mensurabile sit, secundum quod in genere est, illo quod simplicissimum est in ipso genere.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-176",
+  "text": "Quapropter in actionibus nostris, quantumcunque diuidantur in species, hoc signum inueniri oportet quo et ipse mensurentur.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-177-a",
+  "text": "Nam, in quantum simpliciter ut homines agimus, uirtutem habemus - ut generaliter illam intelligamus -:",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-177-b",
+  "text": "nam secundum ipsam bonum et malum hominem iudicamus;",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-177-c",
+  "text": "in quantum ut homines ciues agimus, habemus legem, secundum quam dicitur ciuis bonus et malus;",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-177-d",
+  "text": "in quantum ut homines latini agimus, quedam habemus simplicissima signa et morum et habituum et locutionis, quibus latine actiones ponderantur et mensurantur: que quidem nobilissima sunt earum que Latinorum sunt actiones.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-178-a",
+  "text": "Hec nullius ciuitatis Ytalie propria sunt, et in omnibus comunia sunt:",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-178-b",
+  "text": "inter que nunc potest illud discerni uulgare quod superius uenabamur, quod in qualibet redolet ciuitate nec cubat in ulla.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-179-a",
+  "text": "Potest tamen magis in una quam in alia redolere, sicut simplicissima substantiarum, que Deus est, in homine magis redolet quam in bruto, in animali quam in planta, in hac quam in minera, in hac quam in elemento, in igne quam in terra;",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-179-b",
+  "text": "et simplicissima quantitas, quod est unum, in impari numero redolet magis quam in pari;",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-179-c",
+  "text": "et simplicissimus color, qui albus est, magis in citrino quam in uiride redolet.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-180",
+  "text": "Itaque, adepti quod querebamus, dicimus illustre, cardinale, aulicum et curiale uulgare in Latio quod omnis latie ciuitatis est et nullius esse uidetur, et quo municipalia uulgaria omnia Latinorum mensurantur et ponderantur et comparantur.",
+  "model_ents": [
+   {
+    "start": 91,
+    "end": 96,
+    "label": "LOC",
+    "text": "Latio"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-181",
+  "text": "Qua re autem hoc quod repertum est, illustre, cardinale, aulicum et curiale adicientes uocemus, nunc disponendum est: per quod clarius ipsum quod ipsum est faciamus patere.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-182",
+  "text": "Primum igitur quid intendimus cum illustre adicimus, et qua re illustre dicimus, denudemus.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-183-a",
+  "text": "Per hoc quoque quod illustre dicimus, intelligimus quid illuminans et illuminatum prefulgens:",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-183-b",
+  "text": "et hoc modo uiros appellamus illustres, uel quia potestate illuminati alios et iustitia et karitate illuminant, uel quia excellenter magistrati excellenter magistrent, ut Seneca et Numa Pompilius.",
+  "model_ents": [
+   {
+    "start": 171,
+    "end": 177,
+    "label": "PERSON",
+    "text": "Seneca"
+   },
+   {
+    "start": 181,
+    "end": 185,
+    "label": "PERSON",
+    "text": "Numa"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-184",
+  "text": "Et uulgare de quo loquimur et sublimatum est magistratu et potestate, et suos honore sublimat et gloria.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-185",
+  "text": "Magistratu quidem sublimatum uidetur, cum de tot rudibus Latinorum uocabulis, de tot perplexis constructionibus, de tot defectiuis prolationibus, de tot rusticanis accentibus, tam egregium, tam extricatum, tam perfectum et tam urbanum uideamus electum ut Cynus Pistoriensis et amicus eius ostendunt in cantionibus suis.",
+  "model_ents": [
+   {
+    "start": 57,
+    "end": 66,
+    "label": "NORP",
+    "text": "Latinorum"
+   },
+   {
+    "start": 255,
+    "end": 260,
+    "label": "PERSON",
+    "text": "Cynus"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-186",
+  "text": "Quod autem exaltatum sit potestate, uidetur.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-187",
+  "text": "Et quid maioris potestatis est quam quod humana corda uersare potest, ita ut nolentem uolentem et uolentem nolentem faciat, uelut ipsum et fecit et facit?",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-188",
+  "text": "Quod autem honore sublimet, in promptu est.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-189",
+  "text": "Non ne domestici sui reges, marchiones, comites et magnates quoslibet fama uincunt?",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-190",
+  "text": "Minime hoc probatione indiget.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-191",
+  "text": "Quantum uero suos familiares gloriosos efficiat, nos ipsi nouimus, qui huius dulcedine glorie nostrum exilium postergamus.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-192",
+  "text": "Qua re ipsum illustre merito profiteri debemus.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-193",
+  "text": "Neque sine ratione ipsum uulgare illustre decusamus adiectione secunda, uidelicet ut id cardinale uocetur.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-194",
+  "text": "Nam sicut totum hostium cardinem sequitur ut, quo cardo uertitur, uersetur et ipsum, seu introrsum seu extrorsum flectatur, sic et uniuersus municipalium grex uulgarium uertitur et reuertitur, mouetur et pausat secundum quod istud, quod quidem uere paterfamilias esse uidetur.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-195",
+  "text": "Non ne cotidie extirpat sentosos frutices de ytalia silua?",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-196",
+  "text": "Non ne cotidie uel plantas inserit uel plantaria plantat?",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-197",
+  "text": "Quid aliud agricole sui satagunt nisi ut amoueant et admoueant, ut dictum est?",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-198",
+  "text": "Qua re prorsus tanto decusari uocabulo promeretur.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-199",
+  "text": "Quia uero aulicum nominamus illud causa est quod, si aulam nos Ytali haberemus, palatinum foret.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-200-a",
+  "text": "Nam si aula totius regni comunis est domus et omnium regni partium gubernatrix augusta, quicquid tale est ut omnibus sit comune nec proprium ulli, conueniens est ut in ea conuersetur et habitet, nec aliquod aliud habitaculum tanto dignum est habitante:",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-200-b",
+  "text": "hoc nempe uidetur esse id de quo loquimur uulgare.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-201-a",
+  "text": "Et hinc est quod in regiis omnibus conuersantes semper illustri uulgari locuntur;",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-201-b",
+  "text": "hinc etiam est quod nostrum illustre uelut acola peregrinatur et in humilibus hospitatur asilis, cum aula uacemus.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-202-a",
+  "text": "Est etiam merito curiale dicendum, quia curialitas nil aliud est quam librata regula eorum que peragenda sunt:",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-202-b",
+  "text": "et quia statera huiusmodi librationis tantum in excellentissimis curiis esse solet, hinc est quod quicquid in actibus nostris bene libratum est, curiale dicatur.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-203",
+  "text": "Unde cum istud in excellentissima Ytalorum curia sit libratum, dici curiale meretur.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-204",
+  "text": "Sed dicere quod in excellentissima Ytalorum curia sit libratum, uidetur nugatio, cum curia careamus.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-205",
+  "text": "Ad quod facile respondetur.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-206-a",
+  "text": "Nam licet curia, secundum quod unita accipitur, ut curia regis Alamannie, in Ytalia non sit, membra tamen eius non desunt;",
+  "model_ents": [
+   {
+    "start": 63,
+    "end": 72,
+    "label": "LOC",
+    "text": "Alamannie"
+   },
+   {
+    "start": 77,
+    "end": 83,
+    "label": "LOC",
+    "text": "Ytalia"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-206-b",
+  "text": "et sicut membra illius uno Principe uniuntur, sic membra huius gratioso lumine rationis unita sunt.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-207",
+  "text": "Qua re falsum esset dicere curia carere Ytalos, quanquam Principe careamus, quoniam curiam habemus, licet corporaliter sit dispersa.",
+  "model_ents": [
+   {
+    "start": 40,
+    "end": 46,
+    "label": "NORP",
+    "text": "Ytalos"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-208",
+  "text": "Hoc autem uulgare quod illustre, cardinale, aulicum et curiale ostensum est, dicimus esse illud quod uulgare latium appellatur.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-209-a",
+  "text": "Nam sicut quoddam uulgare est inuenire quod proprium est Cremone, sic quoddam est inuenire quod proprium est Lombardie;",
+  "model_ents": [
+   {
+    "start": 57,
+    "end": 64,
+    "label": "LOC",
+    "text": "Cremone"
+   },
+   {
+    "start": 109,
+    "end": 118,
+    "label": "LOC",
+    "text": "Lombardie"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-209-b",
+  "text": "et sicut est inuenire aliquod quod sit proprium Lombardie, sic est inuenire aliquod quod sit totius sinistre Ytalie proprium;",
+  "model_ents": [
+   {
+    "start": 48,
+    "end": 57,
+    "label": "LOC",
+    "text": "Lombardie"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-209-c",
+  "text": "et sicut omnia hec est inuenire, sic et illud quod totius Ytalie est.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-210",
+  "text": "Et sicut illud cremonense ac illud lombardum et tertium semilatium dicitur, sic istud, quod totius Ytalie est, latium uulgare uocatur.",
+  "model_ents": [
+   {
+    "start": 99,
+    "end": 105,
+    "label": "LOC",
+    "text": "Ytalie"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-211",
+  "text": "Hoc enim usi sunt doctores illustres qui lingua uulgari poetati sunt in Ytalia, ut Siculi, Apuli, Tusci, Romandioli, Lombardi et utriusque Marchie uiri.",
+  "model_ents": [
+   {
+    "start": 72,
+    "end": 78,
+    "label": "LOC",
+    "text": "Ytalia"
+   },
+   {
+    "start": 83,
+    "end": 89,
+    "label": "NORP",
+    "text": "Siculi"
+   },
+   {
+    "start": 91,
+    "end": 96,
+    "label": "NORP",
+    "text": "Apuli"
+   },
+   {
+    "start": 98,
+    "end": 103,
+    "label": "NORP",
+    "text": "Tusci"
+   },
+   {
+    "start": 105,
+    "end": 115,
+    "label": "NORP",
+    "text": "Romandioli"
+   },
+   {
+    "start": 117,
+    "end": 125,
+    "label": "LOC",
+    "text": "Lombardi"
+   },
+   {
+    "start": 139,
+    "end": 146,
+    "label": "LOC",
+    "text": "Marchie"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-212",
+  "text": "Et quia intentio nostra, ut polliciti sumus in principio huius operis, est doctrinam de uulgari eloquentia tradere, ab ipso tanquam ab excellentissimo incipientes, quos putamus ipso dignos uti, et propter quid, et quomodo, nec non ubi, et quando, et ad quos ipsum dirigendum sit, in inmediatis libris tractabimus.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-213",
+  "text": "Quibus illuminatis, inferiora uulgaria illuminare curabimus, gradatim descendentes ad illud quod unius solius familie proprium est.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-214",
+  "text": "Sollicitantes iterum celeritatem ingenii nostri et ad calamum frugi operis redeuntes, ante omnia confitemur latium uulgare illustre tam prosayce quam metrice decere proferri.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-215",
+  "text": "Sed quia ipsum prosaycantes ab auientibus magis accipiunt et quia quod auietum est prosaycantibus permanere uidetur exemplar, et non e conuerso - que quendam uidentur prebere primatum -, primo secundum quod metricum est ipsum carminemus, ordine pertractantes illo quem in fine primi libri polluximus.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-216",
+  "text": "Queramus igitur prius utrum omnes uersificantes uulgariter debeant illud uti.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-217",
+  "text": "Et superficietenus uidetur quod sic, quia omnis qui uersificatur suos uersus exornare debet in quantum potest: qua re , cum nullum sit tam grandis exornationis quam uulgare illustre, uidetur quod quisquis uersificator debeat ipsum uti.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-218-a",
+  "text": "Preterea, quod optimum est in genere suo, si suis inferioribus misceatur, non solum nil derogare uidetur eis, sed ea meliorare uidetur:",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-218-b",
+  "text": "qua re si quis uersificator, quanquam rude uersificetur, ipsum sue ruditati admisceat, non solum bene facere, sed ipsum sic facere oportere uidetur:",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-218-c",
+  "text": "multo magis opus est adiutorio illis qui pauca quam qui multa possunt.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-219",
+  "text": "Et sic apparet quod omnibus uersificantibus liceat ipsum uti.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-220",
+  "text": "Sed hoc falsissimum est, quia nec semper excellentissime poetantes debent illud induere, sicut per inferius pertractata perpendi poterit.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-221-a",
+  "text": "Exigit ergo istud sibi consimiles uiros, quemadmodum alii nostri mores et habitus:",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-221-b",
+  "text": "exigit enim magnificentia magna potentes, purpura uiros nobiles;",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-221-c",
+  "text": "sic et hoc excellentes ingenio et scientia querit, et alios aspernatur, ut per inferiora patebit.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-222",
+  "text": "Nam quicquid nobis conuenit, uel gratia generis, uel speciei, uel indiuidui conuenit, ut sentire, ridere, militare.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-223-a",
+  "text": "Sed hoc non conuenit nobis gratia generis, quia etiam brutis conueniret;",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-223-b",
+  "text": "nec gratia speciei, quia cunctis hominibus esset conueniens, de quo nulla questio est - nemo enim montaninis rusticana tractantibus hoc dicet esse conueniens -:",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-223-c",
+  "text": "conuenit ergo indiuidui gratia.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-224",
+  "text": "Sed nichil indiuiduo conuenit nisi per proprias dignitates, puta mercari, militare ac regere.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-225",
+  "text": "Qua re si conuenientia respiciunt dignitates, hoc est dignos, et quidam digni, quidam digniores, quidam dignissimi esse possunt, manifestum est quod bona dignis, meliora dignioribus, optima dignissimis conuenient.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-226",
+  "text": "Et cum loquela non aliter sit necessarium instrumentum nostre conceptionis quam equus militis, et optimis militibus optimi conueniant equi, ut dictum est, optimis conceptionibus optima loquela conueniet.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-227-a",
+  "text": "Sed optime conceptiones non possunt esse nisi ubi scientia et ingenium est:",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-227-b",
+  "text": "ergo optima loquela non conuenit nisi illis in quibus ingenium et scientia est.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-228",
+  "text": "Et sic non omnibus uersificantibus optima loquela conueniet, cum plerique sine scientia et ingenio uersificentur, et per consequens nec optimum uulgare.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-229",
+  "text": "Quapropter, si non omnibus competit, non omnes ipsum debent uti, quia inconuenienter agere nullus debet.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-230-a",
+  "text": "Et ubi dicitur quod quilibet suos uersus exornare debet in quantum potest, uerum esse testamur;",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-230-b",
+  "text": "sed nec bouem epiphiatum nec balteatum suem dicemus ornatum, immo potius deturpatum ridemus illum:",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-230-c",
+  "text": "est enim exornatio alicuius conuenientis additio.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-231-a",
+  "text": "Ad illud ubi dicitur quod superiora inferioribus admixta profectum adducunt, dicimus uerum esse quando cesset discretio: puta si aurum cum argento conflemus;",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-231-b",
+  "text": "sed si discretio remanet, inferiora uilescunt: puta cum formose mulieres deformibus admiscentur.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-232",
+  "text": "Unde cum sententia uersificantium semper uerbis discretiue mixta remaneat, si non fuerit optima, optimo sociata uulgari non melior sed deterior apparebit, quemadmodum turpis mulier si auro uel serico uestiatur.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-233-a",
+  "text": "Postquam non omnes uersificantes sed tantum excellentissimos illustre uti uulgare debere astruximus, consequens est astruere utrum omnia ipso tractanda sint aut non;",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-233-b",
+  "text": "et si non omnia, que ipso digna sunt segregatim ostendere.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-234",
+  "text": "Circa quod primo reperiendum est id quod intelligimus per illud quod dicimus dignum.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-235-a",
+  "text": "Et dicimus dignum esse quod dignitatem habet, sicut nobile quod nobilitatem;",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-235-b",
+  "text": "et si cognito habituante habituatum cognoscitur in quantum huiusmodi, cognita dignitate cognoscemus et dignum.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-236-a",
+  "text": "Est etenim dignitas meritorum effectus siue terminus; ut, cum quis bene meruit, ad boni dignitatem profectum esse dicimus, cum male uero, ad mali:",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-236-b",
+  "text": "puta bene militantem ad uictorie dignitatem, bene autem regentem ad regni, nec non mendacem ad ruboris dignitatem, et latronem ad eam que est mortis.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-237-a",
+  "text": "Sed cum in bene merentibus fiant comparationes, et in aliis etiam, ut quidam bene quidam melius quidam optime, quidam male quidam peius quidam pessime mereantur, et huiusmodi comparationes non fiant nisi per respectum ad terminum meritorum quem dignitatem dicimus, ut dictum est, manifestum est ut dignitates inter se comparentur secundum magis et minus, ut quedam magne, quedam maiores, quedam maxime sint;",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-237-b",
+  "text": "et per consequens aliquid dignum, aliquid dignius, aliquid dignissimum esse constat.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-238",
+  "text": "Et cum comparatio dignitatum non fiat circa idem obiectum, sed circa diuersa, ut dignius dicamus quod maioribus, dignissimum quod maximis dignum est (quia nichil eodem dignius esse potest), manifestum est quod optima optimis secundum rerum exigentiam digna sunt.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-239",
+  "text": "Unde cum hoc quod dicimus illustre sit optimum aliorum uulgarium, consequens est ut sola optima digna sint ipso tractari, que quidem tractandorum dignissima nuncupamus.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-240",
+  "text": "Nunc autem que sint ipsa uenemur.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-241",
+  "text": "Ad quorum euidentiam sciendum est quod sicut homo tripliciter spirituatus est, uidelicet uegetabili, animali et rationali, triplex iter perambulat.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-242-a",
+  "text": "Nam secundum quod uegetabile quid est, utile querit, in quo cum plantis comunicat;",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-242-b",
+  "text": "secundum quod animale, delectabile, in quo cum brutis;",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-242-c",
+  "text": "secundum quod rationale, honestum querit, in quo solus est, uel angelice sociatur nature.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-243-a",
+  "text": "Propter hec tria quicquid agimus agere uidemur;",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-243-b",
+  "text": "et quia in quolibet istorum quedam sunt maiora quedam maxima, secundum quod talia, que maxima sunt maxime pertractanda uidentur, et per consequens maximo uulgari.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-244",
+  "text": "Sed disserendum est que maxima sint.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-245",
+  "text": "Et primo in eo quod est utile: in quo, si callide consideremus intentum omnium querentium utilitatem, nil aliud quam salutem inueniemus.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-246",
+  "text": "Secundo in eo quod est delectabile: in quo dicimus illud esse maxime delectabile quod per pretiosissimum obiectum appetitus delectat: hoc autem uenus est.",
+  "model_ents": [
+   {
+    "start": 0,
+    "end": 7,
+    "label": "PERSON",
+    "text": "Secundo"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-247",
+  "text": "Tertio in eo quod est honestum: in quo nemo dubitat esse uirtutem.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-248",
+  "text": "Qua re hec tria, salus uidelicet, uenus et uirtus, apparent esse illa magnalia que sint maxime pertractanda, hoc est ea que maxime sunt ad ista, ut armorum probitas, amoris accensio et directio uoluntatis.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-249-a",
+  "text": "Circa que sola, si bene recolimus, illustres uiros inuenimus uulgariter poetasse, scilicet Bertramum de Bornio arma, Arnaldum Danielem amorem, Gerardum de Bornello rectitudinem;",
+  "model_ents": [
+   {
+    "start": 91,
+    "end": 100,
+    "label": "PERSON",
+    "text": "Bertramum"
+   },
+   {
+    "start": 104,
+    "end": 110,
+    "label": "LOC",
+    "text": "Bornio"
+   },
+   {
+    "start": 117,
+    "end": 125,
+    "label": "PERSON",
+    "text": "Arnaldum"
+   },
+   {
+    "start": 126,
+    "end": 134,
+    "label": "PERSON",
+    "text": "Danielem"
+   },
+   {
+    "start": 155,
+    "end": 163,
+    "label": "PERSON",
+    "text": "Bornello"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-249-b",
+  "text": "Cynum Pistoriensem amorem, amicum eius rectitudinem.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-250-a",
+  "text": "Bertramus etenim ait Non posc mudar c'un cantar non exparia;",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-250-b",
+  "text": "Arnaldus: L'aura amara fa·l bruol brancuz clarzir;",
+  "model_ents": [
+   {
+    "start": 0,
+    "end": 8,
+    "label": "PERSON",
+    "text": "Arnaldus"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-250-c",
+  "text": "Gerardus: Per solaz reueilar che s'es trop endormiz;",
+  "model_ents": [
+   {
+    "start": 0,
+    "end": 8,
+    "label": "PERSON",
+    "text": "Gerardus"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-250-d",
+  "text": "Cynus: Digno sono eo di morte;",
+  "model_ents": [
+   {
+    "start": 0,
+    "end": 5,
+    "label": "PERSON",
+    "text": "Cynus"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-250-e",
+  "text": "amicus eius: Doglia mi reca ne lo core ardire.",
+  "model_ents": [
+   {
+    "start": 13,
+    "end": 19,
+    "label": "PERSON",
+    "text": "Doglia"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-251",
+  "text": "Arma uero nullum latium adhuc inuenio poetasse.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-252",
+  "text": "Hiis proinde uisis, que canenda sint uulgari altissimo innotescunt.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-253",
+  "text": "Nunc autem quo modo ea coartare debemus que tanto sunt digna uulgari, sollicite inuestigare conemur.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-254",
+  "text": "Uolentes igitur modum tradere quo ligari hec digna existant, primo dicimus esse ad memoriam reducendum quod uulgariter poetantes sua poemata multimode protulerunt, quidam per cantiones, quidam per ballatas, quidam per sonitus, quidam per alios inlegitimos et inregulares modos, ut inferius ostendetur.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-255",
+  "text": "Horum autem modorum cantionum modum excellentissimum esse putamus: qua re si excellentissima excellentissimis digna sunt, ut superius est probatum, illa que excellentissimo sunt digna uulgari, modo excellentissimo digna sunt, et per consequens in cantionibus pertractanda.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-256",
+  "text": "Quod autem modus cantionum sit talis ut dictum est, pluribus potest rationibus indagari.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-257",
+  "text": "Prima quidem quia, cum quicquid uersificamur sit cantio, sole cantiones hoc uocabulum sibi sortite sunt: quod nunquam sine uenusta prouisione processit.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-258-a",
+  "text": "Adhuc: quicquid per se ipsum efficit illud ad quod factum est, nobilius esse uidetur quam quod extrinseco indiget;",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-258-b",
+  "text": "sed cantiones per se totum quod debent efficiunt, quod ballate non faciunt - indigent enim plausoribus, ad quos edite sunt:",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-258-c",
+  "text": "ergo cantiones nobiliores ballatis esse sequitur extimandas, et per consequens nobilissimum aliorum esse modum illarum, cum nemo dubitet quin ballate sonitus nobilitate modi excellant.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-259-a",
+  "text": "Preterea: illa uidentur nobiliora esse que conditori suo magis honoris afferunt;",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-259-b",
+  "text": "sed cantiones magis deferunt suis conditoribus quam ballate:",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-259-c",
+  "text": "igitur nobiliores sunt, et per consequens modus earum nobilissimus aliorum.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-260-a",
+  "text": "Preterea: que nobilissima sunt carissime conseruantur;",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-260-b",
+  "text": "sed inter ea que cantata sunt, cantiones carissime conseruantur, ut constat uisitantibus libros:",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-260-c",
+  "text": "ergo cantiones nobilissime sunt, et per consequens modus earum nobilissimus est.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-261-a",
+  "text": "Ad hoc: in artificiatis illud est nobilissimum quod totam comprehendit artem;",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-261-b",
+  "text": "cum igitur ea que cantantur artificiata existant, et in solis cantionibus ars tota comprehendatur, cantiones nobilissime sunt, et sic modus earum nobilissimus aliorum.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-262",
+  "text": "Quod autem tota comprehendatur in cantionibus ars cantandi poetice, in hoc palatur, quod quicquid artis reperitur in omnibus aliis et in cantionibus reperitur, sed non conuertitur hoc.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-263-a",
+  "text": "Signum autem horum que dicimus promptum in conspectu habetur:",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-263-b",
+  "text": "nam quicquid de cacuminibus illustrium capitum poetantium profluxit ad labia, in solis cantionibus inuenitur.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-264",
+  "text": "Qua re ad propositum patet quod ea que digna sunt uulgari altissimo in cantionibus tractanda sunt.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-265-a",
+  "text": "Quando quidem aporiauimus extricantes qui sint aulico digni uulgari et que, nec non modum quem tanto dignamur honore ut solus altissimo uulgari conueniat, antequam migremus ad alia modum cantionum, quem casu magis quam arte multi usurpare uidentur, enucleemus;",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-265-b",
+  "text": "et qui hucusque casualiter est assumptus, illius artis ergasterium reseremus, modum ballatarum et sonituum ommictentes, quia illum elucidare intendimus in quarto huius operis, cum de mediocri uulgari tractabimus.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-266",
+  "text": "Reuisentes igitur ea que dicta sunt, recolimus nos eos qui uulgariter uersificantur plerunque uocasse poetas: quod procul dubio rationabiliter eructare presumpsimus, quia prorsus poete sunt, si poesim recte consideremus: que nichil aliud est quam fictio rethorica musica que poita.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-267",
+  "text": "Differunt tamen a magnis poetis, hoc est regularibus, quia magni sermone et arte regulari poetati sunt, hii uero casu, ut dictum est.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-268",
+  "text": "Idcirco accidit ut, quantum illos proximius imitemur, tantum rectius poetemur.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-269",
+  "text": "Unde nos doctrine operi intendentes doctrinatas eorum poetrias emulari oportet.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-270",
+  "text": "Ante omnia ergo dicimus unumquenque debere materie pondus propriis humeris coequare, ne forte humerorum nimio grauata uirtute in cenum cespitare necesse sit: hoc est quod Magister noster Oratius precipit cum in principio Poetrie «Sumite materiam» dicit.",
+  "model_ents": [
+   {
+    "start": 187,
+    "end": 194,
+    "label": "PERSON",
+    "text": "Oratius"
+   },
+   {
+    "start": 221,
+    "end": 228,
+    "label": "PERSON",
+    "text": "Poetrie"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-271",
+  "text": "Deinde in hiis que dicenda occurrunt debemus discretione potiri, utrum tragice, siue comice, siue elegiace sint canenda.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-272",
+  "text": "Per tragediam superiorem stilum inducimus, per comediam inferiorem, per elegiam stilum intelligimus miserorum.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-273",
+  "text": "Si tragice canenda uidentur, tunc assumendum est uulgare illustre, et per consequens cantionem ligare.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-274-a",
+  "text": "Si uero comice, tunc quandoque mediocre quandoque humile uulgare sumatur:",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-274-b",
+  "text": "et huius discretionem in quarto huius reseruamus ostendere.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-275",
+  "text": "Si autem elegiace, solum humile oportet nos sumere.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-276",
+  "text": "Sed ommictamus alios, et nunc, ut conueniens est, de stilo tragico pertractemus.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-277",
+  "text": "Stilo equidem tragico tunc uti uidemur quando cum grauitate sententie tam superbia carminum quam constructionis elatio et excellentia uocabulorum concordat.",
+  "model_ents": [
+   {
+    "start": 0,
+    "end": 5,
+    "label": "PERSON",
+    "text": "Stilo"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-278",
+  "text": "Qua re , si bene recolimus summa summis esse digna iam fuisse probatum, et iste quem tragicum appellamus summus uidetur esse stilorum, illa que summe canenda distinximus isto solo sunt stilo canenda uidelicet salus, amor et uirtus et que propter ea concipimus, dum nullo accidente uilescant.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-279",
+  "text": "Caueat ergo quilibet et discernat ea que dicimus, et quando pure hec tria cantare intendit, uel que ad ea directe ac pure secuntur, prius Elicone potatus, tensis fidibus ad supremum, secure plectrum tum mouere incipiat.",
+  "model_ents": [
+   {
+    "start": 138,
+    "end": 145,
+    "label": "PERSON",
+    "text": "Elicone"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-280",
+  "text": "Sed cautionem atque discretionem hanc accipere, sicut decet, hic opus et labor est, quoniam nunquam sine strenuitate ingenii et artis assiduitate scientiarum que habitu fieri potest.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-281",
+  "text": "Et hii sunt quos Poeta Eneidorum sexto Dei dilectos et ab ardente uirtute sublimatos ad ethera deorum que filios uocat, quanquam figurate loquatur.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-282-a",
+  "text": "Et ideo confutetur illorum stultitia qui, arte scientia que immunes, de solo ingenio confidentes, ad summa summe canenda prorumpunt;",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-282-b",
+  "text": "et a tanta presumptuositate desistant, et si anseres natura uel desidia sunt, nolint astripetam aquilam imitari.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-283-a",
+  "text": "De grauitate sententiarum uel satis dixisse uidemur uel saltim totum quod operis est nostri:",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-283-b",
+  "text": "quapropter ad superbiam carminum festinemus.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-284-a",
+  "text": "Circa quod sciendum quod predecessores nostri diuersis carminibus usi sunt in cantionibus suis, quod et moderni faciunt:",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-284-b",
+  "text": "sed nullum adhuc inuenimus in carmen sillabicando endecadem transcendisse, nec a trisillabo descendisse.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-285",
+  "text": "Et licet trisillabo carmine atque endecasillabo et omnibus intermediis cantores latii usi sint, pentasillabum et eptasillabum et endecasillabum in usu frequentiori habentur, et post hec trisillabum ante alia.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-286-a",
+  "text": "Quorum omnium endecasillabum uidetur esse superbius, tam temporis occupatione quam capacitate sententie, constructionis et uocabulorum;",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-286-b",
+  "text": "quorum omnium specimen magis multiplicatur in illo, ut manifeste apparet:",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-286-c",
+  "text": "nam ubicunque ponderosa multiplicantur, multiplicatur et pondus.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-287-a",
+  "text": "Et hoc omnes doctores perpendisse uidentur, cantiones illustres principiantes ab illo; ut Gerardus de B.: Ara ausirez encabalitz cantarz (quod carmen, licet decasillabum uideatur, secundum rei ueritatem endecasillabum est:",
+  "model_ents": [
+   {
+    "start": 90,
+    "end": 98,
+    "label": "PERSON",
+    "text": "Gerardus"
+   },
+   {
+    "start": 106,
+    "end": 109,
+    "label": "PERSON",
+    "text": "Ara"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-287-b",
+  "text": "nam due consonantes extreme non sunt de sillaba precedente, et licet propriam uocalem non habeant, uirtutem sillabe non tamen ammictunt;",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-287-c",
+  "text": "signum autem est quod rithimus ibi una uocali perficitur, quod esse non posset nisi uirtute alterius ibi subintellecte;",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-287-d",
+  "text": ") Rex Nauarre: De fin amor si uient sen et bonté (ubi, si consideretur accentus et eius causa, endecasillabum esse constabit;",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-287-e",
+  "text": ") Guido Guinizelli: Al cor gentil repara sempre amore;",
+  "model_ents": [
+   {
+    "start": 8,
+    "end": 18,
+    "label": "PERSON",
+    "text": "Guinizelli"
+   },
+   {
+    "start": 20,
+    "end": 22,
+    "label": "PERSON",
+    "text": "Al"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-287-f",
+  "text": "Iudex de Columpnis de Messana: Amor, che lungiamente m'hai menato;",
+  "model_ents": [
+   {
+    "start": 9,
+    "end": 18,
+    "label": "LOC",
+    "text": "Columpnis"
+   },
+   {
+    "start": 22,
+    "end": 29,
+    "label": "LOC",
+    "text": "Messana"
+   },
+   {
+    "start": 31,
+    "end": 35,
+    "label": "PERSON",
+    "text": "Amor"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-287-g",
+  "text": "Renaldus de Aquino: Per fino amore uo si letamente;",
+  "model_ents": [
+   {
+    "start": 0,
+    "end": 8,
+    "label": "PERSON",
+    "text": "Renaldus"
+   },
+   {
+    "start": 12,
+    "end": 18,
+    "label": "PERSON",
+    "text": "Aquino"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-287-h",
+  "text": "Cynus Pistoriensis: Non spero che giamai per mia salute;",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-287-i",
+  "text": "amicus eius: Amor, che moui tua uirtù da cielo.",
+  "model_ents": [
+   {
+    "start": 13,
+    "end": 17,
+    "label": "PERSON",
+    "text": "Amor"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-288",
+  "text": "Et licet hoc quod dictum est celeberrimum carmen, ut dignum est, uideatur omnium aliorum, si eptasillabi aliqualem societatem assumat, dummodo principatum obtineat, clarius magis que sursum superbire uidetur.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-289",
+  "text": "Sed hoc ulterius elucidandum remaneat.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-290",
+  "text": "Et dicimus eptasillabum sequi illud quod maximum est in celebritate.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-291",
+  "text": "Post hoc pentasillabum et deinde trisillabum ordinamus.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-292",
+  "text": "Neasillabum uero, quia triplicatum trisillabum uidebatur, uel nunquam in honore fuit uel propter fastidium absoleuit.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-293-a",
+  "text": "Parisillabis uero propter sui ruditatem non utimur nisi raro:",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-293-b",
+  "text": "retinent enim naturam suorum numerorum, qui numeris imparibus quemadmodum materia forme subsistunt.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-294-a",
+  "text": "Et sic, recolligentes predicta, endecasillabum uidetur esse superbissimum carmen:",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-294-b",
+  "text": "et hoc est quod querebamus.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-295-a",
+  "text": "Nunc autem restat inuestigandum de constructionibus elatis et fastigiosis uocabulis;",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-295-b",
+  "text": "et demum, fustibus torquibus que paratis, promissum fascem, hoc est cantionem, quo modo uiere quis debeat instruemus.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-296",
+  "text": "Quia circa uulgare illustre nostra uersatur intentio, quod nobilissimum est aliorum, et ea que digna sunt illo cantari discreuimus, que tria nobilissima sunt, ut superius est astructum, et modum cantionarium selegimus illis, tanquam aliorum modorum summum, et, ut ipsum perfectius edocere possimus, quedam iam preparauimus, stilum uidelicet atque carmen, nunc de constructione agamus.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-297",
+  "text": "Est enim sciendum quod constructionem uocamus regulatam compaginem dictionum, ut “Aristotiles phylosophatus est tempore Alexandri”.",
+  "model_ents": [
+   {
+    "start": 82,
+    "end": 93,
+    "label": "PERSON",
+    "text": "Aristotiles"
+   },
+   {
+    "start": 120,
+    "end": 129,
+    "label": "PERSON",
+    "text": "Alexandri"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-298",
+  "text": "Sunt enim quinque hic dictiones compacte regulariter, et unam faciunt constructionem.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-299",
+  "text": "Circa hanc quidem prius considerandum est quod constructionum alia congrua est, alia uero incongrua.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-300",
+  "text": "Et quia, si primordium bene discretionis nostre recolimus, sola supprema uenamur, nullum in nostra uenatione locum habet incongrua, quia nec inferiorem gradum bonitatis promeruit.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-301",
+  "text": "Pudeat ergo, pudeat ydiotas tantum audere deinceps ut ad cantiones prorumpant: quos non aliter deridemus quam cecum de coloribus distinguentem.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-302",
+  "text": "Est ut uidetur congrua quam sectamur.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-303",
+  "text": "Sed non minoris difficultatis accedit discretio priusquam quam querimus actingamus, uidelicet urbanitate plenissimam.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-304-a",
+  "text": "Sunt etenim gradus constructionum quamplures: uidelicet insipidus, qui est rudium, ut “Petrus amat multum dominam Bertam”;",
+  "model_ents": [
+   {
+    "start": 87,
+    "end": 93,
+    "label": "PERSON",
+    "text": "Petrus"
+   },
+   {
+    "start": 114,
+    "end": 120,
+    "label": "PERSON",
+    "text": "Bertam"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-304-b",
+  "text": "est et pure sapidus, qui est rigidorum scolarium uel magistrorum, ut “Piget me cunctis pietate maiorem, quicunque in exilio tabescentes patriam tantum sompniando reuisunt”;",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-304-c",
+  "text": "est et sapidus et uenustus, qui est quorundam superficietenus rethoricam aurientium, ut “Laudabilis discretio marchionis Estensis, et sua magnificentia preparata, cunctis illum facit esse dilectum”;",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-304-d",
+  "text": "est et sapidus et uenustus etiam et excelsus, qui est dictatorum illustrium, ut “Eiecta maxima parte florum de sinu tuo, Florentia, nequicquam Trinacriam Totila secundus adiuit”.",
+  "model_ents": [
+   {
+    "start": 121,
+    "end": 130,
+    "label": "LOC",
+    "text": "Florentia"
+   },
+   {
+    "start": 143,
+    "end": 153,
+    "label": "LOC",
+    "text": "Trinacriam"
+   },
+   {
+    "start": 154,
+    "end": 160,
+    "label": "LOC",
+    "text": "Totila"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-305",
+  "text": "Hunc gradum constructionis excellentissimum nominamus, et hic est quem querimus cum suprema uenemur, ut dictum est.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-306-a",
+  "text": "Hoc solum illustres cantiones inueniuntur contexte, ut Gerardus: Si per mos Sobretos non fos;",
+  "model_ents": [
+   {
+    "start": 55,
+    "end": 63,
+    "label": "PERSON",
+    "text": "Gerardus"
+   },
+   {
+    "start": 76,
+    "end": 84,
+    "label": "NORP",
+    "text": "Sobretos"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-306-b",
+  "text": "Folquetus de Marsilia: Tan m'abellis l'amoros pensamen;",
+  "model_ents": [
+   {
+    "start": 13,
+    "end": 21,
+    "label": "PERSON",
+    "text": "Marsilia"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-306-c",
+  "text": "Arnaldus Danielis: Sols sui che sai lo sobraffan che. m sorz;",
+  "model_ents": [
+   {
+    "start": 0,
+    "end": 17,
+    "label": "PERSON",
+    "text": "Arnaldus Danielis"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-306-d",
+  "text": "Namericus de Belnui: Nuls hom non pot complir addreciamen;",
+  "model_ents": [
+   {
+    "start": 13,
+    "end": 19,
+    "label": "NORP",
+    "text": "Belnui"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-306-e",
+  "text": "Namericus de Peculiano: Si con l'arbres che per sobrecarcar;",
+  "model_ents": [
+   {
+    "start": 0,
+    "end": 9,
+    "label": "PERSON",
+    "text": "Namericus"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-306-f",
+  "text": "Rex Nauarre: Ire d'amor que en mon cor repaire;",
+  "model_ents": [
+   {
+    "start": 4,
+    "end": 11,
+    "label": "NORP",
+    "text": "Nauarre"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-306-g",
+  "text": "Iudex de Messana: Ancor che l'aigua per lo foco lassi;",
+  "model_ents": [
+   {
+    "start": 9,
+    "end": 16,
+    "label": "LOC",
+    "text": "Messana"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-306-h",
+  "text": "Guido Guinizelli: Tegno de folle empresa a lo uer dire;",
+  "model_ents": [
+   {
+    "start": 6,
+    "end": 16,
+    "label": "PERSON",
+    "text": "Guinizelli"
+   },
+   {
+    "start": 18,
+    "end": 23,
+    "label": "PERSON",
+    "text": "Tegno"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-306-i",
+  "text": "Guido Caualcantis: Poi che di doglia cor conuen ch'io porti;",
+  "model_ents": [
+   {
+    "start": 6,
+    "end": 17,
+    "label": "PERSON",
+    "text": "Caualcantis"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-306-j",
+  "text": "Cynus de Pistorio: Auegna che io aggia più per tempo;",
+  "model_ents": [
+   {
+    "start": 0,
+    "end": 5,
+    "label": "PERSON",
+    "text": "Cynus"
+   },
+   {
+    "start": 19,
+    "end": 25,
+    "label": "PERSON",
+    "text": "Auegna"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-306-k",
+  "text": "amicus eius: Amor che ne la mente mi ragiona.",
+  "model_ents": [
+   {
+    "start": 13,
+    "end": 17,
+    "label": "PERSON",
+    "text": "Amor"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-307-a",
+  "text": "Nec mireris, lector, de tot reductis autoribus ad memoriam:",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-307-b",
+  "text": "non enim hanc quam suppremam uocamus constructionem nisi per huiusmodi exempla possumus indicare.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-308",
+  "text": "Et fortassis utilissimum foret ad illam habituandam regulatos uidisse poetas, Uirgilium uidelicet, Ouidium Metamorfoseos, Statium atque Lucanum, nec non alios qui nisi sunt altissimas prosas, ut Titum Liuium, Plinium, Frontinum, Paulum Orosium et multos alios quos amica sollicitudo nos uisitare inuitat.",
+  "model_ents": [
+   {
+    "start": 78,
+    "end": 87,
+    "label": "PERSON",
+    "text": "Uirgilium"
+   },
+   {
+    "start": 107,
+    "end": 120,
+    "label": "PERSON",
+    "text": "Metamorfoseos"
+   },
+   {
+    "start": 122,
+    "end": 129,
+    "label": "PERSON",
+    "text": "Statium"
+   },
+   {
+    "start": 136,
+    "end": 143,
+    "label": "PERSON",
+    "text": "Lucanum"
+   },
+   {
+    "start": 195,
+    "end": 200,
+    "label": "PERSON",
+    "text": "Titum"
+   },
+   {
+    "start": 209,
+    "end": 216,
+    "label": "PERSON",
+    "text": "Plinium"
+   },
+   {
+    "start": 218,
+    "end": 227,
+    "label": "PERSON",
+    "text": "Frontinum"
+   },
+   {
+    "start": 229,
+    "end": 235,
+    "label": "PERSON",
+    "text": "Paulum"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-309",
+  "text": "Subsistant igitur ignorantie sectatores Guictonem Aretinum et quosdam alios extollentes, nunquam in uocabulis atque constructione plebescere desuetos.",
+  "model_ents": [
+   {
+    "start": 40,
+    "end": 49,
+    "label": "PERSON",
+    "text": "Guictonem"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-310",
+  "text": "Grandiosa modo uocabula sub prelato stilo digna consistere, successiua nostre progressionis presentia lucidari expostulat.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-311",
+  "text": "Testamur proinde incipientes non minimum opus esse rationis discretionem uocabulorum habere, quoniam perplures eorum maneries inueniri posse uidemus.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-312-a",
+  "text": "Nam uocabulorum quedam puerilia, quedam muliebria, quedam uirilia;",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-312-b",
+  "text": "et horum quedam siluestria, quedam urbana;",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-312-c",
+  "text": "et eorum que urbana uocamus, quedam pexa et lubrica, quedam yrsuta et reburra sentimus.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-313",
+  "text": "Inter que quidem, pexa atque yrsuta sunt illa que uocamus grandiosa, lubrica uero et reburra uocamus illa que in superfluum sonant; quemadmodum in magnis operibus quedam magnanimitatis sunt opera, quedam fumi: ubi, licet in superficie quidam consideretur ascensus, ex quo limitata uirtutis linea preuaricatur, bone rationi non ascensus sed per altera decliuia ruina constabit.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-314-a",
+  "text": "Intuearis ergo, lector, actente quantum ad exaceranda egregia uerba te cribrare oportet:",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-314-b",
+  "text": "nam si uulgare illustre consideres, quo tragici debent uti poete uulgares, ut superius dictum est, quos informare intendimus, sola uocabula nobilissima in cribro tuo residere curabis.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-315",
+  "text": "In quorum numero nec puerilia propter sui simplicitatem, ut mamma et babbo, mate et pate, nec muliebria propter sui mollitiem, ut dolciada et placeuole, nec siluestria propter austeritatem, ut greggia et creta, nec urbana lubrica et reburra, ut femina et corpo, ullo modo poteris conlocare.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-316",
+  "text": "Sola etenim pexa yrsuta que urbana tibi restare uidebis, que nobilissima sunt et membra uulgaris illustris.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-317",
+  "text": "Et pexa uocamus illa que, trisillaba uel uicinissima trisillabitati, sine aspiratione, sine accentu acuto uel circumflexo, sine z uel x duplicibus, sine duarum liquidarum geminatione uel positione inmediate post mutam, dolata quasi, loquentem cum quadam suauitate relinquunt: ut amore, donna, disio, uirtute, donare, letitia, salute, securtate, defesa.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-318",
+  "text": "Yrsuta quoque dicimus omnia, preter hec, que uel necessaria uel ornatiua uidentur uulgaris illustris.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-319",
+  "text": "Et necessaria quidem appellamus que campsare non possumus, ut quedam monosillaba, ut si, no, me, te, se, a, e, i, o, u', interiectiones et alia multa.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-320",
+  "text": "Ornatiua uero dicimus omnia polisillaba que, mixta cum pexis, pulcram faciunt armoniam compaginis, quamuis asperitatem habeant aspirationis et accentus et duplicium et liquidarum et prolixitatis: ut terra, honore, speranza, grauitate, alleuiato, impossibilità, impossibilitate, benauenturatissimo, inanimatissimamente, disauenturatissimamente, souramagnificentissimamente, quod endecasillabum est.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-321",
+  "text": "Posset adhuc inueniri plurium sillabarum uocabulum siue uerbum, sed quia capacitatem omnium nostrorum carminum superexcedit, rationi presenti non uidetur obnoxium, sicut est illud honorificabilitudinitate, quod duodena perficitur sillaba in uulgari et in gramatica tredena perficitur in duobus obliquis.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-322",
+  "text": "Quomodo autem pexis yrsuta huiusmodi sint armonizanda per metra, inferius instruendum relinquimus.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-323",
+  "text": "Et que iam dicta sunt de fastigiositate uocabulorum ingenue discretioni sufficiant.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-324",
+  "text": "Preparatis fustibus torquibus que ad fascem, nunc fasciandi tempus incumbit.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-325",
+  "text": "Sed quia cuiuslibet operis cognitio precedere debet operationem, uelut signum ante ammissionem sagipte uel iaculi, primo et principaliter qui sit iste fascis quem fasciare intendimus uideamus.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-326",
+  "text": "Fascis iste igitur, si bene comminiscimur omnia prelibata, cantio est.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-327",
+  "text": "Quapropter quid sit cantio uideamus, et quid intelligimus cum dicimus cantionem.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-328",
+  "text": "Est enim cantio, secundum uerum nominis significatum, ipse canendi actus uel passio, sicut lectio passio uel actus legendi.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-329",
+  "text": "Sed diuaricemus quod dictum est, utrum uidelicet hec sit cantio prout est actus, uel prout est passio.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-330-a",
+  "text": "Et circa hoc considerandum est quod cantio dupliciter accipi potest: uno modo secundum quod fabricatur ab autore suo, et sic est actio - et secundum istum modum Uirgilius primo Eneidorum dicit «Arma uirum que cano» -;",
+  "model_ents": [
+   {
+    "start": 161,
+    "end": 170,
+    "label": "PERSON",
+    "text": "Uirgilius"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-330-b",
+  "text": "alio modo secundum quod fabricata profertur uel ab autore uel ab alio quicunque sit, siue cum soni modulatione proferatur, siue non:",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-330-c",
+  "text": "et sic est passio.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-331",
+  "text": "Nam tunc agitur, modo uero agere uidetur in alium, et sic tunc alicuius actio, modo quoque passio alicuius uidetur.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-332",
+  "text": "Et quia prius agitur ipsa quam agat, magis, immo prorsus denominari uidetur ab eo quod agitur, et est actio alicuius, quam ab eo quod agit in alios.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-333",
+  "text": "Signum autem huius est quod nunquam dicimus “Hec est cantio Petri” eo quod ipsam proferat, sed eo quod fabricauerit illam.",
+  "model_ents": [
+   {
+    "start": 60,
+    "end": 65,
+    "label": "PERSON",
+    "text": "Petri"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-334",
+  "text": "Preterea disserendum est utrum cantio dicatur fabricatio uerborum armonizatorum, uel ipsa modulatio.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-335",
+  "text": "Ad quod dicimus quod nunquam modulatio dicitur cantio, sed sonus, uel thonus, uel nota, uel melos.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-336-a",
+  "text": "Nullus enim tibicen, uel organista, uel cytharedus melodiam suam cantionem uocat, nisi in quantum nupta est alicui cantioni;",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-336-b",
+  "text": "sed armonizantes uerba opera sua cantiones uocant, et etiam talia uerba in cartulis absque prolatore iacentia cantiones uocamus.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-337-a",
+  "text": "Et ideo cantio nichil aliud esse uidetur quam actio completa dicentis uerba modulationi armonizata:",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-337-b",
+  "text": "quapropter tam cantiones quas nunc tractamus, quam ballatas et sonitus et omnia cuiuscunque modi uerba sunt armonizata uulgariter et regulariter, cantiones esse dicemus.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-338-a",
+  "text": "Sed quia sola uulgaria uentilamus, regulata linquentes, dicimus uulgarium poematum unum esse suppremum, quod per superexcellentiam cantionem uocamus:",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-338-b",
+  "text": "quod autem suppremum quid sit cantio, in tertio huius libri capitulo est probatum.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-339",
+  "text": "Et quoniam quod diffinitum est pluribus generale uidetur, resumentes diffinitum iam generale uocabulum per quasdam differentias solum quod petimus distinguamus.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-340",
+  "text": "Dicimus ergo quod cantio, in quantum per superexcellentiam dicitur, ut et nos querimus, est equalium stantiarum sine responsorio ad unam sententiam tragica coniugatio, ut nos ostendimus cum dicimus Donne che auete intelletto d'amore.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-341",
+  "text": "Quod autem dicimus “tragica coniugatio” est quia, cum comice fiat hec coniugatio, cantilenam uocamus per diminutionem: de qua in quarto huius tractare intendimus.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-342",
+  "text": "Et sic patet quid cantio sit, et prout accipitur generaliter et prout per superexcellentiam uocamus eam.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-343",
+  "text": "Satis etiam patere uidetur quid intelligimus cum cantionem uocamus, et per consequens quid sit ille fascis quem ligare molimur.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-344-a",
+  "text": "Quia, ut dictum est, cantio est coniugatio stantiarum, ignorato quid sit stantia necesse est cantionem ignorare:",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-344-b",
+  "text": "nam ex diffinientium cognitione diffiniti resultat cognitio;",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-344-c",
+  "text": "et ideo consequenter de stantia est agendum, ut scilicet inuestigemus quid ipsa sit et quid per eam intelligere uolumus.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-345",
+  "text": "Et circa hoc sciendum est quod hoc uocabulum per solius artis respectum inuentum est, uidelicet ut in quo tota cantionis ars esset contenta, illud diceretur stantia, hoc est mansio capax siue receptaculum totius artis.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-346-a",
+  "text": "Nam quemadmodum cantio est gremium totius sententie, sic stantia totam artem ingremiat;",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-346-b",
+  "text": "nec licet aliquid artis sequentibus arrogare, sed solam artem antecedentis induere.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-347",
+  "text": "Per quod patet quod ipsa de qua loquimur erit congremiatio siue compages omnium eorum que cantio sumit ab arte: quibus diuaricatis, quam querimus descriptio innotescet.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-348",
+  "text": "Tota igitur ars cantionis circa tria uidetur consistere: primo circa cantus diuisionem, secundo circa partium habitudinem, tertio circa numerum carminum et sillabarum.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-349",
+  "text": "De rithimo uero mentionem non facimus, quia de propria cantionis arte non est.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-350",
+  "text": "Licet enim in qualibet stantia rithimos innouare et eosdem reiterare ad libitum: quod, si de propria cantionis arte rithimus esset, minime liceret.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-351",
+  "text": "Si quid autem rithimi seruare interest huius quod est ars, illud comprehenditur ibi cum dicimus “partium habitudinem”.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-352",
+  "text": "Qua re sic colligere possumus ex predictis diffinientes et dicere stantiam esse sub certo cantu et habitudine limitata carminum et sillabarum compagem.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-353",
+  "text": "Scientes quia rationale animal homo est et quia sensibilis anima et corpus est animal, et ignorantes de hac anima quid ea sit, uel de ipso corpore, perfectam hominis cognitionem habere non possumus: quia cognitionis perfectio uniuscuiusque terminatur ad ultima elementa, sicut Magister Sapientum in principio Physicorum testatur.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-354",
+  "text": "Igitur ad habendam cantionis cognitionem quam inhyamus, nunc diffinientia suum diffiniens sub compendio uentilemus, et primo de cantu, deinde de habitudine, et postmodum de carminibus et sillabis percontemur.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-355",
+  "text": "Dicimus ergo quod omnis stantia ad quandam odam recipiendam armonizata est.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-356",
+  "text": "Sed in modis diuersificari uidentur.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-357-a",
+  "text": "Quia quedam sunt sub una oda continua usque ad ultimum progressiue, hoc est sine iteratione modulationis cuiusquam et sine diesi - et diesim dicimus deductionem uergentem de una oda in aliam (hanc uoltam uocamus, cum uulgus alloquimur) -:",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-357-b",
+  "text": "et huiusmodi stantia usus est fere in omnibus cantionibus suis Arnaldus Danielis, et nos eum secuti sumus cum diximus Al poco giorno e al gran cerchio d'ombra.",
+  "model_ents": [
+   {
+    "start": 63,
+    "end": 71,
+    "label": "PERSON",
+    "text": "Arnaldus"
+   },
+   {
+    "start": 72,
+    "end": 80,
+    "label": "PERSON",
+    "text": "Danielis"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-358-a",
+  "text": "Quedam uero sunt diesim patientes:",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-358-b",
+  "text": "et diesis esse non potest, secundum quod eam appellamus, nisi reiteratio unius ode fiat, uel ante diesim, uel post, uel undique.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-359-a",
+  "text": "Si ante diesim repetitio fiat, stantiam dicimus habere pedes;",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-359-b",
+  "text": "et duos habere decet, licet quandoque tres fiant, rarissime tamen.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-360",
+  "text": "Si repetitio fiat post diesim, tunc dicimus stantiam habere uersus.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-361",
+  "text": "Si ante non fiat repetitio, stantiam dicimus habere frontem.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-362",
+  "text": "Si post non fiat, dicimus habere sirma, siue caudam.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-363-a",
+  "text": "Uide ergo, lector, quanta licentia data sit cantiones poetantibus, et considera cuius rei causa tam largum arbitrium usus sibi asciuerit;",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-363-b",
+  "text": "et si recto calle ratio te duxerit, uidebis autoritatis dignitate sola quod dicimus esse concessum.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-364-a",
+  "text": "Satis hinc innotescere potest quomodo cantionis ars circa cantus diuisionem consistat;",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-364-b",
+  "text": "et ideo ad habitudinem procedamus.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-365",
+  "text": "Uidetur nobis hec quam habitudinem dicimus maxima pars eius quod artis est.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-366-a",
+  "text": "Hec etenim circa cantus diuisionem atque contextum carminum et rithimorum relationem consistit:",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-366-b",
+  "text": "quapropter diligentissime uidetur esse tractanda.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-367",
+  "text": "Incipientes igitur dicimus quod frons cum uersibus, pedes cum cauda uel sirmate, nec non pedes cum uersibus, in stantia se diuersimode habere possunt.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-368",
+  "text": "Nam quandoque frons uersus excedit in sillabis et carminibus, uel excedere potest - et dicimus “potest” quoniam habitudinem hanc adhuc non uidimus.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-369",
+  "text": "Quandoque in carminibus excedere et in sillabis superari potest, ut si frons esset pentametra et quilibet uersus esset dimeter, et metra frontis eptasillaba et uersus endecasillaba essent.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-370-a",
+  "text": "Quandoque uersus frontem superant sillabis et carminibus, ut in illa quam dicimus Traggemi de la mente amor la stiua:",
+  "model_ents": [
+   {
+    "start": 82,
+    "end": 90,
+    "label": "PERSON",
+    "text": "Traggemi"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-370-b",
+  "text": "fuit hec tetrametra frons, tribus endecasillabis et uno eptasillabo contexta;",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-370-c",
+  "text": "non etenim potuit in pedes diuidi, cum equalitas carminum et sillabarum requiratur in pedibus inter se, et etiam in uersibus inter se.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-371-a",
+  "text": "Et quemadmodum dicimus de fronte, dicimus et de uersibus:",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-371-b",
+  "text": "possent etenim uersus frontem superare carminibus, et sillabis superari, puta si uersus duo essent et uterque trimeter, et eptasillaba metra, et frons esset pentametra, duobus endecasillabis et tribus eptasillabis contexta.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-372",
+  "text": "Quandoque uero pedes caudam superant carminibus et sillabis, ut in illa quam diximus Amor, che moui tua uirtù da cielo.",
+  "model_ents": [
+   {
+    "start": 85,
+    "end": 89,
+    "label": "PERSON",
+    "text": "Amor"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-373",
+  "text": "Quandoque pedes a sirmate superantur in toto, ut in illa quam diximus Donna pietosa e di nouella etate.",
+  "model_ents": [
+   {
+    "start": 70,
+    "end": 75,
+    "label": "PERSON",
+    "text": "Donna"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-374",
+  "text": "Et quemadmodum diximus frontem posse superare carminibus, sillabis superatam, et e conuerso sic de sirmate dicimus.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-375-a",
+  "text": "Pedes quoque uersus in numero superant et superantur ab hiis:",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-375-b",
+  "text": "possunt enim esse in stantia tres pedes et duo uersus, et tres uersus et duo pedes;",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-375-c",
+  "text": "nec hoc numero limitamur, quin liceat plures et pedes et uersus simul contexere.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-376-a",
+  "text": "Et quemadmodum de uictoria carminum et sillabarum diximus inter alia, nunc etiam inter pedes et uersus dicimus:",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-376-b",
+  "text": "nam eodem modo uinci et uincere possunt.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-377",
+  "text": "Nec pretermictendum est quod nos e contrario regulatis poetis pedes accipimus, quia illi carmen ex pedibus, nos uero ex carminibus pedem constare dicimus, ut satis euidenter apparet.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-378",
+  "text": "Nec etiam pretermictendum est quin iterum asseramus pedes ab inuicem necessario carminum et sillabarum equalitatem et habitudinem accipere, quia non aliter cantus repetitio fieri posset.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-379",
+  "text": "Hoc idem in uersibus esse seruandum astruimus.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-380-a",
+  "text": "Est etiam, ut superius dictum est, habitudo quedam quam carmina contexendo considerare debemus:",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-380-b",
+  "text": "et ideo rationem faciamus de illa, repetentes proinde que superius de carminibus diximus.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-381-a",
+  "text": "In usu nostro maxime tria carmina frequentandi prerogatiuam habere uidentur, endecasillabum scilicet, eptasillabum et pentasillabum;",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-381-b",
+  "text": "que trisillabum ante alia sequi astruximus.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-382",
+  "text": "Horum prorsus, cum tragice poetari conamur, endecasillabum propter quandam excellentiam in contextu uincendi priuilegium promeretur.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-383-a",
+  "text": "Nam quedam stantia est que solis endecasillabis gaudet esse contexta, ut illa Guidonis de Florentia Donna me prega, perch'io uoglio dire;",
+  "model_ents": [
+   {
+    "start": 78,
+    "end": 86,
+    "label": "PERSON",
+    "text": "Guidonis"
+   },
+   {
+    "start": 100,
+    "end": 105,
+    "label": "PERSON",
+    "text": "Donna"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-383-b",
+  "text": "et etiam nos dicimus Donne ch'auete intelletto d'amore.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-384-a",
+  "text": "Hoc etiam Yspani usi sunt - et dico Yspanos qui poetati sunt in uulgari oc:",
+  "model_ents": [
+   {
+    "start": 10,
+    "end": 16,
+    "label": "PERSON",
+    "text": "Yspani"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-384-b",
+  "text": "Namericus de Belnui: Nuls hom non pot complir adrecciamen.",
+  "model_ents": [
+   {
+    "start": 13,
+    "end": 19,
+    "label": "NORP",
+    "text": "Belnui"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-385-a",
+  "text": "Quedam est in qua tantum eptasillabum intexitur unum:",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-385-b",
+  "text": "et hoc esse non potest nisi ubi frons est uel cauda, quoniam, ut dictum est, in pedibus atque uersibus actenditur equalitas carminum et sillabarum.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-386-a",
+  "text": "Propter quod etiam nec numerus impar carminum potest esse ubi frons uel cauda non est;",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-386-b",
+  "text": "sed ubi hee sunt, uel altera sola, pari et impari numero in carminibus licet uti ad libitum.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-387",
+  "text": "Et sicut quedam stantia est uno solo eptasillabo conformata, sic duobus, tribus, quatuor, quinque uidetur posse contexi, dummodo in tragico uincat endecasillabum et principiet.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-388-a",
+  "text": "Uerum tamen quosdam ab eptasillabo tragice principiasse inuenimus, uidelicet Guidonem Guinizelli, Guidonem de Ghisileriis et Fabrutium Bononienses: Di fermo sofferire, et Donna, lo fermo core, et Lo meo lontano gire;",
+  "model_ents": [
+   {
+    "start": 77,
+    "end": 85,
+    "label": "PERSON",
+    "text": "Guidonem"
+   },
+   {
+    "start": 86,
+    "end": 96,
+    "label": "PERSON",
+    "text": "Guinizelli"
+   },
+   {
+    "start": 98,
+    "end": 106,
+    "label": "PERSON",
+    "text": "Guidonem"
+   },
+   {
+    "start": 110,
+    "end": 121,
+    "label": "NORP",
+    "text": "Ghisileriis"
+   },
+   {
+    "start": 125,
+    "end": 146,
+    "label": "PERSON",
+    "text": "Fabrutium Bononienses"
+   },
+   {
+    "start": 171,
+    "end": 176,
+    "label": "PERSON",
+    "text": "Donna"
+   },
+   {
+    "start": 196,
+    "end": 198,
+    "label": "PERSON",
+    "text": "Lo"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-388-b",
+  "text": "et quosdam alios.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-389",
+  "text": "Sed si ad eorum sensum subtiliter intrare uelimus, non sine quodam elegie umbraculo hec tragedia processisse uidebitur.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-390-a",
+  "text": "De pentasillabo quoque non sic concedimus:",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-390-b",
+  "text": "in dictamine magno sufficit enim unicum pentasillabum in tota stantia conseri, uel duo ad plus in pedibus - et dico “pedibus” propter necessitatem qua pedibus, uersibus que , cantatur.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-391-a",
+  "text": "Minime autem trisillabum in tragico uidetur esse sumendum per se subsistens:",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-391-b",
+  "text": "et dico “per se subsistens” quia per quandam rithimorum repercussionem frequenter uidetur assumptum, sicut inueniri potest in illa Guidonis Florentini Donna me prega, et in illa quam diximus Poscia ch'Amor del tutto m'ha lasciato.",
+  "model_ents": [
+   {
+    "start": 131,
+    "end": 139,
+    "label": "PERSON",
+    "text": "Guidonis"
+   },
+   {
+    "start": 140,
+    "end": 150,
+    "label": "PERSON",
+    "text": "Florentini"
+   },
+   {
+    "start": 151,
+    "end": 156,
+    "label": "PERSON",
+    "text": "Donna"
+   },
+   {
+    "start": 191,
+    "end": 197,
+    "label": "LOC",
+    "text": "Poscia"
+   },
+   {
+    "start": 201,
+    "end": 205,
+    "label": "PERSON",
+    "text": "Amor"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-392",
+  "text": "Nec per se ibi carmen est omnino, sed pars endecasillabi tantum ad rithimum precedentis carminis uelut econ respondens.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-393-a",
+  "text": "Hoc etiam precipue actendendum est circa carminum habitudinem, quod, si eptasillabum interseratur in primo pede, quem situm accipit ibi, eundem resumat in altero: puta, si pes trimeter primum et ultimum carmen endecasillabum habet et medium, hoc est secundum, eptasillabum, et pes alter habeat secundum eptasillabum et extrema endecasillaba:",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-393-b",
+  "text": "non aliter ingeminatio cantus fieri posset, ad quam pedes fiunt, ut dictum est, et per consequens pedes esse non possent.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-394-a",
+  "text": "Et quemadmodum de pedibus, dicimus et de uersibus:",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-394-b",
+  "text": "in nullo enim pedes et uersus differre uidemus nisi in situ, quia hii ante hii, post diesim stantie nominantur.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-395-a",
+  "text": "Et etiam quemadmodum de trimetro pede, et de omnibus aliis seruandum esse asserimus;",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-395-b",
+  "text": "et sicut de uno eptasillabo, sic de pluribus et de pentasillabo et omni alio dicimus.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-396",
+  "text": "Satis hinc, lector, elicere sufficienter potes qualiter tibi carminum habituanda sit stantia habitudinem que circa carmina considerandam uidere.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-397-a",
+  "text": "Rithimorum quoque relationi uacemus, nichil de rithimo secundum se modo tractantes:",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-397-b",
+  "text": "proprium enim eorum tractatum in posterum prorogamus, cum de mediocri poemate intendemus.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-398",
+  "text": "In principio igitur huius capituli quedam resecanda uidentur.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-399-a",
+  "text": "Unum est stantia sine rithimo, in qua nulla rithimorum habitudo actenditur:",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-399-b",
+  "text": "et huiusmodi stantiis usus est Arnaldus Danielis frequentissime, uelut ibi: Se·m fos Amor de ioi donar;",
+  "model_ents": [
+   {
+    "start": 31,
+    "end": 39,
+    "label": "PERSON",
+    "text": "Arnaldus"
+   },
+   {
+    "start": 40,
+    "end": 48,
+    "label": "PERSON",
+    "text": "Danielis"
+   },
+   {
+    "start": 85,
+    "end": 89,
+    "label": "PERSON",
+    "text": "Amor"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-399-c",
+  "text": "et nos dicimus Al poco giorno.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-400",
+  "text": "Aliud est stantia cuius omnia carmina eundem rithimum reddunt, in qua superfluum esse constat habitudinem querere.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-401",
+  "text": "Sic proinde restat circa rithimos mixtos debere insisti.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-402",
+  "text": "Et primo sciendum est quod in hoc amplissimam sibi licentiam fere omnes assumunt, et ex hoc maxime totius armonie dulcedo intenditur.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-403-a",
+  "text": "Sunt etenim quidam qui non omnes quandoque desinentias carminum rithimantur in eadem stantia, sed easdem repetunt siue rithimantur in aliis, sicut fuit Gottus Mantuanus, qui suas multas et bonas cantiones nobis oretenus intimauit:",
+  "model_ents": [
+   {
+    "start": 152,
+    "end": 168,
+    "label": "PERSON",
+    "text": "Gottus Mantuanus"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-403-b",
+  "text": "hic semper in stantia unum carmen incomitatum texebat, quod clauem uocabat;",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-403-c",
+  "text": "et sicut de uno licet, licet etiam de duobus, et forte de pluribus.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-404",
+  "text": "Quidam alii sunt, et fere omnes, cantionum inuentores qui nullum in stantia carmen incomitatum relinquunt quin sibi rithimi concrepantiam reddant, uel unius uel plurium.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-405-a",
+  "text": "Et quidam diuersos faciunt esse rithimos eorum que post diesim carmina sunt a rithimis eorum que sunt ante;",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-405-b",
+  "text": "quidam uero non sic, sed desinentias anterioris stantie inter postera carmina referentes intexunt.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-406",
+  "text": "Sepissime tamen hoc fit in desinentia primi posteriorum, quam plerique rithimantur ei que est priorum posterioris: quod non aliud esse uidetur quam quedam ipsius stantie concatenatio pulcra.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-407-a",
+  "text": "De rithimorum quoque habitudine, prout sunt in fronte uel in cauda uidetur omnis optata licentia concedenda;",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-407-b",
+  "text": "pulcerrime tamen se habent ultimorum carminum desinentie si cum rithimo in silentium cadant.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-408-a",
+  "text": "In pedibus uero cauendum est;",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-408-b",
+  "text": "et habitudinem quandam seruatam esse inuenimus.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-409-a",
+  "text": "Et, discretionem facientes, dicimus quod pes uel pari uel impari metro completur, et utrobique comitata et incomitata desinentia esse potest:",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-409-b",
+  "text": "nam in pari metro nemo dubitat;",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-409-c",
+  "text": "in alio uero, si quis dubius est, recordetur ea que diximus in preinmediato capitulo de trisillabo, quando, pars existens endecasillabi, uelut econ respondet.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-410",
+  "text": "Et si in altero pedum exsortem rithimi desinentiam esse contingat, omnimode in altero sibi instauratio fiat.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-411-a",
+  "text": "Si uero quelibet desinentia in altero pede rithimi consortium habeat, in altero prout libet referre uel innouare desinentias licet, uel totaliter uel in parte, dumtaxat precedentium ordo seruetur in totum:",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-411-b",
+  "text": "puta, si extreme desinentie trimetri, hoc est prima et ultima, concrepabunt in primo pede, sic secundi extremas desinentias conuenit concrepare;",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-411-c",
+  "text": "et qualem se in primo media uidet, comitatam quidem uel incomitatam, talis in secundo resurgat:",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-411-d",
+  "text": "et sic de aliis pedibus est seruandum.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-412",
+  "text": "In uersibus quoque fere semper hac lege perfruimur - et “fere” dicimus quia propter concatenationem prenotatam et combinationem desinentiarum ultimarum quandoque ordinem iam dictum peruerti contingit.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-413",
+  "text": "Preterea nobis bene conuenire uidetur ut que cauenda sunt circa rithimos huic appendamus capitulo, cum in isto libro nichil ulterius de rithimorum doctrina tangere intendamus.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-414-a",
+  "text": "Tria ergo sunt que circa rithimorum positionem potiri dedecet aulice poetantem: nimia scilicet eiusdem rithimi repercussio, nisi forte nouum aliquid atque intentatum artis hoc sibi preroget - ut nascentis militie dies, qui cum nulla prerogatiua suam indignatur preterire dietam:",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-414-b",
+  "text": "hoc etenim nos facere nisi sumus ibi: Amor, tu uedi ben che questa donna;",
+  "model_ents": [
+   {
+    "start": 38,
+    "end": 42,
+    "label": "PERSON",
+    "text": "Amor"
+   }
+  ]
+ },
+ {
+  "sent_id": "DVE-414-c",
+  "text": "secundum uero est ipsa inutilis equiuocatio, que semper sententie quicquam derogare uidetur;",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-414-d",
+  "text": "et tertium est rithimorum asperitas, nisi forte sit lenitati permixta:",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-414-e",
+  "text": "nam lenium asperorum que rithimorum mixtura ipsa tragedia nitescit.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-415",
+  "text": "Et hec de arte, prout habitudinem respicit, tanta sufficiant.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-416",
+  "text": "Ex quo duo que sunt artis in cantione satis sufficienter tractauimus, nunc de tertio uidetur esse tractandum, uidelicet de numero carminum et sillabarum.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-417-a",
+  "text": "Et primo secundum totam stantiam uidere oportet aliquid;",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-417-b",
+  "text": "deinde secundum partes eius uidebimus.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-418",
+  "text": "Nostra igitur primo refert discretionem facere inter ea que canenda occurrunt, quia quedam stantie prolixitatem uidentur appetere, quedam non.",
+  "model_ents": []
+ },
+ {
+  "sent_id": "DVE-419",
+  "text": "Nam cum ea que dicimus cuncta uel circa dextrum aliquid uel sinistrum canamus - ut quandoque persuasorie quandoque dissuasorie quandoque, gratulanter quandoque yronice, quandoque laudabiliter quandoque contemptiue canere contingit -, que circa sinistra sunt uerba semper ad extremum festinent, et alia decenti prolixitate passim ueniant ad extremum...",
+  "model_ents": []
+ }
+]

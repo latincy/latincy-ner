@@ -1,0 +1,1488 @@
+[
+  {
+    "sent_id": "23737",
+    "text": "et defunctus est ipse et patres nostri .",
+    "entities": []
+  },
+  {
+    "sent_id": "23738",
+    "text": "et translati sunt in Sychem et positi sunt in sepulchro quod emit Abraham pretio argenti a filiis Emmor filii Sychem .",
+    "entities": [
+      {
+        "text": "Sychem",
+        "label": "LOC",
+        "start": 21,
+        "end": 27,
+        "multi": true
+      },
+      {
+        "text": "Abraham",
+        "label": "PERSON",
+        "start": 66,
+        "end": 73,
+        "multi": false
+      },
+      {
+        "text": "Emmor",
+        "label": "PERSON",
+        "start": 98,
+        "end": 103,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "23739",
+    "text": "cum adpropinquaret autem tempus repromissionis quam confessus erat Deus Abrahae creuit populus et multiplicatus est in Aegypto quoadusque surrexit rex alius in Aegypto qui non sciebat Ioseph .",
+    "entities": [
+      {
+        "text": "Abrahae",
+        "label": "PERSON",
+        "start": 72,
+        "end": 79,
+        "multi": false
+      },
+      {
+        "text": "Aegypto",
+        "label": "LOC",
+        "start": 119,
+        "end": 126,
+        "multi": true
+      },
+      {
+        "text": "Ioseph",
+        "label": "PERSON",
+        "start": 184,
+        "end": 190,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "23740",
+    "text": "hic circumueniens genus nostrum adflixit patres ut exponerent infantes suos ne uiuificarentur .",
+    "entities": []
+  },
+  {
+    "sent_id": "23741",
+    "text": "eodem tempore natus est Moses et fuit gratus Deo .",
+    "entities": [
+      {
+        "text": "Moses",
+        "label": "PERSON",
+        "start": 24,
+        "end": 29,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "23742",
+    "text": "qui nutritus est tribus mensibus in domo patris sui .",
+    "entities": []
+  },
+  {
+    "sent_id": "23743",
+    "text": "exposito autem illo sustulit eum filia Pharaonis et enutriuit eum sibi in filium .",
+    "entities": [
+      {
+        "text": "Pharaonis",
+        "label": "PERSON",
+        "start": 39,
+        "end": 48,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "23744",
+    "text": "et eruditus est Moses omni sapientia Aegyptiorum et erat potens in uerbis et in operibus suis .",
+    "entities": [
+      {
+        "text": "Moses",
+        "label": "PERSON",
+        "start": 16,
+        "end": 21,
+        "multi": false
+      },
+      {
+        "text": "Aegyptiorum",
+        "label": "NORP",
+        "start": 37,
+        "end": 48,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "23745",
+    "text": "cum autem impleretur ei quadraginta annorum tempus ascendit in cor eius ut uisitaret fratres suos filios Israhel .",
+    "entities": [
+      {
+        "text": "Israhel",
+        "label": "NORP",
+        "start": 105,
+        "end": 112,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "23746",
+    "text": "et cum uidisset quendam iniuriam patientem uindicauit illum et fecit ultionem ei qui iniuriam sustinebat percusso Aegyptio .",
+    "entities": [
+      {
+        "text": "Aegyptio",
+        "label": "NORP",
+        "start": 114,
+        "end": 122,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "23747",
+    "text": "existimabat autem intellegere fratres quoniam Deus per manum ipsius daret salutem illis .",
+    "entities": []
+  },
+  {
+    "sent_id": "23748",
+    "text": "at illi non intellexerunt .",
+    "entities": []
+  },
+  {
+    "sent_id": "23749",
+    "text": "sequenti uero die apparuit illis litigantibus .",
+    "entities": []
+  },
+  {
+    "sent_id": "23750",
+    "text": "et reconciliabat eos in pacem dicens .",
+    "entities": []
+  },
+  {
+    "sent_id": "23751",
+    "text": "uiri fratres estis .",
+    "entities": []
+  },
+  {
+    "sent_id": "23752",
+    "text": "ut quid nocetis alterutrum .",
+    "entities": []
+  },
+  {
+    "sent_id": "23753",
+    "text": "qui autem iniuriam faciebat proximo reppulit eum dicens .",
+    "entities": []
+  },
+  {
+    "sent_id": "23754",
+    "text": "quis te constituit principem et iudicem super nos .",
+    "entities": []
+  },
+  {
+    "sent_id": "23755",
+    "text": "numquid interficere me tu uis quemadmodum interfecisti heri Aegyptium .",
+    "entities": [
+      {
+        "text": "Aegyptium",
+        "label": "NORP",
+        "start": 60,
+        "end": 69,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "23756",
+    "text": "fugit autem Moses in uerbo isto .",
+    "entities": [
+      {
+        "text": "Moses",
+        "label": "PERSON",
+        "start": 12,
+        "end": 17,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "23757",
+    "text": "et factus est aduena in terra Madiam ubi generauit filios duos .",
+    "entities": [
+      {
+        "text": "Madiam",
+        "label": "LOC",
+        "start": 30,
+        "end": 36,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "23758",
+    "text": "et expletis annis quadraginta apparuit illi in deserto montis Sina angelus in igne flammae rubi .",
+    "entities": [
+      {
+        "text": "Sina",
+        "label": "LOC",
+        "start": 62,
+        "end": 66,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "23759",
+    "text": "Moses autem uidens admiratus est uisum .",
+    "entities": [
+      {
+        "text": "Moses",
+        "label": "PERSON",
+        "start": 0,
+        "end": 5,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "23760",
+    "text": "et accedente illo ut consideraret facta est uox Domini .",
+    "entities": []
+  },
+  {
+    "sent_id": "23761",
+    "text": "ego Deus patrum tuorum Deus Abraham et Deus Isaac et Deus Iacob .",
+    "entities": [
+      {
+        "text": "Abraham",
+        "label": "PERSON",
+        "start": 28,
+        "end": 35,
+        "multi": false
+      },
+      {
+        "text": "Isaac",
+        "label": "PERSON",
+        "start": 44,
+        "end": 49,
+        "multi": false
+      },
+      {
+        "text": "Iacob",
+        "label": "PERSON",
+        "start": 58,
+        "end": 63,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "23762",
+    "text": "tremefactus autem Moses non audebat considerare .",
+    "entities": [
+      {
+        "text": "Moses",
+        "label": "PERSON",
+        "start": 18,
+        "end": 23,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "23763",
+    "text": "dixit autem illi Dominus .",
+    "entities": []
+  },
+  {
+    "sent_id": "23764",
+    "text": "solue calciamentum pedum tuorum .",
+    "entities": []
+  },
+  {
+    "sent_id": "23765",
+    "text": "locus enim in quo stas terra sancta est .",
+    "entities": []
+  },
+  {
+    "sent_id": "23766",
+    "text": "uidens uidi adflictionem populi mei qui est in Aegypto et gemitum eorum audiui et descendi liberare eos .",
+    "entities": [
+      {
+        "text": "Aegypto",
+        "label": "LOC",
+        "start": 47,
+        "end": 54,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "23767",
+    "text": "et nunc ueni et mittam te in Aegyptum .",
+    "entities": [
+      {
+        "text": "Aegyptum",
+        "label": "LOC",
+        "start": 29,
+        "end": 37,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "23768",
+    "text": "hunc Mosen quem negauerunt dicentes quis te constituit principem et iudicem hunc Deus principem et redemptorem misit cum manu angeli qui apparuit illi in rubo .",
+    "entities": [
+      {
+        "text": "Mosen",
+        "label": "PERSON",
+        "start": 5,
+        "end": 10,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "23771",
+    "text": "hic eduxit illos faciens prodigia et signa in terra Aegypti et in Rubro mari et in deserto annis quadraginta .",
+    "entities": [
+      {
+        "text": "Aegypti",
+        "label": "LOC",
+        "start": 52,
+        "end": 59,
+        "multi": false
+      },
+      {
+        "text": "Rubro mari",
+        "label": "LOC",
+        "start": 66,
+        "end": 76,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "23772",
+    "text": "hic est Moses qui dixit filiis Israhel .",
+    "entities": [
+      {
+        "text": "Moses",
+        "label": "PERSON",
+        "start": 8,
+        "end": 13,
+        "multi": false
+      },
+      {
+        "text": "Israhel",
+        "label": "NORP",
+        "start": 31,
+        "end": 38,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "23773",
+    "text": "prophetam uobis suscitabit Deus de fratribus uestris tamquam me .",
+    "entities": []
+  },
+  {
+    "sent_id": "23774",
+    "text": "hic est qui fuit in ecclesia in solitudine cum angelo qui loquebatur ei in monte Sina et cum patribus nostris .",
+    "entities": []
+  },
+  {
+    "sent_id": "23775",
+    "text": "qui accepit uerba uitae dare nobis .",
+    "entities": []
+  },
+  {
+    "sent_id": "23776",
+    "text": "cui noluerunt oboedire patres nostri sed reppulerunt et auersi sunt cordibus suis in Aegyptum dicentes ad Aaron .",
+    "entities": [
+      {
+        "text": "Aegyptum",
+        "label": "LOC",
+        "start": 85,
+        "end": 93,
+        "multi": false
+      },
+      {
+        "text": "Aaron",
+        "label": "PERSON",
+        "start": 106,
+        "end": 111,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "23778",
+    "text": "fac nobis deos qui praecedant nos .",
+    "entities": []
+  },
+  {
+    "sent_id": "23779",
+    "text": "Moses enim hic qui eduxit nos de terra Aegypti nescimus quid factum sit ei .",
+    "entities": [
+      {
+        "text": "Moses",
+        "label": "PERSON",
+        "start": 0,
+        "end": 5,
+        "multi": false
+      },
+      {
+        "text": "Aegypti",
+        "label": "LOC",
+        "start": 39,
+        "end": 46,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "23780",
+    "text": "et uitulum fecerunt in illis diebus et obtulerunt hostiam simulacro et laetabantur in operibus manuum suarum .",
+    "entities": []
+  },
+  {
+    "sent_id": "23781",
+    "text": "conuertit autem Deus et tradidit eos seruire militiae caeli .",
+    "entities": []
+  },
+  {
+    "sent_id": "74878",
+    "text": "sicut scriptum est in libro Prophetarum .",
+    "entities": []
+  },
+  {
+    "sent_id": "23782",
+    "text": "numquid uictimas aut hostias obtulistis mihi annis quadraginta in deserto domus Israhel .",
+    "entities": []
+  },
+  {
+    "sent_id": "23783",
+    "text": "et suscepistis tabernaculum Moloch et sidus dei uestri Rempham figuras quas fecistis adorare eas .",
+    "entities": []
+  },
+  {
+    "sent_id": "23784",
+    "text": "et transferam uos trans Babylonem .",
+    "entities": []
+  },
+  {
+    "sent_id": "23785",
+    "text": "tabernaculum testimonii fuit patribus nostris in deserto sicut disposuit loquens ad Mosen ut faceret illud secundum formam quam uiderat .",
+    "entities": [
+      {
+        "text": "Mosen",
+        "label": "PERSON",
+        "start": 84,
+        "end": 89,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "23786",
+    "text": "quod et induxerunt suscipientes patres nostri cum Iesu in possessionem gentium quas expulit Deus a facie patrum nostrorum usque in diebus Dauid qui inuenit gratiam ante Deum et petiit ut inueniret tabernaculum Deo Iacob .",
+    "entities": [
+      {
+        "text": "Iesu",
+        "label": "PERSON",
+        "start": 50,
+        "end": 54,
+        "multi": false
+      },
+      {
+        "text": "Dauid",
+        "label": "PERSON",
+        "start": 138,
+        "end": 143,
+        "multi": false
+      },
+      {
+        "text": "Iacob",
+        "label": "PERSON",
+        "start": 214,
+        "end": 219,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "23787",
+    "text": "Salomon autem aedificauit illi domum .",
+    "entities": [
+      {
+        "text": "Salomon",
+        "label": "PERSON",
+        "start": 0,
+        "end": 7,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "23788",
+    "text": "sed non Excelsus in manufactis habitat .",
+    "entities": []
+  },
+  {
+    "sent_id": "74879",
+    "text": "sicut propheta dicit .",
+    "entities": []
+  },
+  {
+    "sent_id": "23789",
+    "text": "caelum mihi sedis est .",
+    "entities": []
+  },
+  {
+    "sent_id": "23790",
+    "text": "terra autem scabillum pedum meorum .",
+    "entities": []
+  },
+  {
+    "sent_id": "23791",
+    "text": "quam domum aedificabitis mihi dicit Dominus aut quis locus requietionis meae est .",
+    "entities": []
+  },
+  {
+    "sent_id": "23794",
+    "text": "nonne manus mea fecit haec omnia .",
+    "entities": []
+  },
+  {
+    "sent_id": "23795",
+    "text": "dura ceruice et incircumcisi cordibus et auribus uos semper Spiritui Sancto resistitis .",
+    "entities": []
+  },
+  {
+    "sent_id": "23796",
+    "text": "sicut patres uestri et uos .",
+    "entities": []
+  },
+  {
+    "sent_id": "23797",
+    "text": "quem prophetarum non sunt persecuti patres uestri .",
+    "entities": []
+  },
+  {
+    "sent_id": "23798",
+    "text": "et occiderunt eos qui praenuntiabant de aduentu Iusti cuius uos nunc proditores et homicidae fuistis .",
+    "entities": []
+  },
+  {
+    "sent_id": "23799",
+    "text": "qui accepistis legem in dispositionem angelorum et non custodistis .",
+    "entities": []
+  },
+  {
+    "sent_id": "23800",
+    "text": "audientes autem haec dissecabantur cordibus suis et stridebant dentibus in eum .",
+    "entities": []
+  },
+  {
+    "sent_id": "23801",
+    "text": "cum autem esset plenus Spiritu Sancto intendens in caelum uidit gloriam Dei et Iesum stantem a dextris Dei .",
+    "entities": [
+      {
+        "text": "Iesum",
+        "label": "PERSON",
+        "start": 79,
+        "end": 84,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "23802",
+    "text": "et ait .",
+    "entities": []
+  },
+  {
+    "sent_id": "23803",
+    "text": "ecce uideo caelos apertos et Filium hominis a dextris stantem Dei .",
+    "entities": []
+  },
+  {
+    "sent_id": "23804",
+    "text": "exclamantes autem uoce magna continuerunt aures suas et impetum fecerunt unianimiter in eum .",
+    "entities": []
+  },
+  {
+    "sent_id": "23805",
+    "text": "et eicientes eum extra ciuitatem lapidabant .",
+    "entities": []
+  },
+  {
+    "sent_id": "23806",
+    "text": "et testes deposuerunt uestimenta sua secus pedes adulescentis qui uocabatur Saulus .",
+    "entities": [
+      {
+        "text": "Saulus",
+        "label": "PERSON",
+        "start": 76,
+        "end": 82,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "23807",
+    "text": "et lapidabant Stephanum inuocantem et dicentem .",
+    "entities": [
+      {
+        "text": "Stephanum",
+        "label": "PERSON",
+        "start": 14,
+        "end": 23,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "23808",
+    "text": "Domine Iesu suscipe spiritum meum .",
+    "entities": [
+      {
+        "text": "Iesu",
+        "label": "PERSON",
+        "start": 7,
+        "end": 11,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "23809",
+    "text": "positis autem genibus clamauit uoce magna .",
+    "entities": []
+  },
+  {
+    "sent_id": "23810",
+    "text": "Domine ne statuas illis hoc peccatum .",
+    "entities": []
+  },
+  {
+    "sent_id": "23811",
+    "text": "et cum hoc dixisset obdormiuit .",
+    "entities": []
+  },
+  {
+    "sent_id": "23812",
+    "text": "Saulus autem erat consentiens neci eius .",
+    "entities": [
+      {
+        "text": "Saulus",
+        "label": "PERSON",
+        "start": 0,
+        "end": 6,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "23813",
+    "text": "facta est autem in illa die persecutio magna in ecclesia quae erat Hierosolymis et omnes dispersi sunt per regiones Iudaeae et Samariae praeter apostolos .",
+    "entities": [
+      {
+        "text": "Hierosolymis",
+        "label": "LOC",
+        "start": 67,
+        "end": 79,
+        "multi": false
+      },
+      {
+        "text": "Iudaeae",
+        "label": "LOC",
+        "start": 116,
+        "end": 123,
+        "multi": false
+      },
+      {
+        "text": "Samariae",
+        "label": "LOC",
+        "start": 127,
+        "end": 135,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "23814",
+    "text": "curauerunt autem Stephanum uiri timorati et fecerunt planctum magnum super illum .",
+    "entities": [
+      {
+        "text": "Stephanum",
+        "label": "PERSON",
+        "start": 17,
+        "end": 26,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "23815",
+    "text": "Saulus uero deuastabat ecclesiam per domos intrans et trahens uiros ac mulieres tradebat in custodiam .",
+    "entities": [
+      {
+        "text": "Saulus",
+        "label": "PERSON",
+        "start": 0,
+        "end": 6,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "23816",
+    "text": "igitur qui dispersi erant pertransiebant euangelizantes uerbum .",
+    "entities": []
+  },
+  {
+    "sent_id": "23817",
+    "text": "Philippus autem descendens in ciuitatem Samariae praedicabat illis Christum .",
+    "entities": [
+      {
+        "text": "Philippus",
+        "label": "PERSON",
+        "start": 0,
+        "end": 9,
+        "multi": false
+      },
+      {
+        "text": "Samariae",
+        "label": "LOC",
+        "start": 40,
+        "end": 48,
+        "multi": false
+      },
+      {
+        "text": "Christum",
+        "label": "PERSON",
+        "start": 67,
+        "end": 75,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "23818",
+    "text": "intendebant autem turbae his quae a Philippo dicebantur unianimiter audientes et uidentes signa quae faciebat .",
+    "entities": [
+      {
+        "text": "Philippo",
+        "label": "PERSON",
+        "start": 36,
+        "end": 44,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "23819",
+    "text": "multi enim eorum qui habebant spiritus inmundos clamantes uoce magna exiebant .",
+    "entities": []
+  },
+  {
+    "sent_id": "23820",
+    "text": "multi autem paralytici et claudi curati sunt .",
+    "entities": []
+  },
+  {
+    "sent_id": "23821",
+    "text": "factum est ergo magnum gaudium in illa ciuitate .",
+    "entities": []
+  },
+  {
+    "sent_id": "23822",
+    "text": "uir autem quidam nomine Simon qui ante fuerat in ciuitate magus seducens gentem Samariae dicens esse se aliquem magnum .",
+    "entities": [
+      {
+        "text": "Simon",
+        "label": "PERSON",
+        "start": 24,
+        "end": 29,
+        "multi": false
+      },
+      {
+        "text": "Samariae",
+        "label": "LOC",
+        "start": 80,
+        "end": 88,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "23823",
+    "text": "cui auscultabant omnes a minimo usque ad maximum dicentes .",
+    "entities": []
+  },
+  {
+    "sent_id": "23824",
+    "text": "hic est uirtus Dei quae uocatur Magna .",
+    "entities": []
+  },
+  {
+    "sent_id": "23825",
+    "text": "adtendebant autem eum propter quod multo tempore magicis suis dementasset eos .",
+    "entities": []
+  },
+  {
+    "sent_id": "23827",
+    "text": "cum uero credidissent Philippo euangelizanti de regno Dei et nomine Iesu Christi baptizabantur uiri ac mulieres .",
+    "entities": [
+      {
+        "text": "Philippo",
+        "label": "PERSON",
+        "start": 22,
+        "end": 30,
+        "multi": false
+      },
+      {
+        "text": "Iesu Christi",
+        "label": "PERSON",
+        "start": 68,
+        "end": 80,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "23828",
+    "text": "tunc Simon et ipse credidit .",
+    "entities": [
+      {
+        "text": "Simon",
+        "label": "PERSON",
+        "start": 5,
+        "end": 10,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "23829",
+    "text": "et cum baptizatus esset adherebat Philippo .",
+    "entities": [
+      {
+        "text": "Philippo",
+        "label": "PERSON",
+        "start": 34,
+        "end": 42,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "23830",
+    "text": "uidens etiam signa et uirtutes maximas fieri stupens admirabatur .",
+    "entities": []
+  },
+  {
+    "sent_id": "23831",
+    "text": "cum autem audissent apostoli qui erant Hierosolymis quia recepit Samaria uerbum Dei miserunt ad illos Petrum et Iohannem .",
+    "entities": [
+      {
+        "text": "Hierosolymis",
+        "label": "LOC",
+        "start": 39,
+        "end": 51,
+        "multi": false
+      },
+      {
+        "text": "Samaria",
+        "label": "LOC",
+        "start": 65,
+        "end": 72,
+        "multi": false
+      },
+      {
+        "text": "Petrum",
+        "label": "PERSON",
+        "start": 102,
+        "end": 108,
+        "multi": false
+      },
+      {
+        "text": "Iohannem",
+        "label": "PERSON",
+        "start": 112,
+        "end": 120,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "23832",
+    "text": "qui cum uenissent orauerunt pro ipsis ut acciperent Spiritum Sanctum .",
+    "entities": []
+  },
+  {
+    "sent_id": "23833",
+    "text": "nondum enim in quemquam illorum uenerat sed baptizati tantum erant in nomine Domini Iesu .",
+    "entities": [
+      {
+        "text": "Iesu",
+        "label": "PERSON",
+        "start": 84,
+        "end": 88,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "23834",
+    "text": "tunc inponebant manus super illos et accipiebant Spiritum Sanctum .",
+    "entities": []
+  },
+  {
+    "sent_id": "23835",
+    "text": "cum uidisset autem Simon quia per inpositionem manus apostolorum daretur Spiritus Sanctus obtulit eis pecuniam dicens .",
+    "entities": [
+      {
+        "text": "Simon",
+        "label": "PERSON",
+        "start": 19,
+        "end": 24,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "23836",
+    "text": "date et mihi hanc potestatem ut cuicumque inposuero manus accipiat Spiritum Sanctum .",
+    "entities": []
+  },
+  {
+    "sent_id": "23837",
+    "text": "Petrus autem dixit ad eum .",
+    "entities": [
+      {
+        "text": "Petrus",
+        "label": "PERSON",
+        "start": 0,
+        "end": 6,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "23838",
+    "text": "pecunia tua te cum sit in perditionem quoniam donum Dei existimasti pecunia possideri .",
+    "entities": []
+  },
+  {
+    "sent_id": "23840",
+    "text": "non est tibi pars neque sors in sermone isto .",
+    "entities": []
+  },
+  {
+    "sent_id": "23841",
+    "text": "cor enim tuum non est rectum coram Deo .",
+    "entities": []
+  },
+  {
+    "sent_id": "23842",
+    "text": "paenitentiam itaque age ab hac nequitia tua .",
+    "entities": []
+  },
+  {
+    "sent_id": "23843",
+    "text": "et roga Deum si forte remittatur tibi haec cogitatio cordis tui .",
+    "entities": []
+  },
+  {
+    "sent_id": "23844",
+    "text": "in felle enim amaritudinis et obligatione iniquitatis uideo te esse .",
+    "entities": []
+  },
+  {
+    "sent_id": "23845",
+    "text": "respondens autem Simon dixit .",
+    "entities": [
+      {
+        "text": "Simon",
+        "label": "PERSON",
+        "start": 17,
+        "end": 22,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "23846",
+    "text": "precamini uos pro me ad Dominum ut nihil ueniat super me horum quae dixistis .",
+    "entities": []
+  },
+  {
+    "sent_id": "23847",
+    "text": "et illi quidem testificati et locuti uerbum Domini rediebant Hierosolymam et multis regionibus Samaritanorum euangelizabant .",
+    "entities": [
+      {
+        "text": "Hierosolymam",
+        "label": "LOC",
+        "start": 61,
+        "end": 73,
+        "multi": false
+      },
+      {
+        "text": "Samaritanorum",
+        "label": "NORP",
+        "start": 95,
+        "end": 108,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "23848",
+    "text": "angelus autem Domini locutus est ad Philippum dicens .",
+    "entities": [
+      {
+        "text": "Philippum",
+        "label": "PERSON",
+        "start": 36,
+        "end": 45,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "23849",
+    "text": "surge et uade contra meridianum ad uiam quae descendit ab Hierusalem in Gazam .",
+    "entities": [
+      {
+        "text": "Hierusalem",
+        "label": "LOC",
+        "start": 58,
+        "end": 68,
+        "multi": false
+      },
+      {
+        "text": "Gazam",
+        "label": "LOC",
+        "start": 72,
+        "end": 77,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "23850",
+    "text": "haec est deserta .",
+    "entities": []
+  },
+  {
+    "sent_id": "23851",
+    "text": "et surgens abiit .",
+    "entities": []
+  },
+  {
+    "sent_id": "23852",
+    "text": "et ecce uir aethiops eunuchus potens Candacis reginae Aethiopum qui erat super omnes gazas eius uenerat adorare in Hierusalem .",
+    "entities": [
+      {
+        "text": "Candacis",
+        "label": "PERSON",
+        "start": 37,
+        "end": 45,
+        "multi": false
+      },
+      {
+        "text": "Aethiopum",
+        "label": "NORP",
+        "start": 54,
+        "end": 63,
+        "multi": false
+      },
+      {
+        "text": "Hierusalem",
+        "label": "LOC",
+        "start": 115,
+        "end": 125,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "23853",
+    "text": "et reuertebatur sedens super currum suum legens que prophetam Esaiam .",
+    "entities": [
+      {
+        "text": "Esaiam",
+        "label": "PERSON",
+        "start": 62,
+        "end": 68,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "23854",
+    "text": "dixit autem Spiritus Philippo .",
+    "entities": [
+      {
+        "text": "Philippo",
+        "label": "PERSON",
+        "start": 21,
+        "end": 29,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "23855",
+    "text": "accede et adiunge te ad currum istum .",
+    "entities": []
+  },
+  {
+    "sent_id": "23856",
+    "text": "adcurrens autem Philippus audiuit illum legentem Esaiam prophetam et dixit .",
+    "entities": [
+      {
+        "text": "Philippus",
+        "label": "PERSON",
+        "start": 16,
+        "end": 25,
+        "multi": false
+      },
+      {
+        "text": "Esaiam",
+        "label": "PERSON",
+        "start": 49,
+        "end": 55,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "23857",
+    "text": "putas ne intellegis quae legis .",
+    "entities": []
+  },
+  {
+    "sent_id": "23858",
+    "text": "qui ait .",
+    "entities": []
+  },
+  {
+    "sent_id": "23859",
+    "text": "et quomodo possum si non aliquis ostenderit mihi .",
+    "entities": []
+  },
+  {
+    "sent_id": "23860",
+    "text": "rogauit que Philippum ut ascenderet et sederet se cum .",
+    "entities": [
+      {
+        "text": "Philippum",
+        "label": "PERSON",
+        "start": 12,
+        "end": 21,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "23861",
+    "text": "locus autem scripturae quam legebat erat hic .",
+    "entities": []
+  },
+  {
+    "sent_id": "23862",
+    "text": "tamquam ouis ad occisionem ductus est .",
+    "entities": []
+  },
+  {
+    "sent_id": "23863",
+    "text": "et sicut agnus coram tondente se sine uoce sic non aperuit os suum .",
+    "entities": []
+  },
+  {
+    "sent_id": "23864",
+    "text": "in humilitate iudicium eius sublatum est .",
+    "entities": []
+  },
+  {
+    "sent_id": "23865",
+    "text": "generationem illius quis enarrabit .",
+    "entities": []
+  },
+  {
+    "sent_id": "23866",
+    "text": "quoniam tollitur de terra uita eius .",
+    "entities": []
+  },
+  {
+    "sent_id": "23867",
+    "text": "respondens autem eunuchus Philippo dixit .",
+    "entities": [
+      {
+        "text": "Philippo",
+        "label": "PERSON",
+        "start": 26,
+        "end": 34,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "48784",
+    "text": "obsecro te .",
+    "entities": []
+  },
+  {
+    "sent_id": "48785",
+    "text": "de quo propheta dicit hoc de se an de alio aliquo .",
+    "entities": []
+  },
+  {
+    "sent_id": "74908",
+    "text": "aperiens autem Philippus os suum et incipiens ab scriptura ista euangelizauit illi Iesum .",
+    "entities": [
+      {
+        "text": "Philippus",
+        "label": "PERSON",
+        "start": 15,
+        "end": 24,
+        "multi": false
+      },
+      {
+        "text": "Iesum",
+        "label": "PERSON",
+        "start": 83,
+        "end": 88,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "23871",
+    "text": "et dum irent per uiam uenerunt ad quandam aquam .",
+    "entities": []
+  },
+  {
+    "sent_id": "23872",
+    "text": "et ait eunuchus .",
+    "entities": []
+  },
+  {
+    "sent_id": "23873",
+    "text": "ecce aqua .",
+    "entities": []
+  },
+  {
+    "sent_id": "23874",
+    "text": "quid prohibet me baptizari .",
+    "entities": []
+  },
+  {
+    "sent_id": "23875",
+    "text": "et iussit stare currum .",
+    "entities": []
+  },
+  {
+    "sent_id": "23877",
+    "text": "et descenderunt uterque in aquam Philippus et eunuchus et baptizauit eum .",
+    "entities": [
+      {
+        "text": "Philippus",
+        "label": "PERSON",
+        "start": 33,
+        "end": 42,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "23878",
+    "text": "cum autem ascendissent de aqua Spiritus Domini rapuit Philippum et amplius non uidit eum eunuchus .",
+    "entities": [
+      {
+        "text": "Philippum",
+        "label": "PERSON",
+        "start": 54,
+        "end": 63,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "23879",
+    "text": "ibat enim per uiam suam gaudens .",
+    "entities": []
+  },
+  {
+    "sent_id": "23880",
+    "text": "Philippus autem inuentus est in Azoto et pertransiens euangelizabat ciuitatibus cunctis donec ueniret Caesaream .",
+    "entities": [
+      {
+        "text": "Philippus",
+        "label": "PERSON",
+        "start": 0,
+        "end": 9,
+        "multi": false
+      },
+      {
+        "text": "Azoto",
+        "label": "LOC",
+        "start": 32,
+        "end": 37,
+        "multi": false
+      },
+      {
+        "text": "Caesaream",
+        "label": "LOC",
+        "start": 102,
+        "end": 111,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "26577",
+    "text": "propter quod inexcusabilis es o homo omnis qui iudicas .",
+    "entities": []
+  },
+  {
+    "sent_id": "26578",
+    "text": "in quo enim iudicas alterum te ipsum condemnas .",
+    "entities": []
+  },
+  {
+    "sent_id": "26579",
+    "text": "eadem enim agis qui iudicas .",
+    "entities": []
+  },
+  {
+    "sent_id": "26580",
+    "text": "scimus enim quoniam iudicium Dei est secundum ueritatem in eos qui talia agunt .",
+    "entities": []
+  },
+  {
+    "sent_id": "26581",
+    "text": "existimas autem hoc o homo qui iudicas eos qui talia agunt et facis ea quia tu effugies iudicium Dei .",
+    "entities": []
+  },
+  {
+    "sent_id": "26582",
+    "text": "an diuitias bonitatis eius et patientiae et longanimitatis contemnis ignorans quoniam benignitas Dei ad paenitentiam te adducit .",
+    "entities": []
+  },
+  {
+    "sent_id": "26584",
+    "text": "secundum duritiam autem tuam et inpaenitens cor thesaurizas tibi iram in die irae et reuelationis iusti iudicii Dei qui reddet unicuique secundum opera eius .",
+    "entities": []
+  },
+  {
+    "sent_id": "224745",
+    "text": "his quidem qui secundum patientiam boni operis gloriam et honorem et incorruptionem quaerentibus uitam aeternam .",
+    "entities": []
+  },
+  {
+    "sent_id": "224746",
+    "text": "his autem qui ex contentione et qui non adquiescunt ueritati credunt autem iniquitati ira et indignatio .",
+    "entities": []
+  },
+  {
+    "sent_id": "26587",
+    "text": "tribulatio et angustia in omnem animam hominis operantis malum Iudaei primum et Graeci .",
+    "entities": [
+      {
+        "text": "Iudaei",
+        "label": "NORP",
+        "start": 63,
+        "end": 69,
+        "multi": false
+      },
+      {
+        "text": "Graeci",
+        "label": "NORP",
+        "start": 80,
+        "end": 86,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "26588",
+    "text": "gloria autem et honor et pax omni operanti bonum Iudaeo primum et Graeco .",
+    "entities": [
+      {
+        "text": "Iudaeo",
+        "label": "NORP",
+        "start": 49,
+        "end": 55,
+        "multi": false
+      },
+      {
+        "text": "Graeco",
+        "label": "NORP",
+        "start": 66,
+        "end": 72,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "26589",
+    "text": "non est enim personarum acceptio apud Deum .",
+    "entities": []
+  },
+  {
+    "sent_id": "26590",
+    "text": "quicumque enim sine lege peccauerunt sine lege et peribunt .",
+    "entities": []
+  },
+  {
+    "sent_id": "26591",
+    "text": "et quicumque in lege peccauerunt per legem iudicabuntur .",
+    "entities": []
+  },
+  {
+    "sent_id": "26592",
+    "text": "non enim auditores legis iusti sunt apud Deum sed factores legis iustificabuntur .",
+    "entities": []
+  },
+  {
+    "sent_id": "26593",
+    "text": "cum enim gentes quae legem non habent naturaliter quae legis sunt faciunt eius modi legem non habentes ipsi sibi sunt lex .",
+    "entities": []
+  },
+  {
+    "sent_id": "26595",
+    "text": "si autem tu Iudaeus cognominaris et requiescis in lege et gloriaris in Deo et nosti uoluntatem et probas utiliora instructus per legem confidis te ipsum ducem esse caecorum lumen eorum qui in tenebris sunt eruditorem insipientium magistrum infantium habentem formam scientiae et ueritatis in lege .",
+    "entities": [
+      {
+        "text": "Iudaeus",
+        "label": "NORP",
+        "start": 12,
+        "end": 19,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "26596",
+    "text": "qui ergo alium doces te ipsum non doces .",
+    "entities": []
+  },
+  {
+    "sent_id": "26597",
+    "text": "qui praedicas non furandum furaris .",
+    "entities": []
+  },
+  {
+    "sent_id": "26598",
+    "text": "qui dicis non moechandum moecharis .",
+    "entities": []
+  }
+]

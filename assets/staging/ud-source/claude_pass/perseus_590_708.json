@@ -1,0 +1,859 @@
+[
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@735",
+    "text": "Si quid ab illa petii, nunquam mihi negatum;",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@736",
+    "text": "fecit assem, semissem habui;",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@738",
+    "text": "Huius contubernalis ad uillam supremum diem obiit.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@742",
+    "text": "Nactus ego occasionem persuadeo hospitem nostrum, ut me cum ad quintum miliarium ueniat.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@743",
+    "text": "Erat autem miles, fortis tanquam Orcus.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@744",
+    "text": "Apoculamus nos circa gallicinia, luna lucebat tanquam meridie.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@745",
+    "text": "Uenimus intra monimenta:",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@747",
+    "text": "Deinde ut respexi ad comitem, ille exuit se et omnia uestimenta secundum uiam posuit.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@750",
+    "text": "ut mentiar, nullius patrimonium tanti facio.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@753",
+    "text": "Qui mori timore nisi ego?",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@754",
+    "text": "Gladium tamen strinxi et in tota uia umbras cecidi, done ad uillam amicae meae peruenirem.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@756",
+    "text": "Melissa mea mirari coepi, quod tam sero ambularem, et ' Si ante ' inquit ' uenisses, saltem nobis adiutasses;",
+    "entities": [
+      {
+        "text": "Melissa",
+        "label": "PERSON",
+        "start": 0,
+        "end": 7,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@757",
+    "text": "lupus enim uillam intrauit et omnia pecora perculit, tanquam lanius sanguinem illis misit.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@758",
+    "text": "Nec tamen derisit, etiam si fugit;",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@761",
+    "text": "Ut uero domum ueni, iacebat miles meus in lecto tanquam bouis, et collum illius medicus curabat.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@762",
+    "text": "Intellexi illum uersipellem esse, nec postea cum illo panem gustare potui, non si me occidisses.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@763",
+    "text": "Uiderint alii quid de hoc exopinissent;",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@766",
+    "text": "immo certus est et minime linguosus.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@768",
+    "text": "asinus in tegulis.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@769",
+    "text": "Cum adhuc capillatus essem, nam a puero uitam Chiam gessi, ipsimi nostri delicatus decessit, mehercules margaritum, zacritus et omnium numerum.",
+    "entities": [
+      {
+        "text": "Chiam",
+        "label": "NORP",
+        "start": 46,
+        "end": 51,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@770",
+    "text": "Cum ergo illum mater misella plangeret et nos tum plures in tristimonio essemus, subito strigae stridere coepi;",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@771",
+    "text": "putares canem leporem persequi.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@773",
+    "text": "poterat bouem iratum tollere.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@774",
+    "text": "Hic audacter stricto gladio extra ostium procucurrit, inuoluta sinistra manu curiose, et mulierem tanquam hoc loco saluum sit, quod tangomediam traiecit.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@775",
+    "text": "Audimus gemitum, et plane non mentiar ipsas non uidimus.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@776",
+    "text": "Baro autem noster introuersus se proiecit in lectum, et corpus totum liuidum habebat quasi flagellis caesus, quia scilicet illum tetigerat mala manus.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@778",
+    "text": "Non cor habebat, non intestina, non quicquam:",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@779",
+    "text": "scilicet iam puerum strigae inuolauerant et supposuerant stramenticium uauatonem.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@782",
+    "text": "Miramur nos et pariter credimus, osculati que mensam rogamus nocturnas, ut suis se teneant, dum redimus a cena.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@784",
+    "text": "Nihil nos delectaris?",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@789",
+    "text": "Quid saltare?",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@793",
+    "text": "Apposita que ad os manu nescio quid taetrum exsibilauit, quod postea Graecum esse affirmabat.",
+    "entities": [
+      {
+        "text": "Graecum",
+        "label": "NORP",
+        "start": 69,
+        "end": 76,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@800",
+    "text": "Scylax, canino scilicet usus ingenio, taeterrimo latratu triclinium impleuit Margaritam que Croesi paene lacerauit.",
+    "entities": [
+      {
+        "text": "Croesi",
+        "label": "PERSON",
+        "start": 92,
+        "end": 98,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@801",
+    "text": "Nec intra rixam tumultus constitit, sed candelabrum etiam super mensam euersum et uasa omnia crystallina comminuit et oleo feruenti aliquot conuiuas respersit.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@802",
+    "text": "Trimalchio ne uideretur iactura motus, basiauit puerum ac iussit super dorsum ascendere suum.",
+    "entities": [
+      {
+        "text": "Trimalchio",
+        "label": "PERSON",
+        "start": 0,
+        "end": 10,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@805",
+    "text": "repressus ergo aliquamdiu Trimalchio camellam grandem iussit misceri.",
+    "entities": [
+      {
+        "text": "Trimalchio",
+        "label": "PERSON",
+        "start": 26,
+        "end": 36,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@811",
+    "text": "Inter haec triclinii ualuas lictor percussit, amictus que ueste alba cum ingenti frequentia comissator intrauit.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@812",
+    "text": "Ego maiestate conterritus praetorem putabam uenisse.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@813",
+    "text": "Itaque temptaui assurgere et nudos pedes in terram deferre.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@816",
+    "text": "Recreatus hoc sermone reposui cubitum, Habinnamintrantem que cumadmiratione ingenti spectabam.",
+    "entities": [
+      {
+        "text": "Habinnam",
+        "label": "PERSON",
+        "start": 39,
+        "end": 47,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@822",
+    "text": "Scissa lautum nouendiale seruo suo misello faciebat, quem mortuum manu miserat.",
+    "entities": [
+      {
+        "text": "Scissa",
+        "label": "PERSON",
+        "start": 0,
+        "end": 6,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@823",
+    "text": "Et puto, cum uicensimariis magnam mantissam habet;",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@832",
+    "text": "Itaque de scriblita quidem non minimum edi, de melle me usque tetigi.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@834",
+    "text": "Ego tamen duo sustuli et ecce in mappa alligata habeo;",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@836",
+    "text": "In prospectu habuimus ursinae frustum, de quo cum imprudens Scintilla gustasset, paene intestina sua uomuit;",
+    "entities": [
+      {
+        "text": "Scintilla",
+        "label": "PERSON",
+        "start": 60,
+        "end": 69,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@837",
+    "text": "ego contra plus libram comedi, nam ipsum aprum sapiebat.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@838",
+    "text": "Et si, inquam, ursus homuncionem comest quanto magis homuncio debet ursum comesse?",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@839",
+    "text": "In summo habuimus caseum mollem ex sapa et cocleas singulas et cordae frusta et hepatia in catillis et oua pilleata et rapam et senape et catillum concacatum, pax Palamedes.",
+    "entities": [
+      {
+        "text": "Palamedes",
+        "label": "PERSON",
+        "start": 163,
+        "end": 172,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@845",
+    "text": "Uenit ergo galbino succincta cingillo, ita ut infra cerasina appareret tunica et periscelides tortae phaecasiae que inauratae.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@848",
+    "text": "Ultimo etiam periscelides resoluit et reticulum aureum, quem ex obrussa esse dicebat.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@850",
+    "text": "sic nos barcalae despoliamur.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@851",
+    "text": "Sex pondo et selibram debet habere.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@853",
+    "text": "Ultimo etiam, ne mentiri uideretur, stateram iussit afferri et circumlatum approbari pondus.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@858",
+    "text": "Plane si filiam haberem, auriculas illi praeciderem.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@861",
+    "text": "Interim mulieres sauciae inter se riserunt ebriae que iunxerunt oscula, dum altera diligentiam matris familiae iactat, altera delicias et indiligentiam uiri.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@864",
+    "text": "Composita ergo in gremio Scintillae incensissimam rubore faciem sudario abscondit.",
+    "entities": [
+      {
+        "text": "Scintillae",
+        "label": "PERSON",
+        "start": 25,
+        "end": 35,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@865",
+    "text": "Interposito deinde spatio cum secundas mensas Trimalchio iussisset afferri, sustulerunt serui omnes mensas et alias attulerunt, scobem que croco et minio tinctam sparserunt et, quod nunquam ante uideram, ex lapide speculari puluerem tritum.",
+    "entities": [
+      {
+        "text": "Trimalchio",
+        "label": "PERSON",
+        "start": 46,
+        "end": 56,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@869",
+    "text": "Interim puer Alexandrinus, qui caldam ministrabat, luscinias coepi imitari clamante Trimalchione subinde:",
+    "entities": [
+      {
+        "text": "Alexandrinus",
+        "label": "NORP",
+        "start": 13,
+        "end": 25,
+        "multi": false
+      },
+      {
+        "text": "Trimalchione",
+        "label": "PERSON",
+        "start": 84,
+        "end": 96,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@872",
+    "text": "Seruus qui ad pedes Habinnae sedebat, iussus, credo, a domino suo proclamauit subito canora uoce:",
+    "entities": [
+      {
+        "text": "Habinnae",
+        "label": "PERSON",
+        "start": 20,
+        "end": 28,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@874",
+    "text": "Nullus sonus unquam acidior percussit aures meas;",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@877",
+    "text": "Itaque parem non habet, siue muliones uolet siue circulatores imitari.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@878",
+    "text": "Desperatum ualde ingeniosus est:",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@879",
+    "text": "idem sutor est, idem cocus idem pistor, omnis Musae mancipium.",
+    "entities": [
+      {
+        "text": "Musae",
+        "label": "PERSON",
+        "start": 46,
+        "end": 51,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@880",
+    "text": "Duo tamen uitia habet, quae si non haberet, esset omnium numerum:",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@881",
+    "text": "recutitus est et stertit.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@883",
+    "text": "sicut Uenus spectat.",
+    "entities": [
+      {
+        "text": "Uenus",
+        "label": "PERSON",
+        "start": 6,
+        "end": 11,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@887",
+    "text": "Agaga est;",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@890",
+    "text": "nihil sibi defraudit, et mehercules laudo illum;",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@891",
+    "text": "hoc enim nemo parentat.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@893",
+    "text": "Crede mihi, et uos nouimus.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@894",
+    "text": "Sic me saluum habeatis, ut ego sic solebam ipsumam meam debattuere, ut etiam dominus suspicaretur;",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@895",
+    "text": "et ideo me in uilicationem relegauit.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@901",
+    "text": "Et haec quidem tolerabilia erant, si non fericulum longe monstrosius effecisset, ut uel fame perire mallemus.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@905",
+    "text": "Necdum finieram sermonem, cum Trimalchio ait:",
+    "entities": [
+      {
+        "text": "Trimalchio",
+        "label": "PERSON",
+        "start": 30,
+        "end": 40,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@907",
+    "text": "Non potest esse pretiosior homo.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@913",
+    "text": "Etiam nobis potestatem fecit, ut mucronem ad buccam probaremus.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@914",
+    "text": "Subito intrauerunt duo serui, tanquam qui rixam ad lacum fecissent;",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@915",
+    "text": "certe in collo adhuc amphoras habebant.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@916",
+    "text": "Cum ergo Trimalchio ius inter litigantes diceret, neuter sententiam tulit decernentis, sed alterius amphoram fuste percussit.",
+    "entities": [
+      {
+        "text": "Trimalchio",
+        "label": "PERSON",
+        "start": 9,
+        "end": 19,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@918",
+    "text": "Has lautitias aequauit ingeniosus cocus;",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@919",
+    "text": "in craticula enim argentea cochleas attulit et tremula taeterrima que uoce cantauit.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@920",
+    "text": "Pudet referre, quae secuntur:",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@921",
+    "text": "inaudito enim more pueri capillati attulerunt unguentum in argentea pelue pedes que recumbentium unxerunt, cum ante crura talos que corollis uinxissent.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@924",
+    "text": "Quid multa?",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@926",
+    "text": "Certe ego notaui super me positum cocum, qui de porco anserem fecerat, muria condimentis que fetentem.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@929",
+    "text": "Tamen me saluo cito aquam liberam gustabunt.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@931",
+    "text": "Philargyro etiam fundum lego et contubernalem suam, Carioni quoque insulam et uicesimam et lectum stratum.",
+    "entities": [
+      {
+        "text": "Philargyro",
+        "label": "PERSON",
+        "start": 0,
+        "end": 10,
+        "multi": false
+      },
+      {
+        "text": "Carioni",
+        "label": "PERSON",
+        "start": 52,
+        "end": 59,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@934",
+    "text": "Gratias agere omnes indulgentiae coepi domini, cum ille oblitus nugarum exemplar testamenti iussit afferri et totum a primo ad ultimum ingemescente familia recitauit.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@936",
+    "text": "Aedificas monumentum meum, quemadmodum te iussi?",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@937",
+    "text": "Ualde te rogo, ut secundum pedes statuae meae catellam ponas et coronas et unguenta et Petraitis omnes pugnas, ut mihi contingat tuo beneficio post mortem uiuere;",
+    "entities": [
+      {
+        "text": "Petraitis",
+        "label": "PERSON",
+        "start": 87,
+        "end": 96,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@941",
+    "text": "Et ideo ante omnia adici uolo:",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@942",
+    "text": "hoc monumentum heredem non sequitur.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@943",
+    "text": "Ceterum erit mih icurae, ut testamento caueam, ne mortuus iniuriam accipiam.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@945",
+    "text": "Te rogo, ut naues etiam.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@946",
+    "text": "monumenti mei facias plenis uelis euntes, et me in tribunali sedentem praetextatum cum anulis aureis quinque et nummos in publico de sacculo effundentem;",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@948",
+    "text": "Faciatur, si tibi uidetur, et triclinia.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@949",
+    "text": "Facias et totum populum sibi suauiter facientem.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@950",
+    "text": "Ad dexteram meam ponas statuam Fortunatae meae columbam tenentem:",
+    "entities": [
+      {
+        "text": "Fortunatae",
+        "label": "PERSON",
+        "start": 31,
+        "end": 41,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@951",
+    "text": "et catellam cingulo alligatam ducat:",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@952",
+    "text": "et cicaronem meum, et amphoras copiosas gypsatas, ne effluant uinum.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@953",
+    "text": "Et urnam licet fractam sculpas, et super eam puerum plorantem.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@958",
+    "text": "Cum posset in omnibus decuriis Romae esse, tamen noluit.",
+    "entities": [
+      {
+        "text": "Romae",
+        "label": "LOC",
+        "start": 31,
+        "end": 36,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@960",
+    "text": "Uale:",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@962",
+    "text": "Haec ut dixit Trimalchio, flere coepi ubertim.",
+    "entities": [
+      {
+        "text": "Trimalchio",
+        "label": "PERSON",
+        "start": 14,
+        "end": 24,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@963",
+    "text": "Flebat et Fortunata, flebat et Habinnas, tota denique familia, tanquam in funus rogata, lamentatione triclinium impleuit.",
+    "entities": [
+      {
+        "text": "Fortunata",
+        "label": "PERSON",
+        "start": 10,
+        "end": 19,
+        "multi": false
+      },
+      {
+        "text": "Habinnas",
+        "label": "PERSON",
+        "start": 31,
+        "end": 39,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@965",
+    "text": "Sic uos felices uideam, coniciamus nos in balneum, meo periculo, non paenitebit.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@971",
+    "text": "Cum haec placuissent, ducente per porticum Gitone ad ianuam uenimus, ubi canis catenarius tanto nos tumultu excepit, ut Ascyltos etiam in piscinam ceciderit.",
+    "entities": [
+      {
+        "text": "Gitone",
+        "label": "PERSON",
+        "start": 43,
+        "end": 49,
+        "multi": false
+      },
+      {
+        "text": "Ascyltos",
+        "label": "PERSON",
+        "start": 120,
+        "end": 128,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@973",
+    "text": "Seruauit nos tamen atriensis, qui interuentu suo et canem placauit et nos trementes extraxit in siccum.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@974",
+    "text": "Et Giton quidem iam dudum se ratione acutissima redemerat a cane;",
+    "entities": [
+      {
+        "text": "Giton",
+        "label": "PERSON",
+        "start": 3,
+        "end": 8,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@979",
+    "text": "Quid faciamus homines miserrimi et noui generis labyrintho inclusi,",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@980",
+    "text": "quibus lauari iam coepi uotum esse?",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@981",
+    "text": "Ultro ergo rogauimus, ut nos ad balneum duceret, proiectis que uestimentis, quae Giton in aditu siccare coepi, balneum intrauimus, angustum scilicet et cisternae frigidariae simile, in quo Trimalchio rectus stabat.",
+    "entities": [
+      {
+        "text": "Giton",
+        "label": "PERSON",
+        "start": 81,
+        "end": 86,
+        "multi": false
+      },
+      {
+        "text": "Trimalchio",
+        "label": "PERSON",
+        "start": 189,
+        "end": 199,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@982",
+    "text": "Ac ne sic quidem putidissimam eius iactationem licuit effugere;",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@983",
+    "text": "Deinde ut lassatus consedit, inuitatus balnei Sono diduxit usque ad cameramos ebrium et coepi Menecratis cantica lacerare, sicut illi dicebant, qui linguam eius intellegebant.",
+    "entities": [
+      {
+        "text": "Menecratis",
+        "label": "PERSON",
+        "start": 94,
+        "end": 104,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@984",
+    "text": "Ceteri conuiuae circa labrum manibus nexis currebant et gingilipho ingenti clamore exsonabant.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@986",
+    "text": "Nos, dum alii sibi ludos faciunt, in solium, quod Trimalchioni uaporabatur, descendimus.",
+    "entities": [
+      {
+        "text": "Trimalchioni",
+        "label": "PERSON",
+        "start": 50,
+        "end": 62,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@988",
+    "text": "aeneolos que piscatores notauerim et mensas totas argenteas calices que circa fictiles inauratos et uinum in conspectu sacco defluens.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0972.phi001.perseus-lat1.xml@991",
+    "text": "Haec dicente eo Gallus gallinaceus cantauit.",
+    "entities": []
+  }
+]

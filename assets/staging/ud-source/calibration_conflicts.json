@@ -1,0 +1,506 @@
+[
+ {
+  "tb": "perseus",
+  "sent_id": "phi0690.phi003.perseus-lat1.tb.xml@51",
+  "text": "Lauini",
+  "conflict": "label_conflict:model=PERSON,claude=LOC",
+  "nel": null
+ },
+ {
+  "tb": "perseus",
+  "sent_id": "phi0690.phi003.perseus-lat1.tb.xml@51",
+  "text": "Dardanidae",
+  "conflict": "label_conflict:model=LOC,claude=NORP",
+  "nel": null
+ },
+ {
+  "tb": "perseus",
+  "sent_id": "phi0690.phi003.perseus-lat1.tb.xml@55",
+  "text": "Xanthus",
+  "conflict": "label_conflict:model=PERSON,claude=LOC",
+  "nel": null
+ },
+ {
+  "tb": "perseus",
+  "sent_id": "phi0690.phi003.perseus-lat1.tb.xml@133",
+  "text": "Aornon",
+  "conflict": "label_conflict:model=PERSON,claude=LOC",
+  "nel": null
+ },
+ {
+  "tb": "perseus",
+  "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@5",
+  "text": "Lycaoniae",
+  "conflict": "label_conflict:model=PERSON,claude=NORP",
+  "nel": null
+ },
+ {
+  "tb": "perseus",
+  "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@34",
+  "text": "Lycaei",
+  "conflict": "label_conflict:model=PERSON,claude=LOC",
+  "nel": "Q1878690"
+ },
+ {
+  "tb": "perseus",
+  "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@35",
+  "text": "Arcadis",
+  "conflict": "label_conflict:model=PERSON,claude=NORP",
+  "nel": "Q12898802"
+ },
+ {
+  "tb": "perseus",
+  "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@191",
+  "text": "Claros",
+  "conflict": "label_conflict:model=NORP,claude=LOC",
+  "nel": "Q1933754"
+ },
+ {
+  "tb": "perseus",
+  "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@203",
+  "text": "Peneidas",
+  "conflict": "label_conflict:model=PERSON,claude=LOC",
+  "nel": null
+ },
+ {
+  "tb": "perseus",
+  "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@212",
+  "text": "Latiis",
+  "conflict": "label_conflict:model=LOC,claude=NORP",
+  "nel": "Q17078056"
+ },
+ {
+  "tb": "perseus",
+  "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@218",
+  "text": "Peneus",
+  "conflict": "label_conflict:model=LOC,claude=PERSON",
+  "nel": "Q1364612"
+ },
+ {
+  "tb": "perseus",
+  "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@221",
+  "text": "Apidanus",
+  "conflict": "label_conflict:model=PERSON,claude=LOC",
+  "nel": "EDITION:Apidanus"
+ },
+ {
+  "tb": "perseus",
+  "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@317",
+  "text": "Indos",
+  "conflict": "label_conflict:model=LOC,claude=NORP",
+  "nel": "Q668"
+ },
+ {
+  "tb": "perseus",
+  "sent_id": "phi0972.phi001.perseus-lat1.xml@50",
+  "text": "Tyria",
+  "conflict": "label_conflict:model=LOC,claude=NORP",
+  "nel": null
+ },
+ {
+  "tb": "perseus",
+  "sent_id": "phi0972.phi001.perseus-lat1.xml@139",
+  "text": "Atticum",
+  "conflict": "label_conflict:model=PERSON,claude=NORP",
+  "nel": null
+ },
+ {
+  "tb": "perseus",
+  "sent_id": "phi0972.phi001.perseus-lat1.xml@287",
+  "text": "Phileros",
+  "conflict": "label_conflict:model=NORP,claude=PERSON",
+  "nel": null
+ },
+ {
+  "tb": "perseus",
+  "sent_id": "phi0972.phi001.perseus-lat1.xml@592",
+  "text": "Atticum",
+  "conflict": "label_conflict:model=PERSON,claude=NORP",
+  "nel": null
+ },
+ {
+  "tb": "perseus",
+  "sent_id": "phi0972.phi001.perseus-lat1.xml@696",
+  "text": "Homeristae",
+  "conflict": "label_conflict:model=PERSON,claude=NORP",
+  "nel": null
+ },
+ {
+  "tb": "perseus",
+  "sent_id": "phi0972.phi001.perseus-lat1.xml@769",
+  "text": "Chiam",
+  "conflict": "label_conflict:model=LOC,claude=NORP",
+  "nel": null
+ },
+ {
+  "tb": "perseus",
+  "sent_id": "phi0972.phi001.perseus-lat1.xml@869",
+  "text": "Alexandrinus",
+  "conflict": "label_conflict:model=PERSON,claude=NORP",
+  "nel": null
+ },
+ {
+  "tb": "proiel",
+  "sent_id": "16683",
+  "text": "Iudam",
+  "conflict": "label_conflict:model=LOC,claude=PERSON",
+  "nel": "Q282220"
+ },
+ {
+  "tb": "proiel",
+  "sent_id": "18894",
+  "text": "Iudam Simonis Scariotis",
+  "conflict": "label_conflict:model=LOC,claude=PERSON",
+  "nel": null
+ },
+ {
+  "tb": "proiel",
+  "sent_id": "23746",
+  "text": "Aegyptio",
+  "conflict": "label_conflict:model=PERSON,claude=NORP",
+  "nel": "Q79"
+ },
+ {
+  "tb": "proiel",
+  "sent_id": "23772",
+  "text": "Israhel",
+  "conflict": "label_conflict:model=PERSON,claude=NORP",
+  "nel": "Q51669"
+ },
+ {
+  "tb": "proiel",
+  "sent_id": "33562",
+  "text": "Philadelphiae",
+  "conflict": "label_conflict:model=PERSON,claude=LOC",
+  "nel": null
+ },
+ {
+  "tb": "proiel",
+  "sent_id": "33623",
+  "text": "Iuda",
+  "conflict": "label_conflict:model=LOC,claude=NORP",
+  "nel": "Q282220"
+ },
+ {
+  "tb": "proiel",
+  "sent_id": "82319",
+  "text": "Canusinus",
+  "conflict": "label_conflict:model=PERSON,claude=NORP",
+  "nel": null
+ },
+ {
+  "tb": "proiel",
+  "sent_id": "76047",
+  "text": "Amaltheam",
+  "conflict": "label_conflict:model=PERSON,claude=LOC",
+  "nel": "Q3257"
+ },
+ {
+  "tb": "proiel",
+  "sent_id": "76048",
+  "text": "Epiroticis",
+  "conflict": "label_conflict:model=LOC,claude=NORP",
+  "nel": null
+ },
+ {
+  "tb": "proiel",
+  "sent_id": "82332",
+  "text": "Lycurgei",
+  "conflict": "label_conflict:model=PERSON,claude=NORP",
+  "nel": null
+ },
+ {
+  "tb": "proiel",
+  "sent_id": "76069",
+  "text": "Miseni",
+  "conflict": "label_conflict:model=PERSON,claude=LOC",
+  "nel": null
+ },
+ {
+  "tb": "proiel",
+  "sent_id": "81808",
+  "text": "Amalthea",
+  "conflict": "label_conflict:model=PERSON,claude=LOC",
+  "nel": "Q3257"
+ },
+ {
+  "tb": "proiel",
+  "sent_id": "77576",
+  "text": "Arpinatium",
+  "conflict": "label_conflict:model=PERSON,claude=NORP",
+  "nel": null
+ },
+ {
+  "tb": "udante",
+  "sent_id": "DVE-49",
+  "text": "Florentiam",
+  "conflict": "label_conflict:model=PERSON,claude=LOC",
+  "nel": null
+ },
+ {
+  "tb": "udante",
+  "sent_id": "DVE-79",
+  "text": "Ungarorum",
+  "conflict": "label_conflict:model=LOC,claude=NORP",
+  "nel": null
+ },
+ {
+  "tb": "udante",
+  "sent_id": "DVE-80-b",
+  "text": "Yspani",
+  "conflict": "label_conflict:model=PERSON,claude=NORP",
+  "nel": null
+ },
+ {
+  "tb": "udante",
+  "sent_id": "DVE-84-c",
+  "text": "Apenini",
+  "conflict": "label_conflict:model=PERSON,claude=LOC",
+  "nel": null
+ },
+ {
+  "tb": "udante",
+  "sent_id": "DVE-91-c",
+  "text": "Fauentini",
+  "conflict": "label_conflict:model=PERSON,claude=NORP",
+  "nel": null
+ },
+ {
+  "tb": "udante",
+  "sent_id": "DVE-91-c",
+  "text": "Strate Maioris",
+  "conflict": "label_conflict:model=PERSON,claude=LOC",
+  "nel": null
+ },
+ {
+  "tb": "udante",
+  "sent_id": "DVE-110-a",
+  "text": "Apenini",
+  "conflict": "label_conflict:model=PERSON,claude=LOC",
+  "nel": null
+ },
+ {
+  "tb": "udante",
+  "sent_id": "DVE-111-a",
+  "text": "Ducatus",
+  "conflict": "label_conflict:model=PERSON,claude=LOC",
+  "nel": null
+ },
+ {
+  "tb": "udante",
+  "sent_id": "DVE-111-b",
+  "text": "Romandiola",
+  "conflict": "label_conflict:model=NORP,claude=LOC",
+  "nel": null
+ },
+ {
+  "tb": "udante",
+  "sent_id": "DVE-111-b",
+  "text": "Uenetiis",
+  "conflict": "label_conflict:model=PERSON,claude=LOC",
+  "nel": null
+ },
+ {
+  "tb": "udante",
+  "sent_id": "DVE-113-a",
+  "text": "Sardis",
+  "conflict": "label_conflict:model=LOC,claude=NORP",
+  "nel": null
+ },
+ {
+  "tb": "udante",
+  "sent_id": "DVE-113-b",
+  "text": "Lombardis",
+  "conflict": "label_conflict:model=LOC,claude=NORP",
+  "nel": null
+ },
+ {
+  "tb": "udante",
+  "sent_id": "DVE-113-b",
+  "text": "Triuisianis",
+  "conflict": "label_conflict:model=PERSON,claude=NORP",
+  "nel": null
+ },
+ {
+  "tb": "udante",
+  "sent_id": "DVE-113-b",
+  "text": "Ystrianis",
+  "conflict": "label_conflict:model=PERSON,claude=NORP",
+  "nel": null
+ },
+ {
+  "tb": "udante",
+  "sent_id": "DVE-122",
+  "text": "Anconitane Marchie",
+  "conflict": "label_conflict:model=PERSON,claude=LOC",
+  "nel": null
+ },
+ {
+  "tb": "udante",
+  "sent_id": "DVE-123-a",
+  "text": "Florentinus",
+  "conflict": "label_conflict:model=PERSON,claude=NORP",
+  "nel": null
+ },
+ {
+  "tb": "udante",
+  "sent_id": "DVE-123-a",
+  "text": "Castra",
+  "conflict": "label_conflict:model=LOC,claude=PERSON",
+  "nel": null
+ },
+ {
+  "tb": "udante",
+  "sent_id": "DVE-127-a",
+  "text": "Latiis",
+  "conflict": "label_conflict:model=LOC,claude=NORP",
+  "nel": "Q17078056"
+ },
+ {
+  "tb": "udante",
+  "sent_id": "DVE-137-a",
+  "text": "Apuli",
+  "conflict": "label_conflict:model=LOC,claude=NORP",
+  "nel": null
+ },
+ {
+  "tb": "udante",
+  "sent_id": "DVE-137-b",
+  "text": "Apuli",
+  "conflict": "label_conflict:model=LOC,claude=NORP",
+  "nel": null
+ },
+ {
+  "tb": "udante",
+  "sent_id": "DVE-140",
+  "text": "Gallum Pisanum",
+  "conflict": "label_conflict:model=NORP,claude=PERSON",
+  "nel": null
+ },
+ {
+  "tb": "udante",
+  "sent_id": "DVE-140",
+  "text": "Minum Mocatum Senensem",
+  "conflict": "label_conflict:model=NORP,claude=PERSON",
+  "nel": null
+ },
+ {
+  "tb": "udante",
+  "sent_id": "DVE-143",
+  "text": "Pisa",
+  "conflict": "label_conflict:model=NORP,claude=LOC",
+  "nel": null
+ },
+ {
+  "tb": "udante",
+  "sent_id": "DVE-146",
+  "text": "Cynum Pistoriensem",
+  "conflict": "label_conflict:model=NORP,claude=PERSON",
+  "nel": null
+ },
+ {
+  "tb": "udante",
+  "sent_id": "DVE-150",
+  "text": "Apenini",
+  "conflict": "label_conflict:model=PERSON,claude=LOC",
+  "nel": null
+ },
+ {
+  "tb": "udante",
+  "sent_id": "DVE-161",
+  "text": "Sordellus de Mantua",
+  "conflict": "label_conflict:model=LOC,claude=PERSON",
+  "nel": null
+ },
+ {
+  "tb": "udante",
+  "sent_id": "DVE-161",
+  "text": "Uerone",
+  "conflict": "label_conflict:model=PERSON,claude=LOC",
+  "nel": null
+ },
+ {
+  "tb": "udante",
+  "sent_id": "DVE-162-a",
+  "text": "Lombardorum",
+  "conflict": "label_conflict:model=LOC,claude=NORP",
+  "nel": null
+ },
+ {
+  "tb": "udante",
+  "sent_id": "DVE-211",
+  "text": "Lombardi",
+  "conflict": "label_conflict:model=LOC,claude=NORP",
+  "nel": null
+ },
+ {
+  "tb": "udante",
+  "sent_id": "DVE-287-f",
+  "text": "Columpnis",
+  "conflict": "label_conflict:model=LOC,claude=PERSON",
+  "nel": null
+ },
+ {
+  "tb": "udante",
+  "sent_id": "DVE-287-g",
+  "text": "Aquino",
+  "conflict": "label_conflict:model=PERSON,claude=LOC",
+  "nel": null
+ },
+ {
+  "tb": "udante",
+  "sent_id": "DVE-304-d",
+  "text": "Totila",
+  "conflict": "label_conflict:model=LOC,claude=PERSON",
+  "nel": null
+ },
+ {
+  "tb": "udante",
+  "sent_id": "DVE-306-b",
+  "text": "Marsilia",
+  "conflict": "label_conflict:model=PERSON,claude=LOC",
+  "nel": null
+ },
+ {
+  "tb": "udante",
+  "sent_id": "DVE-306-d",
+  "text": "Belnui",
+  "conflict": "label_conflict:model=NORP,claude=LOC",
+  "nel": null
+ },
+ {
+  "tb": "udante",
+  "sent_id": "DVE-306-f",
+  "text": "Nauarre",
+  "conflict": "label_conflict:model=NORP,claude=LOC",
+  "nel": null
+ },
+ {
+  "tb": "udante",
+  "sent_id": "DVE-384-a",
+  "text": "Yspani",
+  "conflict": "label_conflict:model=PERSON,claude=NORP",
+  "nel": null
+ },
+ {
+  "tb": "udante",
+  "sent_id": "DVE-384-b",
+  "text": "Belnui",
+  "conflict": "label_conflict:model=NORP,claude=LOC",
+  "nel": null
+ },
+ {
+  "tb": "udante",
+  "sent_id": "DVE-388-a",
+  "text": "Ghisileriis",
+  "conflict": "label_conflict:model=NORP,claude=LOC",
+  "nel": null
+ },
+ {
+  "tb": "udante",
+  "sent_id": "DVE-391-b",
+  "text": "Florentini",
+  "conflict": "label_conflict:model=PERSON,claude=NORP",
+  "nel": null
+ }
+]

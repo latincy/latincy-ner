@@ -1,0 +1,937 @@
+[
+  {
+    "sent_id": "DVE-265-a",
+    "text": "Quando quidem aporiauimus extricantes qui sint aulico digni uulgari et que, nec non modum quem tanto dignamur honore ut solus altissimo uulgari conueniat, antequam migremus ad alia modum cantionum, quem casu magis quam arte multi usurpare uidentur, enucleemus;",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-265-b",
+    "text": "et qui hucusque casualiter est assumptus, illius artis ergasterium reseremus, modum ballatarum et sonituum ommictentes, quia illum elucidare intendimus in quarto huius operis, cum de mediocri uulgari tractabimus.",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-266",
+    "text": "Reuisentes igitur ea que dicta sunt, recolimus nos eos qui uulgariter uersificantur plerunque uocasse poetas: quod procul dubio rationabiliter eructare presumpsimus, quia prorsus poete sunt, si poesim recte consideremus: que nichil aliud est quam fictio rethorica musica que poita.",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-267",
+    "text": "Differunt tamen a magnis poetis, hoc est regularibus, quia magni sermone et arte regulari poetati sunt, hii uero casu, ut dictum est.",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-268",
+    "text": "Idcirco accidit ut, quantum illos proximius imitemur, tantum rectius poetemur.",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-269",
+    "text": "Unde nos doctrine operi intendentes doctrinatas eorum poetrias emulari oportet.",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-270",
+    "text": "Ante omnia ergo dicimus unumquenque debere materie pondus propriis humeris coequare, ne forte humerorum nimio grauata uirtute in cenum cespitare necesse sit: hoc est quod Magister noster Oratius precipit cum in principio Poetrie «Sumite materiam» dicit.",
+    "entities": [
+      {
+        "text": "Oratius",
+        "label": "PERSON",
+        "start": 187,
+        "end": 194,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "DVE-271",
+    "text": "Deinde in hiis que dicenda occurrunt debemus discretione potiri, utrum tragice, siue comice, siue elegiace sint canenda.",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-272",
+    "text": "Per tragediam superiorem stilum inducimus, per comediam inferiorem, per elegiam stilum intelligimus miserorum.",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-273",
+    "text": "Si tragice canenda uidentur, tunc assumendum est uulgare illustre, et per consequens cantionem ligare.",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-274-a",
+    "text": "Si uero comice, tunc quandoque mediocre quandoque humile uulgare sumatur:",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-274-b",
+    "text": "et huius discretionem in quarto huius reseruamus ostendere.",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-275",
+    "text": "Si autem elegiace, solum humile oportet nos sumere.",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-276",
+    "text": "Sed ommictamus alios, et nunc, ut conueniens est, de stilo tragico pertractemus.",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-277",
+    "text": "Stilo equidem tragico tunc uti uidemur quando cum grauitate sententie tam superbia carminum quam constructionis elatio et excellentia uocabulorum concordat.",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-278",
+    "text": "Qua re , si bene recolimus summa summis esse digna iam fuisse probatum, et iste quem tragicum appellamus summus uidetur esse stilorum, illa que summe canenda distinximus isto solo sunt stilo canenda uidelicet salus, amor et uirtus et que propter ea concipimus, dum nullo accidente uilescant.",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-279",
+    "text": "Caueat ergo quilibet et discernat ea que dicimus, et quando pure hec tria cantare intendit, uel que ad ea directe ac pure secuntur, prius Elicone potatus, tensis fidibus ad supremum, secure plectrum tum mouere incipiat.",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-280",
+    "text": "Sed cautionem atque discretionem hanc accipere, sicut decet, hic opus et labor est, quoniam nunquam sine strenuitate ingenii et artis assiduitate scientiarum que habitu fieri potest.",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-281",
+    "text": "Et hii sunt quos Poeta Eneidorum sexto Dei dilectos et ab ardente uirtute sublimatos ad ethera deorum que filios uocat, quanquam figurate loquatur.",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-282-a",
+    "text": "Et ideo confutetur illorum stultitia qui, arte scientia que immunes, de solo ingenio confidentes, ad summa summe canenda prorumpunt;",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-282-b",
+    "text": "et a tanta presumptuositate desistant, et si anseres natura uel desidia sunt, nolint astripetam aquilam imitari.",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-283-a",
+    "text": "De grauitate sententiarum uel satis dixisse uidemur uel saltim totum quod operis est nostri:",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-283-b",
+    "text": "quapropter ad superbiam carminum festinemus.",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-284-a",
+    "text": "Circa quod sciendum quod predecessores nostri diuersis carminibus usi sunt in cantionibus suis, quod et moderni faciunt:",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-284-b",
+    "text": "sed nullum adhuc inuenimus in carmen sillabicando endecadem transcendisse, nec a trisillabo descendisse.",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-285",
+    "text": "Et licet trisillabo carmine atque endecasillabo et omnibus intermediis cantores latii usi sint, pentasillabum et eptasillabum et endecasillabum in usu frequentiori habentur, et post hec trisillabum ante alia.",
+    "entities": [
+      {
+        "text": "latii",
+        "label": "LOC",
+        "start": 80,
+        "end": 85,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "DVE-286-a",
+    "text": "Quorum omnium endecasillabum uidetur esse superbius, tam temporis occupatione quam capacitate sententie, constructionis et uocabulorum;",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-286-b",
+    "text": "quorum omnium specimen magis multiplicatur in illo, ut manifeste apparet:",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-286-c",
+    "text": "nam ubicunque ponderosa multiplicantur, multiplicatur et pondus.",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-287-a",
+    "text": "Et hoc omnes doctores perpendisse uidentur, cantiones illustres principiantes ab illo; ut Gerardus de B.: Ara ausirez encabalitz cantarz (quod carmen, licet decasillabum uideatur, secundum rei ueritatem endecasillabum est:",
+    "entities": [
+      {
+        "text": "Gerardus",
+        "label": "PERSON",
+        "start": 90,
+        "end": 98,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "DVE-287-b",
+    "text": "nam due consonantes extreme non sunt de sillaba precedente, et licet propriam uocalem non habeant, uirtutem sillabe non tamen ammictunt;",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-287-c",
+    "text": "signum autem est quod rithimus ibi una uocali perficitur, quod esse non posset nisi uirtute alterius ibi subintellecte;",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-287-d",
+    "text": ") Rex Nauarre: De fin amor si uient sen et bonté (ubi, si consideretur accentus et eius causa, endecasillabum esse constabit;",
+    "entities": [
+      {
+        "text": "Nauarre",
+        "label": "LOC",
+        "start": 6,
+        "end": 13,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "DVE-287-e",
+    "text": ") Guido Guinizelli: Al cor gentil repara sempre amore;",
+    "entities": [
+      {
+        "text": "Guido Guinizelli",
+        "label": "PERSON",
+        "start": 2,
+        "end": 18,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "DVE-287-f",
+    "text": "Iudex de Columpnis de Messana: Amor, che lungiamente m'hai menato;",
+    "entities": [
+      {
+        "text": "Columpnis",
+        "label": "PERSON",
+        "start": 9,
+        "end": 18,
+        "multi": false
+      },
+      {
+        "text": "Messana",
+        "label": "LOC",
+        "start": 22,
+        "end": 29,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "DVE-287-g",
+    "text": "Renaldus de Aquino: Per fino amore uo si letamente;",
+    "entities": [
+      {
+        "text": "Renaldus",
+        "label": "PERSON",
+        "start": 0,
+        "end": 8,
+        "multi": false
+      },
+      {
+        "text": "Aquino",
+        "label": "LOC",
+        "start": 12,
+        "end": 18,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "DVE-287-h",
+    "text": "Cynus Pistoriensis: Non spero che giamai per mia salute;",
+    "entities": [
+      {
+        "text": "Cynus",
+        "label": "PERSON",
+        "start": 0,
+        "end": 5,
+        "multi": false
+      },
+      {
+        "text": "Pistoriensis",
+        "label": "NORP",
+        "start": 6,
+        "end": 18,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "DVE-287-i",
+    "text": "amicus eius: Amor, che moui tua uirtù da cielo.",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-288",
+    "text": "Et licet hoc quod dictum est celeberrimum carmen, ut dignum est, uideatur omnium aliorum, si eptasillabi aliqualem societatem assumat, dummodo principatum obtineat, clarius magis que sursum superbire uidetur.",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-289",
+    "text": "Sed hoc ulterius elucidandum remaneat.",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-290",
+    "text": "Et dicimus eptasillabum sequi illud quod maximum est in celebritate.",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-291",
+    "text": "Post hoc pentasillabum et deinde trisillabum ordinamus.",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-292",
+    "text": "Neasillabum uero, quia triplicatum trisillabum uidebatur, uel nunquam in honore fuit uel propter fastidium absoleuit.",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-293-a",
+    "text": "Parisillabis uero propter sui ruditatem non utimur nisi raro:",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-293-b",
+    "text": "retinent enim naturam suorum numerorum, qui numeris imparibus quemadmodum materia forme subsistunt.",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-294-a",
+    "text": "Et sic, recolligentes predicta, endecasillabum uidetur esse superbissimum carmen:",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-294-b",
+    "text": "et hoc est quod querebamus.",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-295-a",
+    "text": "Nunc autem restat inuestigandum de constructionibus elatis et fastigiosis uocabulis;",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-295-b",
+    "text": "et demum, fustibus torquibus que paratis, promissum fascem, hoc est cantionem, quo modo uiere quis debeat instruemus.",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-296",
+    "text": "Quia circa uulgare illustre nostra uersatur intentio, quod nobilissimum est aliorum, et ea que digna sunt illo cantari discreuimus, que tria nobilissima sunt, ut superius est astructum, et modum cantionarium selegimus illis, tanquam aliorum modorum summum, et, ut ipsum perfectius edocere possimus, quedam iam preparauimus, stilum uidelicet atque carmen, nunc de constructione agamus.",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-297",
+    "text": "Est enim sciendum quod constructionem uocamus regulatam compaginem dictionum, ut “Aristotiles phylosophatus est tempore Alexandri”.",
+    "entities": [
+      {
+        "text": "Aristotiles",
+        "label": "PERSON",
+        "start": 82,
+        "end": 93,
+        "multi": false
+      },
+      {
+        "text": "Alexandri",
+        "label": "PERSON",
+        "start": 120,
+        "end": 129,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "DVE-298",
+    "text": "Sunt enim quinque hic dictiones compacte regulariter, et unam faciunt constructionem.",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-299",
+    "text": "Circa hanc quidem prius considerandum est quod constructionum alia congrua est, alia uero incongrua.",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-300",
+    "text": "Et quia, si primordium bene discretionis nostre recolimus, sola supprema uenamur, nullum in nostra uenatione locum habet incongrua, quia nec inferiorem gradum bonitatis promeruit.",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-301",
+    "text": "Pudeat ergo, pudeat ydiotas tantum audere deinceps ut ad cantiones prorumpant: quos non aliter deridemus quam cecum de coloribus distinguentem.",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-302",
+    "text": "Est ut uidetur congrua quam sectamur.",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-303",
+    "text": "Sed non minoris difficultatis accedit discretio priusquam quam querimus actingamus, uidelicet urbanitate plenissimam.",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-304-a",
+    "text": "Sunt etenim gradus constructionum quamplures: uidelicet insipidus, qui est rudium, ut “Petrus amat multum dominam Bertam”;",
+    "entities": [
+      {
+        "text": "Petrus",
+        "label": "PERSON",
+        "start": 87,
+        "end": 93,
+        "multi": false
+      },
+      {
+        "text": "Bertam",
+        "label": "PERSON",
+        "start": 114,
+        "end": 120,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "DVE-304-b",
+    "text": "est et pure sapidus, qui est rigidorum scolarium uel magistrorum, ut “Piget me cunctis pietate maiorem, quicunque in exilio tabescentes patriam tantum sompniando reuisunt”;",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-304-c",
+    "text": "est et sapidus et uenustus, qui est quorundam superficietenus rethoricam aurientium, ut “Laudabilis discretio marchionis Estensis, et sua magnificentia preparata, cunctis illum facit esse dilectum”;",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-304-d",
+    "text": "est et sapidus et uenustus etiam et excelsus, qui est dictatorum illustrium, ut “Eiecta maxima parte florum de sinu tuo, Florentia, nequicquam Trinacriam Totila secundus adiuit”.",
+    "entities": [
+      {
+        "text": "Florentia",
+        "label": "LOC",
+        "start": 121,
+        "end": 130,
+        "multi": false
+      },
+      {
+        "text": "Trinacriam",
+        "label": "LOC",
+        "start": 143,
+        "end": 153,
+        "multi": false
+      },
+      {
+        "text": "Totila",
+        "label": "PERSON",
+        "start": 154,
+        "end": 160,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "DVE-305",
+    "text": "Hunc gradum constructionis excellentissimum nominamus, et hic est quem querimus cum suprema uenemur, ut dictum est.",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-306-a",
+    "text": "Hoc solum illustres cantiones inueniuntur contexte, ut Gerardus: Si per mos Sobretos non fos;",
+    "entities": [
+      {
+        "text": "Gerardus",
+        "label": "PERSON",
+        "start": 55,
+        "end": 63,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "DVE-306-b",
+    "text": "Folquetus de Marsilia: Tan m'abellis l'amoros pensamen;",
+    "entities": [
+      {
+        "text": "Folquetus",
+        "label": "PERSON",
+        "start": 0,
+        "end": 9,
+        "multi": false
+      },
+      {
+        "text": "Marsilia",
+        "label": "LOC",
+        "start": 13,
+        "end": 21,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "DVE-306-c",
+    "text": "Arnaldus Danielis: Sols sui che sai lo sobraffan che. m sorz;",
+    "entities": [
+      {
+        "text": "Arnaldus Danielis",
+        "label": "PERSON",
+        "start": 0,
+        "end": 17,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "DVE-306-d",
+    "text": "Namericus de Belnui: Nuls hom non pot complir addreciamen;",
+    "entities": [
+      {
+        "text": "Namericus",
+        "label": "PERSON",
+        "start": 0,
+        "end": 9,
+        "multi": false
+      },
+      {
+        "text": "Belnui",
+        "label": "LOC",
+        "start": 13,
+        "end": 19,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "DVE-306-e",
+    "text": "Namericus de Peculiano: Si con l'arbres che per sobrecarcar;",
+    "entities": [
+      {
+        "text": "Namericus",
+        "label": "PERSON",
+        "start": 0,
+        "end": 9,
+        "multi": false
+      },
+      {
+        "text": "Peculiano",
+        "label": "LOC",
+        "start": 13,
+        "end": 22,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "DVE-306-f",
+    "text": "Rex Nauarre: Ire d'amor que en mon cor repaire;",
+    "entities": [
+      {
+        "text": "Nauarre",
+        "label": "LOC",
+        "start": 4,
+        "end": 11,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "DVE-306-g",
+    "text": "Iudex de Messana: Ancor che l'aigua per lo foco lassi;",
+    "entities": [
+      {
+        "text": "Messana",
+        "label": "LOC",
+        "start": 9,
+        "end": 16,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "DVE-306-h",
+    "text": "Guido Guinizelli: Tegno de folle empresa a lo uer dire;",
+    "entities": [
+      {
+        "text": "Guido Guinizelli",
+        "label": "PERSON",
+        "start": 0,
+        "end": 16,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "DVE-306-i",
+    "text": "Guido Caualcantis: Poi che di doglia cor conuen ch'io porti;",
+    "entities": [
+      {
+        "text": "Guido Caualcantis",
+        "label": "PERSON",
+        "start": 0,
+        "end": 17,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "DVE-306-j",
+    "text": "Cynus de Pistorio: Auegna che io aggia più per tempo;",
+    "entities": [
+      {
+        "text": "Cynus",
+        "label": "PERSON",
+        "start": 0,
+        "end": 5,
+        "multi": false
+      },
+      {
+        "text": "Pistorio",
+        "label": "LOC",
+        "start": 9,
+        "end": 17,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "DVE-306-k",
+    "text": "amicus eius: Amor che ne la mente mi ragiona.",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-307-a",
+    "text": "Nec mireris, lector, de tot reductis autoribus ad memoriam:",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-307-b",
+    "text": "non enim hanc quam suppremam uocamus constructionem nisi per huiusmodi exempla possumus indicare.",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-308",
+    "text": "Et fortassis utilissimum foret ad illam habituandam regulatos uidisse poetas, Uirgilium uidelicet, Ouidium Metamorfoseos, Statium atque Lucanum, nec non alios qui nisi sunt altissimas prosas, ut Titum Liuium, Plinium, Frontinum, Paulum Orosium et multos alios quos amica sollicitudo nos uisitare inuitat.",
+    "entities": [
+      {
+        "text": "Uirgilium",
+        "label": "PERSON",
+        "start": 78,
+        "end": 87,
+        "multi": false
+      },
+      {
+        "text": "Ouidium",
+        "label": "PERSON",
+        "start": 99,
+        "end": 106,
+        "multi": false
+      },
+      {
+        "text": "Statium",
+        "label": "PERSON",
+        "start": 122,
+        "end": 129,
+        "multi": false
+      },
+      {
+        "text": "Lucanum",
+        "label": "PERSON",
+        "start": 136,
+        "end": 143,
+        "multi": false
+      },
+      {
+        "text": "Titum Liuium",
+        "label": "PERSON",
+        "start": 195,
+        "end": 207,
+        "multi": false
+      },
+      {
+        "text": "Plinium",
+        "label": "PERSON",
+        "start": 209,
+        "end": 216,
+        "multi": false
+      },
+      {
+        "text": "Frontinum",
+        "label": "PERSON",
+        "start": 218,
+        "end": 227,
+        "multi": false
+      },
+      {
+        "text": "Paulum Orosium",
+        "label": "PERSON",
+        "start": 229,
+        "end": 243,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "DVE-309",
+    "text": "Subsistant igitur ignorantie sectatores Guictonem Aretinum et quosdam alios extollentes, nunquam in uocabulis atque constructione plebescere desuetos.",
+    "entities": [
+      {
+        "text": "Guictonem",
+        "label": "PERSON",
+        "start": 40,
+        "end": 49,
+        "multi": false
+      },
+      {
+        "text": "Aretinum",
+        "label": "NORP",
+        "start": 50,
+        "end": 58,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "DVE-310",
+    "text": "Grandiosa modo uocabula sub prelato stilo digna consistere, successiua nostre progressionis presentia lucidari expostulat.",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-311",
+    "text": "Testamur proinde incipientes non minimum opus esse rationis discretionem uocabulorum habere, quoniam perplures eorum maneries inueniri posse uidemus.",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-312-a",
+    "text": "Nam uocabulorum quedam puerilia, quedam muliebria, quedam uirilia;",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-312-b",
+    "text": "et horum quedam siluestria, quedam urbana;",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-312-c",
+    "text": "et eorum que urbana uocamus, quedam pexa et lubrica, quedam yrsuta et reburra sentimus.",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-313",
+    "text": "Inter que quidem, pexa atque yrsuta sunt illa que uocamus grandiosa, lubrica uero et reburra uocamus illa que in superfluum sonant; quemadmodum in magnis operibus quedam magnanimitatis sunt opera, quedam fumi: ubi, licet in superficie quidam consideretur ascensus, ex quo limitata uirtutis linea preuaricatur, bone rationi non ascensus sed per altera decliuia ruina constabit.",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-314-a",
+    "text": "Intuearis ergo, lector, actente quantum ad exaceranda egregia uerba te cribrare oportet:",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-314-b",
+    "text": "nam si uulgare illustre consideres, quo tragici debent uti poete uulgares, ut superius dictum est, quos informare intendimus, sola uocabula nobilissima in cribro tuo residere curabis.",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-315",
+    "text": "In quorum numero nec puerilia propter sui simplicitatem, ut mamma et babbo, mate et pate, nec muliebria propter sui mollitiem, ut dolciada et placeuole, nec siluestria propter austeritatem, ut greggia et creta, nec urbana lubrica et reburra, ut femina et corpo, ullo modo poteris conlocare.",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-316",
+    "text": "Sola etenim pexa yrsuta que urbana tibi restare uidebis, que nobilissima sunt et membra uulgaris illustris.",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-317",
+    "text": "Et pexa uocamus illa que, trisillaba uel uicinissima trisillabitati, sine aspiratione, sine accentu acuto uel circumflexo, sine z uel x duplicibus, sine duarum liquidarum geminatione uel positione inmediate post mutam, dolata quasi, loquentem cum quadam suauitate relinquunt: ut amore, donna, disio, uirtute, donare, letitia, salute, securtate, defesa.",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-318",
+    "text": "Yrsuta quoque dicimus omnia, preter hec, que uel necessaria uel ornatiua uidentur uulgaris illustris.",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-319",
+    "text": "Et necessaria quidem appellamus que campsare non possumus, ut quedam monosillaba, ut si, no, me, te, se, a, e, i, o, u', interiectiones et alia multa.",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-320",
+    "text": "Ornatiua uero dicimus omnia polisillaba que, mixta cum pexis, pulcram faciunt armoniam compaginis, quamuis asperitatem habeant aspirationis et accentus et duplicium et liquidarum et prolixitatis: ut terra, honore, speranza, grauitate, alleuiato, impossibilità, impossibilitate, benauenturatissimo, inanimatissimamente, disauenturatissimamente, souramagnificentissimamente, quod endecasillabum est.",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-321",
+    "text": "Posset adhuc inueniri plurium sillabarum uocabulum siue uerbum, sed quia capacitatem omnium nostrorum carminum superexcedit, rationi presenti non uidetur obnoxium, sicut est illud honorificabilitudinitate, quod duodena perficitur sillaba in uulgari et in gramatica tredena perficitur in duobus obliquis.",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-322",
+    "text": "Quomodo autem pexis yrsuta huiusmodi sint armonizanda per metra, inferius instruendum relinquimus.",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-323",
+    "text": "Et que iam dicta sunt de fastigiositate uocabulorum ingenue discretioni sufficiant.",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-324",
+    "text": "Preparatis fustibus torquibus que ad fascem, nunc fasciandi tempus incumbit.",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-325",
+    "text": "Sed quia cuiuslibet operis cognitio precedere debet operationem, uelut signum ante ammissionem sagipte uel iaculi, primo et principaliter qui sit iste fascis quem fasciare intendimus uideamus.",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-326",
+    "text": "Fascis iste igitur, si bene comminiscimur omnia prelibata, cantio est.",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-327",
+    "text": "Quapropter quid sit cantio uideamus, et quid intelligimus cum dicimus cantionem.",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-328",
+    "text": "Est enim cantio, secundum uerum nominis significatum, ipse canendi actus uel passio, sicut lectio passio uel actus legendi.",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-329",
+    "text": "Sed diuaricemus quod dictum est, utrum uidelicet hec sit cantio prout est actus, uel prout est passio.",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-330-a",
+    "text": "Et circa hoc considerandum est quod cantio dupliciter accipi potest: uno modo secundum quod fabricatur ab autore suo, et sic est actio - et secundum istum modum Uirgilius primo Eneidorum dicit «Arma uirum que cano» -;",
+    "entities": [
+      {
+        "text": "Uirgilius",
+        "label": "PERSON",
+        "start": 161,
+        "end": 170,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "DVE-330-b",
+    "text": "alio modo secundum quod fabricata profertur uel ab autore uel ab alio quicunque sit, siue cum soni modulatione proferatur, siue non:",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-330-c",
+    "text": "et sic est passio.",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-331",
+    "text": "Nam tunc agitur, modo uero agere uidetur in alium, et sic tunc alicuius actio, modo quoque passio alicuius uidetur.",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-332",
+    "text": "Et quia prius agitur ipsa quam agat, magis, immo prorsus denominari uidetur ab eo quod agitur, et est actio alicuius, quam ab eo quod agit in alios.",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-333",
+    "text": "Signum autem huius est quod nunquam dicimus “Hec est cantio Petri” eo quod ipsam proferat, sed eo quod fabricauerit illam.",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-334",
+    "text": "Preterea disserendum est utrum cantio dicatur fabricatio uerborum armonizatorum, uel ipsa modulatio.",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-335",
+    "text": "Ad quod dicimus quod nunquam modulatio dicitur cantio, sed sonus, uel thonus, uel nota, uel melos.",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-336-a",
+    "text": "Nullus enim tibicen, uel organista, uel cytharedus melodiam suam cantionem uocat, nisi in quantum nupta est alicui cantioni;",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-336-b",
+    "text": "sed armonizantes uerba opera sua cantiones uocant, et etiam talia uerba in cartulis absque prolatore iacentia cantiones uocamus.",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-337-a",
+    "text": "Et ideo cantio nichil aliud esse uidetur quam actio completa dicentis uerba modulationi armonizata:",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-337-b",
+    "text": "quapropter tam cantiones quas nunc tractamus, quam ballatas et sonitus et omnia cuiuscunque modi uerba sunt armonizata uulgariter et regulariter, cantiones esse dicemus.",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-338-a",
+    "text": "Sed quia sola uulgaria uentilamus, regulata linquentes, dicimus uulgarium poematum unum esse suppremum, quod per superexcellentiam cantionem uocamus:",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-338-b",
+    "text": "quod autem suppremum quid sit cantio, in tertio huius libri capitulo est probatum.",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-339",
+    "text": "Et quoniam quod diffinitum est pluribus generale uidetur, resumentes diffinitum iam generale uocabulum per quasdam differentias solum quod petimus distinguamus.",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-340",
+    "text": "Dicimus ergo quod cantio, in quantum per superexcellentiam dicitur, ut et nos querimus, est equalium stantiarum sine responsorio ad unam sententiam tragica coniugatio, ut nos ostendimus cum dicimus Donne che auete intelletto d'amore.",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-341",
+    "text": "Quod autem dicimus “tragica coniugatio” est quia, cum comice fiat hec coniugatio, cantilenam uocamus per diminutionem: de qua in quarto huius tractare intendimus.",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-342",
+    "text": "Et sic patet quid cantio sit, et prout accipitur generaliter et prout per superexcellentiam uocamus eam.",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-343",
+    "text": "Satis etiam patere uidetur quid intelligimus cum cantionem uocamus, et per consequens quid sit ille fascis quem ligare molimur.",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-344-a",
+    "text": "Quia, ut dictum est, cantio est coniugatio stantiarum, ignorato quid sit stantia necesse est cantionem ignorare:",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-344-b",
+    "text": "nam ex diffinientium cognitione diffiniti resultat cognitio;",
+    "entities": []
+  },
+  {
+    "sent_id": "DVE-344-c",
+    "text": "et ideo consequenter de stantia est agendum, ut scilicet inuestigemus quid ipsa sit et quid per eam intelligere uolumus.",
+    "entities": []
+  }
+]

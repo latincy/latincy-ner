@@ -1,0 +1,1045 @@
+[
+  {
+    "sent_id": "12933",
+    "text": "adtendite ne iustitiam uestram faciatis coram hominibus ut uideamini ab eis .",
+    "entities": []
+  },
+  {
+    "sent_id": "12934",
+    "text": "alioquin mercedem non habebitis apud Patrem uestrum qui in caelis est .",
+    "entities": []
+  },
+  {
+    "sent_id": "12935",
+    "text": "cum ergo facies elemosynam noli tuba canere ante te sicut hypocritae faciunt in synagogis et in uicis ut honorificentur ab hominibus .",
+    "entities": []
+  },
+  {
+    "sent_id": "12936",
+    "text": "amen dico uobis .",
+    "entities": []
+  },
+  {
+    "sent_id": "62928",
+    "text": "receperunt mercedem suam .",
+    "entities": []
+  },
+  {
+    "sent_id": "12937",
+    "text": "te autem faciente elemosynam nesciat sinistra tua quid faciat dextera tua ut sit elemosyna tua in abscondito et Pater tuus qui uidet in abscondito reddet tibi .",
+    "entities": []
+  },
+  {
+    "sent_id": "12939",
+    "text": "et cum oratis non eritis sicut hypocritae qui amant in synagogis et in angulis platearum stantes orare ut uideantur ab hominibus .",
+    "entities": []
+  },
+  {
+    "sent_id": "12940",
+    "text": "amen dico uobis .",
+    "entities": []
+  },
+  {
+    "sent_id": "62929",
+    "text": "receperunt mercedem suam .",
+    "entities": []
+  },
+  {
+    "sent_id": "12941",
+    "text": "tu autem cum orabis intra in cubiculum tuum et cluso ostio tuo ora Patrem tuum in abscondito .",
+    "entities": []
+  },
+  {
+    "sent_id": "12942",
+    "text": "et Pater tuus qui uidet in abscondito reddet tibi .",
+    "entities": []
+  },
+  {
+    "sent_id": "47494",
+    "text": "orantes autem nolite multum loqui sicut ethnici .",
+    "entities": [
+      {
+        "text": "ethnici",
+        "label": "NORP",
+        "start": 40,
+        "end": 47,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "47495",
+    "text": "putant enim quia in multiloquio suo exaudiantur .",
+    "entities": []
+  },
+  {
+    "sent_id": "12944",
+    "text": "nolite ergo adsimilari eis .",
+    "entities": []
+  },
+  {
+    "sent_id": "12945",
+    "text": "scit enim Pater uester quibus opus sit uobis antequam petatis eum .",
+    "entities": []
+  },
+  {
+    "sent_id": "12946",
+    "text": "sic ergo uos orabitis .",
+    "entities": []
+  },
+  {
+    "sent_id": "12947",
+    "text": "Pater noster qui in caelis es sanctificetur nomen tuum .",
+    "entities": []
+  },
+  {
+    "sent_id": "47496",
+    "text": "ueniat regnum tuum .",
+    "entities": []
+  },
+  {
+    "sent_id": "47497",
+    "text": "fiat uoluntas tua sicut in caelo et in terra .",
+    "entities": []
+  },
+  {
+    "sent_id": "12949",
+    "text": "panem nostrum supersubstantialem da nobis hodie et dimitte nobis debita nostra sicut et nos dimisimus debitoribus nostris .",
+    "entities": []
+  },
+  {
+    "sent_id": "12950",
+    "text": "et ne inducas nos in temptationem sed libera nos a malo .",
+    "entities": []
+  },
+  {
+    "sent_id": "12951",
+    "text": "si enim dimiseritis hominibus peccata eorum dimittet et uobis Pater uester caelestis delicta uestra .",
+    "entities": []
+  },
+  {
+    "sent_id": "12953",
+    "text": "si autem non dimiseritis hominibus nec Pater uester dimittet peccata uestra .",
+    "entities": []
+  },
+  {
+    "sent_id": "12955",
+    "text": "cum autem ieiunatis nolite fieri sicut hypocritae tristes .",
+    "entities": []
+  },
+  {
+    "sent_id": "12956",
+    "text": "demoliuntur enim facies suas ut pareant hominibus ieiunantes .",
+    "entities": []
+  },
+  {
+    "sent_id": "12957",
+    "text": "amen dico uobis quia receperunt mercedem suam .",
+    "entities": []
+  },
+  {
+    "sent_id": "12958",
+    "text": "tu autem cum ieiunas ungue caput tuum et faciem tuam laua ne uidearis hominibus ieiunans sed Patri tuo qui est in abscondito .",
+    "entities": []
+  },
+  {
+    "sent_id": "12959",
+    "text": "et Pater tuus qui uidet in abscondito reddet tibi .",
+    "entities": []
+  },
+  {
+    "sent_id": "12960",
+    "text": "nolite thesaurizare uobis thesauros in terra ubi erugo et tinea demolitur ubi fures effodiunt et furantur .",
+    "entities": []
+  },
+  {
+    "sent_id": "12963",
+    "text": "thesaurizate autem uobis thesauros in caelo ubi neque erugo neque tinea demolitur et ubi fures non effodiunt nec furantur .",
+    "entities": []
+  },
+  {
+    "sent_id": "12964",
+    "text": "ubi enim est thesaurus tuus ibi est et cor tuum .",
+    "entities": []
+  },
+  {
+    "sent_id": "12965",
+    "text": "lucerna corporis est oculus .",
+    "entities": []
+  },
+  {
+    "sent_id": "12966",
+    "text": "si fuerit oculus tuus simplex totum corpus tuum lucidum erit .",
+    "entities": []
+  },
+  {
+    "sent_id": "12967",
+    "text": "si autem oculus tuus nequam fuerit totum corpus tuum tenebrosum erit .",
+    "entities": []
+  },
+  {
+    "sent_id": "12968",
+    "text": "si ergo lumen quod in te est tenebrae sunt tenebrae quantae erunt .",
+    "entities": []
+  },
+  {
+    "sent_id": "12970",
+    "text": "nemo potest duobus dominis seruire .",
+    "entities": []
+  },
+  {
+    "sent_id": "12971",
+    "text": "aut enim unum odio habebit et alterum diliget aut unum sustinebit et alterum contemnet .",
+    "entities": []
+  },
+  {
+    "sent_id": "12973",
+    "text": "non potestis Deo seruire et mamonae .",
+    "entities": []
+  },
+  {
+    "sent_id": "12974",
+    "text": "ideo dico uobis ne solliciti sitis animae uestrae quid manducetis neque corpori uestro quid induamini .",
+    "entities": []
+  },
+  {
+    "sent_id": "12975",
+    "text": "nonne anima plus est quam esca et corpus plus est quam uestimentum .",
+    "entities": []
+  },
+  {
+    "sent_id": "12976",
+    "text": "respicite uolatilia caeli quoniam non serunt neque metunt neque congregant in horrea .",
+    "entities": []
+  },
+  {
+    "sent_id": "12977",
+    "text": "et Pater uester caelestis pascit illa .",
+    "entities": []
+  },
+  {
+    "sent_id": "12978",
+    "text": "nonne uos magis pluris estis illis .",
+    "entities": []
+  },
+  {
+    "sent_id": "12979",
+    "text": "quis autem uestrum cogitans potest adicere ad staturam suam cubitum unum .",
+    "entities": []
+  },
+  {
+    "sent_id": "12980",
+    "text": "et de uestimento quid solliciti estis .",
+    "entities": []
+  },
+  {
+    "sent_id": "12981",
+    "text": "considerate lilia agri quomodo crescunt .",
+    "entities": []
+  },
+  {
+    "sent_id": "12982",
+    "text": "non laborant nec nent .",
+    "entities": []
+  },
+  {
+    "sent_id": "12983",
+    "text": "dico autem uobis quoniam nec Salomon in omni gloria sua coopertus est sicut unum ex istis .",
+    "entities": [
+      {
+        "text": "Salomon",
+        "label": "PERSON",
+        "start": 29,
+        "end": 36,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "12984",
+    "text": "si autem faenum agri quod hodie est et cras in clibanum mittitur Deus sic uestit quanto magis uos minimae fidei .",
+    "entities": []
+  },
+  {
+    "sent_id": "12985",
+    "text": "nolite ergo solliciti esse dicentes .",
+    "entities": []
+  },
+  {
+    "sent_id": "12986",
+    "text": "quid manducabimus aut quid bibemus aut quo operiemur .",
+    "entities": []
+  },
+  {
+    "sent_id": "12987",
+    "text": "haec enim omnia gentes inquirunt .",
+    "entities": [
+      {
+        "text": "gentes",
+        "label": "NORP",
+        "start": 16,
+        "end": 22,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "12988",
+    "text": "scit enim Pater uester quia his omnibus indigetis .",
+    "entities": []
+  },
+  {
+    "sent_id": "12989",
+    "text": "quaerite autem primum regnum et iustitiam eius .",
+    "entities": []
+  },
+  {
+    "sent_id": "12990",
+    "text": "et omnia haec adicientur uobis .",
+    "entities": []
+  },
+  {
+    "sent_id": "12991",
+    "text": "nolite ergo esse solliciti in crastinum .",
+    "entities": []
+  },
+  {
+    "sent_id": "12992",
+    "text": "crastinus enim dies sollicitus erit sibi ipse .",
+    "entities": []
+  },
+  {
+    "sent_id": "12993",
+    "text": "sufficit diei malitia sua .",
+    "entities": []
+  },
+  {
+    "sent_id": "10624",
+    "text": "et egressus inde abiit in patriam suam .",
+    "entities": []
+  },
+  {
+    "sent_id": "10625",
+    "text": "et sequebantur illum discipuli sui .",
+    "entities": []
+  },
+  {
+    "sent_id": "10626",
+    "text": "et facto sabbato coepit in synagoga docere .",
+    "entities": []
+  },
+  {
+    "sent_id": "10627",
+    "text": "et multi audientes admirabantur in doctrina eius dicentes .",
+    "entities": []
+  },
+  {
+    "sent_id": "10628",
+    "text": "unde huic haec omnia .",
+    "entities": []
+  },
+  {
+    "sent_id": "10629",
+    "text": "et quae est sapientia quae data est illi et uirtutes tales quae per manus eius efficiuntur .",
+    "entities": []
+  },
+  {
+    "sent_id": "10630",
+    "text": "nonne iste est faber filius Mariae frater Iacobi et Ioseph et Iudae et Simonis .",
+    "entities": [
+      {
+        "text": "Mariae",
+        "label": "PERSON",
+        "start": 28,
+        "end": 34,
+        "multi": false
+      },
+      {
+        "text": "Iacobi",
+        "label": "PERSON",
+        "start": 42,
+        "end": 48,
+        "multi": false
+      },
+      {
+        "text": "Ioseph",
+        "label": "PERSON",
+        "start": 52,
+        "end": 58,
+        "multi": false
+      },
+      {
+        "text": "Iudae",
+        "label": "PERSON",
+        "start": 62,
+        "end": 67,
+        "multi": false
+      },
+      {
+        "text": "Simonis",
+        "label": "PERSON",
+        "start": 71,
+        "end": 78,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "10631",
+    "text": "nonne et sorores eius hic nobis cum sunt .",
+    "entities": []
+  },
+  {
+    "sent_id": "10632",
+    "text": "et scandalizabantur in illo .",
+    "entities": []
+  },
+  {
+    "sent_id": "10633",
+    "text": "et dicebat eis Iesus quia .",
+    "entities": [
+      {
+        "text": "Iesus",
+        "label": "PERSON",
+        "start": 15,
+        "end": 20,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "10634",
+    "text": "non est propheta sine honore nisi in patria sua et in cognatione sua et in domo sua .",
+    "entities": []
+  },
+  {
+    "sent_id": "10635",
+    "text": "et non poterat ibi uirtutem ullam facere nisi paucos infirmos inpositis manibus curauit .",
+    "entities": []
+  },
+  {
+    "sent_id": "10636",
+    "text": "et mirabatur propter incredulitatem eorum et circumibat castella in circuitu docens .",
+    "entities": []
+  },
+  {
+    "sent_id": "10637",
+    "text": "et conuocauit duodecim .",
+    "entities": []
+  },
+  {
+    "sent_id": "10638",
+    "text": "et coepit eos mittere binos et dabat illis potestatem spirituum inmundorum .",
+    "entities": []
+  },
+  {
+    "sent_id": "10639",
+    "text": "et praecepit eis ne quid tollerent in uia nisi uirgam tantum non peram non panem neque in zona aes sed calciatos sandaliis et ne induerentur duabus tunicis .",
+    "entities": []
+  },
+  {
+    "sent_id": "10641",
+    "text": "et dicebat eis .",
+    "entities": []
+  },
+  {
+    "sent_id": "10642",
+    "text": "quocumque introieritis in domum illic manete donec exeatis inde .",
+    "entities": []
+  },
+  {
+    "sent_id": "10643",
+    "text": "et quicumque non receperint uos nec audierint uos exeuntes inde excutite puluerem de pedibus uestris in testimonium illis .",
+    "entities": []
+  },
+  {
+    "sent_id": "10644",
+    "text": "et exeuntes praedicabant ut paenitentiam agerent .",
+    "entities": []
+  },
+  {
+    "sent_id": "10645",
+    "text": "et daemonia multa eiciebant et unguebant oleo multos aegrotos et sanabant .",
+    "entities": []
+  },
+  {
+    "sent_id": "10646",
+    "text": "et audiuit Herodes rex manifestum enim factum est nomen eius et dicebat quia .",
+    "entities": [
+      {
+        "text": "Herodes",
+        "label": "PERSON",
+        "start": 11,
+        "end": 18,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "10647",
+    "text": "Iohannes Baptista resurrexit a mortuis .",
+    "entities": [
+      {
+        "text": "Iohannes",
+        "label": "PERSON",
+        "start": 0,
+        "end": 8,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "10648",
+    "text": "et propterea inoperantur uirtutes in illo .",
+    "entities": []
+  },
+  {
+    "sent_id": "10649",
+    "text": "alii autem dicebant quia .",
+    "entities": []
+  },
+  {
+    "sent_id": "47426",
+    "text": "Helias est .",
+    "entities": [
+      {
+        "text": "Helias",
+        "label": "PERSON",
+        "start": 0,
+        "end": 6,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "47427",
+    "text": "alii uero dicebant .",
+    "entities": []
+  },
+  {
+    "sent_id": "10651",
+    "text": "propheta est quasi unus ex prophetis .",
+    "entities": []
+  },
+  {
+    "sent_id": "10652",
+    "text": "quo audito Herodes ait .",
+    "entities": [
+      {
+        "text": "Herodes",
+        "label": "PERSON",
+        "start": 11,
+        "end": 18,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "10653",
+    "text": "quem ego decollaui Iohannem hic a mortuis resurrexit .",
+    "entities": [
+      {
+        "text": "Iohannem",
+        "label": "PERSON",
+        "start": 19,
+        "end": 27,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "10654",
+    "text": "ipse enim Herodes misit ac tenuit Iohannem et uinxit eum in carcere propter Herodiadem uxorem Philippi fratris sui quia duxerat eam .",
+    "entities": [
+      {
+        "text": "Herodes",
+        "label": "PERSON",
+        "start": 10,
+        "end": 17,
+        "multi": false
+      },
+      {
+        "text": "Iohannem",
+        "label": "PERSON",
+        "start": 34,
+        "end": 42,
+        "multi": false
+      },
+      {
+        "text": "Herodiadem",
+        "label": "PERSON",
+        "start": 76,
+        "end": 86,
+        "multi": false
+      },
+      {
+        "text": "Philippi",
+        "label": "PERSON",
+        "start": 94,
+        "end": 102,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "10655",
+    "text": "dicebat enim Iohannes Herodi .",
+    "entities": [
+      {
+        "text": "Iohannes",
+        "label": "PERSON",
+        "start": 13,
+        "end": 21,
+        "multi": false
+      },
+      {
+        "text": "Herodi",
+        "label": "PERSON",
+        "start": 22,
+        "end": 28,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "10656",
+    "text": "non licet tibi habere uxorem fratris tui .",
+    "entities": []
+  },
+  {
+    "sent_id": "10657",
+    "text": "Herodias autem insidiabatur illi .",
+    "entities": [
+      {
+        "text": "Herodias",
+        "label": "PERSON",
+        "start": 0,
+        "end": 8,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "10658",
+    "text": "et uolebat occidere eum nec poterat .",
+    "entities": []
+  },
+  {
+    "sent_id": "10659",
+    "text": "Herodes enim metuebat Iohannem sciens eum uirum iustum et sanctum .",
+    "entities": [
+      {
+        "text": "Herodes",
+        "label": "PERSON",
+        "start": 0,
+        "end": 7,
+        "multi": false
+      },
+      {
+        "text": "Iohannem",
+        "label": "PERSON",
+        "start": 22,
+        "end": 30,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "10660",
+    "text": "et custodiebat eum et audito eo multa faciebat et libenter eum audiebat .",
+    "entities": []
+  },
+  {
+    "sent_id": "10661",
+    "text": "et cum dies oportunus accidisset Herodes natalis sui cenam fecit principibus et tribunis et primis Galilaeae .",
+    "entities": [
+      {
+        "text": "Herodes",
+        "label": "PERSON",
+        "start": 33,
+        "end": 40,
+        "multi": false
+      },
+      {
+        "text": "Galilaeae",
+        "label": "LOC",
+        "start": 99,
+        "end": 108,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "10662",
+    "text": "cum que introisset filia ipsius Herodiadis et saltasset et placuisset Herodi simul que recumbentibus rex ait puellae .",
+    "entities": [
+      {
+        "text": "Herodiadis",
+        "label": "PERSON",
+        "start": 32,
+        "end": 42,
+        "multi": false
+      },
+      {
+        "text": "Herodi",
+        "label": "PERSON",
+        "start": 32,
+        "end": 38,
+        "multi": true
+      }
+    ]
+  },
+  {
+    "sent_id": "10663",
+    "text": "pete a me quod uis et dabo tibi .",
+    "entities": []
+  },
+  {
+    "sent_id": "10664",
+    "text": "et iurauit illi quia .",
+    "entities": []
+  },
+  {
+    "sent_id": "10665",
+    "text": "quicquid petieris dabo tibi licet dimidium regni mei .",
+    "entities": []
+  },
+  {
+    "sent_id": "10666",
+    "text": "quae cum exisset dixit matri suae .",
+    "entities": []
+  },
+  {
+    "sent_id": "10667",
+    "text": "quid petam .",
+    "entities": []
+  },
+  {
+    "sent_id": "10668",
+    "text": "et illa dixit .",
+    "entities": []
+  },
+  {
+    "sent_id": "10669",
+    "text": "caput Iohannis Baptistae .",
+    "entities": [
+      {
+        "text": "Iohannis",
+        "label": "PERSON",
+        "start": 6,
+        "end": 14,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "10670",
+    "text": "cum que introisset statim cum festinatione ad regem petiuit dicens .",
+    "entities": []
+  },
+  {
+    "sent_id": "10671",
+    "text": "uolo ut protinus des mihi in disco caput Iohannis Baptistae .",
+    "entities": [
+      {
+        "text": "Iohannis",
+        "label": "PERSON",
+        "start": 41,
+        "end": 49,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "10672",
+    "text": "et contristatus rex propter ius iurandum et propter simul recumbentes noluit eam contristare .",
+    "entities": []
+  },
+  {
+    "sent_id": "10674",
+    "text": "sed misso speculatore praecepit adferri caput eius in disco .",
+    "entities": []
+  },
+  {
+    "sent_id": "10675",
+    "text": "et decollauit eum in carcere et adtulit caput eius in disco .",
+    "entities": []
+  },
+  {
+    "sent_id": "10676",
+    "text": "et dedit illud puellae et puella dedit matri suae .",
+    "entities": []
+  },
+  {
+    "sent_id": "10677",
+    "text": "quo audito discipuli eius uenerunt et tulerunt corpus eius .",
+    "entities": []
+  },
+  {
+    "sent_id": "10678",
+    "text": "et posuerunt illud in monumento .",
+    "entities": []
+  },
+  {
+    "sent_id": "10679",
+    "text": "et conuenientes apostoli ad Iesum renuntiauerunt illi omnia quae egerant et docuerant .",
+    "entities": [
+      {
+        "text": "Iesum",
+        "label": "PERSON",
+        "start": 28,
+        "end": 33,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "10680",
+    "text": "et ait illis .",
+    "entities": []
+  },
+  {
+    "sent_id": "10681",
+    "text": "uenite seorsum in desertum locum et requiescite pusillum .",
+    "entities": []
+  },
+  {
+    "sent_id": "10682",
+    "text": "erant enim qui ueniebant et rediebant multi .",
+    "entities": []
+  },
+  {
+    "sent_id": "10683",
+    "text": "et nec manducandi spatium habebant .",
+    "entities": []
+  },
+  {
+    "sent_id": "10684",
+    "text": "et ascendentes in naui abierunt in desertum locum seorsum .",
+    "entities": []
+  },
+  {
+    "sent_id": "10685",
+    "text": "et uiderunt eos abeuntes et cognouerunt multi .",
+    "entities": []
+  },
+  {
+    "sent_id": "10686",
+    "text": "et pedestre et de omnibus ciuitatibus concurrerunt illuc et praeuenerunt eos .",
+    "entities": []
+  },
+  {
+    "sent_id": "10687",
+    "text": "et exiens uidit multam turbam Iesus .",
+    "entities": [
+      {
+        "text": "Iesus",
+        "label": "PERSON",
+        "start": 30,
+        "end": 35,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "10688",
+    "text": "et misertus est super eos quia erant sicut oues non habentes pastorem et coepit docere illos multa .",
+    "entities": []
+  },
+  {
+    "sent_id": "10689",
+    "text": "et cum iam hora multa fieret accesserunt discipuli eius dicentes .",
+    "entities": []
+  },
+  {
+    "sent_id": "10690",
+    "text": "desertus est locus hic et iam hora praeteriuit .",
+    "entities": []
+  },
+  {
+    "sent_id": "10691",
+    "text": "dimitte illos ut euntes in proximas uillas et uicos emant sibi cibos quos manducent .",
+    "entities": []
+  },
+  {
+    "sent_id": "10692",
+    "text": "et respondens ait illis .",
+    "entities": []
+  },
+  {
+    "sent_id": "10693",
+    "text": "date illis manducare .",
+    "entities": []
+  },
+  {
+    "sent_id": "10694",
+    "text": "et dixerunt ei .",
+    "entities": []
+  },
+  {
+    "sent_id": "10695",
+    "text": "euntes emamus denariis ducentis panes et dabimus eis manducare .",
+    "entities": []
+  },
+  {
+    "sent_id": "10696",
+    "text": "et dicit eis .",
+    "entities": []
+  },
+  {
+    "sent_id": "10697",
+    "text": "quot panes habetis .",
+    "entities": []
+  },
+  {
+    "sent_id": "10698",
+    "text": "ite et uidete .",
+    "entities": []
+  },
+  {
+    "sent_id": "10699",
+    "text": "et cum cognouissent dicunt .",
+    "entities": []
+  },
+  {
+    "sent_id": "10700",
+    "text": "quinque et duos pisces .",
+    "entities": []
+  },
+  {
+    "sent_id": "10701",
+    "text": "et praecepit illis ut accumbere facerent omnes secundum contubernia super uiride faenum .",
+    "entities": []
+  },
+  {
+    "sent_id": "10702",
+    "text": "et discubuerunt in partes per centenos et per quinquagenos .",
+    "entities": []
+  },
+  {
+    "sent_id": "10703",
+    "text": "et acceptis quinque panibus et duobus piscibus intuens in caelum benedixit et fregit panes et dedit discipulis suis ut ponerent ante eos .",
+    "entities": []
+  },
+  {
+    "sent_id": "10704",
+    "text": "et duos pisces diuisit omnibus .",
+    "entities": []
+  },
+  {
+    "sent_id": "10705",
+    "text": "et manducauerunt omnes et saturati sunt .",
+    "entities": []
+  },
+  {
+    "sent_id": "10706",
+    "text": "et sustulerunt reliquias fragmentorum duodecim cofinos plenos et de piscibus .",
+    "entities": []
+  },
+  {
+    "sent_id": "10707",
+    "text": "erant autem qui manducauerunt quinque milia uirorum .",
+    "entities": []
+  },
+  {
+    "sent_id": "10708",
+    "text": "et statim coegit discipulos suos ascendere nauem ut praecederent eum trans fretum ad Bethsaidam dum ipse dimitteret populum .",
+    "entities": [
+      {
+        "text": "Bethsaidam",
+        "label": "LOC",
+        "start": 85,
+        "end": 95,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "10709",
+    "text": "et cum dimisisset eos abiit in montem orare .",
+    "entities": []
+  },
+  {
+    "sent_id": "10710",
+    "text": "et cum sero esset erat nauis in medio mari et ipse solus in terra .",
+    "entities": []
+  },
+  {
+    "sent_id": "10711",
+    "text": "et uidens eos laborantes in remigando erat enim uentus contrarius eis et circa quartam uigiliam noctis uenit ad eos ambulans super mare .",
+    "entities": []
+  },
+  {
+    "sent_id": "10712",
+    "text": "et uolebat praeterire eos .",
+    "entities": []
+  },
+  {
+    "sent_id": "10713",
+    "text": "at illi ut uiderunt eum ambulantem super mare putauerunt fantasma esse et exclamauerunt .",
+    "entities": []
+  },
+  {
+    "sent_id": "10714",
+    "text": "omnes enim eum uiderunt et conturbati sunt .",
+    "entities": []
+  },
+  {
+    "sent_id": "10715",
+    "text": "et statim locutus est cum eis et dixit illis .",
+    "entities": []
+  },
+  {
+    "sent_id": "47428",
+    "text": "confidite .",
+    "entities": []
+  },
+  {
+    "sent_id": "47429",
+    "text": "ego sum .",
+    "entities": []
+  },
+  {
+    "sent_id": "10717",
+    "text": "nolite timere .",
+    "entities": []
+  },
+  {
+    "sent_id": "10718",
+    "text": "et ascendit ad illos in nauem et cessauit uentus .",
+    "entities": []
+  },
+  {
+    "sent_id": "10719",
+    "text": "et plus magis intra se stupebant .",
+    "entities": []
+  },
+  {
+    "sent_id": "10720",
+    "text": "non enim intellexerant de panibus .",
+    "entities": []
+  },
+  {
+    "sent_id": "10721",
+    "text": "erat enim cor illorum obcaecatum .",
+    "entities": []
+  },
+  {
+    "sent_id": "10722",
+    "text": "et cum transfretassent peruenerunt in terram Gennesareth et adplicuerunt .",
+    "entities": [
+      {
+        "text": "Gennesareth",
+        "label": "LOC",
+        "start": 45,
+        "end": 56,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "10723",
+    "text": "cum que egressi essent de naui continuo cognouerunt eum .",
+    "entities": []
+  }
+]

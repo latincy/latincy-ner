@@ -1,0 +1,1484 @@
+[
+  {
+    "sent_id": "76138",
+    "text": "tu quid agas ubi sis cuius modi istae res sint fac me quam diligentissime certiorem .",
+    "entities": []
+  },
+  {
+    "sent_id": "76139",
+    "text": "Idibus Febr .",
+    "entities": []
+  },
+  {
+    "sent_id": "82358",
+    "text": "Asiam Quinto suauissimo fratri obtigisse audisti .",
+    "entities": [
+      {
+        "text": "Asiam",
+        "label": "LOC",
+        "start": 0,
+        "end": 5,
+        "multi": false
+      },
+      {
+        "text": "Quinto",
+        "label": "PERSON",
+        "start": 6,
+        "end": 12,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "76140",
+    "text": "non enim dubito quin celerius tibi hoc rumor quam ullius nostrum litterae nuntiarint .",
+    "entities": []
+  },
+  {
+    "sent_id": "76141",
+    "text": "nunc quoniam et laudis auidissimi semper fuimus et praeter ceteros φιλέλληνες et sumus et habemur et multorum odia atque inimicitias rei publicae causa suscepimus παντοίης ἀρετῆς μιμνήσκεο cura que et effice ut ab omnibus et laudemur et amemur .",
+    "entities": []
+  },
+  {
+    "sent_id": "76142",
+    "text": "his de rebus plura ad te in ea epistula scribam quam ipsi Quinto dabo .",
+    "entities": [
+      {
+        "text": "Quinto",
+        "label": "PERSON",
+        "start": 58,
+        "end": 64,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "76143",
+    "text": "tu me uelim certiorem facias quid de meis mandatis egeris atque etiam quid de tuo negotio .",
+    "entities": []
+  },
+  {
+    "sent_id": "82359",
+    "text": "nam ut Brundisio profectus es nullae mihi abs te sunt redditae litterae .",
+    "entities": [
+      {
+        "text": "Brundisio",
+        "label": "LOC",
+        "start": 7,
+        "end": 16,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "76144",
+    "text": "ualde aueo scire quid agas .",
+    "entities": []
+  },
+  {
+    "sent_id": "76145",
+    "text": "Idibus Martiis .",
+    "entities": []
+  },
+  {
+    "sent_id": "76877",
+    "text": "Anicato ut te uelle intellexeram nullo loco defui .",
+    "entities": [
+      {
+        "text": "Anicato",
+        "label": "PERSON",
+        "start": 0,
+        "end": 7,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "76878",
+    "text": "Numestium ex litteris tuis studiose scriptis libenter in amicitiam recepi .",
+    "entities": [
+      {
+        "text": "Numestium",
+        "label": "PERSON",
+        "start": 0,
+        "end": 9,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "76879",
+    "text": "Caecilium quibus rebus possum tueor diligenter .",
+    "entities": [
+      {
+        "text": "Caecilium",
+        "label": "PERSON",
+        "start": 0,
+        "end": 9,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "76880",
+    "text": "Uarro satis facit nobis .",
+    "entities": [
+      {
+        "text": "Uarro",
+        "label": "PERSON",
+        "start": 0,
+        "end": 5,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "76881",
+    "text": "Pompeius amat nos caros que habet .",
+    "entities": [
+      {
+        "text": "Pompeius",
+        "label": "PERSON",
+        "start": 0,
+        "end": 8,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "76882",
+    "text": "credis .",
+    "entities": []
+  },
+  {
+    "sent_id": "85932",
+    "text": "inquies .",
+    "entities": []
+  },
+  {
+    "sent_id": "76884",
+    "text": "credo .",
+    "entities": []
+  },
+  {
+    "sent_id": "81806",
+    "text": "prorsus mihi persuadet .",
+    "entities": []
+  },
+  {
+    "sent_id": "81918",
+    "text": "sed quia uolgo pragmatici homines omnibus historiis praeceptis uersibus denique cauere iubent et uetant credere alterum facio ut caueam alterum ut non credam facere non possum .",
+    "entities": []
+  },
+  {
+    "sent_id": "76885",
+    "text": "Clodius adhuc mihi denuntiat periculum .",
+    "entities": [
+      {
+        "text": "Clodius",
+        "label": "PERSON",
+        "start": 0,
+        "end": 7,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "76886",
+    "text": "Pompeius adfirmat non esse periculum .",
+    "entities": [
+      {
+        "text": "Pompeius",
+        "label": "PERSON",
+        "start": 0,
+        "end": 8,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "81807",
+    "text": "adiurat .",
+    "entities": []
+  },
+  {
+    "sent_id": "81919",
+    "text": "addit etiam se prius occisum iri ab eo quam me uiolatum iri .",
+    "entities": []
+  },
+  {
+    "sent_id": "76887",
+    "text": "tractatur res .",
+    "entities": []
+  },
+  {
+    "sent_id": "76888",
+    "text": "simul et quid erit certi scribam ad te .",
+    "entities": []
+  },
+  {
+    "sent_id": "76889",
+    "text": "si erit pugnandum arcessam ad societatem laboris .",
+    "entities": []
+  },
+  {
+    "sent_id": "81808",
+    "text": "si quies dabitur ab Amalthea te non commouebo .",
+    "entities": [
+      {
+        "text": "Amalthea",
+        "label": "LOC",
+        "start": 20,
+        "end": 28,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "76890",
+    "text": "de re publica breuiter ad te scribam .",
+    "entities": []
+  },
+  {
+    "sent_id": "81809",
+    "text": "iam enim charta ipsa ne nos prodat pertimesco .",
+    "entities": []
+  },
+  {
+    "sent_id": "76891",
+    "text": "itaque posthac si erunt mihi plura ad te scribenda ἀλληγορίαις obscurabo .",
+    "entities": []
+  },
+  {
+    "sent_id": "76892",
+    "text": "nunc quidem nouo quodam morbo ciuitas moritur ut cum omnes ea quae sunt acta improbent querantur doleant uarietas nulla in re sit aperte que loquantur et iam clare gemant tamen medicina nulla adferatur .",
+    "entities": []
+  },
+  {
+    "sent_id": "76893",
+    "text": "neque enim resisti sine internecione posse arbitramur nec uidemus qui finis cedendi praeter exitium futurus sit .",
+    "entities": []
+  },
+  {
+    "sent_id": "76894",
+    "text": "Bibulus hominum admiratione et beneuolentia in caelo est .",
+    "entities": [
+      {
+        "text": "Bibulus",
+        "label": "PERSON",
+        "start": 0,
+        "end": 7,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "81810",
+    "text": "edicta eius et contiones describunt et legunt .",
+    "entities": []
+  },
+  {
+    "sent_id": "76895",
+    "text": "nouo quodam genere in summam gloriam uenit .",
+    "entities": []
+  },
+  {
+    "sent_id": "76896",
+    "text": "populare nunc nihil tam est quam odium popularium .",
+    "entities": []
+  },
+  {
+    "sent_id": "76897",
+    "text": "haec quo sint eruptura timeo .",
+    "entities": []
+  },
+  {
+    "sent_id": "81811",
+    "text": "sed si dispicere quid coepero scribam ad te apertius .",
+    "entities": []
+  },
+  {
+    "sent_id": "76898",
+    "text": "tu si me amas tantum quantum profecto amas expeditus facito ut sis si inclamaro ut accurras .",
+    "entities": []
+  },
+  {
+    "sent_id": "81812",
+    "text": "sed do operam et dabo ne sit necesse .",
+    "entities": []
+  },
+  {
+    "sent_id": "76899",
+    "text": "quod scripseram Furio scripturum nihil necesse est tuum nomen mutare .",
+    "entities": [
+      {
+        "text": "Furio",
+        "label": "PERSON",
+        "start": 16,
+        "end": 21,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "81813",
+    "text": "me faciam Laelium et te Atticum neque utar meo chirographo neque signo si modo erunt eius modi litterae quas in alienum incidere nolim .",
+    "entities": [
+      {
+        "text": "Laelium",
+        "label": "PERSON",
+        "start": 10,
+        "end": 17,
+        "multi": false
+      },
+      {
+        "text": "Atticum",
+        "label": "PERSON",
+        "start": 24,
+        "end": 31,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "76900",
+    "text": "Diodotus mortuus est .",
+    "entities": [
+      {
+        "text": "Diodotus",
+        "label": "PERSON",
+        "start": 0,
+        "end": 8,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "81814",
+    "text": "reliquit nobis HS fortasse centiens .",
+    "entities": []
+  },
+  {
+    "sent_id": "76901",
+    "text": "comitia Bibulus cum Archilochio edicto in ante diem xu Kal Nouembr distulit .",
+    "entities": [
+      {
+        "text": "Bibulus",
+        "label": "PERSON",
+        "start": 8,
+        "end": 15,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "76902",
+    "text": "a Uibio libros accepi .",
+    "entities": [
+      {
+        "text": "Uibio",
+        "label": "PERSON",
+        "start": 2,
+        "end": 7,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "76903",
+    "text": "poeta ineptus et tamen scit nihil sed est non inutilis .",
+    "entities": []
+  },
+  {
+    "sent_id": "76904",
+    "text": "describo et remitto .",
+    "entities": []
+  },
+  {
+    "sent_id": "76905",
+    "text": "de re publica quid ego tibi subtiliter .",
+    "entities": []
+  },
+  {
+    "sent_id": "76906",
+    "text": "tota periit atque hoc est miserior quam reliquisti quod tum uidebatur eius modi dominatio ciuitatem oppressisse quae iucunda esset multitudini bonis autem ita molesta ut tamen sine pernicie .",
+    "entities": []
+  },
+  {
+    "sent_id": "81816",
+    "text": "nunc repente tanto in odio est omnibus ut quorsus eruptura sit horreamus .",
+    "entities": []
+  },
+  {
+    "sent_id": "76907",
+    "text": "nam iracundiam atque intemperantiam illorum sumus experti qui Catoni irati omnia perdiderunt .",
+    "entities": [
+      {
+        "text": "Catoni",
+        "label": "PERSON",
+        "start": 62,
+        "end": 68,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "81817",
+    "text": "sed ita lenibus uti uidebantur uenenis ut posse uideremur sine dolore interire .",
+    "entities": []
+  },
+  {
+    "sent_id": "81818",
+    "text": "nunc uero sibilis uulgi sermonibus honestorum fremitu Italiae uereor ne exarserint .",
+    "entities": [
+      {
+        "text": "Italiae",
+        "label": "LOC",
+        "start": 54,
+        "end": 61,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "76908",
+    "text": "equidem sperabam ut saepe etiam loqui te cum solebam sic orbem rei publicae esse conuersum ut uix sonitum audire uix impressam orbitam uidere possemus .",
+    "entities": []
+  },
+  {
+    "sent_id": "81819",
+    "text": "et fuisset ita si homines transitum tempestatis exspectare potuissent .",
+    "entities": []
+  },
+  {
+    "sent_id": "76909",
+    "text": "sed cum diu occulte suspirassent postea iam gemere ad extremum uero loqui omnes et clamare coeperunt .",
+    "entities": []
+  },
+  {
+    "sent_id": "76910",
+    "text": "itaque ille noster amicus insolens infamiae semper in laude uersatus circumfluens gloria deformatus corpore fractus animo quo se conferat nescit .",
+    "entities": []
+  },
+  {
+    "sent_id": "81820",
+    "text": "progressum praecipitem inconstantem reditum uidet .",
+    "entities": []
+  },
+  {
+    "sent_id": "81937",
+    "text": "bonos inimicos habet improbos ipsos non amicos .",
+    "entities": []
+  },
+  {
+    "sent_id": "76911",
+    "text": "ac uide mollitiem animi .",
+    "entities": []
+  },
+  {
+    "sent_id": "76912",
+    "text": "non tenui lacrimas cum illum a.d. uiii Kal. Sextilis uidi de edictis Bibuli contionantem .",
+    "entities": [
+      {
+        "text": "Bibuli",
+        "label": "PERSON",
+        "start": 69,
+        "end": 75,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "76913",
+    "text": "qui antea solitus esset iactare se magnificentissime illo in loco summo cum amore populi cunctis fauentibus ut ille tum humilis .",
+    "entities": []
+  },
+  {
+    "sent_id": "81821",
+    "text": "ut demissus erat .",
+    "entities": []
+  },
+  {
+    "sent_id": "81938",
+    "text": "ut ipse etiam sibi non iis solum qui aderant displicebat .",
+    "entities": []
+  },
+  {
+    "sent_id": "76914",
+    "text": "o spectaculum uni Crasso iucundum ceteris non item .",
+    "entities": [
+      {
+        "text": "Crasso",
+        "label": "PERSON",
+        "start": 18,
+        "end": 24,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "76915",
+    "text": "nam quia deciderat ex astris lapsus potius quam progressus uidebatur et ut Apelles si Uenerem aut Protogenes si Ialysum illum suum caeno oblitum uideret magnum credo acciperet dolorem sic ego hunc omnibus a me pictum et politum artis coloribus subito deformatum non sine magno dolore uidi .",
+    "entities": [
+      {
+        "text": "Apelles",
+        "label": "PERSON",
+        "start": 75,
+        "end": 82,
+        "multi": false
+      },
+      {
+        "text": "Uenerem",
+        "label": "PERSON",
+        "start": 86,
+        "end": 93,
+        "multi": false
+      },
+      {
+        "text": "Protogenes",
+        "label": "PERSON",
+        "start": 98,
+        "end": 108,
+        "multi": false
+      },
+      {
+        "text": "Ialysum",
+        "label": "PERSON",
+        "start": 112,
+        "end": 119,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "76916",
+    "text": "quamquam nemo putabat propter Clodianum negotium me illi amicum esse debere tamen tantus fuit amor ut exhauriri nulla posset iniuria .",
+    "entities": []
+  },
+  {
+    "sent_id": "76917",
+    "text": "itaque Archilochia in illum edicta Bibuli populo ita sunt iucunda ut eum locum ubi proponuntur prae multitudine eorum qui legunt transire nequeamus .",
+    "entities": [
+      {
+        "text": "Bibuli",
+        "label": "PERSON",
+        "start": 35,
+        "end": 41,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "81825",
+    "text": "ipsi ita acerba ut tabescat dolore .",
+    "entities": []
+  },
+  {
+    "sent_id": "81939",
+    "text": "mihi me hercule molesta quod et eum quem semper dilexi nimis excruciant et timeo tam uehemens uir tam que acer in ferro et tam insuetus contumeliae ne omni animi impetu dolori et iracundiae pareat .",
+    "entities": []
+  },
+  {
+    "sent_id": "76918",
+    "text": "Bibuli qui sit exitus futurus nescio .",
+    "entities": [
+      {
+        "text": "Bibuli",
+        "label": "PERSON",
+        "start": 0,
+        "end": 6,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "76919",
+    "text": "ut nunc res se habet admirabili gloria est .",
+    "entities": []
+  },
+  {
+    "sent_id": "76920",
+    "text": "qui cum comitia in mensem Octobrem distulisset quod solet ea res populi uoluntatem offendere putarat Caesar oratione sua posse impelli contionem ut iret ad Bibulum .",
+    "entities": [
+      {
+        "text": "Caesar",
+        "label": "PERSON",
+        "start": 101,
+        "end": 107,
+        "multi": false
+      },
+      {
+        "text": "Bibulum",
+        "label": "PERSON",
+        "start": 156,
+        "end": 163,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "81826",
+    "text": "multa cum seditiosissime diceret uocem exprimere non potuit .",
+    "entities": []
+  },
+  {
+    "sent_id": "76921",
+    "text": "quid quaeris .",
+    "entities": []
+  },
+  {
+    "sent_id": "76922",
+    "text": "sentiunt se nullam ullius partis uoluntatem tenere .",
+    "entities": []
+  },
+  {
+    "sent_id": "76923",
+    "text": "eo magis uis nobis est timenda .",
+    "entities": []
+  },
+  {
+    "sent_id": "76924",
+    "text": "Clodius inimicus est nobis .",
+    "entities": [
+      {
+        "text": "Clodius",
+        "label": "PERSON",
+        "start": 0,
+        "end": 7,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "76925",
+    "text": "Pompeius confirmat eum nihil esse facturum contra me .",
+    "entities": [
+      {
+        "text": "Pompeius",
+        "label": "PERSON",
+        "start": 0,
+        "end": 8,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "76926",
+    "text": "mihi periculosum est credere .",
+    "entities": []
+  },
+  {
+    "sent_id": "81827",
+    "text": "ad resistendum me paro .",
+    "entities": []
+  },
+  {
+    "sent_id": "76927",
+    "text": "studia spero me summa habiturum omnium ordinum .",
+    "entities": []
+  },
+  {
+    "sent_id": "76928",
+    "text": "te cum ego desidero tum uero res ad tempus illud uocat .",
+    "entities": []
+  },
+  {
+    "sent_id": "76929",
+    "text": "plurimum consili animi praesidi denique mihi si te ad tempus uidero accesserit .",
+    "entities": []
+  },
+  {
+    "sent_id": "76930",
+    "text": "Uarro mihi satis facit .",
+    "entities": [
+      {
+        "text": "Uarro",
+        "label": "PERSON",
+        "start": 0,
+        "end": 5,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "76931",
+    "text": "Pompeius loquitur diuinitus .",
+    "entities": [
+      {
+        "text": "Pompeius",
+        "label": "PERSON",
+        "start": 0,
+        "end": 8,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "76932",
+    "text": "spero nos aut cum summa gloria aut certe sine molestia discessuros .",
+    "entities": []
+  },
+  {
+    "sent_id": "76933",
+    "text": "tu quid agas quem ad modum te oblectes quid cum Sicyoniis egeris ut sciam cura .",
+    "entities": [
+      {
+        "text": "Sicyoniis",
+        "label": "NORP",
+        "start": 48,
+        "end": 57,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "77268",
+    "text": "quoad eius modi mihi litterae a uobis adferebantur ut aliquid ex iis esset exspectandum spe et cupiditate Thessalonicae retentus sum .",
+    "entities": [
+      {
+        "text": "Thessalonicae",
+        "label": "LOC",
+        "start": 106,
+        "end": 119,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "83575",
+    "text": "postea quam omnis actio huius anni confecta nobis uidebatur in Asiam ire nolui quod et celebritas mihi odio est et si fieret aliquid a nouis magistratibus abesse longe nolebam .",
+    "entities": [
+      {
+        "text": "Asiam",
+        "label": "LOC",
+        "start": 63,
+        "end": 68,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "77269",
+    "text": "itaque in Epirum ad te statui me conferre non quo mea interesset loci natura qui lucem omnino fugerem .",
+    "entities": [
+      {
+        "text": "Epirum",
+        "label": "LOC",
+        "start": 10,
+        "end": 16,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "83576",
+    "text": "sed et ad salutem libentissime ex tuo portu proficiscar et si ea praecisa erit nusquam facilius hanc miserrimam uitam uel sustentabo uel quod multo est melius abiecero .",
+    "entities": []
+  },
+  {
+    "sent_id": "77270",
+    "text": "ero cum paucis .",
+    "entities": []
+  },
+  {
+    "sent_id": "83577",
+    "text": "multitudinem dimittam .",
+    "entities": []
+  },
+  {
+    "sent_id": "77271",
+    "text": "me tuae litterae numquam in tantam spem adduxerunt quantam aliorum .",
+    "entities": []
+  },
+  {
+    "sent_id": "83578",
+    "text": "ac tamen mea spes etiam tenuior semper fuit quam tuae litterae .",
+    "entities": []
+  },
+  {
+    "sent_id": "77272",
+    "text": "sed tamen quoniam coeptum est agi quoquo modo coeptum est et quacumque de causa non deseram neque optimi atque unici fratris miseras ac luctuosas preces nec Sesti ceterorum que promissa nec spem aerumnosissimae mulieris Terentiae nec miserrimae mulieris Tulliolae obsecrationem et fidelis litteras tuas .",
+    "entities": [
+      {
+        "text": "Sesti",
+        "label": "PERSON",
+        "start": 157,
+        "end": 162,
+        "multi": false
+      },
+      {
+        "text": "Terentiae",
+        "label": "PERSON",
+        "start": 220,
+        "end": 229,
+        "multi": false
+      },
+      {
+        "text": "Tulliolae",
+        "label": "PERSON",
+        "start": 254,
+        "end": 263,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "77273",
+    "text": "mihi Epirus aut iter ad salutem dabit aut quod scripsi supra .",
+    "entities": [
+      {
+        "text": "Epirus",
+        "label": "LOC",
+        "start": 5,
+        "end": 11,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "77274",
+    "text": "te oro et obsecro Tite Pomponi si me omnibus amplissimis carissimis iucundissimis que rebus perfidia hominum spoliatum si me a meis consiliariis proditum et proiectum uides si intellegis me coactum ut ipse me et meos perderem ut me tua misericordia iuues et Quintum fratrem qui potest esse saluus sustentes Terentiam liberos que meos tueare me si putas te istic uisurum exspectes si minus inuisas si potes mihi que ex agro tuo tantum adsignes quantum meo corpore occupari potest et pueros ad me cum litteris quam primum et quam saepissime mittas .",
+    "entities": [
+      {
+        "text": "Tite Pomponi",
+        "label": "PERSON",
+        "start": 18,
+        "end": 30,
+        "multi": false
+      },
+      {
+        "text": "Quintum",
+        "label": "PERSON",
+        "start": 258,
+        "end": 265,
+        "multi": false
+      },
+      {
+        "text": "Terentiam",
+        "label": "PERSON",
+        "start": 307,
+        "end": 316,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "77275",
+    "text": "data xui Kal Octobris .",
+    "entities": []
+  },
+  {
+    "sent_id": "77566",
+    "text": "nihil εὐκαιρότερον epistula tua quae me sollicitum de Quinto nostro puero optimo ualde leuauit .",
+    "entities": [
+      {
+        "text": "Quinto",
+        "label": "PERSON",
+        "start": 54,
+        "end": 60,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "77567",
+    "text": "uenerat horis duabus ante Chaerippus .",
+    "entities": [
+      {
+        "text": "Chaerippus",
+        "label": "PERSON",
+        "start": 26,
+        "end": 36,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "84864",
+    "text": "mera monstra nuntiarat .",
+    "entities": []
+  },
+  {
+    "sent_id": "77568",
+    "text": "de Apollonio quod scribis qui illi di irati homini Graeco qui conturbat atque idem putat sibi licere quod equitibus Romanis .",
+    "entities": [
+      {
+        "text": "Apollonio",
+        "label": "PERSON",
+        "start": 3,
+        "end": 12,
+        "multi": false
+      },
+      {
+        "text": "Graeco",
+        "label": "NORP",
+        "start": 51,
+        "end": 57,
+        "multi": false
+      },
+      {
+        "text": "Romanis",
+        "label": "NORP",
+        "start": 116,
+        "end": 123,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "77570",
+    "text": "nam Terentius suo iure .",
+    "entities": [
+      {
+        "text": "Terentius",
+        "label": "PERSON",
+        "start": 4,
+        "end": 13,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "77571",
+    "text": "de Metello οὐχ ὁσίη φθιμένοισιν sed tamen multis annis ciuis nemo erat mortuus qui quidem .",
+    "entities": [
+      {
+        "text": "Metello",
+        "label": "PERSON",
+        "start": 3,
+        "end": 10,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "84865",
+    "text": "tibi nummi meo periculo sint .",
+    "entities": []
+  },
+  {
+    "sent_id": "77572",
+    "text": "quid enim uereris .",
+    "entities": []
+  },
+  {
+    "sent_id": "77573",
+    "text": "quemcumque heredem fecit nisi Publium fecit uirum fecit non improbe quamquam fuit ipse .",
+    "entities": [
+      {
+        "text": "Publium",
+        "label": "PERSON",
+        "start": 30,
+        "end": 37,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "77574",
+    "text": "qua re in hoc thecam nummariam non retexeris .",
+    "entities": []
+  },
+  {
+    "sent_id": "84866",
+    "text": "in aliis eris cautior .",
+    "entities": []
+  },
+  {
+    "sent_id": "77575",
+    "text": "mea mandata de domo curabis .",
+    "entities": []
+  },
+  {
+    "sent_id": "84867",
+    "text": "praesidia locabis .",
+    "entities": []
+  },
+  {
+    "sent_id": "84868",
+    "text": "Milonem admonebis .",
+    "entities": [
+      {
+        "text": "Milonem",
+        "label": "PERSON",
+        "start": 0,
+        "end": 7,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "77576",
+    "text": "Arpinatium fremitus est incredibilis de Laterio .",
+    "entities": [
+      {
+        "text": "Arpinatium",
+        "label": "NORP",
+        "start": 0,
+        "end": 10,
+        "multi": false
+      },
+      {
+        "text": "Laterio",
+        "label": "LOC",
+        "start": 40,
+        "end": 47,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "77577",
+    "text": "quid quaeris .",
+    "entities": []
+  },
+  {
+    "sent_id": "77578",
+    "text": "equidem dolui .",
+    "entities": []
+  },
+  {
+    "sent_id": "84869",
+    "text": "ὁ δὲ οὐκ ἐμπάζετο μύθων .",
+    "entities": []
+  },
+  {
+    "sent_id": "84870",
+    "text": "quod superest etiam puerum Ciceronem curabis et amabis ut facis .",
+    "entities": [
+      {
+        "text": "Ciceronem",
+        "label": "PERSON",
+        "start": 27,
+        "end": 36,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "78278",
+    "text": "quam uellem Romae esses si forte non es .",
+    "entities": [
+      {
+        "text": "Romae",
+        "label": "LOC",
+        "start": 12,
+        "end": 17,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "78279",
+    "text": "nihil enim certi habebamus nisi accepisse nos tuas litteras a.d.x iiii Kal Sextil datas in quibus scriptum esset te in Epirum iturum circiter Kal.Sextil .",
+    "entities": [
+      {
+        "text": "Epirum",
+        "label": "LOC",
+        "start": 119,
+        "end": 125,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "78283",
+    "text": "sed si ue Romae es si ue in Epiro Parthi Euphraten transierunt duce Pacoro Orodis regis Parthorum filio cum cunctis fere copiis .",
+    "entities": [
+      {
+        "text": "Romae",
+        "label": "LOC",
+        "start": 10,
+        "end": 15,
+        "multi": false
+      },
+      {
+        "text": "Epiro",
+        "label": "LOC",
+        "start": 28,
+        "end": 33,
+        "multi": false
+      },
+      {
+        "text": "Parthi",
+        "label": "NORP",
+        "start": 34,
+        "end": 40,
+        "multi": false
+      },
+      {
+        "text": "Euphraten",
+        "label": "LOC",
+        "start": 41,
+        "end": 50,
+        "multi": false
+      },
+      {
+        "text": "Pacoro",
+        "label": "PERSON",
+        "start": 68,
+        "end": 74,
+        "multi": false
+      },
+      {
+        "text": "Orodis",
+        "label": "PERSON",
+        "start": 75,
+        "end": 81,
+        "multi": false
+      },
+      {
+        "text": "Parthorum",
+        "label": "NORP",
+        "start": 88,
+        "end": 97,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "78284",
+    "text": "Bibulus nondum audiebatur esse in Syria .",
+    "entities": [
+      {
+        "text": "Bibulus",
+        "label": "PERSON",
+        "start": 0,
+        "end": 7,
+        "multi": false
+      },
+      {
+        "text": "Syria",
+        "label": "LOC",
+        "start": 34,
+        "end": 39,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "85788",
+    "text": "Cassius in oppido Antiochia est cum omni exercitu nos in Cappadocia ad Taurum cum exercitu ad Cybistra hostis in Cyrrhestica quae Syriae pars proxima est prouinciae meae .",
+    "entities": [
+      {
+        "text": "Cassius",
+        "label": "PERSON",
+        "start": 0,
+        "end": 7,
+        "multi": false
+      },
+      {
+        "text": "Antiochia",
+        "label": "LOC",
+        "start": 18,
+        "end": 27,
+        "multi": false
+      },
+      {
+        "text": "Cappadocia",
+        "label": "LOC",
+        "start": 57,
+        "end": 67,
+        "multi": false
+      },
+      {
+        "text": "Taurum",
+        "label": "LOC",
+        "start": 71,
+        "end": 77,
+        "multi": false
+      },
+      {
+        "text": "Cybistra",
+        "label": "LOC",
+        "start": 94,
+        "end": 102,
+        "multi": false
+      },
+      {
+        "text": "Cyrrhestica",
+        "label": "LOC",
+        "start": 113,
+        "end": 124,
+        "multi": false
+      },
+      {
+        "text": "Syriae",
+        "label": "LOC",
+        "start": 130,
+        "end": 136,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "78285",
+    "text": "his de rebus scripsi ad senatum .",
+    "entities": []
+  },
+  {
+    "sent_id": "85790",
+    "text": "quas litteras si Romae es uidebis putes ne reddendas et multa immo omnia quorum κεφάλαιον ne quid inter caesa et porrecta ut aiunt oneris mihi addatur aut temporis .",
+    "entities": [
+      {
+        "text": "Romae",
+        "label": "LOC",
+        "start": 17,
+        "end": 22,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "78286",
+    "text": "nobis enim hac infirmitate exercitus inopia sociorum praesertim fidelium certissimum subsidium est hiems .",
+    "entities": []
+  },
+  {
+    "sent_id": "78287",
+    "text": "ea si uenerit nec illi ante in meam prouinciam transierint unum uereor ne senatus propter urbanarum rerum metum Pompeium nolit dimittere .",
+    "entities": [
+      {
+        "text": "Pompeium",
+        "label": "PERSON",
+        "start": 112,
+        "end": 120,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "78288",
+    "text": "quod si alium ad uer mittit non laboro nobis modo temporis ne quid prorogetur .",
+    "entities": []
+  },
+  {
+    "sent_id": "78289",
+    "text": "haec igitur si es Romae .",
+    "entities": [
+      {
+        "text": "Romae",
+        "label": "LOC",
+        "start": 18,
+        "end": 23,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "85791",
+    "text": "sin abes aut etiam si ades haec negotia sic se habent .",
+    "entities": []
+  },
+  {
+    "sent_id": "78290",
+    "text": "stamus animis et quia consiliis ut uidemur bonis utimur speramus etiam manu .",
+    "entities": []
+  },
+  {
+    "sent_id": "78291",
+    "text": "tuto consedimus copioso a frumento Ciliciam prope conspiciente expedito ad mutandum loco paruo exercitu sed ut spero ad beneuolentiam erga nos consentiente .",
+    "entities": [
+      {
+        "text": "Ciliciam",
+        "label": "LOC",
+        "start": 35,
+        "end": 43,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "78292",
+    "text": "quem nos Deiotari aduentu cum suis omnibus copiis duplicaturi eramus .",
+    "entities": [
+      {
+        "text": "Deiotari",
+        "label": "PERSON",
+        "start": 9,
+        "end": 17,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "78293",
+    "text": "sociis multo fidelioribus utimur quam quisquam usus est quibus incredibilis uidetur nostra et mansuetudo et abstinentia .",
+    "entities": []
+  },
+  {
+    "sent_id": "78294",
+    "text": "dilectus habetur ciuium Romanorum .",
+    "entities": [
+      {
+        "text": "Romanorum",
+        "label": "NORP",
+        "start": 24,
+        "end": 33,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "85792",
+    "text": "frumentum ex agris in loca tuta comportatur .",
+    "entities": []
+  },
+  {
+    "sent_id": "78296",
+    "text": "qua re bono animo es .",
+    "entities": []
+  },
+  {
+    "sent_id": "78297",
+    "text": "uideo enim te et quasi coram adsis ita cerno συμπάθειαν amoris tui .",
+    "entities": []
+  },
+  {
+    "sent_id": "78298",
+    "text": "sed te rogo si ullo pacto fieri poterit si integra in senatu nostra causa ad Kal.Ianuarias manserit ut Romae sis mense Ianuario .",
+    "entities": [
+      {
+        "text": "Romae",
+        "label": "LOC",
+        "start": 103,
+        "end": 108,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "78300",
+    "text": "profecto nihil accipiam iniuriae si tu aderis .",
+    "entities": []
+  },
+  {
+    "sent_id": "78301",
+    "text": "amicos consules habemus nostrum tribunum plebis Furnium .",
+    "entities": []
+  },
+  {
+    "sent_id": "78303",
+    "text": "uerum tua est opus adsiduitate prudentia gratia .",
+    "entities": []
+  },
+  {
+    "sent_id": "78304",
+    "text": "tempus est necessarium .",
+    "entities": []
+  },
+  {
+    "sent_id": "78305",
+    "text": "sed turpe est me pluribus uerbis agere te cum .",
+    "entities": []
+  },
+  {
+    "sent_id": "78306",
+    "text": "Cicerones nostri sunt apud Deiotarum sed si opus erit deducentur Rhodum .",
+    "entities": [
+      {
+        "text": "Cicerones",
+        "label": "PERSON",
+        "start": 0,
+        "end": 9,
+        "multi": false
+      },
+      {
+        "text": "Deiotarum",
+        "label": "PERSON",
+        "start": 27,
+        "end": 36,
+        "multi": false
+      },
+      {
+        "text": "Rhodum",
+        "label": "LOC",
+        "start": 65,
+        "end": 71,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "78307",
+    "text": "tu si es Romae ut soles diligentissime .",
+    "entities": [
+      {
+        "text": "Romae",
+        "label": "LOC",
+        "start": 9,
+        "end": 14,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "85793",
+    "text": "si in Epiro mitte tamen ad nos de tuis aliquem tabellarium ut et tu quid nos agamus et nos quid tu agas quid que acturus sis scire possimus .",
+    "entities": [
+      {
+        "text": "Epiro",
+        "label": "LOC",
+        "start": 6,
+        "end": 11,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "78308",
+    "text": "ego tui Bruti rem sic ago ut suam ipse non ageret .",
+    "entities": [
+      {
+        "text": "Bruti",
+        "label": "PERSON",
+        "start": 8,
+        "end": 13,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "78309",
+    "text": "sed iam exhibeo pupillum neque defendo .",
+    "entities": []
+  },
+  {
+    "sent_id": "85794",
+    "text": "sunt enim negotia et lenta et inania .",
+    "entities": []
+  },
+  {
+    "sent_id": "78310",
+    "text": "faciam tamen satis tibi quidem cui difficilius est quam ipsi .",
+    "entities": []
+  },
+  {
+    "sent_id": "85795",
+    "text": "sed certe satis faciam utrique .",
+    "entities": []
+  },
+  {
+    "sent_id": "52849",
+    "text": "Hac oratione habita mirum in modum conuersae sunt omnium mentes summa que alacritas et cupiditas belli gerendi innata est princeps que decima Legio per tribunos militum ei gratias egit quod de se optimum iudicium fecisset se que esse ad bellum gerendum paratissimam confirmauit .",
+    "entities": []
+  },
+  {
+    "sent_id": "52850",
+    "text": "Deinde reliquae legiones cum tribunis militum et primorum ordinum centurionibus egerunt uti Caesari satis facerent .",
+    "entities": [
+      {
+        "text": "Caesari",
+        "label": "PERSON",
+        "start": 92,
+        "end": 99,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "64359",
+    "text": "se neque umquam dubitasse neque timuisse neque de summa belli suum iudicium sed imperatoris esse existimauisse .",
+    "entities": []
+  }
+]

@@ -1,0 +1,1077 @@
+[
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@94",
+    "text": "Mons ibi uerticibus petit arduus astra duobus, nomine Parnasus, superant que cacumina nubes.",
+    "entities": [
+      {
+        "text": "Parnasus",
+        "label": "LOC",
+        "start": 54,
+        "end": 62,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@98",
+    "text": "Nec maris ira manet, posito que tricuspide telo mulcet aquas rector pelagi supra que profundum exstantem atque umeros innato murice tectum caeruleum Tritona uocat conchae que sonanti inspirare iubet fluctus que et flumina signo iam reuocare dato.",
+    "entities": [
+      {
+        "text": "Tritona",
+        "label": "PERSON",
+        "start": 149,
+        "end": 156,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@105",
+    "text": "possedit cetera pontus.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@106",
+    "text": "Haec quoque adhuc uitae non est fiducia nostrae certa satis;",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@107",
+    "text": "terrent etiam nunc nubila mentem.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@109",
+    "text": "quo sola timorem ferre modo posses?",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@110",
+    "text": "quo consolante doleres?",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@112",
+    "text": "O utinam possim populos reparare paternis artibus atque animas formatae infundere terrae!",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@114",
+    "text": "Dixerat, et flebant.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@115",
+    "text": "Placuit caeleste precari numen et auxilium per sacras quaerere sortes.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@117",
+    "text": "adeunt pariter Cephisidas undas, ut nondum liquidas, sic iam uada nota secantes.",
+    "entities": [
+      {
+        "text": "Cephisidas",
+        "label": "LOC",
+        "start": 15,
+        "end": 25,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@118",
+    "text": "Inde ubi libatos inrorauere liquores uestibus et capiti, flectunt uestigia sanctae ad delubra deae, quorum fastigia turpi pallebant musco stabant que sine ignibus arae.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@119",
+    "text": "Ut templi tetigere gradus, procumbit uterque pronus humi gelido que pauens dedit oscula saxo atque ita ' si precibus ' dixerunt ' numina iustis uicta remollescunt, si flectitur ira deorum, dic, Themi, qua generis damnum reparabile nostri arte sit, et mersis fer opem, mitissima, rebus. '",
+    "entities": [
+      {
+        "text": "Themi",
+        "label": "PERSON",
+        "start": 194,
+        "end": 199,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@122",
+    "text": "Obstipuere diu, rumpit que silentia uoce Pyrrha prior iussis que deae parere recusat, det que sibi ueniam pauido rogat ore, pauet que laedere iactatis maternas ossibus umbras.",
+    "entities": [
+      {
+        "text": "Pyrrha",
+        "label": "PERSON",
+        "start": 41,
+        "end": 47,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@123",
+    "text": "Interea repetunt caecis obscura latebris uerba datae sortis se cum inter se que uolutant.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@125",
+    "text": "Magna parens terra est, lapides in corpore terrae ossa reor dici;",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@128",
+    "text": "adeo caelestibus ambo diffidunt monitis.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@129",
+    "text": "Sed quid temptare nocebit?",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@130",
+    "text": "Discedunt uelant que caput tunicas que recingunt et iussos lapides sua post uestigia mittunt.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@135",
+    "text": "quod solidum est flecti que nequit, mutatur in ossa;",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@136",
+    "text": "quae modo uena fuit, sub eodem nomine mansit;",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@140",
+    "text": "Sic ubi deseruit madidos septemfluus agros Nilus et antiquo sua flumina reddidit alueo aetherio que recens exarsit sidere limus, plurima cultores uersis animalia glaebis inueniunt, et in his quaedam modo coepi per ipsum nascendi spatium, quaedam inperfecta suis que trunca uident numeris;",
+    "entities": [
+      {
+        "text": "Nilus",
+        "label": "LOC",
+        "start": 43,
+        "end": 48,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@142",
+    "text": "Quippe ubi temperiem sumpsere umor que calor que , concipiunt, et ab his oriuntur cuncta duobus;",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@143",
+    "text": "cumque sit ignis aquae pugnax, uapor umidus omnes res creat, et discors concordia fetibus apta est.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@145",
+    "text": "Illa quidem nollet, sed te quoque, maxime Python, tum genuit, populis que nouis, incognite serpens, terror eras:",
+    "entities": [
+      {
+        "text": "Python",
+        "label": "PERSON",
+        "start": 42,
+        "end": 48,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@146",
+    "text": "tantum spatii de monte tenebas.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@147",
+    "text": "Hunc deus arquitenens, et numquam talibus armis ante nisi in dammis capreis que fugacibus usus, mille grauem telis exhausta paene pharetra perdidit effuso per uulnera nigra ueneno.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@148",
+    "text": "Neue operis famam posset delere uetustas, instituit sacros celebri certamine ludos, Pythia perdomitae serpentis nomine dictos.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@149",
+    "text": "Hic iuuenum quicumque manu pedibus ue rota ue uicerat, aesculeae capiebat frondis honorem:",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@153",
+    "text": "dixerat, ' ista decent umeros gestamina nostros, qui dare certa ferae, dare uulnera possumus hosti, qui modo pestifero tot iugera uentre prementem strauimus innumeris tumidum Pythona sagittis.",
+    "entities": [
+      {
+        "text": "Pythona",
+        "label": "PERSON",
+        "start": 175,
+        "end": 182,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@157",
+    "text": "Dixit et eliso percussis aere pennis inpiger umbrosa Parnasi constitit arce eque sagittifera prompsit duo tela pharetra diuersorum operum:",
+    "entities": [
+      {
+        "text": "Parnasi",
+        "label": "LOC",
+        "start": 53,
+        "end": 60,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@158",
+    "text": "fugat hoc, facit illud amorem.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@159",
+    "text": "Quod facit, auratum est et cuspide fulget acuta;",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@162",
+    "text": "Protinus alter amat, fugit altera nomen amantis siluarum tenebris captiuarum que ferarum exuuiis gaudens innuptae que aemula Phoebes.",
+    "entities": [
+      {
+        "text": "Phoebes",
+        "label": "PERSON",
+        "start": 125,
+        "end": 132,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@163",
+    "text": "Uitta coercebat positos sine lege capillos.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@166",
+    "text": "illa, uelut crimen taedas exosa iugales, pulchra uerecundo suffunditur ora rubore, inque patris blandis haerens ceruice lacertis ' da mihi perpetua, genitor carissime, ' dixit ' uirginitate frui:",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@169",
+    "text": "Uoto que tuo tua forma repugnat:",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@170",
+    "text": "Phoebus amat uisae que cupit conubia Daphnes, quodque cupit, sperat, sua que illum oracula fallunt.",
+    "entities": [
+      {
+        "text": "Phoebus",
+        "label": "PERSON",
+        "start": 0,
+        "end": 7,
+        "multi": false
+      },
+      {
+        "text": "Daphnes",
+        "label": "PERSON",
+        "start": 37,
+        "end": 44,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@173",
+    "text": "ait.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@174",
+    "text": "Uidet igne micantes sideribus similes oculos, uidet oscula, quae non est uidisse satis;",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@175",
+    "text": "laudat digitos que manus que bracchia que et nudos media plus parte lacertos.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@177",
+    "text": "Fugit ocior aura illa leui neque ad haec reuocantis uerba resistit:",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@179",
+    "text": "Non insequor hostis:",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@180",
+    "text": "nympha, mane!",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@182",
+    "text": "amor est mihi causa sequendi.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@185",
+    "text": "Aspera, qua properas, loca sunt.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@186",
+    "text": "Moderatius, oro, curre fugam que inhibe;",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@187",
+    "text": "moderatius insequar ipse.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@188",
+    "text": "Cui placeas, inquire tamen.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@190",
+    "text": "Nescis, temeraria, nescis quem fugias, ideo que fugis.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@191",
+    "text": "Mihi Delphica tellus et Claros et Tenedos Patarea que regia seruit, Iuppiter est genitor;",
+    "entities": [
+      {
+        "text": "Delphica",
+        "label": "LOC",
+        "start": 5,
+        "end": 13,
+        "multi": false
+      },
+      {
+        "text": "Claros",
+        "label": "LOC",
+        "start": 24,
+        "end": 30,
+        "multi": false
+      },
+      {
+        "text": "Tenedos",
+        "label": "LOC",
+        "start": 34,
+        "end": 41,
+        "multi": false
+      },
+      {
+        "text": "Patarea",
+        "label": "LOC",
+        "start": 42,
+        "end": 49,
+        "multi": false
+      },
+      {
+        "text": "Iuppiter",
+        "label": "PERSON",
+        "start": 68,
+        "end": 76,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@193",
+    "text": "per me concordant carmina neruis.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@195",
+    "text": "Inuentum medicina meum est, opifer que per orbem dicor, et herbarum subiecta potentia nobis:",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@197",
+    "text": "Plura locuturum timido Peneia cursu fugit cumque ipso uerba inperfecta reliquit, tum quoque uisa decens.",
+    "entities": [
+      {
+        "text": "Peneia",
+        "label": "PERSON",
+        "start": 23,
+        "end": 29,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@202",
+    "text": "Qui tamen insequitur pennis adiutus Amoris, ocior est requiem que negat tergo que fugacis inminet et crinem sparsum ceruicibus adflat.",
+    "entities": [
+      {
+        "text": "Amoris",
+        "label": "PERSON",
+        "start": 36,
+        "end": 42,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@203",
+    "text": "Uiribus absumptis expalluit illa citae que uicta labore fugae spectans Peneidas undas ' fer pater ' inquit ' opem si flumina numen habetis.",
+    "entities": [
+      {
+        "text": "Peneidas",
+        "label": "LOC",
+        "start": 71,
+        "end": 79,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@205",
+    "text": "Uix prece finita torpor grauis occupat artus:",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@207",
+    "text": "remanet nitor unus in illa.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@208",
+    "text": "Hanc quoque Phoebus amat, posita que in stipite dextra sentit adhuc trepidare nouo sub cortice pectus conplexusque suis ramos, ut membra, lacertis oscula dat ligno:",
+    "entities": [
+      {
+        "text": "Phoebus",
+        "label": "PERSON",
+        "start": 12,
+        "end": 19,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@209",
+    "text": "refugit tamen oscula lignum.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@210",
+    "text": "Cui deus ' at quoniam coniunx mea non potes esse, arbor eris certe ' dixit ' mea.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@212",
+    "text": "tu ducibus Latiis aderis, cum laeta triumphum uox canet et uisent longas Capitolia pompas:",
+    "entities": [
+      {
+        "text": "Latiis",
+        "label": "NORP",
+        "start": 11,
+        "end": 17,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@214",
+    "text": "Finierat Paean:",
+    "entities": [
+      {
+        "text": "Paean",
+        "label": "PERSON",
+        "start": 9,
+        "end": 14,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@217",
+    "text": "uocant Tempe.",
+    "entities": [
+      {
+        "text": "Tempe",
+        "label": "LOC",
+        "start": 7,
+        "end": 12,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@218",
+    "text": "Per quae Peneus ab imo effusus Pindo spumosis uoluitur undis, deiectu que graui tenues agitantia fumos nubila conducit summis que adspergine siluis inpluit et sonitu plus quam uicina fatigat.",
+    "entities": [
+      {
+        "text": "Peneus",
+        "label": "PERSON",
+        "start": 9,
+        "end": 15,
+        "multi": false
+      },
+      {
+        "text": "Pindo",
+        "label": "LOC",
+        "start": 31,
+        "end": 36,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@221",
+    "text": "Conueniunt illuc popularia flumina primum, nescia, gratentur ne consolentur parentem, populifer Sperchios et inrequietus Enipeus Apidanus que senex lenis que Amphrysos et Aeas, mox que amnes alii, qui, qua tulit impetus illos, in mare deducunt fessas erroribus undas.",
+    "entities": [
+      {
+        "text": "Sperchios",
+        "label": "LOC",
+        "start": 96,
+        "end": 105,
+        "multi": false
+      },
+      {
+        "text": "Enipeus",
+        "label": "LOC",
+        "start": 121,
+        "end": 128,
+        "multi": false
+      },
+      {
+        "text": "Apidanus",
+        "label": "LOC",
+        "start": 129,
+        "end": 137,
+        "multi": false
+      },
+      {
+        "text": "Amphrysos",
+        "label": "LOC",
+        "start": 158,
+        "end": 167,
+        "multi": false
+      },
+      {
+        "text": "Aeas",
+        "label": "LOC",
+        "start": 171,
+        "end": 175,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@224",
+    "text": "sed quam non inuenit usquam.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@226",
+    "text": "Uiderat a patrio redeuntem Iuppiter illam flumine et ' o uirgo Ioue digna tuo que beatum nescio quem factura toro, pete ' dixerat ' umbras altorum nemorum ' ( et nemorum monstrauerat umbras ), ' dum calet et medio sol est altissimus orbe.",
+    "entities": [
+      {
+        "text": "Iuppiter",
+        "label": "PERSON",
+        "start": 27,
+        "end": 35,
+        "multi": false
+      },
+      {
+        "text": "Ioue",
+        "label": "PERSON",
+        "start": 63,
+        "end": 67,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@230",
+    "text": "Iam pascua Lernae consita que arboribus Lyrcea reliquerat arua, cum deus inducta latas caligine terras occuluit tenuit que fugam rapuit que pudorem.",
+    "entities": [
+      {
+        "text": "Lernae",
+        "label": "LOC",
+        "start": 11,
+        "end": 17,
+        "multi": false
+      },
+      {
+        "text": "Lyrcea",
+        "label": "LOC",
+        "start": 40,
+        "end": 46,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@233",
+    "text": "Quem postquam caelo non repperit, ' aut ego fallor, aut ego laedor ' ait, delapsa que ab aethere summo constitit in terris nebulas que recedere iussit.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@234",
+    "text": "Coniugis aduentum praesenserat inque nitentem Inachidos uultus mutauerat ille iuuencam.",
+    "entities": [
+      {
+        "text": "Inachidos",
+        "label": "PERSON",
+        "start": 46,
+        "end": 55,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@235",
+    "text": "Bos quoque formosa est.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@237",
+    "text": "Petit hanc Saturnia munus.",
+    "entities": [
+      {
+        "text": "Saturnia",
+        "label": "PERSON",
+        "start": 11,
+        "end": 19,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@238",
+    "text": "Quid faciat?",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@240",
+    "text": "Pudor est qui suadeat illinc, hinc dissuadet amor.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@246",
+    "text": "Constiterat quocumque modo, spectabat ad Io.",
+    "entities": [
+      {
+        "text": "Io",
+        "label": "PERSON",
+        "start": 41,
+        "end": 43,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@247",
+    "text": "ante oculos Io, quamuis auersus, habebat:",
+    "entities": [
+      {
+        "text": "Io",
+        "label": "PERSON",
+        "start": 12,
+        "end": 14,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@248",
+    "text": "Luce sinit pasci;",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@249",
+    "text": "cum sol tellure sub alta est, claudit et indigno circumdat uincula collo.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@250",
+    "text": "frondibus arboreis et amara pascitur herba, pro que toro terrae non semper gramen habenti incubat infelix limosa que flumina potat.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@252",
+    "text": "Uenit et ad ripas, ubi ludere saepe solebat, Inachidas ripas;",
+    "entities": [
+      {
+        "text": "Inachidas",
+        "label": "LOC",
+        "start": 45,
+        "end": 54,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@253",
+    "text": "noua que ut conspexit in unda cornua, pertimuit se que exsternata refugit.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@255",
+    "text": "at illa patrem sequitur sequitur que sorores et patitur tangi se que admirantibus offert.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@256",
+    "text": "Decerptas senior porrexerat Inachus herbas:",
+    "entities": [
+      {
+        "text": "Inachus",
+        "label": "PERSON",
+        "start": 28,
+        "end": 35,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@258",
+    "text": "Littera pro uerbis, quam pes in puluere duxit, corporis indicium mutati triste peregit.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@261",
+    "text": "ingeminat, ' ne tu es quaesita per omnes nata, mihi terras?",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@262",
+    "text": "tu non inuenta reperta luctus eras leuior.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@263",
+    "text": "Retices nec mutua nostris dicta refers, alto tantum suspiria ducis pectore, quodque unum potes, ad mea uerba remugis.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@267",
+    "text": "Talia maerentem stellatus submouet Argus ereptam que patri diuersa in pascua natam abstrahit.",
+    "entities": [
+      {
+        "text": "Argus",
+        "label": "PERSON",
+        "start": 35,
+        "end": 40,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@268",
+    "text": "Ipse procul montis sublime cacumen occupat, unde sedens partes speculatur in omnes.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@271",
+    "text": "Haec ubi disposuit, patria Ioue natus ab arce desilit in terras.",
+    "entities": [
+      {
+        "text": "Ioue",
+        "label": "PERSON",
+        "start": 27,
+        "end": 31,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@273",
+    "text": "Hac agit, ut pastor, per deuia rura capellas, dum uenit, adductas et structis cantat auenis.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@275",
+    "text": "Sedit Atlantiades et euntem multa loquendo detinuit sermone diem iunctis que canendo uincere harundinibus seruantia lumina temptat.",
+    "entities": [
+      {
+        "text": "Atlantiades",
+        "label": "PERSON",
+        "start": 6,
+        "end": 17,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@279",
+    "text": "nymphae Syringa uocabant.",
+    "entities": [
+      {
+        "text": "Syringa",
+        "label": "PERSON",
+        "start": 8,
+        "end": 15,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@280",
+    "text": "Non semel et satyros eluserat illa sequentes et quoscumque deos umbrosa que silua ferax que rus habet.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@281",
+    "text": "Ortygiam studiis ipsa que colebat uirginitate deam.",
+    "entities": [
+      {
+        "text": "Ortygiam",
+        "label": "LOC",
+        "start": 0,
+        "end": 8,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@283",
+    "text": "Sic quoque fallebat.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@285",
+    "text": "Hic illam cursum inpedientibus undis, ut se mutarent liquidas orasse sorores, Panaque, cum prensam sibi iam Syringa putaret, corpore pro nymphae calamos tenuisse palustres.",
+    "entities": [
+      {
+        "text": "Pana",
+        "label": "PERSON",
+        "start": 78,
+        "end": 82,
+        "multi": false
+      },
+      {
+        "text": "Syringa",
+        "label": "PERSON",
+        "start": 108,
+        "end": 115,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@286",
+    "text": "Dum que ibi suspirat, motos in harundine uentos effecisse sonum tenuem similem que querenti.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@288",
+    "text": "atque ita disparibus calamis conpagine cerae inter se iunctis nomen tenuisse puellae.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@289",
+    "text": "Talia dicturus uidit Cyllenius omnes succubuisse oculos adoperta que lumina somno.",
+    "entities": [
+      {
+        "text": "Cyllenius",
+        "label": "PERSON",
+        "start": 21,
+        "end": 30,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@290",
+    "text": "Supprimit extemplo uocem firmat que soporem languida permulcens medicata lumina uirga.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@293",
+    "text": "Excipit hos uolucris que suae Saturnia pennis collocat et gemmis caudam stellantibus inplet.",
+    "entities": [
+      {
+        "text": "Saturnia",
+        "label": "PERSON",
+        "start": 30,
+        "end": 38,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@294",
+    "text": "Protinus exarsit nec tempora distulit irae horriferam que oculis animo que obiecit Erinyn paelicis Argolicae stimulos que in pectore caecos condidit et profugam per totum terruit orbem.",
+    "entities": [
+      {
+        "text": "Erinyn",
+        "label": "PERSON",
+        "start": 83,
+        "end": 89,
+        "multi": false
+      },
+      {
+        "text": "Argolicae",
+        "label": "NORP",
+        "start": 99,
+        "end": 108,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@295",
+    "text": "Ultimus inmenso restabas, Nile, labori.",
+    "entities": [
+      {
+        "text": "Nile",
+        "label": "LOC",
+        "start": 26,
+        "end": 30,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@296",
+    "text": "Quem simul ac tetigit, positis in margine ripae procubuit genibus resupino que ardua collo, quos potuit solos, tollens ad sidera uultus et gemitu et lacrimis et luctisono mugitu cum Ioue uisa queri finem que orare malorum.",
+    "entities": [
+      {
+        "text": "Ioue",
+        "label": "PERSON",
+        "start": 182,
+        "end": 186,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@297",
+    "text": "Coniugis ille suae conplexus colla lacertis, finiat ut poenas tandem, rogat 'in'que 'futurum pone metus' inquit;",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@299",
+    "text": "et Stygias iubet hoc audire paludes.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@301",
+    "text": "fugiunt e corpore saetae, cornua decrescunt, fit luminis artior orbis, contrahitur rictus, redeunt umeri que manus que , ungula que in quinos dilapsa absumitur ungues:",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@302",
+    "text": "de boue nil superest formae nisi candor in illa.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@303",
+    "text": "Officio que pedum nymphe contenta duorum erigitur metuit que loqui, ne more iuuencae mugiat, et timide uerba intermissa retemptat.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@305",
+    "text": "Fuit huic animis aequalis et annis Sole satus Phaethon.",
+    "entities": [
+      {
+        "text": "Sole",
+        "label": "PERSON",
+        "start": 35,
+        "end": 39,
+        "multi": false
+      },
+      {
+        "text": "Phaethon",
+        "label": "PERSON",
+        "start": 46,
+        "end": 54,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@309",
+    "text": "Pudet haec opprobria nobis et dici potuisse et non potuisse refelli.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@311",
+    "text": "Dixit et inplicuit materno bracchia collo per que suum Meropis que caput taedas que sororum traderet orauit ueri sibi signa parentis.",
+    "entities": [
+      {
+        "text": "Meropis",
+        "label": "PERSON",
+        "start": 55,
+        "end": 62,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@312",
+    "text": "Ambiguum, Clymene, precibus Phaethontis an ira mota magis dicti sibi criminis utraque caelo bracchia porrexit spectans que ad lumina solis ' per iubar hoc ' inquit ' radiis insigne coruscis, nate, tibi iuro, quod nos audit que uidet que , hoc te, quem spectas, hoc te, qui temperat orbem, Sole satum.",
+    "entities": [
+      {
+        "text": "Clymene",
+        "label": "PERSON",
+        "start": 10,
+        "end": 17,
+        "multi": false
+      },
+      {
+        "text": "Phaethontis",
+        "label": "PERSON",
+        "start": 28,
+        "end": 39,
+        "multi": false
+      },
+      {
+        "text": "Sole",
+        "label": "PERSON",
+        "start": 289,
+        "end": 293,
+        "multi": false
+      }
+    ]
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@313",
+    "text": "Si ficta loquor, neget ipse uidendum se mihi, sit que oculis lux ista nouissima nostris.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@315",
+    "text": "unde oritur, domus est terrae contermina nostrae.",
+    "entities": []
+  },
+  {
+    "sent_id": "phi0959.phi006.perseus-lat1.tb.xml@317",
+    "text": "Emicat extemplo laetus post talia matris dicta suae Phaethon et concipit aethera mente, Aethiopasque suos positos que sub ignibus Indos sidereis transit patrios que adit inpiger ortus.",
+    "entities": [
+      {
+        "text": "Phaethon",
+        "label": "PERSON",
+        "start": 52,
+        "end": 60,
+        "multi": false
+      },
+      {
+        "text": "Aethiopas",
+        "label": "NORP",
+        "start": 88,
+        "end": 97,
+        "multi": false
+      },
+      {
+        "text": "Indos",
+        "label": "NORP",
+        "start": 130,
+        "end": 135,
+        "multi": false
+      }
+    ]
+  }
+]
