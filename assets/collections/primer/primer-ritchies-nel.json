@@ -1,7 +1,8 @@
 {
   "metadata": {
-    "title": "Fabulae Faciles - Book 1",
-    "author": "Francis Ritchie",
+    "title": "Fabulae Faciles: A First Latin Reader",
+    "author": "Ritchie, F.",
+    "date": "1904",
     "source": "https://www.thelatinlibrary.com/ritchie.html",
     "latincy-ner-project": "primer",
     "latincy-ner-project-subset": "ritchies",
@@ -10,20 +11,26 @@
     "license": "https://creativecommons.org/publicdomain/zero/1.0/"
   },
   "annotation": {
-    "spacy_model": "la_core_web_lg",
-    "spacy_model_version": "3.8.0",
+    "ner": {
+      "spacy_model": "la_core_web_lg",
+      "spacy_model_version": "3.9.4",
+      "review_level": "reviewed"
+    },
+    "nel": {
+      "kb": "latincy-nel/wikidata_kb.json",
+      "kb_date": "2026-06-15",
+      "method": "wikidata_kb + claude-opus-4-8 bootstrapping",
+      "review_level": "silver"
+    },
     "tagset": [
       "PERSON",
       "LOC",
       "NORP",
       "MISC"
     ],
-    "nel_kb": "wikidata_kb.json",
-    "nel_kb_date": "2026-06-15",
     "annotators": [
       "Patrick J. Burns"
-    ],
-    "review_level": "gold"
+    ]
   },
   "data": [
     {
