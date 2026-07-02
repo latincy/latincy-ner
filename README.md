@@ -48,8 +48,6 @@ The ritchies single has NER at `reviewed` and NEL at `silver`.
 | NORP | Nationalities, religious, or political groups (e.g. *Romani*, *Christiani*) |
 | MISC | Named individual non-human creatures (e.g. *Cerberus*, *Hydra*) |
 
-Guideline: a named *collective* of beings is PERSON; a named *individual* creature is MISC.
-
 `MISC` is **not officially supported in the LatinCy NER tagger**; it is included
 here so that an NEL id can be attached to a named token even when it does not
 refer to a PERSON, LOC, or NORP.
@@ -58,14 +56,14 @@ refer to a PERSON, LOC, or NORP.
 
 ```
 assets/
-  collections/<album>/<work>.json              canonical singles (hand-owned)
-  splits/<album>/<work>-{train,dev,test}.json  deterministic 80/20 splits
-  processed/{json,bio}/{train,dev,test}.*       merged, model-ready training data
+  collections/<album>/<work>.json         canonical singles (hand-owned)
+  splits/<album>/<work>-{train,dev}.json   deterministic 80/20 train/dev split
+  processed/{json,bio}/{train,dev}.*        merged, model-ready training data
 ```
 
 **`collections/`** is the primary published dataset — the citable, hand-owned singles. This is what you read, study, extend, and cite.
 
-**`splits/`** records the exact train/dev/test partition used for training. Splits are derived deterministically from `collections/` via `scripts/split_unsplit_singles.py` (80/20 hash split), but are committed so consumers can reproduce training without running the split script and without any ambiguity about which sentences land where.
+**`splits/`** records the exact train/dev partition used for training, derived deterministically from `collections/` via `scripts/split_unsplit_singles.py` (80/20 hash split) and committed so consumers can reproduce training without any ambiguity about which sentences land where. Test sets are held-out complete documents (files carrying a `-test` suffix), kept separate from the 80/20 split; **this release ships no test set.**
 
 **`processed/`** is the merged, deduplicated, model-ready corpus built from `splits/` by `python main.py`. It adds cross-source deduplication and casing augmentation on top of the raw splits. Committed for convenience — anyone training a LatinCy model can use it directly without running the build pipeline.
 
@@ -125,8 +123,8 @@ Each JSON single has three top-level keys:
     {
       "text": "Perseus autem in insulam Seriphum pervenit.",
       "spans": [
-        {"start": 0, "end": 7, "label": "PERSON", "surface": "Perseus", "kb_id": "Q127367"},
-        {"start": 25, "end": 33, "label": "LOC", "surface": "Seriphum", "kb_id": "Q216736"}
+        {"start": 0, "end": 7, "label": "PERSON", "surface": "Perseus", "kb_id": "Q130832"},
+        {"start": 25, "end": 33, "label": "LOC", "surface": "Seriphum", "kb_id": "Q217214"}
       ]
     }
   ]
@@ -172,14 +170,10 @@ Provenance for each processing layer. NER-only singles omit the `nel` block.
 
 Files with `-train`, `-dev`, or `-test` suffix are routed to the corresponding split. Unsplit files default to train.
 
-## Preprocessing
+## Provenance
 
-Text is normalized before tokenization to match the LatinCy tokenizer pipeline:
-
-1. Ligatures: `æ`→`ae`, `œ`→`oe`
-2. Macrons: `ā`→`a`, etc.
-3. Diacritics: NFD decompose + strip combining marks
-4. Orthography: `v`→`u`, `j`→`i`
+The models used for sentence segmentation, tokenization, and annotation are
+recorded per single in each file's `annotation` block (see [Data Format](#data-format)).
 
 ## License
 
