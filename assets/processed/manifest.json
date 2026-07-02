@@ -1,107 +1,30 @@
 {
   "corpus_version": "3.9.0",
-  "git_commit": "b4cf4771aab5680296b1ea4c72d7a26828643c81",
-  "built_at": "2026-06-15T21:28:29.794308+00:00",
+  "git_commit": "adb4b2c16de58ecb432bbbd898263c13c0ce2271",
+  "built_at": "2026-07-02T19:00:17.300120+00:00",
   "collections_dir": "assets/splits",
   "dedup": true,
   "totals": {
     "train": {
-      "files": 8,
-      "sents": 25771,
-      "ents": 43286
+      "files": 1,
+      "sents": 1336,
+      "ents": 993
     },
     "dev": {
-      "files": 8,
-      "sents": 3657,
-      "ents": 6417
+      "files": 1,
+      "sents": 179,
+      "ents": 148
     },
     "test": {
-      "files": 3,
-      "sents": 1958,
-      "ents": 2071
+      "files": 0,
+      "sents": 0,
+      "ents": 0
     },
-    "within_file_dedup": 770,
-    "cross_split_dedup": 214,
-    "casing_augmented": 10962
+    "within_file_dedup": 0,
+    "cross_split_dedup": 0,
+    "casing_augmented": 606
   },
   "files": [
-    {
-      "file": "bootstrap/bootstrap-herodotos-dev.json",
-      "split": "dev",
-      "sentences": 758,
-      "entities": 1444,
-      "deduped": 78
-    },
-    {
-      "file": "bootstrap/bootstrap-herodotos-train.json",
-      "split": "train",
-      "sentences": 2649,
-      "entities": 5519,
-      "deduped": 692
-    },
-    {
-      "file": "bootstrap/bootstrap-neral-test.json",
-      "split": "test",
-      "sentences": 555,
-      "entities": 1227,
-      "deduped": 0
-    },
-    {
-      "file": "catena/catena-dcd.1-dev.json",
-      "split": "dev",
-      "sentences": 89,
-      "entities": 23,
-      "deduped": 0
-    },
-    {
-      "file": "catena/catena-dcd.1-train.json",
-      "split": "train",
-      "sentences": 459,
-      "entities": 176,
-      "deduped": 0
-    },
-    {
-      "file": "catena/catena-dcd.2-test.json",
-      "split": "test",
-      "sentences": 334,
-      "entities": 225,
-      "deduped": 0
-    },
-    {
-      "file": "nt/nt-matthew-test.json",
-      "split": "test",
-      "sentences": 1069,
-      "entities": 619,
-      "deduped": 0
-    },
-    {
-      "file": "ot/ot-genesis-dev.json",
-      "split": "dev",
-      "sentences": 319,
-      "entities": 387,
-      "deduped": 0
-    },
-    {
-      "file": "ot/ot-genesis-train.json",
-      "split": "train",
-      "sentences": 1203,
-      "entities": 1575,
-      "deduped": 0
-    },
-    {
-      "file": "ovid-met/ovid-met-1-dev.json",
-      "split": "dev",
-      "sentences": 74,
-      "entities": 28,
-      "deduped": 0
-    },
-    {
-      "file": "ovid-met/ovid-met-1-train.json",
-      "split": "train",
-      "sentences": 324,
-      "entities": 131,
-      "deduped": 0
-    },
     {
       "file": "primer/primer-ritchies-nel-dev.json",
       "split": "dev",
@@ -114,48 +37,6 @@
       "split": "train",
       "sentences": 730,
       "entities": 587,
-      "deduped": 0
-    },
-    {
-      "file": "primer/primer-sonnenschein_1902-dev.json",
-      "split": "dev",
-      "sentences": 104,
-      "entities": 97,
-      "deduped": 0
-    },
-    {
-      "file": "primer/primer-sonnenschein_1902-train.json",
-      "split": "train",
-      "sentences": 399,
-      "entities": 288,
-      "deduped": 0
-    },
-    {
-      "file": "primer/primer-sonnenschein_1903-dev.json",
-      "split": "dev",
-      "sentences": 65,
-      "entities": 77,
-      "deduped": 0
-    },
-    {
-      "file": "primer/primer-sonnenschein_1903-train.json",
-      "split": "train",
-      "sentences": 267,
-      "entities": 284,
-      "deduped": 0
-    },
-    {
-      "file": "ud/ud-dev.json",
-      "split": "dev",
-      "sentences": 2069,
-      "entities": 4304,
-      "deduped": 0
-    },
-    {
-      "file": "ud/ud-train.json",
-      "split": "train",
-      "sentences": 8992,
-      "entities": 17530,
       "deduped": 0
     }
   ]
