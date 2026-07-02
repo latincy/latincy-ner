@@ -61,7 +61,11 @@ assets/
   processed/{json,bio}/{train,dev,test}.*       merged, model-ready training data
 ```
 
-`collections/` holds the canonical singles — the primary published dataset. `splits/` is derived by a deterministic hash split (`scripts/split_unsplit_singles.py`); never hand-edit. `processed/` is the merged, deduplicated, model-ready corpus (`python main.py`); never hand-edit.
+**`collections/`** is the primary published dataset — the citable, hand-owned singles. This is what you read, study, extend, and cite.
+
+**`splits/`** records the exact train/dev/test partition used for training. Splits are derived deterministically from `collections/` via `scripts/split_unsplit_singles.py` (80/20 hash split), but are committed so consumers can reproduce training without running the split script and without any ambiguity about which sentences land where.
+
+**`processed/`** is the merged, deduplicated, model-ready corpus built from `splits/` by `python main.py`. It adds cross-source deduplication and casing augmentation on top of the raw splits. Committed for convenience — anyone training a LatinCy model can use it directly without running the build pipeline.
 
 ## Collections
 
