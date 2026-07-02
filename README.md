@@ -1,5 +1,3 @@
-# LatinCy NER
-
 <img src="https://raw.githubusercontent.com/latincy/latincy-ner/main/assets/latincy-ner-logo.jpg" alt="LatinCy NER" width="400">
 
 Curated NER training data for [LatinCy](https://huggingface.co/latincy) Latin language models.
