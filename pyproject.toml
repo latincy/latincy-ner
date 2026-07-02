@@ -1,6 +1,6 @@
 [project]
 name = "latincy-ner"
-version = "4.0.0"
+version = "3.9.0"
 description = "Curated NER training data and pipeline for LatinCy Latin language models"
 readme = "README.md"
 license = "CC-BY-NC-SA-4.0"
