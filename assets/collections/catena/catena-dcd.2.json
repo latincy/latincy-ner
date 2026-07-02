@@ -3,17 +3,26 @@
     "title": "De Civitate Dei - Book 2",
     "author": "Augustine of Hippo",
     "source": "https://www.thelatinlibrary.com/augustine/civ2.shtml",
+    "version": "0.1.0",
     "latincy-ner-project": "catena",
     "latincy-ner-project-subset": "dcd.2",
     "language": "la",
     "genre": "theology",
-    "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "source_license": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "annotation_license": "https://creativecommons.org/licenses/by/4.0/",
     "author_wikidata": "https://www.wikidata.org/wiki/Q8018",
     "work_wikidata": "https://www.wikidata.org/wiki/Q212318"
   },
   "annotation": {
-    "spacy_model": "la_core_web_lg",
-    "spacy_model_version": "3.8.0",
+    "segmentation": {
+      "senter_model": "la_core_web_lg",
+      "senter_version": "3.8.0"
+    },
+    "ner": {
+      "spacy_model": "la_core_web_lg",
+      "spacy_model_version": "3.8.0",
+      "review_level": "silver"
+    },
     "tagset": [
       "PERSON",
       "LOC",
@@ -21,8 +30,7 @@
     ],
     "annotators": [
       "Patrick J. Burns"
-    ],
-    "review_level": "silver"
+    ]
   },
   "data": [
     {
@@ -2605,11 +2613,63 @@
   ],
   "report": {
     "tag_counts": {
-      "PERSON": 136,
       "LOC": 23,
-      "NORP": 66
+      "NORP": 66,
+      "PERSON": 136
     },
     "tag_inventories": {
+      "LOC": [
+        "Asia",
+        "Auentinum",
+        "Campaniae",
+        "Capitolii",
+        "Capitolinus",
+        "Capitolium",
+        "Carthagine",
+        "Carthaginem",
+        "Carthaginis",
+        "Etruria",
+        "Roma",
+        "Romae",
+        "Romam",
+        "Tarentum"
+      ],
+      "NORP": [
+        "Aegyptiorum",
+        "Athenienses",
+        "Atheniensibus",
+        "Atheniensis",
+        "Christiana",
+        "Christianae",
+        "Christiani",
+        "Christianisue",
+        "Christianos",
+        "Etruscis",
+        "Galli",
+        "Gallis",
+        "Graeca",
+        "Graeci",
+        "Graecia",
+        "Graecos",
+        "Lacedaemoniis",
+        "Minturnensibus",
+        "Punicum",
+        "Romana",
+        "Romanae",
+        "Romanam",
+        "Romanas",
+        "Romani",
+        "Romanis",
+        "Romano",
+        "Romanorum",
+        "Romanos",
+        "Romanum",
+        "Romanus",
+        "Sabinas",
+        "Sabini",
+        "Troianis",
+        "Veientes"
+      ],
       "PERSON": [
         "Aeschines",
         "Apollinis",
@@ -2704,58 +2764,6 @@
         "loui",
         "louis",
         "luno"
-      ],
-      "LOC": [
-        "Asia",
-        "Auentinum",
-        "Campaniae",
-        "Capitolii",
-        "Capitolinus",
-        "Capitolium",
-        "Carthagine",
-        "Carthaginem",
-        "Carthaginis",
-        "Etruria",
-        "Roma",
-        "Romae",
-        "Romam",
-        "Tarentum"
-      ],
-      "NORP": [
-        "Aegyptiorum",
-        "Athenienses",
-        "Atheniensibus",
-        "Atheniensis",
-        "Christiana",
-        "Christianae",
-        "Christiani",
-        "Christianisue",
-        "Christianos",
-        "Etruscis",
-        "Galli",
-        "Gallis",
-        "Graeca",
-        "Graeci",
-        "Graecia",
-        "Graecos",
-        "Lacedaemoniis",
-        "Minturnensibus",
-        "Punicum",
-        "Romana",
-        "Romanae",
-        "Romanam",
-        "Romanas",
-        "Romani",
-        "Romanis",
-        "Romano",
-        "Romanorum",
-        "Romanos",
-        "Romanum",
-        "Romanus",
-        "Sabinas",
-        "Sabini",
-        "Troianis",
-        "Veientes"
       ]
     }
   }

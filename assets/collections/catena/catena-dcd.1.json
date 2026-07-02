@@ -3,17 +3,26 @@
     "title": "De Civitate Dei - Book 1",
     "author": "Augustine of Hippo",
     "source": "https://www.thelatinlibrary.com/augustine/civ1.shtml",
+    "version": "0.1.0",
     "latincy-ner-project": "catena",
     "latincy-ner-project-subset": "dcd.1",
     "language": "la",
     "genre": "theology",
-    "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "source_license": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "annotation_license": "https://creativecommons.org/licenses/by/4.0/",
     "author_wikidata": "https://www.wikidata.org/wiki/Q8018",
     "work_wikidata": "https://www.wikidata.org/wiki/Q212318"
   },
   "annotation": {
-    "spacy_model": "la_core_web_lg",
-    "spacy_model_version": "3.8.0",
+    "segmentation": {
+      "senter_model": "la_core_web_lg",
+      "senter_version": "3.8.0"
+    },
+    "ner": {
+      "spacy_model": "la_core_web_lg",
+      "spacy_model_version": "3.8.0",
+      "review_level": "silver"
+    },
     "tagset": [
       "PERSON",
       "LOC",
@@ -21,8 +30,7 @@
     ],
     "annotators": [
       "Patrick J. Burns"
-    ],
-    "review_level": "silver"
+    ]
   },
   "data": [
     {
@@ -1352,11 +1360,11 @@
       "spans": []
     },
     {
-      "text": "Falsum est ergo quod ait <Christus>:",
+      "text": "Falsum est ergo quod ait Christus:",
       "spans": [
         {
           "start": 25,
-          "end": 34,
+          "end": 33,
           "label": "PERSON"
         }
       ]
@@ -3340,13 +3348,63 @@
   ],
   "report": {
     "tag_counts": {
-      "PERSON": 113,
       "LOC": 25,
-      "NORP": 61
+      "NORP": 61,
+      "PERSON": 113
     },
     "tag_inventories": {
+      "LOC": [
+        "Carthagine",
+        "Carthaginem",
+        "Hierusalem",
+        "Ilium",
+        "Italiam",
+        "Nolam",
+        "Roma",
+        "Romae",
+        "Romam",
+        "Syracusas",
+        "Tarentinae",
+        "Troia",
+        "Troiam",
+        "Tyrrhenum",
+        "Vticae"
+      ],
+      "NORP": [
+        "Carthaginienses",
+        "Carthaginiensium",
+        "Christiana",
+        "Christianae",
+        "Christianarum",
+        "Christiani",
+        "Christianis",
+        "Christiano",
+        "Christianorum",
+        "Christianos",
+        "Christianum",
+        "Danaum",
+        "Graecam",
+        "Graeci",
+        "Graecorum",
+        "Graeculorum",
+        "Manichaeorum",
+        "Phrygiis",
+        "Punici",
+        "Romana",
+        "Romanae",
+        "Romanam",
+        "Romanarum",
+        "Romani",
+        "Romanis",
+        "Romano",
+        "Romanorum",
+        "Romanos",
+        "Romanus",
+        "Tarentinis",
+        "Troianis",
+        "Troianos"
+      ],
       "PERSON": [
-        "<Christus",
         "Abrahae",
         "Abraham",
         "Aeneas",
@@ -3412,57 +3470,6 @@
         "Vergilium",
         "Vergilius",
         "Vlixes"
-      ],
-      "LOC": [
-        "Carthagine",
-        "Carthaginem",
-        "Hierusalem",
-        "Ilium",
-        "Italiam",
-        "Nolam",
-        "Roma",
-        "Romae",
-        "Romam",
-        "Syracusas",
-        "Tarentinae",
-        "Troia",
-        "Troiam",
-        "Tyrrhenum",
-        "Vticae"
-      ],
-      "NORP": [
-        "Carthaginienses",
-        "Carthaginiensium",
-        "Christiana",
-        "Christianae",
-        "Christianarum",
-        "Christiani",
-        "Christianis",
-        "Christiano",
-        "Christianorum",
-        "Christianos",
-        "Christianum",
-        "Danaum",
-        "Graecam",
-        "Graeci",
-        "Graecorum",
-        "Graeculorum",
-        "Manichaeorum",
-        "Phrygiis",
-        "Punici",
-        "Romana",
-        "Romanae",
-        "Romanam",
-        "Romanarum",
-        "Romani",
-        "Romanis",
-        "Romano",
-        "Romanorum",
-        "Romanos",
-        "Romanus",
-        "Tarentinis",
-        "Troianis",
-        "Troianos"
       ]
     }
   }

@@ -4,13 +4,23 @@
     "author": "Sonnenschein, E. A.",
     "date": "1902",
     "source": "https://catalog.hathitrust.org/Record/006537742",
+    "version": "0.1.0",
     "latincy-ner-project": "primer",
-    "latincy-ner-project-subset": "ora_maritima",
-    "license": "https://creativecommons.org/public-domain/cc0/"
+    "latincy-ner-project-subset": "sonnenschein_1902",
+    "language": "la",
+    "source_license": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "annotation_license": "https://creativecommons.org/licenses/by/4.0/"
   },
   "annotation": {
-    "spacy_model": "la_core_web_lg",
-    "spacy_model_version": "3.8.0",
+    "segmentation": {
+      "senter_model": "la_core_web_lg",
+      "senter_version": "3.8.0"
+    },
+    "ner": {
+      "spacy_model": "la_core_web_lg",
+      "spacy_model_version": "3.8.0",
+      "review_level": "silver"
+    },
     "tagset": [
       "PERSON",
       "LOC",
@@ -18,8 +28,7 @@
     ],
     "annotators": [
       "Patrick J. Burns"
-    ],
-    "review_level": "silver"
+    ]
   },
   "data": [
     {
@@ -4200,52 +4209,11 @@
   ],
   "report": {
     "tag_counts": {
-      "PERSON": 113,
       "LOC": 85,
-      "NORP": 187
+      "NORP": 187,
+      "PERSON": 113
     },
     "tag_inventories": {
-      "PERSON": [
-        "Agellus",
-        "Alexander",
-        "Alexandro",
-        "Antoni",
-        "Britannis",
-        "Britannorum",
-        "C. Iulio Caesare",
-        "C. Iulius Caesar",
-        "Caesar",
-        "Caesarem",
-        "Caesari",
-        "Caesaris",
-        "Cassivellauni",
-        "Cassivellauno",
-        "Cassivellaunum",
-        "Cassivellaunus",
-        "Christum",
-        "Cordeliae",
-        "Gaius Iulius",
-        "Leir",
-        "Lydia",
-        "Lydiae",
-        "Lydiam",
-        "Marce",
-        "Marci",
-        "Marco",
-        "Marcus",
-        "Petri",
-        "Petro",
-        "Petrus",
-        "Quintus Atrius",
-        "Romanos",
-        "Romanus",
-        "Sabidi",
-        "Taciti",
-        "Tacitus",
-        "Trebonio",
-        "Victoria",
-        "Victoriae Reginae"
-      ],
       "LOC": [
         "Africa",
         "Africa Meridiana",
@@ -4341,6 +4309,47 @@
         "Veneti",
         "Venetis",
         "Venetorum"
+      ],
+      "PERSON": [
+        "Agellus",
+        "Alexander",
+        "Alexandro",
+        "Antoni",
+        "Britannis",
+        "Britannorum",
+        "C. Iulio Caesare",
+        "C. Iulius Caesar",
+        "Caesar",
+        "Caesarem",
+        "Caesari",
+        "Caesaris",
+        "Cassivellauni",
+        "Cassivellauno",
+        "Cassivellaunum",
+        "Cassivellaunus",
+        "Christum",
+        "Cordeliae",
+        "Gaius Iulius",
+        "Leir",
+        "Lydia",
+        "Lydiae",
+        "Lydiam",
+        "Marce",
+        "Marci",
+        "Marco",
+        "Marcus",
+        "Petri",
+        "Petro",
+        "Petrus",
+        "Quintus Atrius",
+        "Romanos",
+        "Romanus",
+        "Sabidi",
+        "Taciti",
+        "Tacitus",
+        "Trebonio",
+        "Victoria",
+        "Victoriae Reginae"
       ]
     }
   }
