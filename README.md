@@ -1,6 +1,8 @@
 # LatinCy NER
 
-Curated NER training data for [LatinCy](https://huggingface.co/latincy) Latin language models. This repo receives finalized annotation singles from `latincy-ner-annotate` and converts them to spaCy `DocBin` files for model training.
+<img src="https://raw.githubusercontent.com/latincy/latincy-ner/main/assets/latincy-ner-logo.jpg" alt="LatinCy NER" width="400">
+
+Curated NER training data for [LatinCy](https://huggingface.co/latincy) Latin language models.
 
 ## Named Entity Linking (NEL)
 
