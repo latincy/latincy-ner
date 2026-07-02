@@ -10714,10 +10714,6 @@
   "spans": []
  },
  {
-  "text": "Nam qui uolunt diuites fieri, incidunt in temptationem et laqueum et desideria multa <stulta> et noxia, quae mergunt homines in interitum et perditionem.",
-  "spans": []
- },
- {
   "text": "Dominus dedit, Dominus abstulit, sicut Domino placuit, ita factum est;",
   "spans": []
  },
@@ -10763,10 +10759,6 @@
  },
  {
   "text": "Quamuis enim haec in conspectu hominum dua et dira uideantur, sed pretiosa in conspectu Domini mors sanctorum eius.",
-  "spans": []
- },
- {
-  "text": "Proinde ista omnia, <id est> curatio funeris, conditio sepulturae, pompa exequiarum, magis sunt uiuorum solacia quam subsidia mortuorum.",
   "spans": []
  },
  {
@@ -10820,6 +10812,10 @@
     "label": "NORP"
    }
   ]
+ },
+ {
+  "text": "Quod si tale aliquid est pudicitia, ut quid pro illa, ne amittatur, etiam cum periculo corpris laboratur?",
+  "spans": []
  },
  {
   "text": "Quis in hac controuersia laborandum putauerit?",
@@ -10929,10 +10925,6 @@
     "label": "PERSON"
    }
   ]
- },
- {
-  "text": "sed ad capessendam mortem atque <ad> huius uitae suauia uincla rumpenda sola adfuit animi magnitudo.",
-  "spans": []
  },
  {
   "text": "Quod tamen magne potius factum esse quam bene testis ei esse potuit Plato ipse, quem legerat, qui profecto id praecipue potissimumque fecisset uel etiam praecepisset, nisi ea mente, qua inmortalitatem animae uidit, nequaquam faciendum, quin etiam prohibendum esse iudicasset.",
@@ -15717,7 +15709,7 @@
     "end": 56,
     "label": "LOC",
     "surface": "Laconiam",
-    "kb_id": "Q105064"
+    "kb_id": "Q11931074"
    },
    {
     "start": 60,
@@ -16504,7 +16496,7 @@
     "end": 17,
     "label": "PERSON",
     "surface": "Uolcanus",
-    "kb_id": "Q48268"
+    "kb_id": "Q4640"
    },
    {
     "start": 67,

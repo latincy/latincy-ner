@@ -1,15 +1,26 @@
 {
   "metadata": {
     "title": "Liber Genesis",
+    "author": "Jerome",
     "source": "https://github.com/cltk/lat_text_tesserae/blob/master/texts/jerome.vulgate.part.1.genesis.tess",
+    "version": "0.1.0",
     "latincy-ner-project": "ot",
     "latincy-ner-project-subset": "genesis-dev",
-    "license": "https://creativecommons.org/public-domain/cc0/",
+    "language": "la",
+    "source_license": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "annotation_license": "https://creativecommons.org/licenses/by/4.0/",
     "split_from": "ot-genesis.json"
   },
   "annotation": {
-    "spacy_model": "la_core_web_lg",
-    "spacy_model_version": "3.8.0",
+    "segmentation": {
+      "senter_model": "la_core_web_lg",
+      "senter_version": null
+    },
+    "ner": {
+      "spacy_model": "la_core_web_lg",
+      "spacy_model_version": "3.8.0",
+      "review_level": "silver"
+    },
     "tagset": [
       "PERSON",
       "LOC",
@@ -17,8 +28,7 @@
     ],
     "annotators": [
       "Patrick J. Burns"
-    ],
-    "review_level": "silver"
+    ]
   },
   "data": [
     {

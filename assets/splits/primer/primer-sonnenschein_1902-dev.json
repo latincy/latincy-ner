@@ -4,14 +4,24 @@
     "author": "Sonnenschein, E. A.",
     "date": "1902",
     "source": "https://catalog.hathitrust.org/Record/006537742",
+    "version": "0.1.0",
     "latincy-ner-project": "primer",
-    "latincy-ner-project-subset": "ora_maritima-dev",
-    "license": "https://creativecommons.org/public-domain/cc0/",
+    "latincy-ner-project-subset": "sonnenschein_1902-dev",
+    "language": "la",
+    "source_license": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "annotation_license": "https://creativecommons.org/licenses/by/4.0/",
     "split_from": "primer-sonnenschein_1902.json"
   },
   "annotation": {
-    "spacy_model": "la_core_web_lg",
-    "spacy_model_version": "3.8.0",
+    "segmentation": {
+      "senter_model": "la_core_web_lg",
+      "senter_version": null
+    },
+    "ner": {
+      "spacy_model": "la_core_web_lg",
+      "spacy_model_version": "3.8.0",
+      "review_level": "silver"
+    },
     "tagset": [
       "PERSON",
       "LOC",
@@ -19,8 +29,7 @@
     ],
     "annotators": [
       "Patrick J. Burns"
-    ],
-    "review_level": "silver"
+    ]
   },
   "data": [
     {

@@ -4,7 +4,7 @@
     "author": "Ritchie, F.",
     "date": "1904",
     "source": "https://www.thelatinlibrary.com/ritchie.html",
-    "version": "0.2.0",
+    "version": "0.2.1",
     "latincy-ner-project": "primer",
     "latincy-ner-project-subset": "ritchies-dev",
     "language": "la",
@@ -829,7 +829,7 @@
           "end": 56,
           "label": "LOC",
           "surface": "Laconiam",
-          "kb_id": "Q105064"
+          "kb_id": "Q11931074"
         },
         {
           "start": 60,
@@ -1616,7 +1616,7 @@
           "end": 17,
           "label": "PERSON",
           "surface": "Uolcanus",
-          "kb_id": "Q48268"
+          "kb_id": "Q4640"
         },
         {
           "start": 67,

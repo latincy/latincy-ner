@@ -1,28 +1,28 @@
 {
   "corpus_version": "3.9.0",
-  "git_commit": "b4cf4771aab5680296b1ea4c72d7a26828643c81",
-  "built_at": "2026-06-15T21:28:29.794308+00:00",
+  "git_commit": "a199c9397d603839d2aaf15695792e593d5afccd",
+  "built_at": "2026-07-02T23:42:19.295612+00:00",
   "collections_dir": "assets/splits",
   "dedup": true,
   "totals": {
     "train": {
       "files": 8,
-      "sents": 25771,
+      "sents": 25775,
       "ents": 43286
     },
     "dev": {
       "files": 8,
-      "sents": 3657,
+      "sents": 3655,
       "ents": 6417
     },
     "test": {
       "files": 3,
-      "sents": 1958,
+      "sents": 1957,
       "ents": 2071
     },
     "within_file_dedup": 770,
     "cross_split_dedup": 214,
-    "casing_augmented": 10962
+    "casing_augmented": 10964
   },
   "files": [
     {
@@ -49,14 +49,14 @@
     {
       "file": "catena/catena-dcd.1-dev.json",
       "split": "dev",
-      "sentences": 89,
+      "sentences": 87,
       "entities": 23,
       "deduped": 0
     },
     {
       "file": "catena/catena-dcd.1-train.json",
       "split": "train",
-      "sentences": 459,
+      "sentences": 461,
       "entities": 176,
       "deduped": 0
     },
@@ -70,7 +70,7 @@
     {
       "file": "nt/nt-matthew-test.json",
       "split": "test",
-      "sentences": 1069,
+      "sentences": 1068,
       "entities": 619,
       "deduped": 0
     },

@@ -3,7 +3,7 @@
     "title": "De Civitate Dei - Book 2",
     "author": "Augustine of Hippo",
     "source": "https://www.thelatinlibrary.com/augustine/civ2.shtml",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "latincy-ner-project": "catena",
     "latincy-ner-project-subset": "dcd.2",
     "language": "la",
@@ -11,12 +11,13 @@
     "source_license": "https://creativecommons.org/publicdomain/zero/1.0/",
     "annotation_license": "https://creativecommons.org/licenses/by/4.0/",
     "author_wikidata": "https://www.wikidata.org/wiki/Q8018",
-    "work_wikidata": "https://www.wikidata.org/wiki/Q212318"
+    "work_wikidata": "https://www.wikidata.org/wiki/Q212318",
+    "split": "test"
   },
   "annotation": {
     "segmentation": {
       "senter_model": "la_core_web_lg",
-      "senter_version": "3.8.0"
+      "senter_version": null
     },
     "ner": {
       "spacy_model": "la_core_web_lg",
@@ -54,16 +55,16 @@
       "spans": []
     },
     {
-      "text": "Quam ob rem nec te ipsum, <mi> fili Marcelline, nec alios, quibus hic labor noster in Christi caritate utiliter ac liberaliter seruit, tales meorum scriptorum uelim iudices, qui responsionem semper desiderent, cum his quae leguntur audierint aliquid contradici, ne fiant similes earum muliercularum, quas commemorat apostolus semper discentes et numquam ad ueritatis scientiam peruenientes.",
+      "text": "Quam ob rem nec te ipsum, mi fili Marcelline, nec alios, quibus hic labor noster in Christi caritate utiliter ac liberaliter seruit, tales meorum scriptorum uelim iudices, qui responsionem semper desiderent, cum his quae leguntur audierint aliquid contradici, ne fiant similes earum muliercularum, quas commemorat apostolus semper discentes et numquam ad ueritatis scientiam peruenientes.",
       "spans": [
         {
-          "start": 36,
-          "end": 46,
+          "start": 34,
+          "end": 44,
           "label": "PERSON"
         },
         {
-          "start": 86,
-          "end": 93,
+          "start": 84,
+          "end": 91,
           "label": "PERSON"
         }
       ]
@@ -892,7 +893,7 @@
       ]
     },
     {
-      "text": "Si autem a diis suis Romani uiuendi leges accipere potuissent, non aliquot annos post Romam conditam ab Atheniensibus mutuarentur leges Solonis, quas tamen non ut acceperunt <tenuerunt>, sed meliores et emendatiores facere conati sunt, quamuis Lycurgus Lacedaemoniis leges ex Apollinis auctoritate se instituisse confinxerit, quod prudenter Romani credere noluerunt, propterea non inde acceperunt.",
+      "text": "Si autem a diis suis Romani uiuendi leges accipere potuissent, non aliquot annos post Romam conditam ab Atheniensibus mutuarentur leges Solonis, quas tamen non ut acceperunt tenuerunt, sed meliores et emendatiores facere conati sunt, quamuis Lycurgus Lacedaemoniis leges ex Apollinis auctoritate se instituisse confinxerit, quod prudenter Romani credere noluerunt, propterea non inde acceperunt.",
       "spans": [
         {
           "start": 21,
@@ -915,23 +916,23 @@
           "label": "PERSON"
         },
         {
-          "start": 244,
-          "end": 252,
+          "start": 242,
+          "end": 250,
           "label": "PERSON"
         },
         {
-          "start": 253,
-          "end": 266,
+          "start": 251,
+          "end": 264,
           "label": "NORP"
         },
         {
-          "start": 276,
-          "end": 285,
+          "start": 274,
+          "end": 283,
           "label": "PERSON"
         },
         {
-          "start": 341,
-          "end": 347,
+          "start": 339,
+          "end": 345,
           "label": "NORP"
         }
       ]
@@ -2555,7 +2556,7 @@
       "spans": []
     },
     {
-      "text": "supplica Deo uero, ut a te remoueat illos deos, qui delectantur criminibus suis, seu ueris, quod ignominiosissimum est, seu falsis, quod malitiosissimum <est>.",
+      "text": "supplica Deo uero, ut a te remoueat illos deos, qui delectantur criminibus suis, seu ueris, quod ignominiosissimum est, seu falsis, quod malitiosissimum est.",
       "spans": []
     },
     {

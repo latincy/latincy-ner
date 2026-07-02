@@ -3,7 +3,7 @@
     "title": "De Civitate Dei - Book 1",
     "author": "Augustine of Hippo",
     "source": "https://www.thelatinlibrary.com/augustine/civ1.shtml",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "latincy-ner-project": "catena",
     "latincy-ner-project-subset": "dcd.1",
     "language": "la",
@@ -16,7 +16,7 @@
   "annotation": {
     "segmentation": {
       "senter_model": "la_core_web_lg",
-      "senter_version": "3.8.0"
+      "senter_version": null
     },
     "ner": {
       "spacy_model": "la_core_web_lg",
@@ -1049,7 +1049,7 @@
       "spans": []
     },
     {
-      "text": "Nam qui uolunt diuites fieri, incidunt in temptationem et laqueum et desideria multa <stulta> et noxia, quae mergunt homines in interitum et perditionem.",
+      "text": "Nam qui uolunt diuites fieri, incidunt in temptationem et laqueum et desideria multa stulta et noxia, quae mergunt homines in interitum et perditionem.",
       "spans": []
     },
     {
@@ -1418,7 +1418,7 @@
       "spans": []
     },
     {
-      "text": "Proinde ista omnia, <id est> curatio funeris, conditio sepulturae, pompa exequiarum, magis sunt uiuorum solacia quam subsidia mortuorum.",
+      "text": "Proinde ista omnia, id est curatio funeris, conditio sepulturae, pompa exequiarum, magis sunt uiuorum solacia quam subsidia mortuorum.",
       "spans": []
     },
     {
@@ -1793,7 +1793,7 @@
       "spans": []
     },
     {
-      "text": "et quae se occidere noluerunt, ne suo facinore alienum flagitium deuitarent, quisquis <eis> hoc crimini dederit, ipse crimen insipientiae non cauebit.",
+      "text": "et quae se occidere noluerunt, ne suo facinore alienum flagitium deuitarent, quisquis eis hoc crimini dederit, ipse crimen insipientiae non cauebit.",
       "spans": []
     },
     {
@@ -1862,7 +1862,7 @@
       "spans": []
     },
     {
-      "text": "Quod si tale aliquid est pudicitia, ut quid pro illa, ne amittatur, etiam <cum> periculo corpris laboratur?",
+      "text": "Quod si tale aliquid est pudicitia, ut quid pro illa, ne amittatur, etiam cum periculo corpris laboratur?",
       "spans": []
     },
     {
@@ -2335,7 +2335,7 @@
       "spans": []
     },
     {
-      "text": "sed ad capessendam mortem atque <ad> huius uitae suauia uincla rumpenda sola adfuit animi magnitudo.",
+      "text": "sed ad capessendam mortem atque ad huius uitae suauia uincla rumpenda sola adfuit animi magnitudo.",
       "spans": []
     },
     {
@@ -2578,7 +2578,7 @@
       "spans": []
     },
     {
-      "text": "Hoc probauit, cum causa promissi iurisque iurandi ad eosdem hostes, quos grauius in senatu uerbis quam <in> bello armis offenderat, sine ulla dubitatione remeauit.",
+      "text": "Hoc probauit, cum causa promissi iurisque iurandi ad eosdem hostes, quos grauius in senatu uerbis quam in bello armis offenderat, sine ulla dubitatione remeauit.",
       "spans": []
     },
     {
@@ -2954,7 +2954,7 @@
       "spans": []
     },
     {
-      "text": "uos autem qui estis, cum quibus loqui dignum sit saltem de diis uestris, quanto minus de Deo meo, qui terribilis est super omnes deos, quoniam <omnes> dii gentium daemonia, Dominus autem caelos fecit.",
+      "text": "uos autem qui estis, cum quibus loqui dignum sit saltem de diis uestris, quanto minus de Deo meo, qui terribilis est super omnes deos, quoniam omnes dii gentium daemonia, Dominus autem caelos fecit.",
       "spans": []
     },
     {
@@ -3163,16 +3163,16 @@
       "spans": []
     },
     {
-      "text": "sed astutia spirituum nefandorum praeuidens illam pestilentiam iam fine debito cessaturam aliam longe grauiorem, qua plurimum gaudet, ex [hac] occasione non corporibus, sed moribus curauit inmittere, quae animos miserorum tantis obcaecauit tenebris, tanta deformitate foedauit, ut etiam modo (quod incredibile forsitan erit, si a nostris posteris audietur) Romana urbe uastata, quos pestile n tia ista possedit atque inde fugientes Carthaginem peruenire potuerunt, in theatris cotidie certatim pro histrionibus insanirent.",
+      "text": "sed astutia spirituum nefandorum praeuidens illam pestilentiam iam fine debito cessaturam aliam longe grauiorem, qua plurimum gaudet, ex hac occasione non corporibus, sed moribus curauit inmittere, quae animos miserorum tantis obcaecauit tenebris, tanta deformitate foedauit, ut etiam modo (quod incredibile forsitan erit, si a nostris posteris audietur) Romana urbe uastata, quos pestile n tia ista possedit atque inde fugientes Carthaginem peruenire potuerunt, in theatris cotidie certatim pro histrionibus insanirent.",
       "spans": [
         {
-          "start": 357,
-          "end": 363,
+          "start": 355,
+          "end": 361,
           "label": "NORP"
         },
         {
-          "start": 432,
-          "end": 443,
+          "start": 430,
+          "end": 441,
           "label": "LOC"
         }
       ]

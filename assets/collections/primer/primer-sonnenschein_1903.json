@@ -14,7 +14,7 @@
   "annotation": {
     "segmentation": {
       "senter_model": "la_core_web_lg",
-      "senter_version": "3.8.0"
+      "senter_version": null
     },
     "ner": {
       "spacy_model": "la_core_web_lg",

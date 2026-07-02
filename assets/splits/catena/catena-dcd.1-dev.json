@@ -3,18 +3,27 @@
     "title": "De Civitate Dei - Book 1",
     "author": "Augustine of Hippo",
     "source": "https://www.thelatinlibrary.com/augustine/civ1.shtml",
+    "version": "0.1.1",
     "latincy-ner-project": "catena",
     "latincy-ner-project-subset": "dcd.1-dev",
     "language": "la",
     "genre": "theology",
-    "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "source_license": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "annotation_license": "https://creativecommons.org/licenses/by/4.0/",
     "author_wikidata": "https://www.wikidata.org/wiki/Q8018",
     "work_wikidata": "https://www.wikidata.org/wiki/Q212318",
     "split_from": "catena-dcd.1.json"
   },
   "annotation": {
-    "spacy_model": "la_core_web_lg",
-    "spacy_model_version": "3.8.0",
+    "segmentation": {
+      "senter_model": "la_core_web_lg",
+      "senter_version": null
+    },
+    "ner": {
+      "spacy_model": "la_core_web_lg",
+      "spacy_model_version": "3.8.0",
+      "review_level": "silver"
+    },
     "tagset": [
       "PERSON",
       "LOC",
@@ -22,8 +31,7 @@
     ],
     "annotators": [
       "Patrick J. Burns"
-    ],
-    "review_level": "silver"
+    ]
   },
   "data": [
     {
@@ -141,10 +149,6 @@
       "spans": []
     },
     {
-      "text": "Nam qui uolunt diuites fieri, incidunt in temptationem et laqueum et desideria multa <stulta> et noxia, quae mergunt homines in interitum et perditionem.",
-      "spans": []
-    },
-    {
       "text": "Dominus dedit, Dominus abstulit, sicut Domino placuit, ita factum est;",
       "spans": []
     },
@@ -190,10 +194,6 @@
     },
     {
       "text": "Quamuis enim haec in conspectu hominum dua et dira uideantur, sed pretiosa in conspectu Domini mors sanctorum eius.",
-      "spans": []
-    },
-    {
-      "text": "Proinde ista omnia, <id est> curatio funeris, conditio sepulturae, pompa exequiarum, magis sunt uiuorum solacia quam subsidia mortuorum.",
       "spans": []
     },
     {
@@ -247,6 +247,10 @@
           "label": "NORP"
         }
       ]
+    },
+    {
+      "text": "Quod si tale aliquid est pudicitia, ut quid pro illa, ne amittatur, etiam cum periculo corpris laboratur?",
+      "spans": []
     },
     {
       "text": "Quis in hac controuersia laborandum putauerit?",
@@ -356,10 +360,6 @@
           "label": "PERSON"
         }
       ]
-    },
-    {
-      "text": "sed ad capessendam mortem atque <ad> huius uitae suauia uincla rumpenda sola adfuit animi magnitudo.",
-      "spans": []
     },
     {
       "text": "Quod tamen magne potius factum esse quam bene testis ei esse potuit Plato ipse, quem legerat, qui profecto id praecipue potissimumque fecisset uel etiam praecepisset, nisi ea mente, qua inmortalitatem animae uidit, nequaquam faciendum, quin etiam prohibendum esse iudicasset.",
