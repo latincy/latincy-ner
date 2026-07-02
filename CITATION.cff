@@ -3,7 +3,7 @@ message: "If you use this dataset, please cite it as below."
 type: dataset
 title: "LatinCy NER"
 abstract: "Named entity recognition training data for Latin"
-version: "4.0.0"
+version: "3.9.0"
 authors:
   - family-names: Burns
     given-names: Patrick J.

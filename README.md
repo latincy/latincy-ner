@@ -4,28 +4,64 @@ Curated NER training data for [LatinCy](https://huggingface.co/latincy) Latin la
 
 ## Named Entity Linking (NEL)
 
-<!-- TODO(PJB): write this section. Outline / facts to weave in (notes, not prose):
-     - this release adds NEL on top of NER: named entities linked to Wikidata QIDs (and local lkb: / NIL ids) via a `kb_id` on each span
-     - the album/singles publication format — see docs/SINGLES_FORMAT.md
-     - the reference single: primer-ritchies-nel.json v0.2.0 (Ritchie's Fabulae Faciles), 909 sents / 735 spans, 100% Wikidata-linked; data card at assets/collections/primer/primer-ritchies-datacard.md
-     - review levels: NER reviewed (one expert pass), NEL silver
-     - authorities (wd) declared in annotation.nel.authorities; NIL = dataset-internal
-     - validate_single.py enforces the authorities↔kb_id contract (CI + pre-commit)
--->
-_TODO: NEL framing — to be written._
+v3.9 adds named entity linking on top of NER: entities in supported singles are linked to external knowledge bases (primarily Wikidata) via a `kb_id` field on each annotated span.
+
+### Album/single model
+
+The corpus is organized as *albums* and *singles*:
+
+- A **single** is one work's complete annotation in a self-contained JSON file — bibliographic metadata, annotation provenance, and annotated sentences.
+- An **album** is a thematic collection of related singles (e.g. the `primer` album groups `ritchies`, `sonnenschein_1902`, and `sonnenschein_1903`).
+
+The reference single — `primer/primer-ritchies-nel.json` — is the first complete NER+NEL gold single in the corpus: Ritchie's *Fabulae Faciles* (1904), 909 sentences, 735 spans, 100% linked to Wikidata. Its data card is at `assets/collections/primer/primer-ritchies-datacard.md`.
+
+### Review levels
+
+Each annotation layer carries an independent review level:
+
+| Level | Meaning |
+|-------|---------|
+| `silver` | Model output, uncorrected |
+| `reviewed` | One expert pass; all entities verified |
+| `gold` | Two independent passes with adjudication |
+
+The ritchies single has NER at `reviewed` and NEL at `silver`.
+
+### Entity ids and authorities
+
+`kb_id` values are namespaced by authority. Every namespace used must be declared in `annotation.nel.authorities`; `scripts/validate_single.py` enforces this contract (and offset / surface / label integrity) across all singles, with a CI-usable exit code.
+
+| Form | Authority |
+|------|-----------|
+| `Q130832` | Wikidata (globally dereferenceable) |
+| `lkb:<type>:<source>:<id>` | local LatinCy catalog |
+| `NIL` / `NIL0042` | dataset-internal; entity has no KB referent |
 
 ## Entity Types
 
 | Label | Description |
 |---|---|
-| PERSON | Named individuals (e.g. *Caesar*, *Priamus*) |
+| PERSON | Named individuals and named collective groups of beings (e.g. *Caesar*, *Argonautae*, *Gorgones*) |
 | LOC | Geographic locations (e.g. *Roma*, *Sicilia*) |
 | NORP | Nationalities, religious, or political groups (e.g. *Romani*, *Christiani*) |
-| MISC | Named entities outside PERSON/LOC/NORP (e.g. *Cerberus*, *Hydra*) |
+| MISC | Named individual non-human creatures (e.g. *Cerberus*, *Hydra*) |
+
+Guideline: a named *collective* of beings is PERSON; a named *individual* creature is MISC.
 
 `MISC` is **not officially supported in the LatinCy NER tagger**; it is included
 here so that an NEL id can be attached to a named token even when it does not
 refer to a PERSON, LOC, or NORP.
+
+## Directory layout
+
+```
+assets/
+  collections/<album>/<work>.json              canonical singles (hand-owned)
+  splits/<album>/<work>-{train,dev,test}.json  deterministic 80/20 splits
+  processed/{json,bio}/{train,dev,test}.*       merged, model-ready training data
+```
+
+`collections/` holds the canonical singles — the primary published dataset. `splits/` is derived by a deterministic hash split (`scripts/split_unsplit_singles.py`); never hand-edit. `processed/` is the merged, deduplicated, model-ready corpus (`python main.py`); never hand-edit.
 
 ## Collections
 
@@ -75,10 +111,10 @@ uv pip install -e .
 
 ## Building Training Data
 
-Convert JSON singles to spaCy DocBin files:
+Convert JSON singles to model-ready training files:
 
 ```bash
-uv run python scripts/build_training_data.py
+uv run python main.py
 ```
 
 Options:
@@ -90,17 +126,16 @@ Options:
 --no-dedup                Disable deduplication
 ```
 
-Output: `assets/processed/{train,dev,test}.spacy` plus `manifest.json` with per-file statistics.
+Output: `assets/processed/json/{train,dev,test}.json` and `assets/processed/bio/{train,dev,test}.tsv` plus `assets/processed/manifest.json` with per-file statistics.
 
 ## Data Format
 
-Each JSON single follows this schema (full specification in
-[`docs/SINGLES_FORMAT.md`](docs/SINGLES_FORMAT.md)):
+Each JSON single has three top-level keys:
 
 ```json
 {
-  "metadata": { "title": "...", "source": "..." },
-  "annotation": { "tagset": ["PERSON", "LOC", "NORP", "MISC"] },
+  "metadata": { "title": "...", "source": "...", "version": "0.2.0", ... },
+  "annotation": { "tagset": ["PERSON", "LOC", "NORP", "MISC"], ... },
   "data": [
     {
       "text": "Perseus autem in insulam Seriphum pervenit.",
@@ -114,8 +149,41 @@ Each JSON single follows this schema (full specification in
 ```
 
 NEL singles add `surface` (the inflected form, `text[start:end]`) and `kb_id`
-(a Wikidata `Q…`, a local `lkb:` id, or `null`/`NIL`) to each span; NER-only
+(a Wikidata `Q…`, a local `lkb:` id, or `NIL`) to each span; NER-only
 singles carry just `start`, `end`, `label`.
+
+### `metadata` fields
+
+| Field | Description |
+|-------|-------------|
+| `title`, `author`, `date` | Bibliographic identity of the source work |
+| `version` | Semantic version of this single |
+| `source` | URL of the source text |
+| `latincy-ner-project` | Album the single belongs to |
+| `latincy-ner-project-subset` | Work identifier within the album |
+| `language` | ISO code (`la`) |
+| `genre` | e.g. `prose`, `verse` |
+| `source_license` | License of the underlying text |
+| `annotation_license` | License of the annotation layer |
+
+### `annotation` fields
+
+Provenance for each processing layer. NER-only singles omit the `nel` block.
+
+```json
+"annotation": {
+  "segmentation": {"senter_model": "la_core_web_lg", "senter_version": "3.9.4"},
+  "ner": {"spacy_model": "la_core_web_lg", "spacy_model_version": "3.9.4",
+          "review_level": "reviewed"},
+  "nel": {
+    "authorities": [{"prefix": "wd", "name": "Wikidata", "snapshot": "2026-06-15"}],
+    "method": "wikidata_kb candidates + claude-opus-4-8 bootstrapping",
+    "review_level": "silver"
+  },
+  "tagset": ["PERSON", "LOC", "NORP", "MISC"],
+  "annotators": ["Patrick J. Burns"]
+}
+```
 
 Files with `-train`, `-dev`, or `-test` suffix are routed to the corresponding split. Unsplit files default to train.
 
