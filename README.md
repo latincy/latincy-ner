@@ -34,7 +34,6 @@ The ritchies single has NER at `reviewed` and NEL at `silver`.
 | Form | Authority |
 |------|-----------|
 | `Q130832` | Wikidata (globally dereferenceable) |
-| `lkb:<type>:<source>:<id>` | local LatinCy catalog |
 | `NIL` / `NIL0042` | dataset-internal; entity has no KB referent |
 
 ## Entity Types
@@ -130,7 +129,7 @@ Each JSON single has three top-level keys:
 ```
 
 NEL singles add `surface` (the inflected form, `text[start:end]`) and `kb_id`
-(a Wikidata `Q…`, a local `lkb:` id, or `NIL`) to each span; NER-only
+(a Wikidata `Q…` or `NIL`) to each span; NER-only
 singles carry just `start`, `end`, `label`.
 
 ### `metadata` fields
