@@ -69,41 +69,20 @@ assets/
 
 ## Collections
 
-Sources are split into train, dev, and test sets. Test files are held-out complete documents for evaluation; train/dev files use 80/20 splits within each source.
-
 | Collection | Source | Split | Sentences | Entities |
 |---|---|---|---|---|
-| bootstrap | bootstrap-herodotos | train | 2,649 | 5,519 |
-| bootstrap | bootstrap-herodotos | dev | 758 | 1,444 |
-| bootstrap | bootstrap-neral | test | 555 | 1,227 |
-| catena | catena-dcd.1 | train | 459 | 176 |
-| catena | catena-dcd.1 | dev | 89 | 23 |
-| catena | catena-dcd.2 | test | 334 | 225 |
-| nt | nt-matthew | test | 1,069 | 619 |
-| ot | ot-genesis | train | 1,203 | 1,575 |
-| ot | ot-genesis | dev | 319 | 387 |
 | primer | primer-ritchies-nel | train | 730 | 587 |
 | primer | primer-ritchies-nel | dev | 179 | 148 |
-| primer | primer-sonnenschein_1902 | train | 399 | 288 |
-| primer | primer-sonnenschein_1902 | dev | 104 | 97 |
-| primer | primer-sonnenschein_1903 | train | 267 | 284 |
-| primer | primer-sonnenschein_1903 | dev | 65 | 77 |
-| ovid-met | ovid-met-1 | train | 324 | 131 |
-| ovid-met | ovid-met-1 | dev | 74 | 28 |
-| ud | ud | train | 8,992 | 17,530 |
-| ud | ud | dev | 2,069 | 4,304 |
 
 ### Totals
 
 | Split | Files | Sentences | Entities |
 |---|---|---|---|
-| train | 8 | 14,809 | 25,054 |
-| dev | 8 | 3,657 | 6,417 |
-| test | 3 | 1,958 | 2,071 |
-| **Total** | **19** | **20,424** | **33,542** |
+| train | 1 | 730 | 587 |
+| dev | 1 | 179 | 148 |
+| **Total** | **2** | **909** | **735** |
 
-Counts are after deduplication (770 within-file, 214 cross-split) and exclude
-casing augmentation (train only; +10,962 variants at build time).
+Counts exclude casing augmentation (train only; +606 variants at build time).
 
 ## Setup
 
