@@ -1,18 +1,17 @@
-"""Convert JSON NER singles to spaCy DocBin files for training."""
+"""Merge, deduplicate, and build the LatinCy NER training corpus."""
 
 from __future__ import annotations
 
 import argparse
 import json
 import subprocess
-import unicodedata
 from datetime import datetime, timezone
 from pathlib import Path
 
 import spacy
 from spacy.tokens import DocBin
 
-_MACRON_MAP = str.maketrans("āēīōūȳĀĒĪŌŪȲ", "aeiouyAEIOUY")
+from scripts.ner2spacy import make_doc, make_bio_lines
 
 
 def augment_items(items: list[dict]) -> list[dict]:
@@ -54,50 +53,10 @@ def classify_file(path: Path, unsplit_to: str) -> str:
     return unsplit_to
 
 
-def _preprocess(text: str) -> str:
-    """Apply the same text normalization as latin_core_tokenizer.preprocess().
-
-    Must stay in sync with LatinTokenizer in latincy-pipelines/scripts/functions.py.
-    Steps: ligatures, macrons, accents/diacritics, V→U and J→I.
-    """
-    text = text.replace("Æ", "Ae").replace("Œ", "Oe").replace("æ", "ae").replace("œ", "oe")
-    text = text.translate(_MACRON_MAP)
-    text = unicodedata.normalize("NFD", text)
-    text = "".join(c for c in text if unicodedata.category(c) != "Mn")
-    text = text.replace("v", "u").replace("V", "U").replace("j", "i").replace("J", "I")
-    return text
-
-
 def load_single(path: Path) -> list[dict]:
     """Load a JSON single and return its data array."""
     with open(path) as f:
         return json.load(f)["data"]
-
-
-def make_doc(nlp: spacy.Language, item: dict) -> spacy.tokens.Doc:
-    """Create a spaCy Doc with entity spans from a data item."""
-    doc = nlp.make_doc(_preprocess(item["text"]))
-    ents = []
-    for span in item["spans"]:
-        char_span = doc.char_span(span["start"], span["end"], label=span["label"])
-        if char_span is not None:
-            ents.append(char_span)
-    doc.ents = ents
-    return doc
-
-
-def make_bio_lines(doc: spacy.tokens.Doc) -> list[tuple[str, str]]:
-    """Return (token_text, BIO_tag) pairs for each token in a Doc."""
-    lines = []
-    for token in doc:
-        if token.ent_iob_ == "B":
-            tag = f"B-{token.ent_type_}"
-        elif token.ent_iob_ == "I":
-            tag = f"I-{token.ent_type_}"
-        else:
-            tag = "O"
-        lines.append((token.text, tag))
-    return lines
 
 
 def build(
