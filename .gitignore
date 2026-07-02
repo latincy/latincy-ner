@@ -45,6 +45,9 @@ htmlcov/
 # Claude Code local configuration
 .claude/
 
+# Internal scripts (not for publication; live locally with latincy_int_ prefix)
+scripts/latincy_int_*.py
+
 # Pre-split source singles — kept locally for provenance, not published
 *.json.orig
 
