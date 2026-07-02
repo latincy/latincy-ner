@@ -30,32 +30,32 @@ def is_unsplit(path: Path) -> bool:
 
 
 def split_file(path: Path, splits_dir: Path, dry_run: bool = False) -> dict:
-    """Split a single JSON file into train and dev versions under splits_dir."""
+    """Split a single into train/dev — or emit a whole-document test set.
+
+    A single whose metadata declares ``"split": "test"`` is a held-out
+    evaluation document: it is written unsplit as ``<stem>-test.json`` and is
+    NOT hash-split into train/dev. Every other single is hash-split 80/20.
+    """
     with open(path) as f:
         data = json.load(f)
 
     metadata = data["metadata"]
     annotation = data["annotation"]
     items = data["data"]
-
-    train_items = []
-    dev_items = []
-
-    for item in items:
-        if hash_split(item["text"]) == "dev":
-            dev_items.append(item)
-        else:
-            train_items.append(item)
-
     stem = path.stem
-    parent = path.parent
+    subset = metadata.get("latincy-ner-project-subset", stem)
 
-    stats = {
-        "file": path.name,
-        "total": len(items),
-        "train": len(train_items),
-        "dev": len(dev_items),
-    }
+    if metadata.get("split") == "test":
+        partitions = [("test", items)]
+    else:
+        train_items, dev_items = [], []
+        for item in items:
+            (dev_items if hash_split(item["text"]) == "dev" else train_items).append(item)
+        partitions = [("train", train_items), ("dev", dev_items)]
+
+    stats = {"file": path.name, "total": len(items), "train": 0, "dev": 0, "test": 0}
+    for name, its in partitions:
+        stats[name] = len(its)
 
     if dry_run:
         return stats
@@ -63,12 +63,12 @@ def split_file(path: Path, splits_dir: Path, dry_run: bool = False) -> dict:
     out_dir = splits_dir / path.parent.name
     out_dir.mkdir(parents=True, exist_ok=True)
 
-    for split_name, split_items in [("train", train_items), ("dev", dev_items)]:
+    for split_name, split_items in partitions:
         out_path = out_dir / f"{stem}-{split_name}.json"
         out_data = {
             "metadata": {
                 **metadata,
-                "latincy-ner-project-subset": f"{metadata.get('latincy-ner-project-subset', stem)}-{split_name}",
+                "latincy-ner-project-subset": f"{subset}-{split_name}",
                 "split_from": path.name,
             },
             "annotation": annotation,
@@ -107,20 +107,20 @@ def main() -> None:
         return
 
     print(f"Found {len(unsplit)} unsplit files:\n")
-    print(f"{'File':<45} {'Total':>6} {'Train':>6} {'Dev':>6}")
-    print("-" * 70)
+    print(f"{'File':<45} {'Total':>6} {'Train':>6} {'Dev':>6} {'Test':>6}")
+    print("-" * 78)
 
-    total_train = 0
-    total_dev = 0
+    total_train = total_dev = total_test = 0
 
     for path in unsplit:
         stats = split_file(path, args.splits_dir, dry_run=args.dry_run)
         total_train += stats["train"]
         total_dev += stats["dev"]
-        print(f"{stats['file']:<45} {stats['total']:>6} {stats['train']:>6} {stats['dev']:>6}")
+        total_test += stats["test"]
+        print(f"{stats['file']:<45} {stats['total']:>6} {stats['train']:>6} {stats['dev']:>6} {stats['test']:>6}")
 
-    print("-" * 70)
-    print(f"{'TOTAL':<45} {total_train + total_dev:>6} {total_train:>6} {total_dev:>6}")
+    print("-" * 78)
+    print(f"{'TOTAL':<45} {total_train + total_dev + total_test:>6} {total_train:>6} {total_dev:>6} {total_test:>6}")
 
     if args.dry_run:
         print("\n(Dry run — no files written)")
