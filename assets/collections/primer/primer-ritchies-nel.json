@@ -4,7 +4,7 @@
     "author": "Ritchie, F.",
     "date": "1904",
     "source": "https://www.thelatinlibrary.com/ritchie.html",
-    "version": "0.2.0",
+    "version": "0.2.1",
     "latincy-ner-project": "primer",
     "latincy-ner-project-subset": "ritchies",
     "language": "la",
@@ -181,7 +181,7 @@
           "end": 59,
           "label": "LOC",
           "surface": "Seriphum",
-          "kb_id": "Q216736"
+          "kb_id": "Q217214"
         }
       ]
     },
@@ -2397,7 +2397,7 @@
           "end": 52,
           "label": "MISC",
           "surface": "Hydrae",
-          "kb_id": "Q83040"
+          "kb_id": "Q170379"
         }
       ]
     },
@@ -2605,7 +2605,7 @@
           "end": 85,
           "label": "PERSON",
           "surface": "Uolcanum",
-          "kb_id": "Q48268"
+          "kb_id": "Q4640"
         }
       ]
     },
@@ -2617,7 +2617,7 @@
           "end": 8,
           "label": "PERSON",
           "surface": "Uolcanus",
-          "kb_id": "Q48268"
+          "kb_id": "Q4640"
         },
         {
           "start": 86,
@@ -4703,7 +4703,7 @@
           "end": 56,
           "label": "LOC",
           "surface": "Laconiam",
-          "kb_id": "Q105064"
+          "kb_id": "Q11931074"
         },
         {
           "start": 60,
@@ -7846,7 +7846,7 @@
           "end": 17,
           "label": "PERSON",
           "surface": "Uolcanus",
-          "kb_id": "Q48268"
+          "kb_id": "Q4640"
         },
         {
           "start": 67,
@@ -8508,7 +8508,7 @@
           "end": 67,
           "label": "LOC",
           "surface": "Aeoliam",
-          "kb_id": "Q42318741"
+          "kb_id": "Q406345"
         }
       ]
     },
@@ -8582,7 +8582,7 @@
           "end": 59,
           "label": "LOC",
           "surface": "Aeolia",
-          "kb_id": "Q42318741"
+          "kb_id": "Q406345"
         },
         {
           "start": 63,
@@ -9332,12 +9332,112 @@
   ],
   "report": {
     "tag_counts": {
-      "PERSON": 578,
       "LOC": 103,
+      "MISC": 3,
       "NORP": 51,
-      "MISC": 3
+      "PERSON": 578
     },
     "tag_inventories": {
+      "LOC": [
+        "Aeolia",
+        "Aeoliam",
+        "Aetnam",
+        "Alpis",
+        "Arcadiam",
+        "Athenas",
+        "Campos Elysios",
+        "Cenaeum",
+        "Colchida",
+        "Colchidis",
+        "Colchis",
+        "Corinthum",
+        "Creta",
+        "Cretae",
+        "Cyzicum",
+        "Delphos",
+        "Elide",
+        "Eridanum",
+        "Erythiam",
+        "Europae",
+        "Europam",
+        "Gallia",
+        "Graecia",
+        "Graeciae",
+        "Graeciam",
+        "Herculis Columnae",
+        "Hispaniam",
+        "Italiam",
+        "Ithacae",
+        "Ithacam",
+        "Laconiam",
+        "Larisae",
+        "Larisam",
+        "Lethe",
+        "Libya",
+        "Libyae",
+        "Liguriam",
+        "Mysiam",
+        "Oceano",
+        "Oechaliae",
+        "Oetam",
+        "Olympum",
+        "Orco",
+        "Orcum",
+        "Phasim",
+        "Roma",
+        "Salmydessum",
+        "Seriphum",
+        "Siciliam",
+        "Stygem",
+        "Stygis",
+        "Symplegades",
+        "Taenarum",
+        "Tartarum",
+        "Thebas",
+        "Thebis",
+        "Thermodontis",
+        "Thessalia",
+        "Thessaliam",
+        "Thraciam",
+        "Tiberim",
+        "Tiryntha",
+        "Troia",
+        "Troiae",
+        "Troiam",
+        "oppidum Stymphalum"
+      ],
+      "MISC": [
+        "Cerberum",
+        "Hydrae"
+      ],
+      "NORP": [
+        "Aegyptiorum",
+        "Aethiopes",
+        "Aethiopum",
+        "Amazones",
+        "Amazonibus",
+        "Amazonum",
+        "Centauri",
+        "Colchi",
+        "Colchorum",
+        "Cyclopes",
+        "Cyclopibus",
+        "Graeci",
+        "Graecis",
+        "Graecorum",
+        "Graecos",
+        "Ligures",
+        "Ligurum",
+        "Minyae",
+        "Minyarum",
+        "Minyis",
+        "Thebani",
+        "Thebanis",
+        "Thebanorum",
+        "Thebanos",
+        "Thebarum",
+        "Troiani"
+      ],
       "PERSON": [
         "Absyrto",
         "Absyrtus",
@@ -9507,106 +9607,6 @@
         "Uolcanus",
         "Zephyrum",
         "Zetes"
-      ],
-      "LOC": [
-        "Aeolia",
-        "Aeoliam",
-        "Aetnam",
-        "Alpis",
-        "Arcadiam",
-        "Athenas",
-        "Campos Elysios",
-        "Cenaeum",
-        "Colchida",
-        "Colchidis",
-        "Colchis",
-        "Corinthum",
-        "Creta",
-        "Cretae",
-        "Cyzicum",
-        "Delphos",
-        "Elide",
-        "Eridanum",
-        "Erythiam",
-        "Europae",
-        "Europam",
-        "Gallia",
-        "Graecia",
-        "Graeciae",
-        "Graeciam",
-        "Herculis Columnae",
-        "Hispaniam",
-        "Italiam",
-        "Ithacae",
-        "Ithacam",
-        "Laconiam",
-        "Larisae",
-        "Larisam",
-        "Lethe",
-        "Libya",
-        "Libyae",
-        "Liguriam",
-        "Mysiam",
-        "Oceano",
-        "Oechaliae",
-        "Oetam",
-        "Olympum",
-        "Orco",
-        "Orcum",
-        "Phasim",
-        "Roma",
-        "Salmydessum",
-        "Seriphum",
-        "Siciliam",
-        "Stygem",
-        "Stygis",
-        "Symplegades",
-        "Taenarum",
-        "Tartarum",
-        "Thebas",
-        "Thebis",
-        "Thermodontis",
-        "Thessalia",
-        "Thessaliam",
-        "Thraciam",
-        "Tiberim",
-        "Tiryntha",
-        "Troia",
-        "Troiae",
-        "Troiam",
-        "oppidum Stymphalum"
-      ],
-      "NORP": [
-        "Aegyptiorum",
-        "Aethiopes",
-        "Aethiopum",
-        "Amazones",
-        "Amazonibus",
-        "Amazonum",
-        "Centauri",
-        "Colchi",
-        "Colchorum",
-        "Cyclopes",
-        "Cyclopibus",
-        "Graeci",
-        "Graecis",
-        "Graecorum",
-        "Graecos",
-        "Ligures",
-        "Ligurum",
-        "Minyae",
-        "Minyarum",
-        "Minyis",
-        "Thebani",
-        "Thebanis",
-        "Thebanorum",
-        "Thebanos",
-        "Thebarum",
-        "Troiani"
-      ],
-      "MISC": [
-        "Cerberum",
-        "Hydrae"
       ]
     },
     "nel_inventory": {
@@ -9624,9 +9624,6 @@
       },
       "Q10261": {
         "Graeas": 1
-      },
-      "Q105064": {
-        "Laconiam": 1
       },
       "Q1055": {
         "Athenas": 1
@@ -9672,6 +9669,9 @@
       },
       "Q11772": {
         "Graecia": 1
+      },
+      "Q11931074": {
+        "Laconiam": 1
       },
       "Q1199937": {
         "Solis": 1
@@ -9783,6 +9783,9 @@
       },
       "Q16990": {
         "Aetnam": 1
+      },
+      "Q170379": {
+        "Hydrae": 1
       },
       "Q172549": {
         "Aeolus": 2
@@ -9906,7 +9909,7 @@
         "Larisae": 1,
         "Larisam": 1
       },
-      "Q216736": {
+      "Q217214": {
         "Seriphum": 1
       },
       "Q217379": {
@@ -10011,6 +10014,10 @@
         "Amazonibus": 1,
         "Amazonum": 3
       },
+      "Q406345": {
+        "Aeolia": 1,
+        "Aeoliam": 1
+      },
       "Q41": {
         "Graeciae": 2,
         "Graeciam": 4
@@ -10033,10 +10040,6 @@
       "Q41741": {
         "Thraciam": 3
       },
-      "Q42318741": {
-        "Aeolia": 1,
-        "Aeoliam": 1
-      },
       "Q43434": {
         "Hades": 1
       },
@@ -10046,6 +10049,10 @@
       "Q46": {
         "Europae": 1,
         "Europam": 1
+      },
+      "Q4640": {
+        "Uolcanum": 1,
+        "Uolcanus": 2
       },
       "Q4649": {
         "Ioue": 3,
@@ -10059,10 +10066,6 @@
         "Ulixem": 7,
         "Ulixes": 33,
         "Ulixi": 3
-      },
-      "Q48268": {
-        "Uolcanum": 1,
-        "Uolcanus": 2
       },
       "Q504076": {
         "Iolao": 1
@@ -10150,9 +10153,6 @@
       },
       "Q80344": {
         "Olympum": 1
-      },
-      "Q83040": {
-        "Hydrae": 1
       },
       "Q83203": {
         "Centauri": 1

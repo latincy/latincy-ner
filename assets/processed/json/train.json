@@ -112,7 +112,7 @@
     "end": 59,
     "label": "LOC",
     "surface": "Seriphum",
-    "kb_id": "Q216736"
+    "kb_id": "Q217214"
    }
   ]
  },
@@ -1914,7 +1914,7 @@
     "end": 52,
     "label": "MISC",
     "surface": "Hydrae",
-    "kb_id": "Q83040"
+    "kb_id": "Q170379"
    }
   ]
  },
@@ -2087,7 +2087,7 @@
     "end": 85,
     "label": "PERSON",
     "surface": "Uolcanum",
-    "kb_id": "Q48268"
+    "kb_id": "Q4640"
    }
   ]
  },
@@ -2099,7 +2099,7 @@
     "end": 8,
     "label": "PERSON",
     "surface": "Uolcanus",
-    "kb_id": "Q48268"
+    "kb_id": "Q4640"
    },
    {
     "start": 86,
@@ -6817,7 +6817,7 @@
     "end": 67,
     "label": "LOC",
     "surface": "Aeoliam",
-    "kb_id": "Q42318741"
+    "kb_id": "Q406345"
    }
   ]
  },
@@ -6891,7 +6891,7 @@
     "end": 59,
     "label": "LOC",
     "surface": "Aeolia",
-    "kb_id": "Q42318741"
+    "kb_id": "Q406345"
    },
    {
     "start": 63,
@@ -7485,7 +7485,7 @@
     "end": 59,
     "label": "LOC",
     "surface": "Seriphum",
-    "kb_id": "Q216736"
+    "kb_id": "Q217214"
    }
   ]
  },
@@ -8802,7 +8802,7 @@
     "end": 52,
     "label": "MISC",
     "surface": "Hydrae",
-    "kb_id": "Q83040"
+    "kb_id": "Q170379"
    }
   ]
  },
@@ -8963,7 +8963,7 @@
     "end": 85,
     "label": "PERSON",
     "surface": "Uolcanum",
-    "kb_id": "Q48268"
+    "kb_id": "Q4640"
    }
   ]
  },
@@ -12562,7 +12562,7 @@
     "end": 67,
     "label": "LOC",
     "surface": "Aeoliam",
-    "kb_id": "Q42318741"
+    "kb_id": "Q406345"
    }
   ]
  },
