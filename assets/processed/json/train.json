@@ -7430,6 +7430,5869 @@
   "spans": []
  },
  {
+  "text": "Quam bella est ora maritima!",
+  "spans": []
+ },
+ {
+  "text": "Non procul ab ora maritima est villa.",
+  "spans": []
+ },
+ {
+  "text": "In villa amita mea habitat;",
+  "spans": []
+ },
+ {
+  "text": "et ego cum amita mea nunc habito.",
+  "spans": []
+ },
+ {
+  "text": "Ante ianuam villae est area.",
+  "spans": []
+ },
+ {
+  "text": "In area est castanea, ubi luscinia interdum cantat.",
+  "spans": []
+ },
+ {
+  "text": "Amo oram maritimam;",
+  "spans": []
+ },
+ {
+  "text": "amo villam bellam.",
+  "spans": []
+ },
+ {
+  "text": "Feriae nunc sunt.",
+  "spans": []
+ },
+ {
+  "text": "O beatas ferias!",
+  "spans": []
+ },
+ {
+  "text": "In arena orae maritimae sunt ancorae et catenae.",
+  "spans": []
+ },
+ {
+  "text": "Nam incolae orae maritimae sunt nautae.",
+  "spans": []
+ },
+ {
+  "text": "Magna est audacia nautarum:",
+  "spans": []
+ },
+ {
+  "text": "procellas non formidant.",
+  "spans": []
+ },
+ {
+  "text": "Nautas amo, ut nautae me amant.",
+  "spans": []
+ },
+ {
+  "text": "Cum nautis interdum in scaphis navigo.",
+  "spans": []
+ },
+ {
+  "text": "Undas caeruleas amo.",
+  "spans": []
+ },
+ {
+  "text": "Quam magnae sunt, quam perlucidae!",
+  "spans": []
+ },
+ {
+  "text": "Post cenam lunam et stellas ex fenestra mea specto.",
+  "spans": []
+ },
+ {
+  "text": "Quantopere nos silva delectat!",
+  "spans": []
+ },
+ {
+  "text": "O copiam plantarum et herbarum!",
+  "spans": []
+ },
+ {
+  "text": "O copiam bacarum!",
+  "spans": []
+ },
+ {
+  "text": "Non solum nautae sed etiam agricolae circum habitant.",
+  "spans": []
+ },
+ {
+  "text": "Casae agricolarum parvae sunt.",
+  "spans": []
+ },
+ {
+  "text": "Amita mea casas agricolarum et nautarum saepe visitat.",
+  "spans": []
+ },
+ {
+  "text": "Victoria est regina mea.",
+  "spans": [
+   {
+    "start": 0,
+    "end": 8,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "Magna est gloria Victoriae Reginae, non solum in insulis Britannicis sed etiam in India, in Canada, in Australia, in Africa, ubi coloniae Britannicae sunt.",
+  "spans": [
+   {
+    "start": 17,
+    "end": 34,
+    "label": "PERSON"
+   },
+   {
+    "start": 57,
+    "end": 68,
+    "label": "NORP"
+   },
+   {
+    "start": 82,
+    "end": 87,
+    "label": "LOC"
+   },
+   {
+    "start": 92,
+    "end": 98,
+    "label": "LOC"
+   },
+   {
+    "start": 103,
+    "end": 112,
+    "label": "LOC"
+   },
+   {
+    "start": 117,
+    "end": 123,
+    "label": "LOC"
+   },
+   {
+    "start": 138,
+    "end": 149,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Regina est domina multarum terrarum.",
+  "spans": []
+ },
+ {
+  "text": "Britannia est domina undarum.",
+  "spans": [
+   {
+    "start": 0,
+    "end": 9,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "In gloria reginae meae triumpho.",
+  "spans": []
+ },
+ {
+  "text": "Te, Britannia, amo:",
+  "spans": [
+   {
+    "start": 4,
+    "end": 13,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "Sed Britannia non est patria mea.",
+  "spans": [
+   {
+    "start": 4,
+    "end": 13,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "Lydia quoque, consobrina mea, apud amitam meam nunc habitat.",
+  "spans": [
+   {
+    "start": 0,
+    "end": 5,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "Lydia columbas curat:",
+  "spans": [
+   {
+    "start": 0,
+    "end": 5,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "cura columbarum Lydiae magnam laetitiam dat.",
+  "spans": [
+   {
+    "start": 16,
+    "end": 22,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "sed ego linguis antiquis Romae et Graeciae operam do.",
+  "spans": [
+   {
+    "start": 25,
+    "end": 30,
+    "label": "LOC"
+   },
+   {
+    "start": 34,
+    "end": 42,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "Saepe cum Lydia ad silvam vel ad oram maritimam ambulo.",
+  "spans": [
+   {
+    "start": 10,
+    "end": 15,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "Interdum cum nauta in scapha navigamus.",
+  "spans": []
+ },
+ {
+  "text": "Lydia casas agricolarum cum amita mea interdum visitat.",
+  "spans": [
+   {
+    "start": 0,
+    "end": 5,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "Ubi inopia est, ibi amita mea inopiam levat.",
+  "spans": []
+ },
+ {
+  "text": "Patruus meus quondam praefectus erat in Africa Meridiana.",
+  "spans": [
+   {
+    "start": 40,
+    "end": 56,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "Nunc militia vacat, et agello suo operam dat.",
+  "spans": []
+ },
+ {
+  "text": "Agellus patrui mei non magnus est.",
+  "spans": [
+   {
+    "start": 0,
+    "end": 7,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "Murus horti non altus est.",
+  "spans": []
+ },
+ {
+  "text": "Rivus est prope hortum, unde aquam portamus, cum hortum irrigamus.",
+  "spans": []
+ },
+ {
+  "text": "In horto magnus est numerus rosarum et violarum.",
+  "spans": []
+ },
+ {
+  "text": "Rosae et violae tibi, mi patrue, magnam laetitiam dant.",
+  "spans": []
+ },
+ {
+  "text": "In ulmis corvi nidificant.",
+  "spans": []
+ },
+ {
+  "text": "Corvos libenter specto, cum circum nidos suos volitant.",
+  "spans": []
+ },
+ {
+  "text": "Magnus est numerus corvorum in horto patrui mei;",
+  "spans": []
+ },
+ {
+  "text": "multi mergi super oceanum volitant.",
+  "spans": []
+ },
+ {
+  "text": "in agello sunt equi et vaccae et porci et galli gallinaeque.",
+  "spans": []
+ },
+ {
+  "text": "Lydia gallos gallinasque curat.",
+  "spans": [
+   {
+    "start": 0,
+    "end": 5,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "Non procul ab agello est vicus, ubi rustici habitant.",
+  "spans": []
+ },
+ {
+  "text": "Nonnulli ex rusticis agellum cum equis et vaccis et porcis curant.",
+  "spans": []
+ },
+ {
+  "text": "Ex horto patrui mei scopulos albos orae maritimae spectamus.",
+  "spans": []
+ },
+ {
+  "text": "Scopuli sunt alti.",
+  "spans": []
+ },
+ {
+  "text": "Et ora Francogallica non procul abest.",
+  "spans": [
+   {
+    "start": 7,
+    "end": 20,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Quam bellus es, oceane, cum luna undas tuas illustrat!",
+  "spans": []
+ },
+ {
+  "text": "Quantopere me delectat vos, undae caeruleae, spectare, cum tranquillae estis et arenam orae maritimae lavatis!",
+  "spans": []
+ },
+ {
+  "text": "Quantopere me delectatis cum turbulentae estis et sub scopulis spumatis et murmuratis!",
+  "spans": []
+ },
+ {
+  "text": "Agellus patrui mei in Cantio est, inter Dubras et Rutupias situs.",
+  "spans": [
+   {
+    "start": 0,
+    "end": 7,
+    "label": "PERSON"
+   },
+   {
+    "start": 22,
+    "end": 28,
+    "label": "LOC"
+   },
+   {
+    "start": 40,
+    "end": 46,
+    "label": "LOC"
+   },
+   {
+    "start": 50,
+    "end": 58,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "Dubrae et Rutupiae oppida antiqua sunt.",
+  "spans": [
+   {
+    "start": 0,
+    "end": 6,
+    "label": "LOC"
+   },
+   {
+    "start": 10,
+    "end": 18,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "Reliquiae villarum, oppidorum, amphitheatrorum Romanorum hodie exstant.",
+  "spans": [
+   {
+    "start": 47,
+    "end": 56,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Multae viae Romanae in Britannia sunt.",
+  "spans": [
+   {
+    "start": 12,
+    "end": 19,
+    "label": "NORP"
+   },
+   {
+    "start": 23,
+    "end": 32,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "In Cantio est via Romana inter Rutupias et Londinium.",
+  "spans": [
+   {
+    "start": 3,
+    "end": 9,
+    "label": "LOC"
+   },
+   {
+    "start": 18,
+    "end": 24,
+    "label": "NORP"
+   },
+   {
+    "start": 31,
+    "end": 39,
+    "label": "LOC"
+   },
+   {
+    "start": 43,
+    "end": 52,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "Solum Britannicum multos nummos aureos, argenteos, aeneos et Britannorum et Romanorum occultat.",
+  "spans": [
+   {
+    "start": 6,
+    "end": 17,
+    "label": "NORP"
+   },
+   {
+    "start": 61,
+    "end": 72,
+    "label": "PERSON"
+   },
+   {
+    "start": 76,
+    "end": 85,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Rusticis nummi saepe sunt causa lucri, cum arant vel fundamenta aedificiorum antiquorum excavant.",
+  "spans": []
+ },
+ {
+  "text": "Nam nummos antiquos magno pretio venumdant.",
+  "spans": []
+ },
+ {
+  "text": "Patruo meo magnus numerus est nummorum Romanorum.",
+  "spans": [
+   {
+    "start": 39,
+    "end": 48,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Inter ferias commentarios meos de vita mea scriptito.",
+  "spans": []
+ },
+ {
+  "text": "nam oppidum non procul abest.",
+  "spans": []
+ },
+ {
+  "text": "in castello est specula antiqua.",
+  "spans": []
+ },
+ {
+  "text": "Muri speculae alti et lati sunt.",
+  "spans": []
+ },
+ {
+  "text": "Quondam erat pharus Romanorum.",
+  "spans": [
+   {
+    "start": 20,
+    "end": 29,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Iam secundo saeculo post Christum natum basilica Christiana erat.",
+  "spans": [
+   {
+    "start": 25,
+    "end": 33,
+    "label": "PERSON"
+   },
+   {
+    "start": 49,
+    "end": 59,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Castellum in promunturio orae maritimae stat.",
+  "spans": []
+ },
+ {
+  "text": "Post castellum sunt clivi graminei et lati.",
+  "spans": []
+ },
+ {
+  "text": "Ex castello fretum Gallicum spectas.",
+  "spans": [
+   {
+    "start": 19,
+    "end": 27,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Ante oculos sunt vela alba multorum navigiorum;",
+  "spans": []
+ },
+ {
+  "text": "Nonnulla ex navigiis Britannicis \"castella\" nominata sunt.",
+  "spans": [
+   {
+    "start": 21,
+    "end": 32,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "\"Castella\" in Africam Meridianam navigant, ubi patria mea est.",
+  "spans": [
+   {
+    "start": 14,
+    "end": 32,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "In numero amicorum meorum sunt duo pueri.",
+  "spans": []
+ },
+ {
+  "text": "Prope Dubras nunc habitant, sed ex Caledonia oriundi sunt.",
+  "spans": [
+   {
+    "start": 6,
+    "end": 12,
+    "label": "LOC"
+   },
+   {
+    "start": 35,
+    "end": 44,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "Nobis pueris feriae nunc sunt;",
+  "spans": []
+ },
+ {
+  "text": "nam condiscipuli sumus.",
+  "spans": []
+ },
+ {
+  "text": "Amici mei me saepe visitant, et ego amicos meos visito.",
+  "spans": []
+ },
+ {
+  "text": "Una ambulamus, una in undis spumiferis natamus, cum non nimis asperae sunt.",
+  "spans": []
+ },
+ {
+  "text": "Quantopere nos pueros ludi pilarum in arena delectant!",
+  "spans": []
+ },
+ {
+  "text": "Ut iuvat castella contra undas spumiferas aedificare!",
+  "spans": []
+ },
+ {
+  "text": "Nonnumquam in scapha cum Petro navigamus.",
+  "spans": [
+   {
+    "start": 25,
+    "end": 30,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "Petrus est adulescentulus viginti annorum.",
+  "spans": [
+   {
+    "start": 0,
+    "end": 6,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "Plerumque remigamus, sed nonnumquam vela damus, cum ventus non nimis asper est.",
+  "spans": []
+ },
+ {
+  "text": "Petrus scapham gubernat et velis ministrat.",
+  "spans": [
+   {
+    "start": 0,
+    "end": 6,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "Locus in fabula commemoratus est, ubi Leir, regulus Britannorum antiquorum, fortunam suam miseram deplorat, stultitiam suam culpat, filias suas animi ingrati accusat.",
+  "spans": [
+   {
+    "start": 38,
+    "end": 42,
+    "label": "PERSON"
+   },
+   {
+    "start": 52,
+    "end": 63,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "O fortunam asperam!",
+  "spans": []
+ },
+ {
+  "text": "O constantiam Cordeliae!",
+  "spans": [
+   {
+    "start": 14,
+    "end": 23,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "Scopulus ex poeta nominatus est.",
+  "spans": []
+ },
+ {
+  "text": "Nam in fabula est locus ubi vir generosus, amicus fidus reguli, de scopulo se praecipitare parat;",
+  "spans": []
+ },
+ {
+  "text": "sed filius suus virum ex periculo servat.",
+  "spans": []
+ },
+ {
+  "text": "Nos pueri locum saepe visitamus.",
+  "spans": []
+ },
+ {
+  "text": "Magister noster vir doctus est, sed ludorum peritus.",
+  "spans": []
+ },
+ {
+  "text": "Nobis pueris carus est.",
+  "spans": []
+ },
+ {
+  "text": "Inter ferias patruum meum interdum visitat.",
+  "spans": []
+ },
+ {
+  "text": "\"Non amo te, Sabidi, nec possum dicere quare.",
+  "spans": [
+   {
+    "start": 13,
+    "end": 19,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "Hoc tantum possum dicere:",
+  "spans": []
+ },
+ {
+  "text": "non amo te\".",
+  "spans": []
+ },
+ {
+  "text": "Magistrum non amant quia libros Graecos et Latinos non amant.",
+  "spans": []
+ },
+ {
+  "text": "Nam discipuli scholae nostrae linguis antiquis operam dant, atque scientiis mathematicis.",
+  "spans": []
+ },
+ {
+  "text": "Magistro nostro magna copia est librorum pulchrorum.",
+  "spans": []
+ },
+ {
+  "text": "Schola nostra antiqua et clara est:",
+  "spans": []
+ },
+ {
+  "text": "non solum libris sed etiam ludis operam damus.",
+  "spans": []
+ },
+ {
+  "text": "Schola nostra non in Cantio est.",
+  "spans": [
+   {
+    "start": 21,
+    "end": 27,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "In vico nostro est ludus litterarius, creber pueris et puellis, liberis agricolarum.",
+  "spans": []
+ },
+ {
+  "text": "Sed ego cum Marco et Alexandro, amicis meis, ad Ventam Belgarum discipulus sum.",
+  "spans": [
+   {
+    "start": 12,
+    "end": 17,
+    "label": "PERSON"
+   },
+   {
+    "start": 21,
+    "end": 30,
+    "label": "PERSON"
+   },
+   {
+    "start": 48,
+    "end": 63,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "Magister noster librorum historicorum studiosus est;",
+  "spans": []
+ },
+ {
+  "text": "de patria nostra antiqua libenter narrat.",
+  "spans": []
+ },
+ {
+  "text": "Proximo anno, dum apud nos erat, de vita Britannorum antiquorum saepe narrabat.",
+  "spans": [
+   {
+    "start": 41,
+    "end": 52,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Patruus meus et amita mea libenter auscultabant;",
+  "spans": []
+ },
+ {
+  "text": "ego quoque nonnumquam aderam.",
+  "spans": []
+ },
+ {
+  "text": "Sic narrabat:",
+  "spans": []
+ },
+ {
+  "text": "Silvae plenae erant ferarum:",
+  "spans": []
+ },
+ {
+  "text": "luporum, ursorum, cervorum, aprorum.",
+  "spans": []
+ },
+ {
+  "text": "Multa et varia materia erat in silvis Britannicis, sed fagus Britannis antiquis non erat nota, si Gaius Iulius vera affirmat.",
+  "spans": [
+   {
+    "start": 38,
+    "end": 49,
+    "label": "NORP"
+   },
+   {
+    "start": 61,
+    "end": 70,
+    "label": "NORP"
+   },
+   {
+    "start": 98,
+    "end": 110,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "Et pinus Scotica deerat\".",
+  "spans": [
+   {
+    "start": 9,
+    "end": 16,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "\"Solum, ubi liberum erat silvis, frugiferum erat.",
+  "spans": []
+ },
+ {
+  "text": "Metallis quoque multis abundabat:",
+  "spans": []
+ },
+ {
+  "text": "Margaritas et ostreas dabat oceanus:",
+  "spans": []
+ },
+ {
+  "text": "margaritae parvae erant, sed ostreae magnae et praeclarae.",
+  "spans": []
+ },
+ {
+  "text": "Caelum tum quoque crebris pluviis et nebulis atris foedum erat;",
+  "spans": []
+ },
+ {
+  "text": "sed pruinae asperae aberant.",
+  "spans": []
+ },
+ {
+  "text": "Natura oceani 'pigra' erat, si testimonium Taciti verum est:",
+  "spans": [
+   {
+    "start": 43,
+    "end": 49,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "nautae Romani, inquit, in aqua pigra vix poterant remigare.",
+  "spans": [
+   {
+    "start": 7,
+    "end": 13,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Sed verumne est testimonium?",
+  "spans": []
+ },
+ {
+  "text": "An natura nautarum Romanorum non satis impigra erat?\"",
+  "spans": [
+   {
+    "start": 19,
+    "end": 28,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "\"Incolae antiqui insulae nostrae feri et bellicosi erant.",
+  "spans": []
+ },
+ {
+  "text": "Multi et diversi erant populi Britannorum.",
+  "spans": [
+   {
+    "start": 30,
+    "end": 41,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Celtis antiquis, sicut Germanis, capilli flavi, oculi caerulei, membra magna et robusta erant.",
+  "spans": [
+   {
+    "start": 0,
+    "end": 6,
+    "label": "NORP"
+   },
+   {
+    "start": 23,
+    "end": 31,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Sic Tacitus de Caledoniis narrat.",
+  "spans": [
+   {
+    "start": 4,
+    "end": 11,
+    "label": "PERSON"
+   },
+   {
+    "start": 15,
+    "end": 25,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Incolae Cambriae meridianae 'colorati' erant.",
+  "spans": [
+   {
+    "start": 8,
+    "end": 16,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "Sed Romanis statura parva, oculi et capilli nigri erant.",
+  "spans": [
+   {
+    "start": 4,
+    "end": 11,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Universi Britanni, ut Gaius Iulius affirmat, membra vitro colorabant, sicut nautae nostri hodierni.",
+  "spans": [
+   {
+    "start": 9,
+    "end": 17,
+    "label": "NORP"
+   },
+   {
+    "start": 22,
+    "end": 34,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "Vestimenta ex coriis ferarum constabant.",
+  "spans": []
+ },
+ {
+  "text": "In casis parvis circum silvas suas habitabant\".",
+  "spans": []
+ },
+ {
+  "text": "Hic amita mea \"Nonne in oppidis habitabant?\" inquit.",
+  "spans": []
+ },
+ {
+  "text": "Sed Britannia meridiana crebra erat incolis et aedificiis.",
+  "spans": [
+   {
+    "start": 4,
+    "end": 13,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "Sic narrat Caesar in libro quinto Belli Gallici.",
+  "spans": [
+   {
+    "start": 11,
+    "end": 17,
+    "label": "PERSON"
+   },
+   {
+    "start": 40,
+    "end": 47,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Multi una habitabant, ut puto\".",
+  "spans": []
+ },
+ {
+  "text": "\"Itaque non plane barbari erant\", inquit amita mea.",
+  "spans": []
+ },
+ {
+  "text": "Britanni frumentum, armenta, aurum, argentum, ferrum, coria, catulos venaticos, servos et captivos exportabant;",
+  "spans": [
+   {
+    "start": 0,
+    "end": 8,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "frena, vitrea, gemmas, cetera importabant.",
+  "spans": []
+ },
+ {
+  "text": "Itaque mediocriter humani erant, nec multum diversi a Gallis\".",
+  "spans": [
+   {
+    "start": 54,
+    "end": 60,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "\"Multi mortuos cremabant, sicut Graeci et Romani:",
+  "spans": [
+   {
+    "start": 32,
+    "end": 38,
+    "label": "NORP"
+   },
+   {
+    "start": 42,
+    "end": 48,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "exstant in Cantio sepulchra cum urnis pulchre ornatis.",
+  "spans": [
+   {
+    "start": 11,
+    "end": 17,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "Esseda quoque fabricabant:",
+  "spans": []
+ },
+ {
+  "text": "non plane inhumani erant, si rotas ferratas essedorum et nummos aureos aeneosque fabricare poterant.",
+  "spans": []
+ },
+ {
+  "text": "Britannis antiquis magnus numerus gallorum gallinarumque erat;",
+  "spans": [
+   {
+    "start": 0,
+    "end": 9,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Sed incolae mediterraneorum et Caledonii feri et barbari erant.",
+  "spans": [
+   {
+    "start": 31,
+    "end": 40,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Mortuos humabant.",
+  "spans": []
+ },
+ {
+  "text": "Agri culturae operam non dabant;",
+  "spans": []
+ },
+ {
+  "text": "non frumento sed ferina victitabant.",
+  "spans": []
+ },
+ {
+  "text": "Deorum fana in lucis sacris et silvis atris erant.",
+  "spans": []
+ },
+ {
+  "text": "Sacra curabant Druidae.",
+  "spans": [
+   {
+    "start": 15,
+    "end": 22,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Sacra erant saeva:",
+  "spans": []
+ },
+ {
+  "text": "viros, feminas, liberos pro victimis sacrificabant.",
+  "spans": []
+ },
+ {
+  "text": "Inter se saepe pugnabant;",
+  "spans": []
+ },
+ {
+  "text": "captivos miseros venumdabant, vel cruciabant et trucidabant:",
+  "spans": []
+ },
+ {
+  "text": "nonnumquam simulacra magna, plena victimis humanis, cremabant.",
+  "spans": []
+ },
+ {
+  "text": "Et Alexander \"Monstra nobis\", inquit, \"amabo te, ruinas castelli Rutupini\".",
+  "spans": [
+   {
+    "start": 3,
+    "end": 12,
+    "label": "PERSON"
+   },
+   {
+    "start": 65,
+    "end": 73,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "Tum patruus meus \"Longa est via\", inquit, \"sed aliquando monstrabo.",
+  "spans": []
+ },
+ {
+  "text": "Cras, si vobis gratum erit, ad locum ubi proelium erat Britannorum cum Romanis ambulabimus.",
+  "spans": [
+   {
+    "start": 55,
+    "end": 66,
+    "label": "NORP"
+   },
+   {
+    "start": 71,
+    "end": 78,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Ambulabitisne nobiscum, Marce et Alexander?\"",
+  "spans": [
+   {
+    "start": 24,
+    "end": 29,
+    "label": "PERSON"
+   },
+   {
+    "start": 33,
+    "end": 42,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "\"Ego vero\", inquit Marcus, \"tecum libenter ambulabo\";",
+  "spans": [
+   {
+    "start": 19,
+    "end": 25,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "et Alexander \"Mihi quoque pergratum erit, si nobis sepulchra Britannorum et Romanorum monstrabis\".",
+  "spans": [
+   {
+    "start": 3,
+    "end": 12,
+    "label": "PERSON"
+   },
+   {
+    "start": 61,
+    "end": 72,
+    "label": "NORP"
+   },
+   {
+    "start": 76,
+    "end": 85,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "\"nullae sunt ibi reliquiae sepulchrorum, et viri docti de loco proelii disputant.",
+  "spans": []
+ },
+ {
+  "text": "Sed quota hora parati eritis?\"",
+  "spans": []
+ },
+ {
+  "text": "\"Quinta hora\", inquiunt.",
+  "spans": []
+ },
+ {
+  "text": "Postridie caelum serenum erat.",
+  "spans": []
+ },
+ {
+  "text": "Inter ientaculum amita mea \"Quota hora\", inquit, \"in viam vos dabitis?",
+  "spans": []
+ },
+ {
+  "text": "Et quota hora cenare poteritis?\"",
+  "spans": []
+ },
+ {
+  "text": "Et patruus meus \"Quinta hora Marcus et Alexander Dubris adventabunt;",
+  "spans": [
+   {
+    "start": 29,
+    "end": 35,
+    "label": "PERSON"
+   },
+   {
+    "start": 39,
+    "end": 48,
+    "label": "PERSON"
+   },
+   {
+    "start": 49,
+    "end": 55,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "intra duas horas ad locum proelii ambulare poterimus;",
+  "spans": []
+ },
+ {
+  "text": "itaque hora decima vel undecima domi erimus, ut spero\".",
+  "spans": []
+ },
+ {
+  "text": "Tum ego \"Nonne ieiuni erimus\", inquam, \"si nihil ante vesperum gustabimus?\"",
+  "spans": []
+ },
+ {
+  "text": "\"Prandium vobiscum portate\", inquit amita mea;",
+  "spans": []
+ },
+ {
+  "text": "\"ego crustula et poma curabo\".",
+  "spans": []
+ },
+ {
+  "text": "Quinta hora appropinquabat, et amicos meos cupide exspectabam.",
+  "spans": []
+ },
+ {
+  "text": "Ecce, pueri ad ianuam aderant.",
+  "spans": []
+ },
+ {
+  "text": "Cum intraverunt, universi exclamavimus:",
+  "spans": []
+ },
+ {
+  "text": "\"Euge!",
+  "spans": []
+ },
+ {
+  "text": "Opportune adventavistis!\"",
+  "spans": []
+ },
+ {
+  "text": "Tum Marcus \"Num sero adventavimus?\" inquit.",
+  "spans": [
+   {
+    "start": 4,
+    "end": 10,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "sed via longa est, et Alexander celeriter ambulare non potest\".",
+  "spans": [
+   {
+    "start": 22,
+    "end": 31,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "\"paratine estis ad ambulandum?\"",
+  "spans": []
+ },
+ {
+  "text": "Inter viam patruus meus multa nobis de bello Romanorum cum Britannis narravit.",
+  "spans": [
+   {
+    "start": 45,
+    "end": 54,
+    "label": "NORP"
+   },
+   {
+    "start": 59,
+    "end": 68,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Primo saeculo ante Christum natum Gaius Iulius in Gallia bellabat, et, postquam Nervios ceterosque populos Galliae Belgicae debellavit, bellum contra incolas insulae propinquae paravit.",
+  "spans": [
+   {
+    "start": 19,
+    "end": 27,
+    "label": "PERSON"
+   },
+   {
+    "start": 34,
+    "end": 46,
+    "label": "PERSON"
+   },
+   {
+    "start": 50,
+    "end": 56,
+    "label": "LOC"
+   },
+   {
+    "start": 80,
+    "end": 87,
+    "label": "NORP"
+   },
+   {
+    "start": 107,
+    "end": 123,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "Itaque anno quinto et quinquagesimo copias suas in Britanniam transportavit.",
+  "spans": [
+   {
+    "start": 51,
+    "end": 61,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "De loco unde navigavit et de loco quo navigia sua applicavit, viri docti diu disputaverunt.",
+  "spans": []
+ },
+ {
+  "text": "Sed inter Dubras et Rutupias est locus ad navigia applicanda idoneus.",
+  "spans": [
+   {
+    "start": 10,
+    "end": 16,
+    "label": "LOC"
+   },
+   {
+    "start": 20,
+    "end": 28,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "nam scopuli ibi alti erant, ut nunc sunt, et in scopulis copiae armatae Britannorum stabant.",
+  "spans": [
+   {
+    "start": 72,
+    "end": 83,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Itaque ad alium locum navigavit, ubi nulli scopuli fuerunt.",
+  "spans": []
+ },
+ {
+  "text": "Sed Britanni quoque per oram maritimam ad locum properaverunt, et ad pugnam se paraverunt.",
+  "spans": [
+   {
+    "start": 4,
+    "end": 12,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Britannis vada nota fuerunt;",
+  "spans": [
+   {
+    "start": 0,
+    "end": 9,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "itaque in aquam equitaverunt et copiam pugnae dederunt.",
+  "spans": []
+ },
+ {
+  "text": "Sed iam ad locum adventaveramus, et patruus meus \"Spectate, pueri\", inquit;",
+  "spans": []
+ },
+ {
+  "text": "\"hic campus apertus est;",
+  "spans": []
+ },
+ {
+  "text": "scopuli desunt, et locus idoneus est ad copias explicandas.",
+  "spans": []
+ },
+ {
+  "text": "Hic Britanni copias suas collocaverant, et equos in aquam incitaverant.",
+  "spans": [
+   {
+    "start": 4,
+    "end": 12,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Nonne potestis totam pugnam animo spectare?",
+  "spans": []
+ },
+ {
+  "text": "Dum Romani undis se dare dubitant, aquilifer \"Ad aquilam vos congregate\", inquit, \"nisi ignavi estis.",
+  "spans": [
+   {
+    "start": 4,
+    "end": 10,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Ego certe officium meum praestabo\".",
+  "spans": []
+ },
+ {
+  "text": "Et cum aquila undis se dedit.",
+  "spans": []
+ },
+ {
+  "text": "Iam universi Romani ad aquiliferum se congregaverant, et cum Britannis in undis impigre pugnabant.",
+  "spans": [
+   {
+    "start": 13,
+    "end": 19,
+    "label": "NORP"
+   },
+   {
+    "start": 61,
+    "end": 70,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Confusa et aspera fuit pugna.",
+  "spans": []
+ },
+ {
+  "text": "Primo laborabant Romani;",
+  "spans": [
+   {
+    "start": 17,
+    "end": 23,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Ante vesperum Britanni se fugae dederant.",
+  "spans": [
+   {
+    "start": 14,
+    "end": 22,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Numquam antea copiae Romanae in solo Britannico steterant.",
+  "spans": [
+   {
+    "start": 21,
+    "end": 28,
+    "label": "NORP"
+   },
+   {
+    "start": 37,
+    "end": 47,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Quam bella crustula et poma tu, amita, dederas!",
+  "spans": []
+ },
+ {
+  "text": "Quantopere nos bacae rubrae et nigrae delectaverunt!",
+  "spans": []
+ },
+ {
+  "text": "Tum patruus meus \"Cum nos recreaverimus\", inquit, \"domum properabimus;",
+  "spans": []
+ },
+ {
+  "text": "nam non ante undecimam horam adventaverimus;",
+  "spans": []
+ },
+ {
+  "text": "interea amita tua, mi Antoni, nos exspectaverit.",
+  "spans": [
+   {
+    "start": 22,
+    "end": 28,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "Nonne prandio satiati estis?\"",
+  "spans": []
+ },
+ {
+  "text": "Et Alexander \"Ego iam paratus sum\", inquit;",
+  "spans": [
+   {
+    "start": 3,
+    "end": 12,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "\"sed quando tu, Marce, satiatus eris?\"",
+  "spans": [
+   {
+    "start": 16,
+    "end": 21,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "Tum Marcus \"Ieiunus fui\", inquit;",
+  "spans": [
+   {
+    "start": 4,
+    "end": 10,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "\"nam per quinque horas nihil gustaveram.",
+  "spans": []
+ },
+ {
+  "text": "Sed cum me altero pomo recreavero, paratus ero.",
+  "spans": []
+ },
+ {
+  "text": "Tu, Alexander, inter viam crustulis operam dedisti;",
+  "spans": [
+   {
+    "start": 4,
+    "end": 13,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "nam puer parvus es\".",
+  "spans": []
+ },
+ {
+  "text": "Nos cachinnamus, et mox in viam nos damus.",
+  "spans": []
+ },
+ {
+  "text": "Sed magnus erat calor solis et aeris, neque poteramus celeriter ambulare.",
+  "spans": []
+ },
+ {
+  "text": "Paulo post nebulae solem obscuraverunt, et imber magnus fuit.",
+  "spans": []
+ },
+ {
+  "text": "Mox sol oram maritimam splendore suo illustravit, et iterum in viam nos dedimus.",
+  "spans": []
+ },
+ {
+  "text": "Imber calorem aeris temperaverat;",
+  "spans": []
+ },
+ {
+  "text": "\"Cur copias suas in insulam nostram transportavit?\".",
+  "spans": []
+ },
+ {
+  "text": "Et patruus meus \"C. Iulius Caesar\", inquit, \"proconsul erat Galliae, et per tres annos contra nationes bellicosas Gallorum et Belgarum bellaverat;",
+  "spans": [
+   {
+    "start": 17,
+    "end": 33,
+    "label": "PERSON"
+   },
+   {
+    "start": 60,
+    "end": 67,
+    "label": "NORP"
+   },
+   {
+    "start": 114,
+    "end": 122,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Romani autem Britannos in numero Gallorum esse existimabant;",
+  "spans": [
+   {
+    "start": 0,
+    "end": 6,
+    "label": "NORP"
+   },
+   {
+    "start": 13,
+    "end": 22,
+    "label": "NORP"
+   },
+   {
+    "start": 33,
+    "end": 41,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "et revera nonnullae ex nationibus Britanniae meridianae a Belgis oriundae erant.",
+  "spans": [
+   {
+    "start": 34,
+    "end": 44,
+    "label": "LOC"
+   },
+   {
+    "start": 58,
+    "end": 64,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "\"Alia quoque causa belli fuerat avaritia et exspectatio praedae.",
+  "spans": []
+ },
+ {
+  "text": "Cupidi erant Romani insulam nostram ignotam et remotam visitandi et explorandi;",
+  "spans": [
+   {
+    "start": 13,
+    "end": 19,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "nam, ut Tacitus affirmat, ignotum pro magnifico est.",
+  "spans": [
+   {
+    "start": 8,
+    "end": 15,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "Itaque anno quinto et quinquagesimo ante Christum natum C. Iulius Caesar expeditionem suam primam contra Britannos comparavit, et victoriam reportavit, ut narravi;",
+  "spans": [
+   {
+    "start": 41,
+    "end": 49,
+    "label": "PERSON"
+   },
+   {
+    "start": 56,
+    "end": 72,
+    "label": "PERSON"
+   },
+   {
+    "start": 105,
+    "end": 114,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "nam post unum proelium Britanni veniam a victoribus imploraverunt.",
+  "spans": [
+   {
+    "start": 23,
+    "end": 31,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Sed expeditio non magna fuerat;",
+  "spans": []
+ },
+ {
+  "text": "neque Romani ullam praedam ex Britannia reportaverant, nisi paucos servos et captivos.",
+  "spans": [
+   {
+    "start": 6,
+    "end": 12,
+    "label": "NORP"
+   },
+   {
+    "start": 30,
+    "end": 39,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "Anno igitur proximo imperator Romanus secundam et multo maiorem expeditionem in Britanniam paravit.",
+  "spans": [
+   {
+    "start": 30,
+    "end": 37,
+    "label": "PERSON"
+   },
+   {
+    "start": 80,
+    "end": 90,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "Nam sescenta navigia oneraria in Gallia aedificavit, et quinque legiones Romanas una cum magna multitudine auxiliorum Gallicorum in oram Belgicam congregavit\".",
+  "spans": [
+   {
+    "start": 33,
+    "end": 39,
+    "label": "LOC"
+   },
+   {
+    "start": 73,
+    "end": 80,
+    "label": "NORP"
+   },
+   {
+    "start": 118,
+    "end": 128,
+    "label": "NORP"
+   },
+   {
+    "start": 137,
+    "end": 145,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "\"Britanni pacem non violaverant, sed Romani pacis non cupidi erant.",
+  "spans": [
+   {
+    "start": 1,
+    "end": 9,
+    "label": "NORP"
+   },
+   {
+    "start": 37,
+    "end": 43,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Itaque aestate anni quarti et quinquagesimi ante Christum natum dux Romanus cum quinque legionibus militum Romanorum et magno numero equitum et auxiliorum Gallicorum iterum in Britanniam navigavit.",
+  "spans": [
+   {
+    "start": 49,
+    "end": 57,
+    "label": "PERSON"
+   },
+   {
+    "start": 68,
+    "end": 75,
+    "label": "PERSON"
+   },
+   {
+    "start": 107,
+    "end": 116,
+    "label": "NORP"
+   },
+   {
+    "start": 155,
+    "end": 165,
+    "label": "NORP"
+   },
+   {
+    "start": 176,
+    "end": 186,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "Tempestas erat idonea, sed in media navigatione ventus non iam flabat;",
+  "spans": []
+ },
+ {
+  "text": "itaque militibus necesse erat navigia remis incitare.",
+  "spans": []
+ },
+ {
+  "text": "Impigre remigaverunt, et postridie navigia ad oram Britannicam prospere applicaverunt.",
+  "spans": [
+   {
+    "start": 51,
+    "end": 62,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Labor remigandi magnus erat, virtus militum magnopere laudanda.",
+  "spans": []
+ },
+ {
+  "text": "Britanni Romanos in scopulis orae maritimae exspectabant;",
+  "spans": [
+   {
+    "start": 0,
+    "end": 8,
+    "label": "NORP"
+   },
+   {
+    "start": 9,
+    "end": 16,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Caesar navigia sua inter Dubras et Rutupias applicavit, ut puto, non procul a loco quo priore anno applicaverat.",
+  "spans": [
+   {
+    "start": 0,
+    "end": 6,
+    "label": "PERSON"
+   },
+   {
+    "start": 25,
+    "end": 31,
+    "label": "LOC"
+   },
+   {
+    "start": 35,
+    "end": 43,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "Inde contra Britannos properavit.",
+  "spans": [
+   {
+    "start": 12,
+    "end": 21,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Interea unam legionem cum trecentis equitibus ad castra in statione reservabat;",
+  "spans": []
+ },
+ {
+  "text": "nam periculosum erat navigia ad ancoras deligata defensoribus nudare\".",
+  "spans": []
+ },
+ {
+  "text": "\"Britanni certamen vitaverunt, et in silvis se occultaverunt, ubi locus erat prope flumen, egregie et natura et opere firmatus.",
+  "spans": [
+   {
+    "start": 1,
+    "end": 9,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Itaque 'oppidum' Britannicum erat.",
+  "spans": [
+   {
+    "start": 17,
+    "end": 28,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "De nomine fluminis nihil constat.",
+  "spans": []
+ },
+ {
+  "text": "Oppidum iam ante domestici belli causa praeparaverant, et crebris arboribus vallisque firmaverant.",
+  "spans": []
+ },
+ {
+  "text": "Multa et varia certamina fuerunt:",
+  "spans": []
+ },
+ {
+  "text": "Britanni ex silvis cum equitibus essedisque suis contra Romanos provolabant;",
+  "spans": [
+   {
+    "start": 0,
+    "end": 8,
+    "label": "NORP"
+   },
+   {
+    "start": 56,
+    "end": 63,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Sed post aliquantum temporis milites septimae legionis aggere et testudine locum oppugnaverunt.",
+  "spans": []
+ },
+ {
+  "text": "Tandem Britannos ex silvis propulsaverunt.",
+  "spans": [
+   {
+    "start": 7,
+    "end": 16,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Pauca erant vulnera Romanorum;",
+  "spans": [
+   {
+    "start": 20,
+    "end": 29,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "nam Romani Britannos pondere armorum et scientia pugnandi multum superabant;",
+  "spans": [
+   {
+    "start": 4,
+    "end": 10,
+    "label": "NORP"
+   },
+   {
+    "start": 11,
+    "end": 20,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Sed Romani quoque homines robusto corpore erant\".",
+  "spans": [
+   {
+    "start": 4,
+    "end": 10,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "nam Britannis fugatis instare non poterat, quia naturam loci ignorabat.",
+  "spans": [
+   {
+    "start": 4,
+    "end": 13,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Praeterea praefectus castrorum, nomine Quintus Atrius, magnum incommodum nuntiaverat:",
+  "spans": [
+   {
+    "start": 39,
+    "end": 53,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "tempestas navigia in litore afflictaverat.",
+  "spans": []
+ },
+ {
+  "text": "Tempus periculosum erat;",
+  "spans": []
+ },
+ {
+  "text": "nam Caesari necesse erat a flumine ad litus maritimum properare, et legiones suas ab insectatione Britannorum revocare.",
+  "spans": [
+   {
+    "start": 4,
+    "end": 11,
+    "label": "PERSON"
+   },
+   {
+    "start": 98,
+    "end": 109,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "cetera novis armis ornanda erant.",
+  "spans": []
+ },
+ {
+  "text": "Opus magni laboris erat, et aliquantum temporis postulabat.",
+  "spans": []
+ },
+ {
+  "text": "Sed nautarum atque militum virtus magno opere laudanda erat.",
+  "spans": []
+ },
+ {
+  "text": "Non solum per diurna sed etiam per nocturna tempora laboraverunt.",
+  "spans": []
+ },
+ {
+  "text": "Interea Caesar nova navigia in Gallia aedificat:",
+  "spans": [
+   {
+    "start": 8,
+    "end": 14,
+    "label": "PERSON"
+   },
+   {
+    "start": 31,
+    "end": 37,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "sine navigiis non poterat copias suas in Galliam reportare;",
+  "spans": [
+   {
+    "start": 41,
+    "end": 48,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "uno tempore necesse erat et navigia reparare et contra Britannos bellare\".",
+  "spans": [
+   {
+    "start": 55,
+    "end": 64,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "\"Duo erant genera navium in classe Romana:",
+  "spans": [
+   {
+    "start": 35,
+    "end": 41,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "unum erat genus navium longarum;",
+  "spans": []
+ },
+ {
+  "text": "alterum navium onerariarum.",
+  "spans": []
+ },
+ {
+  "text": "naves onerariae ad onera atque multitudinem hominum et equorum transportanda.",
+  "spans": []
+ },
+ {
+  "text": "Tota classis Caesaris octingentarum erat navium;",
+  "spans": [
+   {
+    "start": 13,
+    "end": 21,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "nam sescentas naves onerarias per hiemem in Gallia aedificaverat, ut narravi.",
+  "spans": [
+   {
+    "start": 44,
+    "end": 50,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "nam Britannis antiquis nulla erat classis;",
+  "spans": [
+   {
+    "start": 4,
+    "end": 13,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "Tum ego \"Britannia nondum domina undarum erat\", inquam;",
+  "spans": [
+   {
+    "start": 9,
+    "end": 18,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "\"sed quomodo frumentum exportare poterant, si nullas naves aedificabant?\"",
+  "spans": []
+ },
+ {
+  "text": "Nam Veneti, natio maritima, in ora Gallica habitabant.",
+  "spans": [
+   {
+    "start": 4,
+    "end": 10,
+    "label": "NORP"
+   },
+   {
+    "start": 35,
+    "end": 42,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Hostes fuerant Romanorum, et magnam classem comparaverant\".",
+  "spans": [
+   {
+    "start": 15,
+    "end": 24,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Tum Marcus \"Num nationes barbarae\", inquit, \"naves longas ornare poterant?\"",
+  "spans": [
+   {
+    "start": 4,
+    "end": 10,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "Et patruus meus \"Formam navium Gallicarum Caesar in tertio libro Belli Gallici commemorat.",
+  "spans": [
+   {
+    "start": 31,
+    "end": 41,
+    "label": "NORP"
+   },
+   {
+    "start": 42,
+    "end": 48,
+    "label": "PERSON"
+   },
+   {
+    "start": 71,
+    "end": 78,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Veneti naves totas ex robore fabricabant;",
+  "spans": [
+   {
+    "start": 0,
+    "end": 6,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "ad ancoras catenis ferreis, non funibus, deligabant.",
+  "spans": []
+ },
+ {
+  "text": "Pelles pro velis erant, sive propter lini inopiam, sive quia in pellibus plus firmitudinis quam in velis lineis erat.",
+  "spans": []
+ },
+ {
+  "text": "Naves longae Romanorum non tam altae erant quam Venetorum, sed rostris ferreis et interdum turribus armatae erant;",
+  "spans": [
+   {
+    "start": 13,
+    "end": 22,
+    "label": "NORP"
+   },
+   {
+    "start": 48,
+    "end": 57,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Tum Alexander \"Num naves Romanae laminis ferreis armatae erant?\" inquit.",
+  "spans": [
+   {
+    "start": 4,
+    "end": 13,
+    "label": "PERSON"
+   },
+   {
+    "start": 25,
+    "end": 32,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "\"Dum milites nautaeque Romani classem novis armis ornant, Caesar ad reliquas copias properat.",
+  "spans": [
+   {
+    "start": 23,
+    "end": 29,
+    "label": "NORP"
+   },
+   {
+    "start": 58,
+    "end": 64,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "Interea hostes summum imperium Cassivellauno mandaverant.",
+  "spans": [
+   {
+    "start": 31,
+    "end": 44,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "Cassivellaunus non erat rex universarum gentium Britannicarum, sed dux vel princeps gentis Cassorum.",
+  "spans": [
+   {
+    "start": 0,
+    "end": 14,
+    "label": "PERSON"
+   },
+   {
+    "start": 48,
+    "end": 61,
+    "label": "NORP"
+   },
+   {
+    "start": 91,
+    "end": 99,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Anno tamen quarto et quinquagesimo ante Christum natum magna pars gentium Britanniae meridianae se sub Cassivellauno contra Romanos consociaverant.",
+  "spans": [
+   {
+    "start": 40,
+    "end": 48,
+    "label": "PERSON"
+   },
+   {
+    "start": 74,
+    "end": 84,
+    "label": "LOC"
+   },
+   {
+    "start": 103,
+    "end": 116,
+    "label": "PERSON"
+   },
+   {
+    "start": 124,
+    "end": 131,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Flumen Tamesa fines Cassivellauni a finibus gentium maritimarum separabat;",
+  "spans": [
+   {
+    "start": 7,
+    "end": 13,
+    "label": "LOC"
+   },
+   {
+    "start": 20,
+    "end": 33,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "ab oriente erant fines Trinobantium;",
+  "spans": [
+   {
+    "start": 23,
+    "end": 35,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "ab occidente, Britanni mediterranei.",
+  "spans": [
+   {
+    "start": 14,
+    "end": 22,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Superiore tempore bella continua fuerant inter Cassivellaunum et reliquas gentes;",
+  "spans": [
+   {
+    "start": 47,
+    "end": 61,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "Numerus hostium magnus erat;",
+  "spans": []
+ },
+ {
+  "text": "nam, ut Caesar affirmat, infinita multitudo hominum erat in parte meridiana Britanniae\".",
+  "spans": [
+   {
+    "start": 8,
+    "end": 14,
+    "label": "PERSON"
+   },
+   {
+    "start": 76,
+    "end": 86,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "Et nonnulla nomina gentium maritimarum, unde nomina urbium hodiernarum derivata sunt, Belgica vel Gallica sunt.",
+  "spans": [
+   {
+    "start": 86,
+    "end": 93,
+    "label": "NORP"
+   },
+   {
+    "start": 98,
+    "end": 105,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Itaque pars Britannorum antiquorum Germanica origine erant.",
+  "spans": [
+   {
+    "start": 12,
+    "end": 23,
+    "label": "NORP"
+   },
+   {
+    "start": 35,
+    "end": 44,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Formam insulae esse triquetram declarat.",
+  "spans": []
+ },
+ {
+  "text": "Sed unum latus ad Galliam spectare existimat, alterum ad Hispaniam atque occidentem, tertium ad septentriones.",
+  "spans": [
+   {
+    "start": 18,
+    "end": 25,
+    "label": "LOC"
+   },
+   {
+    "start": 57,
+    "end": 66,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "Hiberniam ab occidente parte Britanniae esse recte iudicat, insulam Monam inter Britanniam et Hiberniam esse\".",
+  "spans": [
+   {
+    "start": 0,
+    "end": 9,
+    "label": "LOC"
+   },
+   {
+    "start": 29,
+    "end": 39,
+    "label": "LOC"
+   },
+   {
+    "start": 68,
+    "end": 73,
+    "label": "LOC"
+   },
+   {
+    "start": 80,
+    "end": 90,
+    "label": "LOC"
+   },
+   {
+    "start": 94,
+    "end": 103,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "\"Lateris primi longitudinem circiter quingenta milia esse iudicat, secundi septingenta, tertii octingenta.",
+  "spans": []
+ },
+ {
+  "text": "Itaque de magnitudine insulae non multum errabat.",
+  "spans": []
+ },
+ {
+  "text": "Hic nos pueri \"Errabat igitur\", inquimus;",
+  "spans": []
+ },
+ {
+  "text": "\"nam inter Londinium et mare non sunt octoginta milia\".",
+  "spans": [
+   {
+    "start": 11,
+    "end": 20,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "Sed patruus meus \"Recte iudicabat\", inquit;",
+  "spans": []
+ },
+ {
+  "text": "Tria maria insulam nostram circumdant;",
+  "spans": []
+ },
+ {
+  "text": "ab occidente, mare Hibernicum;",
+  "spans": [
+   {
+    "start": 19,
+    "end": 29,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Nomina marium temporibus antiquis non usitata erant;",
+  "spans": []
+ },
+ {
+  "text": "sed iam Graeci Britanniam esse insulam iudicabant\".",
+  "spans": [
+   {
+    "start": 8,
+    "end": 14,
+    "label": "NORP"
+   },
+   {
+    "start": 15,
+    "end": 25,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "\"Inter Tamesam et mare Britannicum prima concursio erat Romanorum cum copiis Cassivellauni.",
+  "spans": [
+   {
+    "start": 7,
+    "end": 14,
+    "label": "LOC"
+   },
+   {
+    "start": 23,
+    "end": 34,
+    "label": "NORP"
+   },
+   {
+    "start": 56,
+    "end": 65,
+    "label": "NORP"
+   },
+   {
+    "start": 77,
+    "end": 90,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "Britanni duas cohortes Romanas in itinere fortiter impugnaverunt.",
+  "spans": [
+   {
+    "start": 23,
+    "end": 30,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Ex silvis suis provolaverunt;",
+  "spans": []
+ },
+ {
+  "text": "Romanos in fugam dederunt;",
+  "spans": [
+   {
+    "start": 0,
+    "end": 7,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "multos Romanorum trucidaverunt.",
+  "spans": [
+   {
+    "start": 7,
+    "end": 16,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Tum suos a pugna revocaverunt.",
+  "spans": []
+ },
+ {
+  "text": "Novum genus pugnae Romanos perturbaverat.",
+  "spans": [
+   {
+    "start": 19,
+    "end": 26,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "sed equitibus essedisque suis per omnes partes equitabant, et ordines hostium perturbabant;",
+  "spans": []
+ },
+ {
+  "text": "tum consulto copias suas revocabant.",
+  "spans": []
+ },
+ {
+  "text": "Essedarii interdum pedibus pugnabant.",
+  "spans": []
+ },
+ {
+  "text": "Ita mobilitatem equitum, stabilitatem peditum in proeliis praestabant.",
+  "spans": []
+ },
+ {
+  "text": "Pedites Romani propter pondus armorum non apti erant ad huiusmodi hostem.",
+  "spans": [
+   {
+    "start": 8,
+    "end": 14,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Et equitibus Romanis periculosum erat se longo intervallo a peditibus separare;",
+  "spans": [
+   {
+    "start": 13,
+    "end": 20,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "neque pedibus pugnare poterant\".",
+  "spans": []
+ },
+ {
+  "text": "\"Itaque Romani ordines suos contra equites Britannorum in primo certamine non servaverant.",
+  "spans": [
+   {
+    "start": 8,
+    "end": 14,
+    "label": "NORP"
+   },
+   {
+    "start": 43,
+    "end": 54,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Sed postridie Romani victoriam reportaverunt.",
+  "spans": [
+   {
+    "start": 14,
+    "end": 20,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Britanni in collibus procul a castris Romanis stabant.",
+  "spans": [
+   {
+    "start": 0,
+    "end": 8,
+    "label": "NORP"
+   },
+   {
+    "start": 38,
+    "end": 45,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Hostes subito provolaverunt, et ordines Romanos impugnaverunt.",
+  "spans": [
+   {
+    "start": 40,
+    "end": 47,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Sed Romani superiores fuerunt.",
+  "spans": [
+   {
+    "start": 4,
+    "end": 10,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Copias Britannicas propulsaverunt, et in fugam dederunt.",
+  "spans": [
+   {
+    "start": 7,
+    "end": 18,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Magnum numerum hostium trucidaverunt.",
+  "spans": []
+ },
+ {
+  "text": "Tum dux continuis itineribus ad flumen Tamesam et in fines Cassivellauni properavit.",
+  "spans": [
+   {
+    "start": 39,
+    "end": 46,
+    "label": "LOC"
+   },
+   {
+    "start": 59,
+    "end": 72,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "Cassivellaunus autem cum quattuor milibus essedariorum itinera Romanorum servabat, et paulum de via declinabat seque in silvis occultabat.",
+  "spans": [
+   {
+    "start": 0,
+    "end": 14,
+    "label": "PERSON"
+   },
+   {
+    "start": 63,
+    "end": 72,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Interdum ex silvis provolabat et cum militibus Romanis pugnabat;",
+  "spans": [
+   {
+    "start": 47,
+    "end": 54,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Quo cum Caesar adventavit, copias hostium ad alteram ripam fluminis collocatas spectavit.",
+  "spans": [
+   {
+    "start": 8,
+    "end": 14,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "Ripa autem sudibus acutis firmata erat;",
+  "spans": []
+ },
+ {
+  "text": "et Britanni multas sudes sub aqua quoque occultaverant.",
+  "spans": [
+   {
+    "start": 3,
+    "end": 11,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Sed Caesar hostibus instare non dubitavit.",
+  "spans": [
+   {
+    "start": 4,
+    "end": 10,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "Aqua fluminis profunda erat, et milites capite solum ex aqua exstabant;",
+  "spans": []
+ },
+ {
+  "text": "sed Romani se aquae fortiter mandaverunt, et Britannos in fugam dederunt. 'Oppidum' Cassivellauni non longe aberat, inter silvas paludesque situm, quo Britanni magnum numerum hominum, equorum, ovium, boum, congregaverant.",
+  "spans": [
+   {
+    "start": 4,
+    "end": 10,
+    "label": "LOC"
+   },
+   {
+    "start": 45,
+    "end": 54,
+    "label": "NORP"
+   },
+   {
+    "start": 84,
+    "end": 97,
+    "label": "PERSON"
+   },
+   {
+    "start": 151,
+    "end": 159,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Locum egregie et natura et opere firmatum Caesar ex duabus partibus oppugnare properavit:",
+  "spans": [
+   {
+    "start": 42,
+    "end": 48,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "oppidum expugnavit et defensores fugavit\".",
+  "spans": []
+ },
+ {
+  "text": "\"Sed in Cantio, ubi quattuor reges Britannis praeerant, nondum finis erat pugnandi.",
+  "spans": [
+   {
+    "start": 8,
+    "end": 14,
+    "label": "LOC"
+   },
+   {
+    "start": 35,
+    "end": 44,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Britanni castra Romana ad mare sita fortiter oppugnant;",
+  "spans": [
+   {
+    "start": 0,
+    "end": 8,
+    "label": "NORP"
+   },
+   {
+    "start": 16,
+    "end": 22,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "sed frustra.",
+  "spans": []
+ },
+ {
+  "text": "Romani victores.",
+  "spans": [
+   {
+    "start": 0,
+    "end": 6,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Interea multae ex civitatibus Britannicis pacem orant.",
+  "spans": [
+   {
+    "start": 30,
+    "end": 41,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Trinobantibus Caesar novum regem dat, et pacem confirmat.",
+  "spans": [
+   {
+    "start": 0,
+    "end": 13,
+    "label": "NORP"
+   },
+   {
+    "start": 14,
+    "end": 20,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "Itaque propter tot clades, propter fines suos bello vastatos, maxime autem propter defectionem tot civitatum, Cassivellaunus de condicionibus pacis deliberat.",
+  "spans": [
+   {
+    "start": 110,
+    "end": 124,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "Caesar pacem dat;",
+  "spans": [
+   {
+    "start": 0,
+    "end": 6,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "Cassivellaunum vetat Trinobantes bello vexare, et tributum Britannis imperat.",
+  "spans": [
+   {
+    "start": 0,
+    "end": 14,
+    "label": "PERSON"
+   },
+   {
+    "start": 21,
+    "end": 32,
+    "label": "NORP"
+   },
+   {
+    "start": 59,
+    "end": 68,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Tum copias suas cum magno numero obsidum et captivorum in Galliam reportat.",
+  "spans": [
+   {
+    "start": 58,
+    "end": 65,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "Britanni fortiter sed frustra pro aris et focis suis pugnaverant\".",
+  "spans": [
+   {
+    "start": 0,
+    "end": 8,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Non mirum est, si Romani victoriam reportaverunt\".",
+  "spans": [
+   {
+    "start": 18,
+    "end": 24,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Sed iam nona hora erat, cum Alexander, digito ad orientem monstrans, \"Nonne naves procul a litore spectatis?\" inquit.",
+  "spans": [
+   {
+    "start": 28,
+    "end": 37,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "Sed illae naves, ut puto, naves longae sunt ex classe Britannica;",
+  "spans": [
+   {
+    "start": 54,
+    "end": 64,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "\"Navem longam adhuc non spectavi.",
+  "spans": []
+ },
+ {
+  "text": "Sed non tam grandes sunt quam putavi\".",
+  "spans": []
+ },
+ {
+  "text": "omnes laminis ferreis, nonnullae arietibus vel turribus armatae sunt\".",
+  "spans": []
+ },
+ {
+  "text": "Tum nautam veteranum de nominibus navium longarum interrogavimus.",
+  "spans": []
+ },
+ {
+  "text": "In classe Britannica militaverat, sed tum militia vacabat, et custos erat orae maritimae.",
+  "spans": [
+   {
+    "start": 10,
+    "end": 20,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Nomina navium, ut affirmabat, erant Grandis, Regalis, Magnifica, Tonans, Arrogans, Ferox;",
+  "spans": []
+ },
+ {
+  "text": "omnibus tegimen erat laminis ferreis fabricatum.",
+  "spans": []
+ },
+ {
+  "text": "In Grandi praefectus classis navigabat.",
+  "spans": []
+ },
+ {
+  "text": "Tum Alexander \"Cur non\", inquit, \"ad naves in scapha navigamus?\"",
+  "spans": [
+   {
+    "start": 4,
+    "end": 13,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "Mihi et Marco propositum pergratum erat;",
+  "spans": [
+   {
+    "start": 8,
+    "end": 13,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "et nauta ad navigandum paratus erat.",
+  "spans": []
+ },
+ {
+  "text": "Itaque patruus meus \"Sero domum adventabimus\", inquit;",
+  "spans": []
+ },
+ {
+  "text": "\"sed si vos pueri cupidi estis navem longam spectandi, ego non denegabo\".",
+  "spans": []
+ },
+ {
+  "text": "et vela remosque in scapham portavit.",
+  "spans": []
+ },
+ {
+  "text": "Ventus lenis flabat, et brevi tempore ad Regalem appropinquavimus.",
+  "spans": []
+ },
+ {
+  "text": "Tum classiarii nobis navem ingentem monstraverunt cum machinis, tormentis, rostris, ceteris.",
+  "spans": []
+ },
+ {
+  "text": "Tum ad litus remigare necesse erat;",
+  "spans": []
+ },
+ {
+  "text": "nam ventus adversus erat.",
+  "spans": []
+ },
+ {
+  "text": "Ego et Marcus una cum patruo meo et nauta veterano remis laboravimus.",
+  "spans": [
+   {
+    "start": 7,
+    "end": 13,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "intravimus et nos recreavimus;",
+  "spans": []
+ },
+ {
+  "text": "nam fatigati eramus.",
+  "spans": []
+ },
+ {
+  "text": "Sed 'post tenebras lux'.",
+  "spans": []
+ },
+ {
+  "text": "\"Nos anxiae fuimus;",
+  "spans": []
+ },
+ {
+  "text": "sed cena iam parata est\".",
+  "spans": []
+ },
+ {
+  "text": "Tum nos \"Multa spectavimus\", inquimus;",
+  "spans": []
+ },
+ {
+  "text": "\"ambulatio longa sed pergrata et utilis fuit\".",
+  "spans": []
+ },
+ {
+  "text": "Post cenam Marcus et Alexander Dubras in vehiculo properaverunt.",
+  "spans": [
+   {
+    "start": 11,
+    "end": 17,
+    "label": "PERSON"
+   },
+   {
+    "start": 21,
+    "end": 30,
+    "label": "PERSON"
+   },
+   {
+    "start": 31,
+    "end": 37,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "Ego per noctem de Britannis antiquis et de classe Britannica hodierna somniavi.",
+  "spans": [
+   {
+    "start": 18,
+    "end": 27,
+    "label": "NORP"
+   },
+   {
+    "start": 50,
+    "end": 60,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Ante oculos erant viri fortes membris robustis, flavis capillis, oculis caeruleis cum Romanis terra marique pugnantes.",
+  "spans": [
+   {
+    "start": 86,
+    "end": 93,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Kalendae sunt hodie Septembres.",
+  "spans": []
+ },
+ {
+  "text": "Primus mensis feriarum elapsus est, et scholae instant;",
+  "spans": []
+ },
+ {
+  "text": "nam ante finem mensis Septembris apud magistrum meum ero.",
+  "spans": []
+ },
+ {
+  "text": "Et per ultimam partem feriarum necesse est libris duas horas cotidie dare.",
+  "spans": []
+ },
+ {
+  "text": "Sic imperat patruus meus.",
+  "spans": []
+ },
+ {
+  "text": "Mane igitur plerumque lectito.",
+  "spans": []
+ },
+ {
+  "text": "Patruus autem mihi librum Taciti de vita Agricolae, ducis celebris Romanorum, dedit.",
+  "spans": [
+   {
+    "start": 26,
+    "end": 32,
+    "label": "PERSON"
+   },
+   {
+    "start": 41,
+    "end": 50,
+    "label": "PERSON"
+   },
+   {
+    "start": 67,
+    "end": 76,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Multa insunt de Britannia nostra antiqua.",
+  "spans": [
+   {
+    "start": 16,
+    "end": 25,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "Vita Agricolae multum me delectat.",
+  "spans": [
+   {
+    "start": 5,
+    "end": 14,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "Nonnullis tamen in locis difficilis est et obscura.",
+  "spans": []
+ },
+ {
+  "text": "Sed animo alacri lectito, quia patruus meus difficilia et obscura explicat, et tabulis pictis aedificiorum, armorum, nummorum, viarum illustrat.",
+  "spans": []
+ },
+ {
+  "text": "Ubi aliquid in Vita Agricolae deest, ibi patruus meus capita ex Annalibus Taciti vel ex Historia Anglica recitat.",
+  "spans": [
+   {
+    "start": 20,
+    "end": 29,
+    "label": "PERSON"
+   },
+   {
+    "start": 74,
+    "end": 80,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "Amici mei, Marcus et Alexander, interdum adsunt dum recitat;",
+  "spans": [
+   {
+    "start": 11,
+    "end": 17,
+    "label": "PERSON"
+   },
+   {
+    "start": 21,
+    "end": 30,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "nam saepe nos visitant.",
+  "spans": []
+ },
+ {
+  "text": "Post prandium plerumque ambulamus, vel ludo trigonali operam damus, vel in mari natamus.",
+  "spans": []
+ },
+ {
+  "text": "Gaius Iulius Caesar, postquam copias suas pedestres et equestres ex Britannia in Galliam transportavit, nihil amplius de Britannis cogitavit.",
+  "spans": [
+   {
+    "start": 0,
+    "end": 19,
+    "label": "PERSON"
+   },
+   {
+    "start": 68,
+    "end": 77,
+    "label": "LOC"
+   },
+   {
+    "start": 81,
+    "end": 88,
+    "label": "LOC"
+   },
+   {
+    "start": 121,
+    "end": 130,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Ab incolis litoris meridiani victoriam reportaverat, ad flumen Tamesam penetraverat, oppidum Cassivellauni expugnaverat, magnum numerum captivorum in servitutem venumdederat, tributum Britannis imperaverat.",
+  "spans": [
+   {
+    "start": 63,
+    "end": 70,
+    "label": "LOC"
+   },
+   {
+    "start": 93,
+    "end": 106,
+    "label": "PERSON"
+   },
+   {
+    "start": 184,
+    "end": 193,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Id ei satis erat.",
+  "spans": []
+ },
+ {
+  "text": "Tacitus eum non magnam victoriam reportavisse in capite tertio decimo Vitae Agricolae affirmat.",
+  "spans": [
+   {
+    "start": 0,
+    "end": 7,
+    "label": "PERSON"
+   },
+   {
+    "start": 76,
+    "end": 85,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "Britanni autem viri animo forti erant.",
+  "spans": [
+   {
+    "start": 0,
+    "end": 8,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Tributum et servitutem non tolerabant.",
+  "spans": []
+ },
+ {
+  "text": "Et Romanis post tempora C. Iulii Caesaris longa oblivio erat Britanniae;",
+  "spans": [
+   {
+    "start": 3,
+    "end": 10,
+    "label": "NORP"
+   },
+   {
+    "start": 24,
+    "end": 41,
+    "label": "PERSON"
+   },
+   {
+    "start": 61,
+    "end": 71,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "nam per multos annos bellum domesticum civitatem Romanam vexavit.",
+  "spans": [
+   {
+    "start": 49,
+    "end": 56,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Post finem eius belli Romani Augustum principem creaverunt.",
+  "spans": [
+   {
+    "start": 22,
+    "end": 28,
+    "label": "NORP"
+   },
+   {
+    "start": 29,
+    "end": 37,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "Ei Britannia non curae erat.",
+  "spans": [
+   {
+    "start": 3,
+    "end": 12,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "Nec principes secundus et tertius, Tiberius et Caligula, insulam nostram intraverunt;",
+  "spans": [
+   {
+    "start": 35,
+    "end": 43,
+    "label": "PERSON"
+   },
+   {
+    "start": 47,
+    "end": 55,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "quamquam Caligula de ea intranda cogitavit.",
+  "spans": [
+   {
+    "start": 9,
+    "end": 17,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "Itaque per centum fere annos reges Britannici vel reginae Britannicae in Britannia regnaverunt, nec Romani Britannos bello vexaverunt.",
+  "spans": [
+   {
+    "start": 35,
+    "end": 45,
+    "label": "NORP"
+   },
+   {
+    "start": 58,
+    "end": 69,
+    "label": "NORP"
+   },
+   {
+    "start": 73,
+    "end": 82,
+    "label": "LOC"
+   },
+   {
+    "start": 100,
+    "end": 106,
+    "label": "NORP"
+   },
+   {
+    "start": 107,
+    "end": 116,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "In numero eorum regum erat Cunobelinus.",
+  "spans": [
+   {
+    "start": 27,
+    "end": 38,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "Is revera « Britannorum rex » erat:",
+  "spans": [
+   {
+    "start": 12,
+    "end": 23,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "sic eum Suetonius, scriptor Romanus, nominat;",
+  "spans": [
+   {
+    "start": 8,
+    "end": 17,
+    "label": "PERSON"
+   },
+   {
+    "start": 28,
+    "end": 35,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "nam quamquam non omnes gentes Britannicae ei subiectae erant, tamen magnam partem gentium Britanniae mediterraneae et meridianae in unum regnum consociaverat.",
+  "spans": [
+   {
+    "start": 30,
+    "end": 41,
+    "label": "NORP"
+   },
+   {
+    "start": 90,
+    "end": 100,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "Caput earum gentium Camulodunum erat.",
+  "spans": [
+   {
+    "start": 20,
+    "end": 31,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Exstant hodie nummi Cunobelini;",
+  "spans": [
+   {
+    "start": 20,
+    "end": 30,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "exstant quoque nummi patris eius Tasciovani et fratris eius Epaticci.",
+  "spans": [
+   {
+    "start": 33,
+    "end": 43,
+    "label": "PERSON"
+   },
+   {
+    "start": 60,
+    "end": 68,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "Cunobelinus multos annos regnavit;",
+  "spans": [
+   {
+    "start": 0,
+    "end": 11,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "eo fere tempore rex Britannorum erat, cum Tiberius et Caligula principes Romanorum erant.",
+  "spans": [
+   {
+    "start": 20,
+    "end": 31,
+    "label": "NORP"
+   },
+   {
+    "start": 42,
+    "end": 50,
+    "label": "PERSON"
+   },
+   {
+    "start": 54,
+    "end": 62,
+    "label": "PERSON"
+   },
+   {
+    "start": 73,
+    "end": 82,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Ei ab anno quarto decimo ad annum primum et quadragesimum post Christum natum imperio Romano praeerant.",
+  "spans": [
+   {
+    "start": 63,
+    "end": 71,
+    "label": "PERSON"
+   },
+   {
+    "start": 86,
+    "end": 92,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Iesus Christus natus erat dum Augustus princeps erat:",
+  "spans": [
+   {
+    "start": 0,
+    "end": 14,
+    "label": "PERSON"
+   },
+   {
+    "start": 30,
+    "end": 38,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "morti datus erat dum Tiberius imperitabat, ut Tacitus in capite quarto et quadragesimo libri quinti decimi Annalium commemorat.",
+  "spans": [
+   {
+    "start": 21,
+    "end": 29,
+    "label": "PERSON"
+   },
+   {
+    "start": 46,
+    "end": 53,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "Inter filios Cunobelini erant Caractacus et Togodumnus.",
+  "spans": [
+   {
+    "start": 13,
+    "end": 23,
+    "label": "PERSON"
+   },
+   {
+    "start": 30,
+    "end": 40,
+    "label": "PERSON"
+   },
+   {
+    "start": 44,
+    "end": 54,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "Is rex magnus et bonus erat, atque defensor acer libertatis Britannicae.",
+  "spans": [
+   {
+    "start": 60,
+    "end": 71,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Itaque de nova expeditione contra Britanniam cogitabant.",
+  "spans": [
+   {
+    "start": 34,
+    "end": 44,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "Poetae Romani eius aetatis insulam nostram et incolas eius saepe commemorant.",
+  "spans": [
+   {
+    "start": 7,
+    "end": 13,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Horatius eos « feros » et « remotos » et « intactos » (id est, « non debellatos » vel « liberos ») nominat;",
+  "spans": [
+   {
+    "start": 0,
+    "end": 8,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "Vergilius eos « toto orbe terrarum divisos » (id est, « separatos ») vocat.",
+  "spans": [
+   {
+    "start": 0,
+    "end": 9,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "Mare eos ab aliis partibus orbis terrarum separabat, et libertas eis cara erat.",
+  "spans": []
+ },
+ {
+  "text": "Pro aris et focis suis contra Romanos magna virtute pugnaverant, atque hostibus Romanorum in bello Gallico auxilia subministraverant.",
+  "spans": [
+   {
+    "start": 30,
+    "end": 37,
+    "label": "NORP"
+   },
+   {
+    "start": 80,
+    "end": 89,
+    "label": "NORP"
+   },
+   {
+    "start": 99,
+    "end": 106,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Post mortem Cunobelini, Claudius, quartus princeps Romanorum, expeditionem contra Britannos paravit.",
+  "spans": [
+   {
+    "start": 12,
+    "end": 22,
+    "label": "PERSON"
+   },
+   {
+    "start": 24,
+    "end": 32,
+    "label": "PERSON"
+   },
+   {
+    "start": 51,
+    "end": 60,
+    "label": "NORP"
+   },
+   {
+    "start": 82,
+    "end": 91,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Consilium eius erat totam Britanniam debellare et cum imperio Romano consociare.",
+  "spans": [
+   {
+    "start": 26,
+    "end": 36,
+    "label": "LOC"
+   },
+   {
+    "start": 62,
+    "end": 68,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Itaque anno tertio et quadragesimo uni ex ducibus suis, Aulo Plautio, magnum numerum copiarum pedestrium et equestrium mandavit.",
+  "spans": [
+   {
+    "start": 56,
+    "end": 68,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "Oppidum Camulodunum expugnaverunt, ubi Romani post paucos annos coloniam veteranorum collocaverunt.",
+  "spans": [
+   {
+    "start": 8,
+    "end": 19,
+    "label": "NORP"
+   },
+   {
+    "start": 39,
+    "end": 45,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Ea prima urbs Romana in Britannia fuit.",
+  "spans": [
+   {
+    "start": 14,
+    "end": 20,
+    "label": "NORP"
+   },
+   {
+    "start": 24,
+    "end": 33,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "Filius eius priore anno natus erat.",
+  "spans": []
+ },
+ {
+  "text": "Copiis Britannicis Caractacus, filius Cunobelini, praeerat.",
+  "spans": [
+   {
+    "start": 7,
+    "end": 18,
+    "label": "NORP"
+   },
+   {
+    "start": 19,
+    "end": 29,
+    "label": "PERSON"
+   },
+   {
+    "start": 38,
+    "end": 48,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "Non facile erat eas gentes Cambriae debellare.",
+  "spans": [
+   {
+    "start": 27,
+    "end": 35,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "Reliquiae castrorum Romanorum Viroconii, Devae, Iscae hodie exstant.",
+  "spans": [
+   {
+    "start": 20,
+    "end": 29,
+    "label": "NORP"
+   },
+   {
+    "start": 30,
+    "end": 39,
+    "label": "LOC"
+   },
+   {
+    "start": 41,
+    "end": 46,
+    "label": "LOC"
+   },
+   {
+    "start": 48,
+    "end": 53,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "ipse, ipsa, ipsum Nomen Caractaci iam per totam Italiam celebre erat;",
+  "spans": [
+   {
+    "start": 24,
+    "end": 33,
+    "label": "PERSON"
+   },
+   {
+    "start": 48,
+    "end": 55,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "nam victoriam Romanorum per novem annos retardaverat.",
+  "spans": [
+   {
+    "start": 14,
+    "end": 23,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Et omnes homines cupidi erant regem Britannorum ipsum spectandi.",
+  "spans": [
+   {
+    "start": 36,
+    "end": 47,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Itaque Claudius populum ad grande spectaculum convocavit.",
+  "spans": [
+   {
+    "start": 7,
+    "end": 15,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "Magna multitudo captivorum Britannicorum una cum Caractaco ipso et uxore fratribusque eius in catenis aderant.",
+  "spans": [
+   {
+    "start": 27,
+    "end": 40,
+    "label": "NORP"
+   },
+   {
+    "start": 49,
+    "end": 58,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "Ante oculos principis ipsius collocatus « Rex sum » inquit « et regibus claris oriundus:",
+  "spans": []
+ },
+ {
+  "text": "Non mirum est si contra vos Romanos pro libertate pugnavi.",
+  "spans": [
+   {
+    "start": 28,
+    "end": 35,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Vos toti orbi terrarum imperitandi cupidi estis;",
+  "spans": []
+ },
+ {
+  "text": "sed nobis Britannis non mos est servitutem tolerare.",
+  "spans": [
+   {
+    "start": 10,
+    "end": 19,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Mortem non formido ».",
+  "spans": []
+ },
+ {
+  "text": "Tum princeps propter admirationem tantae audaciae veniam libertatemque Caractaco ipsi et uxori fratribusque eius dedit.",
+  "spans": [
+   {
+    "start": 71,
+    "end": 80,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "Sic Tacitus in capite septimo et tricesimo libri duodecimi Annalium narrat.",
+  "spans": [
+   {
+    "start": 4,
+    "end": 11,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "Anno post Christum natum primo et sexagesimo Britanni rebellaverunt.",
+  "spans": [
+   {
+    "start": 10,
+    "end": 18,
+    "label": "PERSON"
+   },
+   {
+    "start": 45,
+    "end": 53,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Suetonius Paulinus, unus ex ducibus Neronis, quinti principis Romanorum, Britanniae tum praeerat.",
+  "spans": [
+   {
+    "start": 0,
+    "end": 18,
+    "label": "PERSON"
+   },
+   {
+    "start": 36,
+    "end": 44,
+    "label": "PERSON"
+   },
+   {
+    "start": 62,
+    "end": 71,
+    "label": "NORP"
+   },
+   {
+    "start": 73,
+    "end": 83,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "Ille in Monam insulam penetravit, ubi magnum numerum Druidarum trucidavit, et fana eorum vastavit.",
+  "spans": [
+   {
+    "start": 8,
+    "end": 13,
+    "label": "LOC"
+   },
+   {
+    "start": 53,
+    "end": 62,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Sed dum ille in Cambria abest, Iceni cum Cassis et Trinobantibus aliisque gentibus Britannicis se contra Romanos consociant.",
+  "spans": [
+   {
+    "start": 16,
+    "end": 23,
+    "label": "LOC"
+   },
+   {
+    "start": 31,
+    "end": 36,
+    "label": "NORP"
+   },
+   {
+    "start": 41,
+    "end": 47,
+    "label": "NORP"
+   },
+   {
+    "start": 51,
+    "end": 64,
+    "label": "NORP"
+   },
+   {
+    "start": 83,
+    "end": 94,
+    "label": "NORP"
+   },
+   {
+    "start": 105,
+    "end": 112,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Nam veterani eos omnibus iniuriis vexabant.",
+  "spans": []
+ },
+ {
+  "text": "Oppidum iam viis et aedificiis Romanis ornaverunt, sed muris non firmaverant.",
+  "spans": [
+   {
+    "start": 31,
+    "end": 38,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Inter illa aedificia templum « Divi Claudii » erat;",
+  "spans": [
+   {
+    "start": 36,
+    "end": 43,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "nam principem mortuum Romani pro deo adorabant.",
+  "spans": [
+   {
+    "start": 22,
+    "end": 28,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Et in illo templo simulacrum Victoriae collocatum erat.",
+  "spans": []
+ },
+ {
+  "text": "Itaque Boadicea, regina illa audax Icenorum, inter ordines Britannicos in essedo suo equitans, Britannos suos ad rebellionem incitavit.",
+  "spans": [
+   {
+    "start": 7,
+    "end": 15,
+    "label": "PERSON"
+   },
+   {
+    "start": 35,
+    "end": 43,
+    "label": "NORP"
+   },
+   {
+    "start": 59,
+    "end": 70,
+    "label": "NORP"
+   },
+   {
+    "start": 95,
+    "end": 104,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "« Auscultate » inquit, « Iceni et Cassi;",
+  "spans": [
+   {
+    "start": 25,
+    "end": 30,
+    "label": "PERSON"
+   },
+   {
+    "start": 34,
+    "end": 39,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "auscultate Coritani, Trinobantes!",
+  "spans": [
+   {
+    "start": 11,
+    "end": 19,
+    "label": "NORP"
+   },
+   {
+    "start": 21,
+    "end": 32,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Di nostri nobis victoriam, illis cladem mortemque parant!",
+  "spans": []
+ },
+ {
+  "text": "Ecce, colonia Camulodunum defensoribus nudata est!",
+  "spans": [
+   {
+    "start": 14,
+    "end": 25,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "Coloniam illam, ubi pauci tantum veterani cum uxoribus liberisque suis habitant, facile erit expugnare.",
+  "spans": []
+ },
+ {
+  "text": "Illos nulla patria ad virtutem incitat;",
+  "spans": []
+ },
+ {
+  "text": "nos patria et penates, nos libertas ad arma vocat.",
+  "spans": []
+ },
+ {
+  "text": "Atque di ipsi nobis omen victoriae et imperii dederunt.",
+  "spans": []
+ },
+ {
+  "text": "Nam simulacrum illud Victoriae praecipitaverunt.",
+  "spans": []
+ },
+ {
+  "text": "Et Druidae alia portenta nuntiant.",
+  "spans": [
+   {
+    "start": 3,
+    "end": 10,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Vos coloniam illam crudelem expugnate!",
+  "spans": []
+ },
+ {
+  "text": "Templum dei illius falsi cremate!",
+  "spans": []
+ },
+ {
+  "text": "Viros, feminas, liberos trucidate!",
+  "spans": []
+ },
+ {
+  "text": "Num vos viri minus fortes eritis? ».",
+  "spans": []
+ },
+ {
+  "text": "Britanni ad arma volant.",
+  "spans": [
+   {
+    "start": 0,
+    "end": 8,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Coloniam Camulodunum expugnant;",
+  "spans": [
+   {
+    "start": 9,
+    "end": 20,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "templum illud Claudii, ubi veterani se occultaverant, cremant.",
+  "spans": [
+   {
+    "start": 14,
+    "end": 21,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "Interea Suetonius ex insula Mona cum decem milibus virorum ad Tamesam properavit.",
+  "spans": [
+   {
+    "start": 8,
+    "end": 17,
+    "label": "PERSON"
+   },
+   {
+    "start": 28,
+    "end": 32,
+    "label": "LOC"
+   },
+   {
+    "start": 62,
+    "end": 69,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "Sic Tacitus in capite tertio et tricesimo libri quarti decimi Annalium affirmat.",
+  "spans": [
+   {
+    "start": 4,
+    "end": 11,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "Sed urbem ex clade servare non poterat.",
+  "spans": []
+ },
+ {
+  "text": "Britanni Londinium et Verulamium oppugnant, septuaginta milia Romanorum trucidant, ingentem praedam captant.",
+  "spans": [
+   {
+    "start": 0,
+    "end": 8,
+    "label": "NORP"
+   },
+   {
+    "start": 9,
+    "end": 18,
+    "label": "LOC"
+   },
+   {
+    "start": 22,
+    "end": 32,
+    "label": "LOC"
+   },
+   {
+    "start": 62,
+    "end": 71,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Suetonius suos prope silvam collocaverat, et se ad proelium parabat.",
+  "spans": [
+   {
+    "start": 0,
+    "end": 9,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "Britanni Romanos numero virorum multum superabant, et exspectatione victoriae triumpharunt.",
+  "spans": [
+   {
+    "start": 0,
+    "end": 8,
+    "label": "NORP"
+   },
+   {
+    "start": 9,
+    "end": 16,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Sed pauci illi Romani magnam victoriam reportaverunt;",
+  "spans": [
+   {
+    "start": 15,
+    "end": 21,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Britanni contra legiones Romanas stare non poterant, quia Romani eos pondere armorum et scientia belli multum superabant.",
+  "spans": [
+   {
+    "start": 25,
+    "end": 32,
+    "label": "NORP"
+   },
+   {
+    "start": 58,
+    "end": 64,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "In illo proelio Romani octoginta milia virorum et feminarum trucidaverunt;",
+  "spans": [
+   {
+    "start": 16,
+    "end": 22,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "nam Britanni feminas suas in vehiculis apportaverunt, proelii spectandi causa.",
+  "spans": [
+   {
+    "start": 4,
+    "end": 12,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Hic fuit finis rebellionis Boadiceae.",
+  "spans": [
+   {
+    "start": 27,
+    "end": 36,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "Sed Romani nondum totam insulam paraverant.",
+  "spans": [
+   {
+    "start": 4,
+    "end": 10,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Nam Britannia provincia turbulenta erat, ut Tacitus affirmat;",
+  "spans": [
+   {
+    "start": 4,
+    "end": 13,
+    "label": "LOC"
+   },
+   {
+    "start": 44,
+    "end": 51,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "et Britanni occidentales et septentrionales victoriam Romanorum adhuc retardant.",
+  "spans": [
+   {
+    "start": 3,
+    "end": 11,
+    "label": "NORP"
+   },
+   {
+    "start": 54,
+    "end": 63,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Totam insulam pacare consilium erat Vespasiani, noni principis Romanorum.",
+  "spans": [
+   {
+    "start": 36,
+    "end": 46,
+    "label": "PERSON"
+   },
+   {
+    "start": 63,
+    "end": 72,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Itaque anno duodeoctogesimo post Christum natum Iulio Agricolae summum imperium legionum Britannicarum mandavit.",
+  "spans": [
+   {
+    "start": 33,
+    "end": 41,
+    "label": "PERSON"
+   },
+   {
+    "start": 48,
+    "end": 63,
+    "label": "PERSON"
+   },
+   {
+    "start": 89,
+    "end": 102,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Huius viri clari vitam Tacitus narravit.",
+  "spans": [
+   {
+    "start": 23,
+    "end": 30,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "monumentum est liber ille de vita eius.",
+  "spans": []
+ },
+ {
+  "text": "Vir iustus, humanus, clemens erat, si testimonium Taciti verum est.",
+  "spans": [
+   {
+    "start": 50,
+    "end": 56,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "Hanc gentem fere totam trucidavit, si Tacitus vera affirmat.",
+  "spans": [
+   {
+    "start": 38,
+    "end": 45,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "Naves ei deerant;",
+  "spans": []
+ },
+ {
+  "text": "sed sub signis Romanis nonnullae cohortes Batavorum militabant.",
+  "spans": [
+   {
+    "start": 15,
+    "end": 22,
+    "label": "NORP"
+   },
+   {
+    "start": 42,
+    "end": 51,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Hi periti erant natandi, et trans fretum nataverunt.",
+  "spans": []
+ },
+ {
+  "text": "Tertio anno Agricola contra Brigantes aliasque gentes septentrionales Britanniae bellavit.",
+  "spans": [
+   {
+    "start": 12,
+    "end": 20,
+    "label": "PERSON"
+   },
+   {
+    "start": 28,
+    "end": 37,
+    "label": "NORP"
+   },
+   {
+    "start": 70,
+    "end": 80,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Sexto anno classem comparavit.",
+  "spans": []
+ },
+ {
+  "text": "Dum haec oram maritimam Caledoniae explorat, ipse cum copiis pedestribus et equestribus per Devam et Luguvallium in Caledoniam usque ad Clotam et Bodotriam penetrat.",
+  "spans": [
+   {
+    "start": 24,
+    "end": 34,
+    "label": "LOC"
+   },
+   {
+    "start": 92,
+    "end": 97,
+    "label": "LOC"
+   },
+   {
+    "start": 101,
+    "end": 112,
+    "label": "LOC"
+   },
+   {
+    "start": 116,
+    "end": 126,
+    "label": "LOC"
+   },
+   {
+    "start": 136,
+    "end": 142,
+    "label": "LOC"
+   },
+   {
+    "start": 146,
+    "end": 155,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "Totam regionem castellis firmat.",
+  "spans": []
+ },
+ {
+  "text": "Sed Caledonii trans Clotam et Bodotriam, velut in alteram insulam, se congregant.",
+  "spans": [
+   {
+    "start": 4,
+    "end": 13,
+    "label": "NORP"
+   },
+   {
+    "start": 20,
+    "end": 26,
+    "label": "LOC"
+   },
+   {
+    "start": 30,
+    "end": 39,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "Proximo anno Romani in partes interiores Caledoniae penetrant.",
+  "spans": [
+   {
+    "start": 13,
+    "end": 19,
+    "label": "NORP"
+   },
+   {
+    "start": 41,
+    "end": 51,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "« Haec pugna, ut spero, causa libertatis perpetuae totae Britanniae erit.",
+  "spans": [
+   {
+    "start": 57,
+    "end": 67,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "Nobis Caledonibus servitus adhuc ignota est.",
+  "spans": [
+   {
+    "start": 6,
+    "end": 17,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Hi montes, hae silvae, haec maria nobis libertatem dederunt.",
+  "spans": []
+ },
+ {
+  "text": "Sed nunc in hunc angulum remotum Britanniae Romani penetraverunt.",
+  "spans": [
+   {
+    "start": 33,
+    "end": 43,
+    "label": "LOC"
+   },
+   {
+    "start": 44,
+    "end": 50,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Adsunt, velut lupi saevi;",
+  "spans": []
+ },
+ {
+  "text": "nec Oriens nec Occidens eos satiavit.",
+  "spans": []
+ },
+ {
+  "text": "Ne mare quidem nostrum a periculo classis Romanae tutum est.",
+  "spans": [
+   {
+    "start": 42,
+    "end": 49,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Terra marique hanc insulam oppugnant.",
+  "spans": []
+ },
+ {
+  "text": "Itaque nullam veniam exspectate, si illi in hoc proelio victoriam reportaverint.",
+  "spans": []
+ },
+ {
+  "text": "Vos ipsos et uxores liberosque vestros trucidabunt vel in servitutem deportabunt;",
+  "spans": []
+ },
+ {
+  "text": "et cum totam terram vastaverint, solitudinem pacem vocabunt.",
+  "spans": []
+ },
+ {
+  "text": "Sed nondum \"pacata\" est haec Caledonia.",
+  "spans": [
+   {
+    "start": 29,
+    "end": 38,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "Iceni et Trinobantes coloniam Romanam expugnaverunt et cremaverunt.",
+  "spans": [
+   {
+    "start": 0,
+    "end": 5,
+    "label": "NORP"
+   },
+   {
+    "start": 9,
+    "end": 20,
+    "label": "NORP"
+   },
+   {
+    "start": 30,
+    "end": 37,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Num vos, viri Caledonii, minus fortes eritis?",
+  "spans": [
+   {
+    "start": 14,
+    "end": 23,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Hodie pacem illam Romanam a vobis ipsis et uxoribus liberisque vestris propulsate.",
+  "spans": [
+   {
+    "start": 18,
+    "end": 25,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Patria ipsa vos ad pugnam et victoriam vocat! » Interea Agricola quoque suos in hunc modum ad proelium incitat.",
+  "spans": [
+   {
+    "start": 56,
+    "end": 64,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "Hodie a Caledonibus victoriam reportate.",
+  "spans": [
+   {
+    "start": 8,
+    "end": 19,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Hi se in silvis montibusque suis adhuc occultaverunt;",
+  "spans": []
+ },
+ {
+  "text": "hos homines ignavos facile in fugam dabitis ».",
+  "spans": []
+ },
+ {
+  "text": "Et signum pugnandi dedit.",
+  "spans": []
+ },
+ {
+  "text": "Tres legiones Romanae et undecim milia auxiliorum in campo lato stabant:",
+  "spans": [
+   {
+    "start": 14,
+    "end": 21,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Caledones in collibus suos collocaverant.",
+  "spans": [
+   {
+    "start": 0,
+    "end": 9,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Et ipsi multa missilia in Romanos iactabant.",
+  "spans": [
+   {
+    "start": 26,
+    "end": 33,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Sed tandem cohortes illae Batavorum ad colles appropinquaverunt, et Caledones ex loco propulsaverunt.",
+  "spans": [
+   {
+    "start": 26,
+    "end": 35,
+    "label": "NORP"
+   },
+   {
+    "start": 68,
+    "end": 77,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Nam hi iustum proelium tolerare non poterant.",
+  "spans": []
+ },
+ {
+  "text": "Interea equites auxiliorum eos velut indagine circumdederunt.",
+  "spans": []
+ },
+ {
+  "text": "Nonnulli ex Caledonibus uxores liberosque suos ipsi morti dederunt.",
+  "spans": [
+   {
+    "start": 12,
+    "end": 23,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Nox finis fuit trucidationis.",
+  "spans": []
+ },
+ {
+  "text": "Postridie atrox spectaculum erat:",
+  "spans": []
+ },
+ {
+  "text": "corpora inhumata, casae crematae, silentium, solitudo.",
+  "spans": []
+ },
+ {
+  "text": "« sed si testimonium eius verum est, nullus victor Romanus humanior, nullus clementior fuit quam Iulius Agricola.",
+  "spans": [
+   {
+    "start": 51,
+    "end": 58,
+    "label": "NORP"
+   },
+   {
+    "start": 97,
+    "end": 112,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "Nulla autem provincia turbulentior fuerat quam Britannia.",
+  "spans": [
+   {
+    "start": 47,
+    "end": 56,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "Nulli hostes Romanorum fortiores, nulli audaciores fuerant quam Britanni et Caledones et gentes Cambriae.",
+  "spans": [
+   {
+    "start": 13,
+    "end": 22,
+    "label": "NORP"
+   },
+   {
+    "start": 64,
+    "end": 72,
+    "label": "NORP"
+   },
+   {
+    "start": 76,
+    "end": 85,
+    "label": "NORP"
+   },
+   {
+    "start": 96,
+    "end": 104,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "Sed quid inhumanius, quid saevius est quam bellum?",
+  "spans": []
+ },
+ {
+  "text": "Atque nulli hostes in bello crudeliores fuerunt quam Romani.",
+  "spans": [
+   {
+    "start": 53,
+    "end": 59,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Nam mors pulchra minus misera est quam servitus.",
+  "spans": []
+ },
+ {
+  "text": "Omnibus hominibus vita cara est;",
+  "spans": []
+ },
+ {
+  "text": "sed viris liberis libertas carior est quam vita.",
+  "spans": []
+ },
+ {
+  "text": "Atque nulli homines unquam acriores defensores libertatis suae fuerunt quam Britanni.",
+  "spans": [
+   {
+    "start": 76,
+    "end": 84,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Nihil pulchrius existimabant quam libertatem, nihil miserius quam servitutem ».",
+  "spans": []
+ },
+ {
+  "text": "« Omnia bella saeva et inhumana sunt.",
+  "spans": []
+ },
+ {
+  "text": "Romani hostes crudelissimi plerumque fuerunt.",
+  "spans": [
+   {
+    "start": 0,
+    "end": 6,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Sed quid utilius fuit toti orbi terrarum quam imperium Romanum?",
+  "spans": [
+   {
+    "start": 55,
+    "end": 62,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Et imperio Romano nullum maius periculum erat quam rebelliones populorum barbarorum.",
+  "spans": [
+   {
+    "start": 11,
+    "end": 17,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Homines feros et inhumanos a studio bellandi ad vitam humaniorem et ad litteras, artes, scientias revocavit.",
+  "spans": []
+ },
+ {
+  "text": "Romani Britanniam viis optimis et aedificiis pulcherrimis celeberrimisque, templis, basilicis, foris, villis, ludis litterariis, ornaverunt.",
+  "spans": [
+   {
+    "start": 0,
+    "end": 6,
+    "label": "NORP"
+   },
+   {
+    "start": 7,
+    "end": 17,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "In ludis litterariis filii principum Britannicorum linguae Latinae operam dabant.",
+  "spans": [
+   {
+    "start": 37,
+    "end": 50,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Itaque Britanni iram iniuriasque suas paulatim oblivioni dabant.",
+  "spans": [
+   {
+    "start": 7,
+    "end": 15,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Sed tributum Romanum tolerabant, si iniuriae aberant.",
+  "spans": []
+ },
+ {
+  "text": "Callevae Atrebatum reliquias pulcherrimas basilicae, fori, templi, amphitheatri, balnearum, murorum spectavi;",
+  "spans": [
+   {
+    "start": 0,
+    "end": 18,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "Sed iam ante tempora Agricolae nonnullae ex gentibus Britannicis mediocriter humanae fuerant.",
+  "spans": [
+   {
+    "start": 21,
+    "end": 30,
+    "label": "PERSON"
+   },
+   {
+    "start": 53,
+    "end": 64,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Incolas Cantii Caesar in libro quinto Belli Gallici ‘omnium Britannorum humanissimos’ vocat ».",
+  "spans": [
+   {
+    "start": 8,
+    "end": 14,
+    "label": "LOC"
+   },
+   {
+    "start": 15,
+    "end": 21,
+    "label": "PERSON"
+   },
+   {
+    "start": 44,
+    "end": 51,
+    "label": "NORP"
+   },
+   {
+    "start": 60,
+    "end": 71,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Medius erat mensis September cum patruus meus haec de Britannia Romana explicavit.",
+  "spans": [
+   {
+    "start": 54,
+    "end": 70,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "Marcus et Alexander tum aderant;",
+  "spans": [
+   {
+    "start": 0,
+    "end": 6,
+    "label": "PERSON"
+   },
+   {
+    "start": 10,
+    "end": 19,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "nam pridie Dubris adventaverant et apud nos pernoctaverant.",
+  "spans": [
+   {
+    "start": 11,
+    "end": 17,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "Et patruo meo necesse erat eis de rebellione Galgaci et Caledonum narrare.",
+  "spans": [
+   {
+    "start": 45,
+    "end": 52,
+    "label": "PERSON"
+   },
+   {
+    "start": 56,
+    "end": 65,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "Nam historia patriae suae magnopere delectantur.",
+  "spans": []
+ },
+ {
+  "text": "Tum ille « Nonne recte » inquit « Agricola a Tacito laudatur?",
+  "spans": [
+   {
+    "start": 34,
+    "end": 42,
+    "label": "PERSON"
+   },
+   {
+    "start": 45,
+    "end": 51,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "Nam ab aliis imperatoribus Romanis oppida expugnabantur, agri vastabuntur, nationes barbarae debellabantur;",
+  "spans": [
+   {
+    "start": 27,
+    "end": 34,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Et Alexander « Magnopere delector » inquit « si victor iustus et clemens fuit.",
+  "spans": [
+   {
+    "start": 3,
+    "end": 12,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "Sed num hic vir omnia illa aedificia Romana aedificavit? » Et ille « Britannia per quattuor saecula aedificiis Romanis ornabatur.",
+  "spans": [
+   {
+    "start": 37,
+    "end": 43,
+    "label": "NORP"
+   },
+   {
+    "start": 69,
+    "end": 78,
+    "label": "LOC"
+   },
+   {
+    "start": 111,
+    "end": 118,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Multae ex illis reliquiis posterioris aetatis sunt ».",
+  "spans": []
+ },
+ {
+  "text": "Agricola eos aptiores esse ad studia litterarum affirmabat quam Gallorum pueros.",
+  "spans": [
+   {
+    "start": 0,
+    "end": 8,
+    "label": "PERSON"
+   },
+   {
+    "start": 64,
+    "end": 72,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Et Martialis, poeta Romanus illius aetatis, Britannos carmina sua cantavisse affirmat.",
+  "spans": [
+   {
+    "start": 3,
+    "end": 12,
+    "label": "PERSON"
+   },
+   {
+    "start": 20,
+    "end": 27,
+    "label": "NORP"
+   },
+   {
+    "start": 44,
+    "end": 53,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Nec tibi mobilitas minor est, si forte volantem Aut geminare pilam iuvat aut revocare cadentem ut est apud poetam Romanum.",
+  "spans": [
+   {
+    "start": 114,
+    "end": 121,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Tum nos pueri exclamavimus:",
+  "spans": []
+ },
+ {
+  "text": "post prandium ruinas castelli visitabimus.",
+  "spans": []
+ },
+ {
+  "text": "Deinde in castello cenabimus.",
+  "spans": []
+ },
+ {
+  "text": "Inter viam Marcus patruum meum de victoria illa ab Caledonibus reportata interrogavit.",
+  "spans": [
+   {
+    "start": 11,
+    "end": 17,
+    "label": "PERSON"
+   },
+   {
+    "start": 51,
+    "end": 62,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Num rex antiquus Scotorum fuit?",
+  "spans": [
+   {
+    "start": 17,
+    "end": 25,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "De origine Pictorum viri docti disputant.",
+  "spans": [
+   {
+    "start": 11,
+    "end": 19,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Nos cachinnamus.",
+  "spans": []
+ },
+ {
+  "text": "Itaque necesse fuit Hadriano, qui secundo saeculo post Christum natum princeps Romanorum fuit, magnum illud vallum inter Luguvallium et Pontem Aelium vel Segedunum aedificare;",
+  "spans": [
+   {
+    "start": 20,
+    "end": 28,
+    "label": "PERSON"
+   },
+   {
+    "start": 55,
+    "end": 63,
+    "label": "PERSON"
+   },
+   {
+    "start": 79,
+    "end": 88,
+    "label": "NORP"
+   },
+   {
+    "start": 121,
+    "end": 132,
+    "label": "LOC"
+   },
+   {
+    "start": 136,
+    "end": 149,
+    "label": "LOC"
+   },
+   {
+    "start": 154,
+    "end": 163,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "cuius reliquiae hodie spectantur.",
+  "spans": []
+ },
+ {
+  "text": "Et Antoninus Pius, qui post eum princeps fuit, alterum vallum in ipsa Caledonia inter Clotam et Bodotriam aedificavit:",
+  "spans": [
+   {
+    "start": 3,
+    "end": 17,
+    "label": "PERSON"
+   },
+   {
+    "start": 70,
+    "end": 79,
+    "label": "LOC"
+   },
+   {
+    "start": 86,
+    "end": 92,
+    "label": "LOC"
+   },
+   {
+    "start": 96,
+    "end": 105,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "cui nomen hodiernum est Graham's Dyke.",
+  "spans": [
+   {
+    "start": 24,
+    "end": 37,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "postea autem ipse aegrotavit et Eburaci exspiravit.",
+  "spans": [
+   {
+    "start": 32,
+    "end": 39,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "nam nomen tuum et fratris tui Germanicum est.",
+  "spans": [
+   {
+    "start": 30,
+    "end": 40,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Sed nos ipsi ex multis et diversis nationibus oriundi sumus.",
+  "spans": []
+ },
+ {
+  "text": "Sed nos non pigebit hic paulum sedere et prandio nos recreare.",
+  "spans": []
+ },
+ {
+  "text": "Hinc castellum in oculis habebimus.",
+  "spans": []
+ },
+ {
+  "text": "Videtisne ruinas?",
+  "spans": []
+ },
+ {
+  "text": "nam revera fatigati eramus.",
+  "spans": []
+ },
+ {
+  "text": "Hodie procul a mari iacet;",
+  "spans": []
+ },
+ {
+  "text": "sed temporibus Romanorum totus campus, qui nunc inter castellum et oram maritimam iacet, pars maris erat.",
+  "spans": [
+   {
+    "start": 15,
+    "end": 24,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Post prandium ad castellum ipsum ambulavimus.",
+  "spans": []
+ },
+ {
+  "text": "Ruinae praeclarae sunt.",
+  "spans": []
+ },
+ {
+  "text": "Pars murorum lateribus Romanis aedificata est;",
+  "spans": [
+   {
+    "start": 23,
+    "end": 30,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "sed multis locis deleti sunt.",
+  "spans": []
+ },
+ {
+  "text": "Murus qui ad septentriones spectat quadringentos quadraginta pedes longus est, viginti vel triginta pedes altus.",
+  "spans": []
+ },
+ {
+  "text": "In angulis murorum fundamenta turrium vides.",
+  "spans": []
+ },
+ {
+  "text": "Temporibus antiquis portus celeber hic erat, cui nomen erat Portui Rutupino;",
+  "spans": [
+   {
+    "start": 60,
+    "end": 75,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "naves ex Gallia in Britanniam navigantes ad hunc portum plerumque applicabantur.",
+  "spans": [
+   {
+    "start": 9,
+    "end": 15,
+    "label": "LOC"
+   },
+   {
+    "start": 19,
+    "end": 29,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "Nam omnium portuum Britannicorum hic optimus erat.",
+  "spans": [
+   {
+    "start": 19,
+    "end": 32,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Castellum in litore portus stabat.",
+  "spans": []
+ },
+ {
+  "text": "Intra muros castelli est area lata.",
+  "spans": []
+ },
+ {
+  "text": "In media area fundamentum aedificii antiqui vides, quod formam crucis habet.",
+  "spans": []
+ },
+ {
+  "text": "Sub hac cruce est aedificium subterraneum, quattuor et quadraginta passus longum;",
+  "spans": []
+ },
+ {
+  "text": "quod intravimus.",
+  "spans": []
+ },
+ {
+  "text": "Cereos in manu tenebamus, quos custos dederat;",
+  "spans": []
+ },
+ {
+  "text": "nam locus obscurus erat.",
+  "spans": []
+ },
+ {
+  "text": "Ab hoc aedificio cuniculus, in formam quadratam excavatus, sub magnam partem areae pertinet.",
+  "spans": []
+ },
+ {
+  "text": "Et custos sic respondet:",
+  "spans": []
+ },
+ {
+  "text": "Usui fortasse erat, si castellum obsidebatur:",
+  "spans": []
+ },
+ {
+  "text": "Postquam haec spectavimus, iterum circum muros ambulavimus.",
+  "spans": []
+ },
+ {
+  "text": "Dum ad dextrum cornu castelli stamus, patruus meus nobis reliquias amphitheatri Romani monstravit, quod non procul aberat.",
+  "spans": [
+   {
+    "start": 80,
+    "end": 86,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "ex quibus unum mihi custos venum dedit.",
+  "spans": []
+ },
+ {
+  "text": "Tum custodem valere iubemus, et ad cenam properamus.",
+  "spans": []
+ },
+ {
+  "text": "nihil habuimus respondere.",
+  "spans": []
+ },
+ {
+  "text": "nos nihil respondimus.",
+  "spans": []
+ },
+ {
+  "text": "Tum amita mea:",
+  "spans": []
+ },
+ {
+  "text": "Vel, ut non nulli libri historici affirmant, Christiani ad ipsos muros Castelli Rutupini navem suam applicaverant, et per fenestram castelli cum rege sermonem habuerunt.",
+  "spans": [
+   {
+    "start": 45,
+    "end": 55,
+    "label": "NORP"
+   },
+   {
+    "start": 71,
+    "end": 88,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "Nam eo tempore aqua portus Rutupini usque ad muros castelli pertinebat.",
+  "spans": [
+   {
+    "start": 27,
+    "end": 35,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "‘Pulchra sunt verba et promissa vestra;",
+  "spans": []
+ },
+ {
+  "text": "nec deos antiquos, quos per multos annos ego et populus meus adoravimus, oblivioni dare possumus.",
+  "spans": []
+ },
+ {
+  "text": "Sed, quia ex terra peregrina huc cursum tenuistis, et in animo habetis ea docere quae vera esse existimatis, non prohibebo vos in regno meo manere et notitiam Dei vestri docere.",
+  "spans": []
+ },
+ {
+  "text": "Post principatum Neronis multi Christiani in imperio Romano fuerunt;",
+  "spans": [
+   {
+    "start": 17,
+    "end": 24,
+    "label": "PERSON"
+   },
+   {
+    "start": 31,
+    "end": 41,
+    "label": "LOC"
+   },
+   {
+    "start": 53,
+    "end": 59,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "nam anno primo et sexagesimo post Christum natum Sanctus Paulus Romam captivus deportatus est.",
+  "spans": [
+   {
+    "start": 34,
+    "end": 42,
+    "label": "PERSON"
+   },
+   {
+    "start": 49,
+    "end": 63,
+    "label": "PERSON"
+   },
+   {
+    "start": 64,
+    "end": 69,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "Et uxor illius Auli Plautii, qui iam aetate principis Claudii Britanniae praefuit, Christiana fuisse existimatur.",
+  "spans": [
+   {
+    "start": 15,
+    "end": 27,
+    "label": "PERSON"
+   },
+   {
+    "start": 54,
+    "end": 61,
+    "label": "PERSON"
+   },
+   {
+    "start": 62,
+    "end": 72,
+    "label": "LOC"
+   },
+   {
+    "start": 83,
+    "end": 93,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Nam ‘superstitionis peregrinae’ accusata est.",
+  "spans": []
+ },
+ {
+  "text": "Nomen ei fuit Pomponiae Graecinae.",
+  "spans": [
+   {
+    "start": 14,
+    "end": 33,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "Sed Angli et Saxones, qui multos deos adorabant, basilicas Christianas plerumque deleverunt.",
+  "spans": [
+   {
+    "start": 4,
+    "end": 9,
+    "label": "NORP"
+   },
+   {
+    "start": 13,
+    "end": 20,
+    "label": "NORP"
+   },
+   {
+    "start": 59,
+    "end": 70,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Basilica autem Sancti Martini, quae Duroverni erat, non omnino deleta erat.",
+  "spans": [
+   {
+    "start": 15,
+    "end": 29,
+    "label": "PERSON"
+   },
+   {
+    "start": 36,
+    "end": 45,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "Durovernum igitur intraverunt nuntii illi verbi divini, crucem argenteam et simulacrum Christi in manibus tenentes, et carmen sacrum cantantes:",
+  "spans": [
+   {
+    "start": 0,
+    "end": 10,
+    "label": "LOC"
+   },
+   {
+    "start": 87,
+    "end": 94,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "‘Iram tuam ab hac urbe et a domo tua sancta remove, o Deus;",
+  "spans": []
+ },
+ {
+  "text": "alleluia!’",
+  "spans": []
+ },
+ {
+  "text": "Nam multis annis ante in foro Romano quondam fuit, cum pueros nonnullos facie pulchra, oculis caeruleis, capillis flavis vidit.",
+  "spans": [
+   {
+    "start": 30,
+    "end": 36,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Itaque mercatores, quorum in manu pueri erant, sic interrogavit:",
+  "spans": []
+ },
+ {
+  "text": "Responderunt eos esse Anglos.",
+  "spans": [
+   {
+    "start": 22,
+    "end": 28,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "non Anglos sed Angelos eos vocari oportet.",
+  "spans": [
+   {
+    "start": 4,
+    "end": 10,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Intra semihoram vehiculum paratum erat, et in viam nos dedimus.",
+  "spans": []
+ },
+ {
+  "text": "Dum in vehiculo sedebamus, muros castelli luna plena illustratos vidimus.",
+  "spans": []
+ },
+ {
+  "text": "Pulchrum erat spectaculum.",
+  "spans": []
+ },
+ {
+  "text": "Mox domi eramus.",
+  "spans": []
+ },
+ {
+  "text": "Nos pueri longo die fatigati et semisomni eramus.",
+  "spans": []
+ },
+ {
+  "text": "Ea nocte Marcus et Alexander apud nos manserunt.",
+  "spans": [
+   {
+    "start": 9,
+    "end": 15,
+    "label": "PERSON"
+   },
+   {
+    "start": 19,
+    "end": 28,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "Hodie iam quinque dies post Idus Septembres elapsi sunt, et dies ille ater appropinquat qui ultimus feriarum erit.",
+  "spans": []
+ },
+ {
+  "text": "Omnium dierum ille tristissimus est qui finis est feriarum.",
+  "spans": []
+ },
+ {
+  "text": "Intra paucos dies patruum meum et amitam meam et Lydiam valere iubebo.",
+  "spans": [
+   {
+    "start": 49,
+    "end": 55,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "Quam bellae fuerunt feriae a mane usque ad vesperum!",
+  "spans": []
+ },
+ {
+  "text": "Quae mutatio rerum instat!",
+  "spans": []
+ },
+ {
+  "text": "Pauci erunt dies feriati, multi profesti.",
+  "spans": []
+ },
+ {
   "text": "haec narrantur a poetis de Perseo.",
   "spans": [
    {
@@ -12993,6 +18856,4856 @@
  },
  {
   "text": "ille tamen, ne anni tempore a nauigatione excluderetur, maturandum sibi existimauit, et tempestatem idoneam nactus nauem soluit.",
+  "spans": []
+ },
+ {
+  "text": "quam bella est ora maritima!",
+  "spans": []
+ },
+ {
+  "text": "non procul ab ora maritima est villa.",
+  "spans": []
+ },
+ {
+  "text": "in villa amita mea habitat;",
+  "spans": []
+ },
+ {
+  "text": "Et ego cum amita mea nunc habito.",
+  "spans": []
+ },
+ {
+  "text": "ante ianuam villae est area.",
+  "spans": []
+ },
+ {
+  "text": "in area est castanea, ubi luscinia interdum cantat.",
+  "spans": []
+ },
+ {
+  "text": "amo oram maritimam;",
+  "spans": []
+ },
+ {
+  "text": "Amo villam bellam.",
+  "spans": []
+ },
+ {
+  "text": "feriae nunc sunt.",
+  "spans": []
+ },
+ {
+  "text": "o beatas ferias!",
+  "spans": []
+ },
+ {
+  "text": "in arena orae maritimae sunt ancorae et catenae.",
+  "spans": []
+ },
+ {
+  "text": "nam incolae orae maritimae sunt nautae.",
+  "spans": []
+ },
+ {
+  "text": "magna est audacia nautarum:",
+  "spans": []
+ },
+ {
+  "text": "Procellas non formidant.",
+  "spans": []
+ },
+ {
+  "text": "nautas amo, ut nautae me amant.",
+  "spans": []
+ },
+ {
+  "text": "cum nautis interdum in scaphis navigo.",
+  "spans": []
+ },
+ {
+  "text": "undas caeruleas amo.",
+  "spans": []
+ },
+ {
+  "text": "quam magnae sunt, quam perlucidae!",
+  "spans": []
+ },
+ {
+  "text": "post cenam lunam et stellas ex fenestra mea specto.",
+  "spans": []
+ },
+ {
+  "text": "quantopere nos silva delectat!",
+  "spans": []
+ },
+ {
+  "text": "o copiam plantarum et herbarum!",
+  "spans": []
+ },
+ {
+  "text": "o copiam bacarum!",
+  "spans": []
+ },
+ {
+  "text": "non solum nautae sed etiam agricolae circum habitant.",
+  "spans": []
+ },
+ {
+  "text": "casae agricolarum parvae sunt.",
+  "spans": []
+ },
+ {
+  "text": "amita mea casas agricolarum et nautarum saepe visitat.",
+  "spans": []
+ },
+ {
+  "text": "magna est gloria Victoriae Reginae, non solum in insulis Britannicis sed etiam in India, in Canada, in Australia, in Africa, ubi coloniae Britannicae sunt.",
+  "spans": [
+   {
+    "start": 17,
+    "end": 34,
+    "label": "PERSON"
+   },
+   {
+    "start": 57,
+    "end": 68,
+    "label": "NORP"
+   },
+   {
+    "start": 82,
+    "end": 87,
+    "label": "LOC"
+   },
+   {
+    "start": 92,
+    "end": 98,
+    "label": "LOC"
+   },
+   {
+    "start": 103,
+    "end": 112,
+    "label": "LOC"
+   },
+   {
+    "start": 117,
+    "end": 123,
+    "label": "LOC"
+   },
+   {
+    "start": 138,
+    "end": 149,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "regina est domina multarum terrarum.",
+  "spans": []
+ },
+ {
+  "text": "in gloria reginae meae triumpho.",
+  "spans": []
+ },
+ {
+  "text": "te, Britannia, amo:",
+  "spans": [
+   {
+    "start": 4,
+    "end": 13,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "sed Britannia non est patria mea.",
+  "spans": [
+   {
+    "start": 4,
+    "end": 13,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "Cura columbarum Lydiae magnam laetitiam dat.",
+  "spans": [
+   {
+    "start": 16,
+    "end": 22,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "Sed ego linguis antiquis Romae et Graeciae operam do.",
+  "spans": [
+   {
+    "start": 25,
+    "end": 30,
+    "label": "LOC"
+   },
+   {
+    "start": 34,
+    "end": 42,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "saepe cum Lydia ad silvam vel ad oram maritimam ambulo.",
+  "spans": [
+   {
+    "start": 10,
+    "end": 15,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "interdum cum nauta in scapha navigamus.",
+  "spans": []
+ },
+ {
+  "text": "ubi inopia est, ibi amita mea inopiam levat.",
+  "spans": []
+ },
+ {
+  "text": "patruus meus quondam praefectus erat in Africa Meridiana.",
+  "spans": [
+   {
+    "start": 40,
+    "end": 56,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "nunc militia vacat, et agello suo operam dat.",
+  "spans": []
+ },
+ {
+  "text": "murus horti non altus est.",
+  "spans": []
+ },
+ {
+  "text": "rivus est prope hortum, unde aquam portamus, cum hortum irrigamus.",
+  "spans": []
+ },
+ {
+  "text": "in horto magnus est numerus rosarum et violarum.",
+  "spans": []
+ },
+ {
+  "text": "rosae et violae tibi, mi patrue, magnam laetitiam dant.",
+  "spans": []
+ },
+ {
+  "text": "in ulmis corvi nidificant.",
+  "spans": []
+ },
+ {
+  "text": "corvos libenter specto, cum circum nidos suos volitant.",
+  "spans": []
+ },
+ {
+  "text": "magnus est numerus corvorum in horto patrui mei;",
+  "spans": []
+ },
+ {
+  "text": "Multi mergi super oceanum volitant.",
+  "spans": []
+ },
+ {
+  "text": "In agello sunt equi et vaccae et porci et galli gallinaeque.",
+  "spans": []
+ },
+ {
+  "text": "non procul ab agello est vicus, ubi rustici habitant.",
+  "spans": []
+ },
+ {
+  "text": "nonnulli ex rusticis agellum cum equis et vaccis et porcis curant.",
+  "spans": []
+ },
+ {
+  "text": "ex horto patrui mei scopulos albos orae maritimae spectamus.",
+  "spans": []
+ },
+ {
+  "text": "scopuli sunt alti.",
+  "spans": []
+ },
+ {
+  "text": "et ora Francogallica non procul abest.",
+  "spans": [
+   {
+    "start": 7,
+    "end": 20,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "quam bellus es, oceane, cum luna undas tuas illustrat!",
+  "spans": []
+ },
+ {
+  "text": "quantopere me delectat vos, undae caeruleae, spectare, cum tranquillae estis et arenam orae maritimae lavatis!",
+  "spans": []
+ },
+ {
+  "text": "quantopere me delectatis cum turbulentae estis et sub scopulis spumatis et murmuratis!",
+  "spans": []
+ },
+ {
+  "text": "reliquiae villarum, oppidorum, amphitheatrorum Romanorum hodie exstant.",
+  "spans": [
+   {
+    "start": 47,
+    "end": 56,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "multae viae Romanae in Britannia sunt.",
+  "spans": [
+   {
+    "start": 12,
+    "end": 19,
+    "label": "NORP"
+   },
+   {
+    "start": 23,
+    "end": 32,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "in Cantio est via Romana inter Rutupias et Londinium.",
+  "spans": [
+   {
+    "start": 3,
+    "end": 9,
+    "label": "LOC"
+   },
+   {
+    "start": 18,
+    "end": 24,
+    "label": "NORP"
+   },
+   {
+    "start": 31,
+    "end": 39,
+    "label": "LOC"
+   },
+   {
+    "start": 43,
+    "end": 52,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "solum Britannicum multos nummos aureos, argenteos, aeneos et Britannorum et Romanorum occultat.",
+  "spans": [
+   {
+    "start": 6,
+    "end": 17,
+    "label": "NORP"
+   },
+   {
+    "start": 61,
+    "end": 72,
+    "label": "PERSON"
+   },
+   {
+    "start": 76,
+    "end": 85,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "rusticis nummi saepe sunt causa lucri, cum arant vel fundamenta aedificiorum antiquorum excavant.",
+  "spans": []
+ },
+ {
+  "text": "nam nummos antiquos magno pretio venumdant.",
+  "spans": []
+ },
+ {
+  "text": "patruo meo magnus numerus est nummorum Romanorum.",
+  "spans": [
+   {
+    "start": 39,
+    "end": 48,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "inter ferias commentarios meos de vita mea scriptito.",
+  "spans": []
+ },
+ {
+  "text": "Nam oppidum non procul abest.",
+  "spans": []
+ },
+ {
+  "text": "In castello est specula antiqua.",
+  "spans": []
+ },
+ {
+  "text": "muri speculae alti et lati sunt.",
+  "spans": []
+ },
+ {
+  "text": "quondam erat pharus Romanorum.",
+  "spans": [
+   {
+    "start": 20,
+    "end": 29,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "iam secundo saeculo post Christum natum basilica Christiana erat.",
+  "spans": [
+   {
+    "start": 25,
+    "end": 33,
+    "label": "PERSON"
+   },
+   {
+    "start": 49,
+    "end": 59,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "castellum in promunturio orae maritimae stat.",
+  "spans": []
+ },
+ {
+  "text": "post castellum sunt clivi graminei et lati.",
+  "spans": []
+ },
+ {
+  "text": "ex castello fretum Gallicum spectas.",
+  "spans": [
+   {
+    "start": 19,
+    "end": 27,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "ante oculos sunt vela alba multorum navigiorum;",
+  "spans": []
+ },
+ {
+  "text": "nonnulla ex navigiis Britannicis \"castella\" nominata sunt.",
+  "spans": [
+   {
+    "start": 21,
+    "end": 32,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "in numero amicorum meorum sunt duo pueri.",
+  "spans": []
+ },
+ {
+  "text": "prope Dubras nunc habitant, sed ex Caledonia oriundi sunt.",
+  "spans": [
+   {
+    "start": 6,
+    "end": 12,
+    "label": "LOC"
+   },
+   {
+    "start": 35,
+    "end": 44,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "nobis pueris feriae nunc sunt;",
+  "spans": []
+ },
+ {
+  "text": "Nam condiscipuli sumus.",
+  "spans": []
+ },
+ {
+  "text": "amici mei me saepe visitant, et ego amicos meos visito.",
+  "spans": []
+ },
+ {
+  "text": "una ambulamus, una in undis spumiferis natamus, cum non nimis asperae sunt.",
+  "spans": []
+ },
+ {
+  "text": "quantopere nos pueros ludi pilarum in arena delectant!",
+  "spans": []
+ },
+ {
+  "text": "ut iuvat castella contra undas spumiferas aedificare!",
+  "spans": []
+ },
+ {
+  "text": "nonnumquam in scapha cum Petro navigamus.",
+  "spans": [
+   {
+    "start": 25,
+    "end": 30,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "plerumque remigamus, sed nonnumquam vela damus, cum ventus non nimis asper est.",
+  "spans": []
+ },
+ {
+  "text": "locus in fabula commemoratus est, ubi Leir, regulus Britannorum antiquorum, fortunam suam miseram deplorat, stultitiam suam culpat, filias suas animi ingrati accusat.",
+  "spans": [
+   {
+    "start": 38,
+    "end": 42,
+    "label": "PERSON"
+   },
+   {
+    "start": 52,
+    "end": 63,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "o fortunam asperam!",
+  "spans": []
+ },
+ {
+  "text": "o constantiam Cordeliae!",
+  "spans": [
+   {
+    "start": 14,
+    "end": 23,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "scopulus ex poeta nominatus est.",
+  "spans": []
+ },
+ {
+  "text": "nam in fabula est locus ubi vir generosus, amicus fidus reguli, de scopulo se praecipitare parat;",
+  "spans": []
+ },
+ {
+  "text": "Sed filius suus virum ex periculo servat.",
+  "spans": []
+ },
+ {
+  "text": "nos pueri locum saepe visitamus.",
+  "spans": []
+ },
+ {
+  "text": "magister noster vir doctus est, sed ludorum peritus.",
+  "spans": []
+ },
+ {
+  "text": "nobis pueris carus est.",
+  "spans": []
+ },
+ {
+  "text": "inter ferias patruum meum interdum visitat.",
+  "spans": []
+ },
+ {
+  "text": "hoc tantum possum dicere:",
+  "spans": []
+ },
+ {
+  "text": "Non amo te\".",
+  "spans": []
+ },
+ {
+  "text": "magistrum non amant quia libros Graecos et Latinos non amant.",
+  "spans": []
+ },
+ {
+  "text": "nam discipuli scholae nostrae linguis antiquis operam dant, atque scientiis mathematicis.",
+  "spans": []
+ },
+ {
+  "text": "magistro nostro magna copia est librorum pulchrorum.",
+  "spans": []
+ },
+ {
+  "text": "schola nostra antiqua et clara est:",
+  "spans": []
+ },
+ {
+  "text": "Non solum libris sed etiam ludis operam damus.",
+  "spans": []
+ },
+ {
+  "text": "schola nostra non in Cantio est.",
+  "spans": [
+   {
+    "start": 21,
+    "end": 27,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "in vico nostro est ludus litterarius, creber pueris et puellis, liberis agricolarum.",
+  "spans": []
+ },
+ {
+  "text": "sed ego cum Marco et Alexandro, amicis meis, ad Ventam Belgarum discipulus sum.",
+  "spans": [
+   {
+    "start": 12,
+    "end": 17,
+    "label": "PERSON"
+   },
+   {
+    "start": 21,
+    "end": 30,
+    "label": "PERSON"
+   },
+   {
+    "start": 48,
+    "end": 63,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "magister noster librorum historicorum studiosus est;",
+  "spans": []
+ },
+ {
+  "text": "De patria nostra antiqua libenter narrat.",
+  "spans": []
+ },
+ {
+  "text": "proximo anno, dum apud nos erat, de vita Britannorum antiquorum saepe narrabat.",
+  "spans": [
+   {
+    "start": 41,
+    "end": 52,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "patruus meus et amita mea libenter auscultabant;",
+  "spans": []
+ },
+ {
+  "text": "Ego quoque nonnumquam aderam.",
+  "spans": []
+ },
+ {
+  "text": "sic narrabat:",
+  "spans": []
+ },
+ {
+  "text": "silvae plenae erant ferarum:",
+  "spans": []
+ },
+ {
+  "text": "Luporum, ursorum, cervorum, aprorum.",
+  "spans": []
+ },
+ {
+  "text": "multa et varia materia erat in silvis Britannicis, sed fagus Britannis antiquis non erat nota, si Gaius Iulius vera affirmat.",
+  "spans": [
+   {
+    "start": 38,
+    "end": 49,
+    "label": "NORP"
+   },
+   {
+    "start": 61,
+    "end": 70,
+    "label": "NORP"
+   },
+   {
+    "start": 98,
+    "end": 110,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "et pinus Scotica deerat\".",
+  "spans": [
+   {
+    "start": 9,
+    "end": 16,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "metallis quoque multis abundabat:",
+  "spans": []
+ },
+ {
+  "text": "margaritas et ostreas dabat oceanus:",
+  "spans": []
+ },
+ {
+  "text": "Margaritae parvae erant, sed ostreae magnae et praeclarae.",
+  "spans": []
+ },
+ {
+  "text": "caelum tum quoque crebris pluviis et nebulis atris foedum erat;",
+  "spans": []
+ },
+ {
+  "text": "Sed pruinae asperae aberant.",
+  "spans": []
+ },
+ {
+  "text": "natura oceani 'pigra' erat, si testimonium Taciti verum est:",
+  "spans": [
+   {
+    "start": 43,
+    "end": 49,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "Nautae Romani, inquit, in aqua pigra vix poterant remigare.",
+  "spans": [
+   {
+    "start": 7,
+    "end": 13,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "sed verumne est testimonium?",
+  "spans": []
+ },
+ {
+  "text": "an natura nautarum Romanorum non satis impigra erat?\"",
+  "spans": [
+   {
+    "start": 19,
+    "end": 28,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "multi et diversi erant populi Britannorum.",
+  "spans": [
+   {
+    "start": 30,
+    "end": 41,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "sic Tacitus de Caledoniis narrat.",
+  "spans": [
+   {
+    "start": 4,
+    "end": 11,
+    "label": "PERSON"
+   },
+   {
+    "start": 15,
+    "end": 25,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "incolae Cambriae meridianae 'colorati' erant.",
+  "spans": [
+   {
+    "start": 8,
+    "end": 16,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "sed Romanis statura parva, oculi et capilli nigri erant.",
+  "spans": [
+   {
+    "start": 4,
+    "end": 11,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "universi Britanni, ut Gaius Iulius affirmat, membra vitro colorabant, sicut nautae nostri hodierni.",
+  "spans": [
+   {
+    "start": 9,
+    "end": 17,
+    "label": "NORP"
+   },
+   {
+    "start": 22,
+    "end": 34,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "vestimenta ex coriis ferarum constabant.",
+  "spans": []
+ },
+ {
+  "text": "in casis parvis circum silvas suas habitabant\".",
+  "spans": []
+ },
+ {
+  "text": "hic amita mea \"Nonne in oppidis habitabant?\" inquit.",
+  "spans": []
+ },
+ {
+  "text": "sed Britannia meridiana crebra erat incolis et aedificiis.",
+  "spans": [
+   {
+    "start": 4,
+    "end": 13,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "sic narrat Caesar in libro quinto Belli Gallici.",
+  "spans": [
+   {
+    "start": 11,
+    "end": 17,
+    "label": "PERSON"
+   },
+   {
+    "start": 40,
+    "end": 47,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "multi una habitabant, ut puto\".",
+  "spans": []
+ },
+ {
+  "text": "Frena, vitrea, gemmas, cetera importabant.",
+  "spans": []
+ },
+ {
+  "text": "itaque mediocriter humani erant, nec multum diversi a Gallis\".",
+  "spans": [
+   {
+    "start": 54,
+    "end": 60,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Exstant in Cantio sepulchra cum urnis pulchre ornatis.",
+  "spans": [
+   {
+    "start": 11,
+    "end": 17,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "esseda quoque fabricabant:",
+  "spans": []
+ },
+ {
+  "text": "Non plane inhumani erant, si rotas ferratas essedorum et nummos aureos aeneosque fabricare poterant.",
+  "spans": []
+ },
+ {
+  "text": "sed incolae mediterraneorum et Caledonii feri et barbari erant.",
+  "spans": [
+   {
+    "start": 31,
+    "end": 40,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "mortuos humabant.",
+  "spans": []
+ },
+ {
+  "text": "agri culturae operam non dabant;",
+  "spans": []
+ },
+ {
+  "text": "Non frumento sed ferina victitabant.",
+  "spans": []
+ },
+ {
+  "text": "deorum fana in lucis sacris et silvis atris erant.",
+  "spans": []
+ },
+ {
+  "text": "sacra curabant Druidae.",
+  "spans": [
+   {
+    "start": 15,
+    "end": 22,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "sacra erant saeva:",
+  "spans": []
+ },
+ {
+  "text": "Viros, feminas, liberos pro victimis sacrificabant.",
+  "spans": []
+ },
+ {
+  "text": "inter se saepe pugnabant;",
+  "spans": []
+ },
+ {
+  "text": "Captivos miseros venumdabant, vel cruciabant et trucidabant:",
+  "spans": []
+ },
+ {
+  "text": "Nonnumquam simulacra magna, plena victimis humanis, cremabant.",
+  "spans": []
+ },
+ {
+  "text": "et Alexander \"Monstra nobis\", inquit, \"amabo te, ruinas castelli Rutupini\".",
+  "spans": [
+   {
+    "start": 3,
+    "end": 12,
+    "label": "PERSON"
+   },
+   {
+    "start": 65,
+    "end": 73,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "tum patruus meus \"Longa est via\", inquit, \"sed aliquando monstrabo.",
+  "spans": []
+ },
+ {
+  "text": "cras, si vobis gratum erit, ad locum ubi proelium erat Britannorum cum Romanis ambulabimus.",
+  "spans": [
+   {
+    "start": 55,
+    "end": 66,
+    "label": "NORP"
+   },
+   {
+    "start": 71,
+    "end": 78,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "ambulabitisne nobiscum, Marce et Alexander?\"",
+  "spans": [
+   {
+    "start": 24,
+    "end": 29,
+    "label": "PERSON"
+   },
+   {
+    "start": 33,
+    "end": 42,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "Et Alexander \"Mihi quoque pergratum erit, si nobis sepulchra Britannorum et Romanorum monstrabis\".",
+  "spans": [
+   {
+    "start": 3,
+    "end": 12,
+    "label": "PERSON"
+   },
+   {
+    "start": 61,
+    "end": 72,
+    "label": "NORP"
+   },
+   {
+    "start": 76,
+    "end": 85,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "sed quota hora parati eritis?\"",
+  "spans": []
+ },
+ {
+  "text": "postridie caelum serenum erat.",
+  "spans": []
+ },
+ {
+  "text": "inter ientaculum amita mea \"Quota hora\", inquit, \"in viam vos dabitis?",
+  "spans": []
+ },
+ {
+  "text": "et quota hora cenare poteritis?\"",
+  "spans": []
+ },
+ {
+  "text": "et patruus meus \"Quinta hora Marcus et Alexander Dubris adventabunt;",
+  "spans": [
+   {
+    "start": 29,
+    "end": 35,
+    "label": "PERSON"
+   },
+   {
+    "start": 39,
+    "end": 48,
+    "label": "PERSON"
+   },
+   {
+    "start": 49,
+    "end": 55,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "Intra duas horas ad locum proelii ambulare poterimus;",
+  "spans": []
+ },
+ {
+  "text": "Itaque hora decima vel undecima domi erimus, ut spero\".",
+  "spans": []
+ },
+ {
+  "text": "tum ego \"Nonne ieiuni erimus\", inquam, \"si nihil ante vesperum gustabimus?\"",
+  "spans": []
+ },
+ {
+  "text": "quinta hora appropinquabat, et amicos meos cupide exspectabam.",
+  "spans": []
+ },
+ {
+  "text": "ecce, pueri ad ianuam aderant.",
+  "spans": []
+ },
+ {
+  "text": "cum intraverunt, universi exclamavimus:",
+  "spans": []
+ },
+ {
+  "text": "opportune adventavistis!\"",
+  "spans": []
+ },
+ {
+  "text": "tum Marcus \"Num sero adventavimus?\" inquit.",
+  "spans": [
+   {
+    "start": 4,
+    "end": 10,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "Sed via longa est, et Alexander celeriter ambulare non potest\".",
+  "spans": [
+   {
+    "start": 22,
+    "end": 31,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "inter viam patruus meus multa nobis de bello Romanorum cum Britannis narravit.",
+  "spans": [
+   {
+    "start": 45,
+    "end": 54,
+    "label": "NORP"
+   },
+   {
+    "start": 59,
+    "end": 68,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "primo saeculo ante Christum natum Gaius Iulius in Gallia bellabat, et, postquam Nervios ceterosque populos Galliae Belgicae debellavit, bellum contra incolas insulae propinquae paravit.",
+  "spans": [
+   {
+    "start": 19,
+    "end": 27,
+    "label": "PERSON"
+   },
+   {
+    "start": 34,
+    "end": 46,
+    "label": "PERSON"
+   },
+   {
+    "start": 50,
+    "end": 56,
+    "label": "LOC"
+   },
+   {
+    "start": 80,
+    "end": 87,
+    "label": "NORP"
+   },
+   {
+    "start": 107,
+    "end": 123,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "itaque anno quinto et quinquagesimo copias suas in Britanniam transportavit.",
+  "spans": [
+   {
+    "start": 51,
+    "end": 61,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "de loco unde navigavit et de loco quo navigia sua applicavit, viri docti diu disputaverunt.",
+  "spans": []
+ },
+ {
+  "text": "sed inter Dubras et Rutupias est locus ad navigia applicanda idoneus.",
+  "spans": [
+   {
+    "start": 10,
+    "end": 16,
+    "label": "LOC"
+   },
+   {
+    "start": 20,
+    "end": 28,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "Nam scopuli ibi alti erant, ut nunc sunt, et in scopulis copiae armatae Britannorum stabant.",
+  "spans": [
+   {
+    "start": 72,
+    "end": 83,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "itaque ad alium locum navigavit, ubi nulli scopuli fuerunt.",
+  "spans": []
+ },
+ {
+  "text": "sed Britanni quoque per oram maritimam ad locum properaverunt, et ad pugnam se paraverunt.",
+  "spans": [
+   {
+    "start": 4,
+    "end": 12,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Itaque in aquam equitaverunt et copiam pugnae dederunt.",
+  "spans": []
+ },
+ {
+  "text": "sed iam ad locum adventaveramus, et patruus meus \"Spectate, pueri\", inquit;",
+  "spans": []
+ },
+ {
+  "text": "Scopuli desunt, et locus idoneus est ad copias explicandas.",
+  "spans": []
+ },
+ {
+  "text": "hic Britanni copias suas collocaverant, et equos in aquam incitaverant.",
+  "spans": [
+   {
+    "start": 4,
+    "end": 12,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "nonne potestis totam pugnam animo spectare?",
+  "spans": []
+ },
+ {
+  "text": "dum Romani undis se dare dubitant, aquilifer \"Ad aquilam vos congregate\", inquit, \"nisi ignavi estis.",
+  "spans": [
+   {
+    "start": 4,
+    "end": 10,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "ego certe officium meum praestabo\".",
+  "spans": []
+ },
+ {
+  "text": "et cum aquila undis se dedit.",
+  "spans": []
+ },
+ {
+  "text": "iam universi Romani ad aquiliferum se congregaverant, et cum Britannis in undis impigre pugnabant.",
+  "spans": [
+   {
+    "start": 13,
+    "end": 19,
+    "label": "NORP"
+   },
+   {
+    "start": 61,
+    "end": 70,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "confusa et aspera fuit pugna.",
+  "spans": []
+ },
+ {
+  "text": "primo laborabant Romani;",
+  "spans": [
+   {
+    "start": 17,
+    "end": 23,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "ante vesperum Britanni se fugae dederant.",
+  "spans": [
+   {
+    "start": 14,
+    "end": 22,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "numquam antea copiae Romanae in solo Britannico steterant.",
+  "spans": [
+   {
+    "start": 21,
+    "end": 28,
+    "label": "NORP"
+   },
+   {
+    "start": 37,
+    "end": 47,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "quam bella crustula et poma tu, amita, dederas!",
+  "spans": []
+ },
+ {
+  "text": "quantopere nos bacae rubrae et nigrae delectaverunt!",
+  "spans": []
+ },
+ {
+  "text": "tum patruus meus \"Cum nos recreaverimus\", inquit, \"domum properabimus;",
+  "spans": []
+ },
+ {
+  "text": "Nam non ante undecimam horam adventaverimus;",
+  "spans": []
+ },
+ {
+  "text": "Interea amita tua, mi Antoni, nos exspectaverit.",
+  "spans": [
+   {
+    "start": 22,
+    "end": 28,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "nonne prandio satiati estis?\"",
+  "spans": []
+ },
+ {
+  "text": "et Alexander \"Ego iam paratus sum\", inquit;",
+  "spans": [
+   {
+    "start": 3,
+    "end": 12,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "tum Marcus \"Ieiunus fui\", inquit;",
+  "spans": [
+   {
+    "start": 4,
+    "end": 10,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "sed cum me altero pomo recreavero, paratus ero.",
+  "spans": []
+ },
+ {
+  "text": "tu, Alexander, inter viam crustulis operam dedisti;",
+  "spans": [
+   {
+    "start": 4,
+    "end": 13,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "Nam puer parvus es\".",
+  "spans": []
+ },
+ {
+  "text": "nos cachinnamus, et mox in viam nos damus.",
+  "spans": []
+ },
+ {
+  "text": "sed magnus erat calor solis et aeris, neque poteramus celeriter ambulare.",
+  "spans": []
+ },
+ {
+  "text": "paulo post nebulae solem obscuraverunt, et imber magnus fuit.",
+  "spans": []
+ },
+ {
+  "text": "mox sol oram maritimam splendore suo illustravit, et iterum in viam nos dedimus.",
+  "spans": []
+ },
+ {
+  "text": "imber calorem aeris temperaverat;",
+  "spans": []
+ },
+ {
+  "text": "et patruus meus \"C. Iulius Caesar\", inquit, \"proconsul erat Galliae, et per tres annos contra nationes bellicosas Gallorum et Belgarum bellaverat;",
+  "spans": [
+   {
+    "start": 17,
+    "end": 33,
+    "label": "PERSON"
+   },
+   {
+    "start": 60,
+    "end": 67,
+    "label": "NORP"
+   },
+   {
+    "start": 114,
+    "end": 122,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Et revera nonnullae ex nationibus Britanniae meridianae a Belgis oriundae erant.",
+  "spans": [
+   {
+    "start": 34,
+    "end": 44,
+    "label": "LOC"
+   },
+   {
+    "start": 58,
+    "end": 64,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "cupidi erant Romani insulam nostram ignotam et remotam visitandi et explorandi;",
+  "spans": [
+   {
+    "start": 13,
+    "end": 19,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Nam, ut Tacitus affirmat, ignotum pro magnifico est.",
+  "spans": [
+   {
+    "start": 8,
+    "end": 15,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "itaque anno quinto et quinquagesimo ante Christum natum C. Iulius Caesar expeditionem suam primam contra Britannos comparavit, et victoriam reportavit, ut narravi;",
+  "spans": [
+   {
+    "start": 41,
+    "end": 49,
+    "label": "PERSON"
+   },
+   {
+    "start": 56,
+    "end": 72,
+    "label": "PERSON"
+   },
+   {
+    "start": 105,
+    "end": 114,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Nam post unum proelium Britanni veniam a victoribus imploraverunt.",
+  "spans": [
+   {
+    "start": 23,
+    "end": 31,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "sed expeditio non magna fuerat;",
+  "spans": []
+ },
+ {
+  "text": "Neque Romani ullam praedam ex Britannia reportaverant, nisi paucos servos et captivos.",
+  "spans": [
+   {
+    "start": 6,
+    "end": 12,
+    "label": "NORP"
+   },
+   {
+    "start": 30,
+    "end": 39,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "anno igitur proximo imperator Romanus secundam et multo maiorem expeditionem in Britanniam paravit.",
+  "spans": [
+   {
+    "start": 30,
+    "end": 37,
+    "label": "PERSON"
+   },
+   {
+    "start": 80,
+    "end": 90,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "nam sescenta navigia oneraria in Gallia aedificavit, et quinque legiones Romanas una cum magna multitudine auxiliorum Gallicorum in oram Belgicam congregavit\".",
+  "spans": [
+   {
+    "start": 33,
+    "end": 39,
+    "label": "LOC"
+   },
+   {
+    "start": 73,
+    "end": 80,
+    "label": "NORP"
+   },
+   {
+    "start": 118,
+    "end": 128,
+    "label": "NORP"
+   },
+   {
+    "start": 137,
+    "end": 145,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "itaque aestate anni quarti et quinquagesimi ante Christum natum dux Romanus cum quinque legionibus militum Romanorum et magno numero equitum et auxiliorum Gallicorum iterum in Britanniam navigavit.",
+  "spans": [
+   {
+    "start": 49,
+    "end": 57,
+    "label": "PERSON"
+   },
+   {
+    "start": 68,
+    "end": 75,
+    "label": "PERSON"
+   },
+   {
+    "start": 107,
+    "end": 116,
+    "label": "NORP"
+   },
+   {
+    "start": 155,
+    "end": 165,
+    "label": "NORP"
+   },
+   {
+    "start": 176,
+    "end": 186,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "tempestas erat idonea, sed in media navigatione ventus non iam flabat;",
+  "spans": []
+ },
+ {
+  "text": "Itaque militibus necesse erat navigia remis incitare.",
+  "spans": []
+ },
+ {
+  "text": "impigre remigaverunt, et postridie navigia ad oram Britannicam prospere applicaverunt.",
+  "spans": [
+   {
+    "start": 51,
+    "end": 62,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "labor remigandi magnus erat, virtus militum magnopere laudanda.",
+  "spans": []
+ },
+ {
+  "text": "inde contra Britannos properavit.",
+  "spans": [
+   {
+    "start": 12,
+    "end": 21,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "interea unam legionem cum trecentis equitibus ad castra in statione reservabat;",
+  "spans": []
+ },
+ {
+  "text": "Nam periculosum erat navigia ad ancoras deligata defensoribus nudare\".",
+  "spans": []
+ },
+ {
+  "text": "itaque 'oppidum' Britannicum erat.",
+  "spans": [
+   {
+    "start": 17,
+    "end": 28,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "de nomine fluminis nihil constat.",
+  "spans": []
+ },
+ {
+  "text": "oppidum iam ante domestici belli causa praeparaverant, et crebris arboribus vallisque firmaverant.",
+  "spans": []
+ },
+ {
+  "text": "multa et varia certamina fuerunt:",
+  "spans": []
+ },
+ {
+  "text": "sed post aliquantum temporis milites septimae legionis aggere et testudine locum oppugnaverunt.",
+  "spans": []
+ },
+ {
+  "text": "tandem Britannos ex silvis propulsaverunt.",
+  "spans": [
+   {
+    "start": 7,
+    "end": 16,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "pauca erant vulnera Romanorum;",
+  "spans": [
+   {
+    "start": 20,
+    "end": 29,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Nam Romani Britannos pondere armorum et scientia pugnandi multum superabant;",
+  "spans": [
+   {
+    "start": 4,
+    "end": 10,
+    "label": "NORP"
+   },
+   {
+    "start": 11,
+    "end": 20,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "sed Romani quoque homines robusto corpore erant\".",
+  "spans": [
+   {
+    "start": 4,
+    "end": 10,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Nam Britannis fugatis instare non poterat, quia naturam loci ignorabat.",
+  "spans": [
+   {
+    "start": 4,
+    "end": 13,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "praeterea praefectus castrorum, nomine Quintus Atrius, magnum incommodum nuntiaverat:",
+  "spans": [
+   {
+    "start": 39,
+    "end": 53,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "Tempestas navigia in litore afflictaverat.",
+  "spans": []
+ },
+ {
+  "text": "tempus periculosum erat;",
+  "spans": []
+ },
+ {
+  "text": "Nam Caesari necesse erat a flumine ad litus maritimum properare, et legiones suas ab insectatione Britannorum revocare.",
+  "spans": [
+   {
+    "start": 4,
+    "end": 11,
+    "label": "PERSON"
+   },
+   {
+    "start": 98,
+    "end": 109,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Cetera novis armis ornanda erant.",
+  "spans": []
+ },
+ {
+  "text": "opus magni laboris erat, et aliquantum temporis postulabat.",
+  "spans": []
+ },
+ {
+  "text": "sed nautarum atque militum virtus magno opere laudanda erat.",
+  "spans": []
+ },
+ {
+  "text": "non solum per diurna sed etiam per nocturna tempora laboraverunt.",
+  "spans": []
+ },
+ {
+  "text": "interea Caesar nova navigia in Gallia aedificat:",
+  "spans": [
+   {
+    "start": 8,
+    "end": 14,
+    "label": "PERSON"
+   },
+   {
+    "start": 31,
+    "end": 37,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "Sine navigiis non poterat copias suas in Galliam reportare;",
+  "spans": [
+   {
+    "start": 41,
+    "end": 48,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "Uno tempore necesse erat et navigia reparare et contra Britannos bellare\".",
+  "spans": [
+   {
+    "start": 55,
+    "end": 64,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Unum erat genus navium longarum;",
+  "spans": []
+ },
+ {
+  "text": "Alterum navium onerariarum.",
+  "spans": []
+ },
+ {
+  "text": "Naves onerariae ad onera atque multitudinem hominum et equorum transportanda.",
+  "spans": []
+ },
+ {
+  "text": "tota classis Caesaris octingentarum erat navium;",
+  "spans": [
+   {
+    "start": 13,
+    "end": 21,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "Nam sescentas naves onerarias per hiemem in Gallia aedificaverat, ut narravi.",
+  "spans": [
+   {
+    "start": 44,
+    "end": 50,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "Nam Britannis antiquis nulla erat classis;",
+  "spans": [
+   {
+    "start": 4,
+    "end": 13,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "tum ego \"Britannia nondum domina undarum erat\", inquam;",
+  "spans": [
+   {
+    "start": 9,
+    "end": 18,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "nam Veneti, natio maritima, in ora Gallica habitabant.",
+  "spans": [
+   {
+    "start": 4,
+    "end": 10,
+    "label": "NORP"
+   },
+   {
+    "start": 35,
+    "end": 42,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "hostes fuerant Romanorum, et magnam classem comparaverant\".",
+  "spans": [
+   {
+    "start": 15,
+    "end": 24,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "tum Marcus \"Num nationes barbarae\", inquit, \"naves longas ornare poterant?\"",
+  "spans": [
+   {
+    "start": 4,
+    "end": 10,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "et patruus meus \"Formam navium Gallicarum Caesar in tertio libro Belli Gallici commemorat.",
+  "spans": [
+   {
+    "start": 31,
+    "end": 41,
+    "label": "NORP"
+   },
+   {
+    "start": 42,
+    "end": 48,
+    "label": "PERSON"
+   },
+   {
+    "start": 71,
+    "end": 78,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Ad ancoras catenis ferreis, non funibus, deligabant.",
+  "spans": []
+ },
+ {
+  "text": "pelles pro velis erant, sive propter lini inopiam, sive quia in pellibus plus firmitudinis quam in velis lineis erat.",
+  "spans": []
+ },
+ {
+  "text": "naves longae Romanorum non tam altae erant quam Venetorum, sed rostris ferreis et interdum turribus armatae erant;",
+  "spans": [
+   {
+    "start": 13,
+    "end": 22,
+    "label": "NORP"
+   },
+   {
+    "start": 48,
+    "end": 57,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "tum Alexander \"Num naves Romanae laminis ferreis armatae erant?\" inquit.",
+  "spans": [
+   {
+    "start": 4,
+    "end": 13,
+    "label": "PERSON"
+   },
+   {
+    "start": 25,
+    "end": 32,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "interea hostes summum imperium Cassivellauno mandaverant.",
+  "spans": [
+   {
+    "start": 31,
+    "end": 44,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "anno tamen quarto et quinquagesimo ante Christum natum magna pars gentium Britanniae meridianae se sub Cassivellauno contra Romanos consociaverant.",
+  "spans": [
+   {
+    "start": 40,
+    "end": 48,
+    "label": "PERSON"
+   },
+   {
+    "start": 74,
+    "end": 84,
+    "label": "LOC"
+   },
+   {
+    "start": 103,
+    "end": 116,
+    "label": "PERSON"
+   },
+   {
+    "start": 124,
+    "end": 131,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "flumen Tamesa fines Cassivellauni a finibus gentium maritimarum separabat;",
+  "spans": [
+   {
+    "start": 7,
+    "end": 13,
+    "label": "LOC"
+   },
+   {
+    "start": 20,
+    "end": 33,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "Ab oriente erant fines Trinobantium;",
+  "spans": [
+   {
+    "start": 23,
+    "end": 35,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Ab occidente, Britanni mediterranei.",
+  "spans": [
+   {
+    "start": 14,
+    "end": 22,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "superiore tempore bella continua fuerant inter Cassivellaunum et reliquas gentes;",
+  "spans": [
+   {
+    "start": 47,
+    "end": 61,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "numerus hostium magnus erat;",
+  "spans": []
+ },
+ {
+  "text": "Nam, ut Caesar affirmat, infinita multitudo hominum erat in parte meridiana Britanniae\".",
+  "spans": [
+   {
+    "start": 8,
+    "end": 14,
+    "label": "PERSON"
+   },
+   {
+    "start": 76,
+    "end": 86,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "et nonnulla nomina gentium maritimarum, unde nomina urbium hodiernarum derivata sunt, Belgica vel Gallica sunt.",
+  "spans": [
+   {
+    "start": 86,
+    "end": 93,
+    "label": "NORP"
+   },
+   {
+    "start": 98,
+    "end": 105,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "itaque pars Britannorum antiquorum Germanica origine erant.",
+  "spans": [
+   {
+    "start": 12,
+    "end": 23,
+    "label": "NORP"
+   },
+   {
+    "start": 35,
+    "end": 44,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "formam insulae esse triquetram declarat.",
+  "spans": []
+ },
+ {
+  "text": "sed unum latus ad Galliam spectare existimat, alterum ad Hispaniam atque occidentem, tertium ad septentriones.",
+  "spans": [
+   {
+    "start": 18,
+    "end": 25,
+    "label": "LOC"
+   },
+   {
+    "start": 57,
+    "end": 66,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "itaque de magnitudine insulae non multum errabat.",
+  "spans": []
+ },
+ {
+  "text": "hic nos pueri \"Errabat igitur\", inquimus;",
+  "spans": []
+ },
+ {
+  "text": "sed patruus meus \"Recte iudicabat\", inquit;",
+  "spans": []
+ },
+ {
+  "text": "tria maria insulam nostram circumdant;",
+  "spans": []
+ },
+ {
+  "text": "Ab occidente, mare Hibernicum;",
+  "spans": [
+   {
+    "start": 19,
+    "end": 29,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "nomina marium temporibus antiquis non usitata erant;",
+  "spans": []
+ },
+ {
+  "text": "Sed iam Graeci Britanniam esse insulam iudicabant\".",
+  "spans": [
+   {
+    "start": 8,
+    "end": 14,
+    "label": "NORP"
+   },
+   {
+    "start": 15,
+    "end": 25,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "britanni duas cohortes Romanas in itinere fortiter impugnaverunt.",
+  "spans": [
+   {
+    "start": 23,
+    "end": 30,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "ex silvis suis provolaverunt;",
+  "spans": []
+ },
+ {
+  "text": "Multos Romanorum trucidaverunt.",
+  "spans": [
+   {
+    "start": 7,
+    "end": 16,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "tum suos a pugna revocaverunt.",
+  "spans": []
+ },
+ {
+  "text": "novum genus pugnae Romanos perturbaverat.",
+  "spans": [
+   {
+    "start": 19,
+    "end": 26,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Sed equitibus essedisque suis per omnes partes equitabant, et ordines hostium perturbabant;",
+  "spans": []
+ },
+ {
+  "text": "Tum consulto copias suas revocabant.",
+  "spans": []
+ },
+ {
+  "text": "essedarii interdum pedibus pugnabant.",
+  "spans": []
+ },
+ {
+  "text": "ita mobilitatem equitum, stabilitatem peditum in proeliis praestabant.",
+  "spans": []
+ },
+ {
+  "text": "pedites Romani propter pondus armorum non apti erant ad huiusmodi hostem.",
+  "spans": [
+   {
+    "start": 8,
+    "end": 14,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "et equitibus Romanis periculosum erat se longo intervallo a peditibus separare;",
+  "spans": [
+   {
+    "start": 13,
+    "end": 20,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Neque pedibus pugnare poterant\".",
+  "spans": []
+ },
+ {
+  "text": "sed postridie Romani victoriam reportaverunt.",
+  "spans": [
+   {
+    "start": 14,
+    "end": 20,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "hostes subito provolaverunt, et ordines Romanos impugnaverunt.",
+  "spans": [
+   {
+    "start": 40,
+    "end": 47,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "sed Romani superiores fuerunt.",
+  "spans": [
+   {
+    "start": 4,
+    "end": 10,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "copias Britannicas propulsaverunt, et in fugam dederunt.",
+  "spans": [
+   {
+    "start": 7,
+    "end": 18,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "magnum numerum hostium trucidaverunt.",
+  "spans": []
+ },
+ {
+  "text": "tum dux continuis itineribus ad flumen Tamesam et in fines Cassivellauni properavit.",
+  "spans": [
+   {
+    "start": 39,
+    "end": 46,
+    "label": "LOC"
+   },
+   {
+    "start": 59,
+    "end": 72,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "interdum ex silvis provolabat et cum militibus Romanis pugnabat;",
+  "spans": [
+   {
+    "start": 47,
+    "end": 54,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "quo cum Caesar adventavit, copias hostium ad alteram ripam fluminis collocatas spectavit.",
+  "spans": [
+   {
+    "start": 8,
+    "end": 14,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "ripa autem sudibus acutis firmata erat;",
+  "spans": []
+ },
+ {
+  "text": "Et Britanni multas sudes sub aqua quoque occultaverant.",
+  "spans": [
+   {
+    "start": 3,
+    "end": 11,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "sed Caesar hostibus instare non dubitavit.",
+  "spans": [
+   {
+    "start": 4,
+    "end": 10,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "aqua fluminis profunda erat, et milites capite solum ex aqua exstabant;",
+  "spans": []
+ },
+ {
+  "text": "Sed Romani se aquae fortiter mandaverunt, et Britannos in fugam dederunt. 'Oppidum' Cassivellauni non longe aberat, inter silvas paludesque situm, quo Britanni magnum numerum hominum, equorum, ovium, boum, congregaverant.",
+  "spans": [
+   {
+    "start": 4,
+    "end": 10,
+    "label": "LOC"
+   },
+   {
+    "start": 45,
+    "end": 54,
+    "label": "NORP"
+   },
+   {
+    "start": 84,
+    "end": 97,
+    "label": "PERSON"
+   },
+   {
+    "start": 151,
+    "end": 159,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "locum egregie et natura et opere firmatum Caesar ex duabus partibus oppugnare properavit:",
+  "spans": [
+   {
+    "start": 42,
+    "end": 48,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "Oppidum expugnavit et defensores fugavit\".",
+  "spans": []
+ },
+ {
+  "text": "Sed frustra.",
+  "spans": []
+ },
+ {
+  "text": "interea multae ex civitatibus Britannicis pacem orant.",
+  "spans": [
+   {
+    "start": 30,
+    "end": 41,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "itaque propter tot clades, propter fines suos bello vastatos, maxime autem propter defectionem tot civitatum, Cassivellaunus de condicionibus pacis deliberat.",
+  "spans": [
+   {
+    "start": 110,
+    "end": 124,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "tum copias suas cum magno numero obsidum et captivorum in Galliam reportat.",
+  "spans": [
+   {
+    "start": 58,
+    "end": 65,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "non mirum est, si Romani victoriam reportaverunt\".",
+  "spans": [
+   {
+    "start": 18,
+    "end": 24,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "sed iam nona hora erat, cum Alexander, digito ad orientem monstrans, \"Nonne naves procul a litore spectatis?\" inquit.",
+  "spans": [
+   {
+    "start": 28,
+    "end": 37,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "sed illae naves, ut puto, naves longae sunt ex classe Britannica;",
+  "spans": [
+   {
+    "start": 54,
+    "end": 64,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "sed non tam grandes sunt quam putavi\".",
+  "spans": []
+ },
+ {
+  "text": "Omnes laminis ferreis, nonnullae arietibus vel turribus armatae sunt\".",
+  "spans": []
+ },
+ {
+  "text": "tum nautam veteranum de nominibus navium longarum interrogavimus.",
+  "spans": []
+ },
+ {
+  "text": "in classe Britannica militaverat, sed tum militia vacabat, et custos erat orae maritimae.",
+  "spans": [
+   {
+    "start": 10,
+    "end": 20,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "nomina navium, ut affirmabat, erant Grandis, Regalis, Magnifica, Tonans, Arrogans, Ferox;",
+  "spans": []
+ },
+ {
+  "text": "Omnibus tegimen erat laminis ferreis fabricatum.",
+  "spans": []
+ },
+ {
+  "text": "in Grandi praefectus classis navigabat.",
+  "spans": []
+ },
+ {
+  "text": "tum Alexander \"Cur non\", inquit, \"ad naves in scapha navigamus?\"",
+  "spans": [
+   {
+    "start": 4,
+    "end": 13,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "mihi et Marco propositum pergratum erat;",
+  "spans": [
+   {
+    "start": 8,
+    "end": 13,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "Et nauta ad navigandum paratus erat.",
+  "spans": []
+ },
+ {
+  "text": "itaque patruus meus \"Sero domum adventabimus\", inquit;",
+  "spans": []
+ },
+ {
+  "text": "Et vela remosque in scapham portavit.",
+  "spans": []
+ },
+ {
+  "text": "ventus lenis flabat, et brevi tempore ad Regalem appropinquavimus.",
+  "spans": []
+ },
+ {
+  "text": "tum classiarii nobis navem ingentem monstraverunt cum machinis, tormentis, rostris, ceteris.",
+  "spans": []
+ },
+ {
+  "text": "tum ad litus remigare necesse erat;",
+  "spans": []
+ },
+ {
+  "text": "Nam ventus adversus erat.",
+  "spans": []
+ },
+ {
+  "text": "ego et Marcus una cum patruo meo et nauta veterano remis laboravimus.",
+  "spans": [
+   {
+    "start": 7,
+    "end": 13,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "Intravimus et nos recreavimus;",
+  "spans": []
+ },
+ {
+  "text": "Nam fatigati eramus.",
+  "spans": []
+ },
+ {
+  "text": "sed 'post tenebras lux'.",
+  "spans": []
+ },
+ {
+  "text": "Sed cena iam parata est\".",
+  "spans": []
+ },
+ {
+  "text": "tum nos \"Multa spectavimus\", inquimus;",
+  "spans": []
+ },
+ {
+  "text": "post cenam Marcus et Alexander Dubras in vehiculo properaverunt.",
+  "spans": [
+   {
+    "start": 11,
+    "end": 17,
+    "label": "PERSON"
+   },
+   {
+    "start": 21,
+    "end": 30,
+    "label": "PERSON"
+   },
+   {
+    "start": 31,
+    "end": 37,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "ego per noctem de Britannis antiquis et de classe Britannica hodierna somniavi.",
+  "spans": [
+   {
+    "start": 18,
+    "end": 27,
+    "label": "NORP"
+   },
+   {
+    "start": 50,
+    "end": 60,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "ante oculos erant viri fortes membris robustis, flavis capillis, oculis caeruleis cum Romanis terra marique pugnantes.",
+  "spans": [
+   {
+    "start": 86,
+    "end": 93,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "kalendae sunt hodie Septembres.",
+  "spans": []
+ },
+ {
+  "text": "primus mensis feriarum elapsus est, et scholae instant;",
+  "spans": []
+ },
+ {
+  "text": "Nam ante finem mensis Septembris apud magistrum meum ero.",
+  "spans": []
+ },
+ {
+  "text": "et per ultimam partem feriarum necesse est libris duas horas cotidie dare.",
+  "spans": []
+ },
+ {
+  "text": "sic imperat patruus meus.",
+  "spans": []
+ },
+ {
+  "text": "mane igitur plerumque lectito.",
+  "spans": []
+ },
+ {
+  "text": "patruus autem mihi librum Taciti de vita Agricolae, ducis celebris Romanorum, dedit.",
+  "spans": [
+   {
+    "start": 26,
+    "end": 32,
+    "label": "PERSON"
+   },
+   {
+    "start": 41,
+    "end": 50,
+    "label": "PERSON"
+   },
+   {
+    "start": 67,
+    "end": 76,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "multa insunt de Britannia nostra antiqua.",
+  "spans": [
+   {
+    "start": 16,
+    "end": 25,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "vita Agricolae multum me delectat.",
+  "spans": [
+   {
+    "start": 5,
+    "end": 14,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "nonnullis tamen in locis difficilis est et obscura.",
+  "spans": []
+ },
+ {
+  "text": "sed animo alacri lectito, quia patruus meus difficilia et obscura explicat, et tabulis pictis aedificiorum, armorum, nummorum, viarum illustrat.",
+  "spans": []
+ },
+ {
+  "text": "ubi aliquid in Vita Agricolae deest, ibi patruus meus capita ex Annalibus Taciti vel ex Historia Anglica recitat.",
+  "spans": [
+   {
+    "start": 20,
+    "end": 29,
+    "label": "PERSON"
+   },
+   {
+    "start": 74,
+    "end": 80,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "amici mei, Marcus et Alexander, interdum adsunt dum recitat;",
+  "spans": [
+   {
+    "start": 11,
+    "end": 17,
+    "label": "PERSON"
+   },
+   {
+    "start": 21,
+    "end": 30,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "Nam saepe nos visitant.",
+  "spans": []
+ },
+ {
+  "text": "post prandium plerumque ambulamus, vel ludo trigonali operam damus, vel in mari natamus.",
+  "spans": []
+ },
+ {
+  "text": "ab incolis litoris meridiani victoriam reportaverat, ad flumen Tamesam penetraverat, oppidum Cassivellauni expugnaverat, magnum numerum captivorum in servitutem venumdederat, tributum Britannis imperaverat.",
+  "spans": [
+   {
+    "start": 63,
+    "end": 70,
+    "label": "LOC"
+   },
+   {
+    "start": 93,
+    "end": 106,
+    "label": "PERSON"
+   },
+   {
+    "start": 184,
+    "end": 193,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "id ei satis erat.",
+  "spans": []
+ },
+ {
+  "text": "tributum et servitutem non tolerabant.",
+  "spans": []
+ },
+ {
+  "text": "et Romanis post tempora C. Iulii Caesaris longa oblivio erat Britanniae;",
+  "spans": [
+   {
+    "start": 3,
+    "end": 10,
+    "label": "NORP"
+   },
+   {
+    "start": 24,
+    "end": 41,
+    "label": "PERSON"
+   },
+   {
+    "start": 61,
+    "end": 71,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "Nam per multos annos bellum domesticum civitatem Romanam vexavit.",
+  "spans": [
+   {
+    "start": 49,
+    "end": 56,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "post finem eius belli Romani Augustum principem creaverunt.",
+  "spans": [
+   {
+    "start": 22,
+    "end": 28,
+    "label": "NORP"
+   },
+   {
+    "start": 29,
+    "end": 37,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "ei Britannia non curae erat.",
+  "spans": [
+   {
+    "start": 3,
+    "end": 12,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "nec principes secundus et tertius, Tiberius et Caligula, insulam nostram intraverunt;",
+  "spans": [
+   {
+    "start": 35,
+    "end": 43,
+    "label": "PERSON"
+   },
+   {
+    "start": 47,
+    "end": 55,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "Quamquam Caligula de ea intranda cogitavit.",
+  "spans": [
+   {
+    "start": 9,
+    "end": 17,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "itaque per centum fere annos reges Britannici vel reginae Britannicae in Britannia regnaverunt, nec Romani Britannos bello vexaverunt.",
+  "spans": [
+   {
+    "start": 35,
+    "end": 45,
+    "label": "NORP"
+   },
+   {
+    "start": 58,
+    "end": 69,
+    "label": "NORP"
+   },
+   {
+    "start": 73,
+    "end": 82,
+    "label": "LOC"
+   },
+   {
+    "start": 100,
+    "end": 106,
+    "label": "NORP"
+   },
+   {
+    "start": 107,
+    "end": 116,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "in numero eorum regum erat Cunobelinus.",
+  "spans": [
+   {
+    "start": 27,
+    "end": 38,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "is revera « Britannorum rex » erat:",
+  "spans": [
+   {
+    "start": 12,
+    "end": 23,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Sic eum Suetonius, scriptor Romanus, nominat;",
+  "spans": [
+   {
+    "start": 8,
+    "end": 17,
+    "label": "PERSON"
+   },
+   {
+    "start": 28,
+    "end": 35,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Nam quamquam non omnes gentes Britannicae ei subiectae erant, tamen magnam partem gentium Britanniae mediterraneae et meridianae in unum regnum consociaverat.",
+  "spans": [
+   {
+    "start": 30,
+    "end": 41,
+    "label": "NORP"
+   },
+   {
+    "start": 90,
+    "end": 100,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "caput earum gentium Camulodunum erat.",
+  "spans": [
+   {
+    "start": 20,
+    "end": 31,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "exstant hodie nummi Cunobelini;",
+  "spans": [
+   {
+    "start": 20,
+    "end": 30,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "Exstant quoque nummi patris eius Tasciovani et fratris eius Epaticci.",
+  "spans": [
+   {
+    "start": 33,
+    "end": 43,
+    "label": "PERSON"
+   },
+   {
+    "start": 60,
+    "end": 68,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "Eo fere tempore rex Britannorum erat, cum Tiberius et Caligula principes Romanorum erant.",
+  "spans": [
+   {
+    "start": 20,
+    "end": 31,
+    "label": "NORP"
+   },
+   {
+    "start": 42,
+    "end": 50,
+    "label": "PERSON"
+   },
+   {
+    "start": 54,
+    "end": 62,
+    "label": "PERSON"
+   },
+   {
+    "start": 73,
+    "end": 82,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "ei ab anno quarto decimo ad annum primum et quadragesimum post Christum natum imperio Romano praeerant.",
+  "spans": [
+   {
+    "start": 63,
+    "end": 71,
+    "label": "PERSON"
+   },
+   {
+    "start": 86,
+    "end": 92,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Morti datus erat dum Tiberius imperitabat, ut Tacitus in capite quarto et quadragesimo libri quinti decimi Annalium commemorat.",
+  "spans": [
+   {
+    "start": 21,
+    "end": 29,
+    "label": "PERSON"
+   },
+   {
+    "start": 46,
+    "end": 53,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "inter filios Cunobelini erant Caractacus et Togodumnus.",
+  "spans": [
+   {
+    "start": 13,
+    "end": 23,
+    "label": "PERSON"
+   },
+   {
+    "start": 30,
+    "end": 40,
+    "label": "PERSON"
+   },
+   {
+    "start": 44,
+    "end": 54,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "is rex magnus et bonus erat, atque defensor acer libertatis Britannicae.",
+  "spans": [
+   {
+    "start": 60,
+    "end": 71,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "itaque de nova expeditione contra Britanniam cogitabant.",
+  "spans": [
+   {
+    "start": 34,
+    "end": 44,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "poetae Romani eius aetatis insulam nostram et incolas eius saepe commemorant.",
+  "spans": [
+   {
+    "start": 7,
+    "end": 13,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "mare eos ab aliis partibus orbis terrarum separabat, et libertas eis cara erat.",
+  "spans": []
+ },
+ {
+  "text": "pro aris et focis suis contra Romanos magna virtute pugnaverant, atque hostibus Romanorum in bello Gallico auxilia subministraverant.",
+  "spans": [
+   {
+    "start": 30,
+    "end": 37,
+    "label": "NORP"
+   },
+   {
+    "start": 80,
+    "end": 89,
+    "label": "NORP"
+   },
+   {
+    "start": 99,
+    "end": 106,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "post mortem Cunobelini, Claudius, quartus princeps Romanorum, expeditionem contra Britannos paravit.",
+  "spans": [
+   {
+    "start": 12,
+    "end": 22,
+    "label": "PERSON"
+   },
+   {
+    "start": 24,
+    "end": 32,
+    "label": "PERSON"
+   },
+   {
+    "start": 51,
+    "end": 60,
+    "label": "NORP"
+   },
+   {
+    "start": 82,
+    "end": 91,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "consilium eius erat totam Britanniam debellare et cum imperio Romano consociare.",
+  "spans": [
+   {
+    "start": 26,
+    "end": 36,
+    "label": "LOC"
+   },
+   {
+    "start": 62,
+    "end": 68,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "itaque anno tertio et quadragesimo uni ex ducibus suis, Aulo Plautio, magnum numerum copiarum pedestrium et equestrium mandavit.",
+  "spans": [
+   {
+    "start": 56,
+    "end": 68,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "oppidum Camulodunum expugnaverunt, ubi Romani post paucos annos coloniam veteranorum collocaverunt.",
+  "spans": [
+   {
+    "start": 8,
+    "end": 19,
+    "label": "NORP"
+   },
+   {
+    "start": 39,
+    "end": 45,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "ea prima urbs Romana in Britannia fuit.",
+  "spans": [
+   {
+    "start": 14,
+    "end": 20,
+    "label": "NORP"
+   },
+   {
+    "start": 24,
+    "end": 33,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "filius eius priore anno natus erat.",
+  "spans": []
+ },
+ {
+  "text": "copiis Britannicis Caractacus, filius Cunobelini, praeerat.",
+  "spans": [
+   {
+    "start": 7,
+    "end": 18,
+    "label": "NORP"
+   },
+   {
+    "start": 19,
+    "end": 29,
+    "label": "PERSON"
+   },
+   {
+    "start": 38,
+    "end": 48,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "non facile erat eas gentes Cambriae debellare.",
+  "spans": [
+   {
+    "start": 27,
+    "end": 35,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "reliquiae castrorum Romanorum Viroconii, Devae, Iscae hodie exstant.",
+  "spans": [
+   {
+    "start": 20,
+    "end": 29,
+    "label": "NORP"
+   },
+   {
+    "start": 30,
+    "end": 39,
+    "label": "LOC"
+   },
+   {
+    "start": 41,
+    "end": 46,
+    "label": "LOC"
+   },
+   {
+    "start": 48,
+    "end": 53,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "Ipse, ipsa, ipsum Nomen Caractaci iam per totam Italiam celebre erat;",
+  "spans": [
+   {
+    "start": 24,
+    "end": 33,
+    "label": "PERSON"
+   },
+   {
+    "start": 48,
+    "end": 55,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "Nam victoriam Romanorum per novem annos retardaverat.",
+  "spans": [
+   {
+    "start": 14,
+    "end": 23,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "et omnes homines cupidi erant regem Britannorum ipsum spectandi.",
+  "spans": [
+   {
+    "start": 36,
+    "end": 47,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "itaque Claudius populum ad grande spectaculum convocavit.",
+  "spans": [
+   {
+    "start": 7,
+    "end": 15,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "magna multitudo captivorum Britannicorum una cum Caractaco ipso et uxore fratribusque eius in catenis aderant.",
+  "spans": [
+   {
+    "start": 27,
+    "end": 40,
+    "label": "NORP"
+   },
+   {
+    "start": 49,
+    "end": 58,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "ante oculos principis ipsius collocatus « Rex sum » inquit « et regibus claris oriundus:",
+  "spans": []
+ },
+ {
+  "text": "non mirum est si contra vos Romanos pro libertate pugnavi.",
+  "spans": [
+   {
+    "start": 28,
+    "end": 35,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "vos toti orbi terrarum imperitandi cupidi estis;",
+  "spans": []
+ },
+ {
+  "text": "Sed nobis Britannis non mos est servitutem tolerare.",
+  "spans": [
+   {
+    "start": 10,
+    "end": 19,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "mortem non formido ».",
+  "spans": []
+ },
+ {
+  "text": "tum princeps propter admirationem tantae audaciae veniam libertatemque Caractaco ipsi et uxori fratribusque eius dedit.",
+  "spans": [
+   {
+    "start": 71,
+    "end": 80,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "sic Tacitus in capite septimo et tricesimo libri duodecimi Annalium narrat.",
+  "spans": [
+   {
+    "start": 4,
+    "end": 11,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "anno post Christum natum primo et sexagesimo Britanni rebellaverunt.",
+  "spans": [
+   {
+    "start": 10,
+    "end": 18,
+    "label": "PERSON"
+   },
+   {
+    "start": 45,
+    "end": 53,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "ille in Monam insulam penetravit, ubi magnum numerum Druidarum trucidavit, et fana eorum vastavit.",
+  "spans": [
+   {
+    "start": 8,
+    "end": 13,
+    "label": "LOC"
+   },
+   {
+    "start": 53,
+    "end": 62,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "sed dum ille in Cambria abest, Iceni cum Cassis et Trinobantibus aliisque gentibus Britannicis se contra Romanos consociant.",
+  "spans": [
+   {
+    "start": 16,
+    "end": 23,
+    "label": "LOC"
+   },
+   {
+    "start": 31,
+    "end": 36,
+    "label": "NORP"
+   },
+   {
+    "start": 41,
+    "end": 47,
+    "label": "NORP"
+   },
+   {
+    "start": 51,
+    "end": 64,
+    "label": "NORP"
+   },
+   {
+    "start": 83,
+    "end": 94,
+    "label": "NORP"
+   },
+   {
+    "start": 105,
+    "end": 112,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "nam veterani eos omnibus iniuriis vexabant.",
+  "spans": []
+ },
+ {
+  "text": "oppidum iam viis et aedificiis Romanis ornaverunt, sed muris non firmaverant.",
+  "spans": [
+   {
+    "start": 31,
+    "end": 38,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "inter illa aedificia templum « Divi Claudii » erat;",
+  "spans": [
+   {
+    "start": 36,
+    "end": 43,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "Nam principem mortuum Romani pro deo adorabant.",
+  "spans": [
+   {
+    "start": 22,
+    "end": 28,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "et in illo templo simulacrum Victoriae collocatum erat.",
+  "spans": []
+ },
+ {
+  "text": "itaque Boadicea, regina illa audax Icenorum, inter ordines Britannicos in essedo suo equitans, Britannos suos ad rebellionem incitavit.",
+  "spans": [
+   {
+    "start": 7,
+    "end": 15,
+    "label": "PERSON"
+   },
+   {
+    "start": 35,
+    "end": 43,
+    "label": "NORP"
+   },
+   {
+    "start": 59,
+    "end": 70,
+    "label": "NORP"
+   },
+   {
+    "start": 95,
+    "end": 104,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Auscultate Coritani, Trinobantes!",
+  "spans": [
+   {
+    "start": 11,
+    "end": 19,
+    "label": "NORP"
+   },
+   {
+    "start": 21,
+    "end": 32,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "di nostri nobis victoriam, illis cladem mortemque parant!",
+  "spans": []
+ },
+ {
+  "text": "ecce, colonia Camulodunum defensoribus nudata est!",
+  "spans": [
+   {
+    "start": 14,
+    "end": 25,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "coloniam illam, ubi pauci tantum veterani cum uxoribus liberisque suis habitant, facile erit expugnare.",
+  "spans": []
+ },
+ {
+  "text": "illos nulla patria ad virtutem incitat;",
+  "spans": []
+ },
+ {
+  "text": "Nos patria et penates, nos libertas ad arma vocat.",
+  "spans": []
+ },
+ {
+  "text": "atque di ipsi nobis omen victoriae et imperii dederunt.",
+  "spans": []
+ },
+ {
+  "text": "nam simulacrum illud Victoriae praecipitaverunt.",
+  "spans": []
+ },
+ {
+  "text": "et Druidae alia portenta nuntiant.",
+  "spans": [
+   {
+    "start": 3,
+    "end": 10,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "vos coloniam illam crudelem expugnate!",
+  "spans": []
+ },
+ {
+  "text": "templum dei illius falsi cremate!",
+  "spans": []
+ },
+ {
+  "text": "viros, feminas, liberos trucidate!",
+  "spans": []
+ },
+ {
+  "text": "num vos viri minus fortes eritis? ».",
+  "spans": []
+ },
+ {
+  "text": "coloniam Camulodunum expugnant;",
+  "spans": [
+   {
+    "start": 9,
+    "end": 20,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "Templum illud Claudii, ubi veterani se occultaverant, cremant.",
+  "spans": [
+   {
+    "start": 14,
+    "end": 21,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "interea Suetonius ex insula Mona cum decem milibus virorum ad Tamesam properavit.",
+  "spans": [
+   {
+    "start": 8,
+    "end": 17,
+    "label": "PERSON"
+   },
+   {
+    "start": 28,
+    "end": 32,
+    "label": "LOC"
+   },
+   {
+    "start": 62,
+    "end": 69,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "sic Tacitus in capite tertio et tricesimo libri quarti decimi Annalium affirmat.",
+  "spans": [
+   {
+    "start": 4,
+    "end": 11,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "sed urbem ex clade servare non poterat.",
+  "spans": []
+ },
+ {
+  "text": "sed pauci illi Romani magnam victoriam reportaverunt;",
+  "spans": [
+   {
+    "start": 15,
+    "end": 21,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "britanni contra legiones Romanas stare non poterant, quia Romani eos pondere armorum et scientia belli multum superabant.",
+  "spans": [
+   {
+    "start": 25,
+    "end": 32,
+    "label": "NORP"
+   },
+   {
+    "start": 58,
+    "end": 64,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "in illo proelio Romani octoginta milia virorum et feminarum trucidaverunt;",
+  "spans": [
+   {
+    "start": 16,
+    "end": 22,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Nam Britanni feminas suas in vehiculis apportaverunt, proelii spectandi causa.",
+  "spans": [
+   {
+    "start": 4,
+    "end": 12,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "hic fuit finis rebellionis Boadiceae.",
+  "spans": [
+   {
+    "start": 27,
+    "end": 36,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "sed Romani nondum totam insulam paraverant.",
+  "spans": [
+   {
+    "start": 4,
+    "end": 10,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "nam Britannia provincia turbulenta erat, ut Tacitus affirmat;",
+  "spans": [
+   {
+    "start": 4,
+    "end": 13,
+    "label": "LOC"
+   },
+   {
+    "start": 44,
+    "end": 51,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "Et Britanni occidentales et septentrionales victoriam Romanorum adhuc retardant.",
+  "spans": [
+   {
+    "start": 3,
+    "end": 11,
+    "label": "NORP"
+   },
+   {
+    "start": 54,
+    "end": 63,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "totam insulam pacare consilium erat Vespasiani, noni principis Romanorum.",
+  "spans": [
+   {
+    "start": 36,
+    "end": 46,
+    "label": "PERSON"
+   },
+   {
+    "start": 63,
+    "end": 72,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "itaque anno duodeoctogesimo post Christum natum Iulio Agricolae summum imperium legionum Britannicarum mandavit.",
+  "spans": [
+   {
+    "start": 33,
+    "end": 41,
+    "label": "PERSON"
+   },
+   {
+    "start": 48,
+    "end": 63,
+    "label": "PERSON"
+   },
+   {
+    "start": 89,
+    "end": 102,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "huius viri clari vitam Tacitus narravit.",
+  "spans": [
+   {
+    "start": 23,
+    "end": 30,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "Monumentum est liber ille de vita eius.",
+  "spans": []
+ },
+ {
+  "text": "vir iustus, humanus, clemens erat, si testimonium Taciti verum est.",
+  "spans": [
+   {
+    "start": 50,
+    "end": 56,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "hanc gentem fere totam trucidavit, si Tacitus vera affirmat.",
+  "spans": [
+   {
+    "start": 38,
+    "end": 45,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "naves ei deerant;",
+  "spans": []
+ },
+ {
+  "text": "Sed sub signis Romanis nonnullae cohortes Batavorum militabant.",
+  "spans": [
+   {
+    "start": 15,
+    "end": 22,
+    "label": "NORP"
+   },
+   {
+    "start": 42,
+    "end": 51,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "hi periti erant natandi, et trans fretum nataverunt.",
+  "spans": []
+ },
+ {
+  "text": "tertio anno Agricola contra Brigantes aliasque gentes septentrionales Britanniae bellavit.",
+  "spans": [
+   {
+    "start": 12,
+    "end": 20,
+    "label": "PERSON"
+   },
+   {
+    "start": 28,
+    "end": 37,
+    "label": "NORP"
+   },
+   {
+    "start": 70,
+    "end": 80,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "sexto anno classem comparavit.",
+  "spans": []
+ },
+ {
+  "text": "dum haec oram maritimam Caledoniae explorat, ipse cum copiis pedestribus et equestribus per Devam et Luguvallium in Caledoniam usque ad Clotam et Bodotriam penetrat.",
+  "spans": [
+   {
+    "start": 24,
+    "end": 34,
+    "label": "LOC"
+   },
+   {
+    "start": 92,
+    "end": 97,
+    "label": "LOC"
+   },
+   {
+    "start": 101,
+    "end": 112,
+    "label": "LOC"
+   },
+   {
+    "start": 116,
+    "end": 126,
+    "label": "LOC"
+   },
+   {
+    "start": 136,
+    "end": 142,
+    "label": "LOC"
+   },
+   {
+    "start": 146,
+    "end": 155,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "totam regionem castellis firmat.",
+  "spans": []
+ },
+ {
+  "text": "sed Caledonii trans Clotam et Bodotriam, velut in alteram insulam, se congregant.",
+  "spans": [
+   {
+    "start": 4,
+    "end": 13,
+    "label": "NORP"
+   },
+   {
+    "start": 20,
+    "end": 26,
+    "label": "LOC"
+   },
+   {
+    "start": 30,
+    "end": 39,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "proximo anno Romani in partes interiores Caledoniae penetrant.",
+  "spans": [
+   {
+    "start": 13,
+    "end": 19,
+    "label": "NORP"
+   },
+   {
+    "start": 41,
+    "end": 51,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "nobis Caledonibus servitus adhuc ignota est.",
+  "spans": [
+   {
+    "start": 6,
+    "end": 17,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "hi montes, hae silvae, haec maria nobis libertatem dederunt.",
+  "spans": []
+ },
+ {
+  "text": "sed nunc in hunc angulum remotum Britanniae Romani penetraverunt.",
+  "spans": [
+   {
+    "start": 33,
+    "end": 43,
+    "label": "LOC"
+   },
+   {
+    "start": 44,
+    "end": 50,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "adsunt, velut lupi saevi;",
+  "spans": []
+ },
+ {
+  "text": "Nec Oriens nec Occidens eos satiavit.",
+  "spans": []
+ },
+ {
+  "text": "ne mare quidem nostrum a periculo classis Romanae tutum est.",
+  "spans": [
+   {
+    "start": 42,
+    "end": 49,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "terra marique hanc insulam oppugnant.",
+  "spans": []
+ },
+ {
+  "text": "itaque nullam veniam exspectate, si illi in hoc proelio victoriam reportaverint.",
+  "spans": []
+ },
+ {
+  "text": "vos ipsos et uxores liberosque vestros trucidabunt vel in servitutem deportabunt;",
+  "spans": []
+ },
+ {
+  "text": "Et cum totam terram vastaverint, solitudinem pacem vocabunt.",
+  "spans": []
+ },
+ {
+  "text": "sed nondum \"pacata\" est haec Caledonia.",
+  "spans": [
+   {
+    "start": 29,
+    "end": 38,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "num vos, viri Caledonii, minus fortes eritis?",
+  "spans": [
+   {
+    "start": 14,
+    "end": 23,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "hodie pacem illam Romanam a vobis ipsis et uxoribus liberisque vestris propulsate.",
+  "spans": [
+   {
+    "start": 18,
+    "end": 25,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "patria ipsa vos ad pugnam et victoriam vocat! » Interea Agricola quoque suos in hunc modum ad proelium incitat.",
+  "spans": [
+   {
+    "start": 56,
+    "end": 64,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "hodie a Caledonibus victoriam reportate.",
+  "spans": [
+   {
+    "start": 8,
+    "end": 19,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "hi se in silvis montibusque suis adhuc occultaverunt;",
+  "spans": []
+ },
+ {
+  "text": "Hos homines ignavos facile in fugam dabitis ».",
+  "spans": []
+ },
+ {
+  "text": "et signum pugnandi dedit.",
+  "spans": []
+ },
+ {
+  "text": "tres legiones Romanae et undecim milia auxiliorum in campo lato stabant:",
+  "spans": [
+   {
+    "start": 14,
+    "end": 21,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "et ipsi multa missilia in Romanos iactabant.",
+  "spans": [
+   {
+    "start": 26,
+    "end": 33,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "sed tandem cohortes illae Batavorum ad colles appropinquaverunt, et Caledones ex loco propulsaverunt.",
+  "spans": [
+   {
+    "start": 26,
+    "end": 35,
+    "label": "NORP"
+   },
+   {
+    "start": 68,
+    "end": 77,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "nam hi iustum proelium tolerare non poterant.",
+  "spans": []
+ },
+ {
+  "text": "interea equites auxiliorum eos velut indagine circumdederunt.",
+  "spans": []
+ },
+ {
+  "text": "nonnulli ex Caledonibus uxores liberosque suos ipsi morti dederunt.",
+  "spans": [
+   {
+    "start": 12,
+    "end": 23,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "nox finis fuit trucidationis.",
+  "spans": []
+ },
+ {
+  "text": "postridie atrox spectaculum erat:",
+  "spans": []
+ },
+ {
+  "text": "Corpora inhumata, casae crematae, silentium, solitudo.",
+  "spans": []
+ },
+ {
+  "text": "nulla autem provincia turbulentior fuerat quam Britannia.",
+  "spans": [
+   {
+    "start": 47,
+    "end": 56,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "nulli hostes Romanorum fortiores, nulli audaciores fuerant quam Britanni et Caledones et gentes Cambriae.",
+  "spans": [
+   {
+    "start": 13,
+    "end": 22,
+    "label": "NORP"
+   },
+   {
+    "start": 64,
+    "end": 72,
+    "label": "NORP"
+   },
+   {
+    "start": 76,
+    "end": 85,
+    "label": "NORP"
+   },
+   {
+    "start": 96,
+    "end": 104,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "sed quid inhumanius, quid saevius est quam bellum?",
+  "spans": []
+ },
+ {
+  "text": "atque nulli hostes in bello crudeliores fuerunt quam Romani.",
+  "spans": [
+   {
+    "start": 53,
+    "end": 59,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "nam mors pulchra minus misera est quam servitus.",
+  "spans": []
+ },
+ {
+  "text": "omnibus hominibus vita cara est;",
+  "spans": []
+ },
+ {
+  "text": "Sed viris liberis libertas carior est quam vita.",
+  "spans": []
+ },
+ {
+  "text": "atque nulli homines unquam acriores defensores libertatis suae fuerunt quam Britanni.",
+  "spans": [
+   {
+    "start": 76,
+    "end": 84,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "nihil pulchrius existimabant quam libertatem, nihil miserius quam servitutem ».",
+  "spans": []
+ },
+ {
+  "text": "sed quid utilius fuit toti orbi terrarum quam imperium Romanum?",
+  "spans": [
+   {
+    "start": 55,
+    "end": 62,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "et imperio Romano nullum maius periculum erat quam rebelliones populorum barbarorum.",
+  "spans": [
+   {
+    "start": 11,
+    "end": 17,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "homines feros et inhumanos a studio bellandi ad vitam humaniorem et ad litteras, artes, scientias revocavit.",
+  "spans": []
+ },
+ {
+  "text": "in ludis litterariis filii principum Britannicorum linguae Latinae operam dabant.",
+  "spans": [
+   {
+    "start": 37,
+    "end": 50,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "itaque Britanni iram iniuriasque suas paulatim oblivioni dabant.",
+  "spans": [
+   {
+    "start": 7,
+    "end": 15,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "sed tributum Romanum tolerabant, si iniuriae aberant.",
+  "spans": []
+ },
+ {
+  "text": "sed iam ante tempora Agricolae nonnullae ex gentibus Britannicis mediocriter humanae fuerant.",
+  "spans": [
+   {
+    "start": 21,
+    "end": 30,
+    "label": "PERSON"
+   },
+   {
+    "start": 53,
+    "end": 64,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "incolas Cantii Caesar in libro quinto Belli Gallici ‘omnium Britannorum humanissimos’ vocat ».",
+  "spans": [
+   {
+    "start": 8,
+    "end": 14,
+    "label": "LOC"
+   },
+   {
+    "start": 15,
+    "end": 21,
+    "label": "PERSON"
+   },
+   {
+    "start": 44,
+    "end": 51,
+    "label": "NORP"
+   },
+   {
+    "start": 60,
+    "end": 71,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "medius erat mensis September cum patruus meus haec de Britannia Romana explicavit.",
+  "spans": [
+   {
+    "start": 54,
+    "end": 70,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "Nam pridie Dubris adventaverant et apud nos pernoctaverant.",
+  "spans": [
+   {
+    "start": 11,
+    "end": 17,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "et patruo meo necesse erat eis de rebellione Galgaci et Caledonum narrare.",
+  "spans": [
+   {
+    "start": 45,
+    "end": 52,
+    "label": "PERSON"
+   },
+   {
+    "start": 56,
+    "end": 65,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "nam historia patriae suae magnopere delectantur.",
+  "spans": []
+ },
+ {
+  "text": "tum ille « Nonne recte » inquit « Agricola a Tacito laudatur?",
+  "spans": [
+   {
+    "start": 34,
+    "end": 42,
+    "label": "PERSON"
+   },
+   {
+    "start": 45,
+    "end": 51,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "nam ab aliis imperatoribus Romanis oppida expugnabantur, agri vastabuntur, nationes barbarae debellabantur;",
+  "spans": [
+   {
+    "start": 27,
+    "end": 34,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "et Alexander « Magnopere delector » inquit « si victor iustus et clemens fuit.",
+  "spans": [
+   {
+    "start": 3,
+    "end": 12,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "sed num hic vir omnia illa aedificia Romana aedificavit? » Et ille « Britannia per quattuor saecula aedificiis Romanis ornabatur.",
+  "spans": [
+   {
+    "start": 37,
+    "end": 43,
+    "label": "NORP"
+   },
+   {
+    "start": 69,
+    "end": 78,
+    "label": "LOC"
+   },
+   {
+    "start": 111,
+    "end": 118,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "multae ex illis reliquiis posterioris aetatis sunt ».",
+  "spans": []
+ },
+ {
+  "text": "et Martialis, poeta Romanus illius aetatis, Britannos carmina sua cantavisse affirmat.",
+  "spans": [
+   {
+    "start": 3,
+    "end": 12,
+    "label": "PERSON"
+   },
+   {
+    "start": 20,
+    "end": 27,
+    "label": "NORP"
+   },
+   {
+    "start": 44,
+    "end": 53,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "nec tibi mobilitas minor est, si forte volantem Aut geminare pilam iuvat aut revocare cadentem ut est apud poetam Romanum.",
+  "spans": [
+   {
+    "start": 114,
+    "end": 121,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "tum nos pueri exclamavimus:",
+  "spans": []
+ },
+ {
+  "text": "Post prandium ruinas castelli visitabimus.",
+  "spans": []
+ },
+ {
+  "text": "deinde in castello cenabimus.",
+  "spans": []
+ },
+ {
+  "text": "inter viam Marcus patruum meum de victoria illa ab Caledonibus reportata interrogavit.",
+  "spans": [
+   {
+    "start": 11,
+    "end": 17,
+    "label": "PERSON"
+   },
+   {
+    "start": 51,
+    "end": 62,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "num rex antiquus Scotorum fuit?",
+  "spans": [
+   {
+    "start": 17,
+    "end": 25,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "de origine Pictorum viri docti disputant.",
+  "spans": [
+   {
+    "start": 11,
+    "end": 19,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "nos cachinnamus.",
+  "spans": []
+ },
+ {
+  "text": "itaque necesse fuit Hadriano, qui secundo saeculo post Christum natum princeps Romanorum fuit, magnum illud vallum inter Luguvallium et Pontem Aelium vel Segedunum aedificare;",
+  "spans": [
+   {
+    "start": 20,
+    "end": 28,
+    "label": "PERSON"
+   },
+   {
+    "start": 55,
+    "end": 63,
+    "label": "PERSON"
+   },
+   {
+    "start": 79,
+    "end": 88,
+    "label": "NORP"
+   },
+   {
+    "start": 121,
+    "end": 132,
+    "label": "LOC"
+   },
+   {
+    "start": 136,
+    "end": 149,
+    "label": "LOC"
+   },
+   {
+    "start": 154,
+    "end": 163,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "Cuius reliquiae hodie spectantur.",
+  "spans": []
+ },
+ {
+  "text": "et Antoninus Pius, qui post eum princeps fuit, alterum vallum in ipsa Caledonia inter Clotam et Bodotriam aedificavit:",
+  "spans": [
+   {
+    "start": 3,
+    "end": 17,
+    "label": "PERSON"
+   },
+   {
+    "start": 70,
+    "end": 79,
+    "label": "LOC"
+   },
+   {
+    "start": 86,
+    "end": 92,
+    "label": "LOC"
+   },
+   {
+    "start": 96,
+    "end": 105,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "Cui nomen hodiernum est Graham's Dyke.",
+  "spans": [
+   {
+    "start": 24,
+    "end": 37,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "Postea autem ipse aegrotavit et Eburaci exspiravit.",
+  "spans": [
+   {
+    "start": 32,
+    "end": 39,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Nam nomen tuum et fratris tui Germanicum est.",
+  "spans": [
+   {
+    "start": 30,
+    "end": 40,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "sed nos ipsi ex multis et diversis nationibus oriundi sumus.",
+  "spans": []
+ },
+ {
+  "text": "sed nos non pigebit hic paulum sedere et prandio nos recreare.",
+  "spans": []
+ },
+ {
+  "text": "hinc castellum in oculis habebimus.",
+  "spans": []
+ },
+ {
+  "text": "videtisne ruinas?",
+  "spans": []
+ },
+ {
+  "text": "Nam revera fatigati eramus.",
+  "spans": []
+ },
+ {
+  "text": "hodie procul a mari iacet;",
+  "spans": []
+ },
+ {
+  "text": "Sed temporibus Romanorum totus campus, qui nunc inter castellum et oram maritimam iacet, pars maris erat.",
+  "spans": [
+   {
+    "start": 15,
+    "end": 24,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "post prandium ad castellum ipsum ambulavimus.",
+  "spans": []
+ },
+ {
+  "text": "ruinae praeclarae sunt.",
+  "spans": []
+ },
+ {
+  "text": "pars murorum lateribus Romanis aedificata est;",
+  "spans": [
+   {
+    "start": 23,
+    "end": 30,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Sed multis locis deleti sunt.",
+  "spans": []
+ },
+ {
+  "text": "murus qui ad septentriones spectat quadringentos quadraginta pedes longus est, viginti vel triginta pedes altus.",
+  "spans": []
+ },
+ {
+  "text": "in angulis murorum fundamenta turrium vides.",
+  "spans": []
+ },
+ {
+  "text": "temporibus antiquis portus celeber hic erat, cui nomen erat Portui Rutupino;",
+  "spans": [
+   {
+    "start": 60,
+    "end": 75,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "Naves ex Gallia in Britanniam navigantes ad hunc portum plerumque applicabantur.",
+  "spans": [
+   {
+    "start": 9,
+    "end": 15,
+    "label": "LOC"
+   },
+   {
+    "start": 19,
+    "end": 29,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "nam omnium portuum Britannicorum hic optimus erat.",
+  "spans": [
+   {
+    "start": 19,
+    "end": 32,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "castellum in litore portus stabat.",
+  "spans": []
+ },
+ {
+  "text": "intra muros castelli est area lata.",
+  "spans": []
+ },
+ {
+  "text": "in media area fundamentum aedificii antiqui vides, quod formam crucis habet.",
+  "spans": []
+ },
+ {
+  "text": "sub hac cruce est aedificium subterraneum, quattuor et quadraginta passus longum;",
+  "spans": []
+ },
+ {
+  "text": "Quod intravimus.",
+  "spans": []
+ },
+ {
+  "text": "cereos in manu tenebamus, quos custos dederat;",
+  "spans": []
+ },
+ {
+  "text": "Nam locus obscurus erat.",
+  "spans": []
+ },
+ {
+  "text": "ab hoc aedificio cuniculus, in formam quadratam excavatus, sub magnam partem areae pertinet.",
+  "spans": []
+ },
+ {
+  "text": "et custos sic respondet:",
+  "spans": []
+ },
+ {
+  "text": "usui fortasse erat, si castellum obsidebatur:",
+  "spans": []
+ },
+ {
+  "text": "postquam haec spectavimus, iterum circum muros ambulavimus.",
+  "spans": []
+ },
+ {
+  "text": "dum ad dextrum cornu castelli stamus, patruus meus nobis reliquias amphitheatri Romani monstravit, quod non procul aberat.",
+  "spans": [
+   {
+    "start": 80,
+    "end": 86,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Ex quibus unum mihi custos venum dedit.",
+  "spans": []
+ },
+ {
+  "text": "tum custodem valere iubemus, et ad cenam properamus.",
+  "spans": []
+ },
+ {
+  "text": "Nihil habuimus respondere.",
+  "spans": []
+ },
+ {
+  "text": "Nos nihil respondimus.",
+  "spans": []
+ },
+ {
+  "text": "tum amita mea:",
+  "spans": []
+ },
+ {
+  "text": "vel, ut non nulli libri historici affirmant, Christiani ad ipsos muros Castelli Rutupini navem suam applicaverant, et per fenestram castelli cum rege sermonem habuerunt.",
+  "spans": [
+   {
+    "start": 45,
+    "end": 55,
+    "label": "NORP"
+   },
+   {
+    "start": 71,
+    "end": 88,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "nam eo tempore aqua portus Rutupini usque ad muros castelli pertinebat.",
+  "spans": [
+   {
+    "start": 27,
+    "end": 35,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Nec deos antiquos, quos per multos annos ego et populus meus adoravimus, oblivioni dare possumus.",
+  "spans": []
+ },
+ {
+  "text": "sed, quia ex terra peregrina huc cursum tenuistis, et in animo habetis ea docere quae vera esse existimatis, non prohibebo vos in regno meo manere et notitiam Dei vestri docere.",
+  "spans": []
+ },
+ {
+  "text": "post principatum Neronis multi Christiani in imperio Romano fuerunt;",
+  "spans": [
+   {
+    "start": 17,
+    "end": 24,
+    "label": "PERSON"
+   },
+   {
+    "start": 31,
+    "end": 41,
+    "label": "LOC"
+   },
+   {
+    "start": 53,
+    "end": 59,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "Nam anno primo et sexagesimo post Christum natum Sanctus Paulus Romam captivus deportatus est.",
+  "spans": [
+   {
+    "start": 34,
+    "end": 42,
+    "label": "PERSON"
+   },
+   {
+    "start": 49,
+    "end": 63,
+    "label": "PERSON"
+   },
+   {
+    "start": 64,
+    "end": 69,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "et uxor illius Auli Plautii, qui iam aetate principis Claudii Britanniae praefuit, Christiana fuisse existimatur.",
+  "spans": [
+   {
+    "start": 15,
+    "end": 27,
+    "label": "PERSON"
+   },
+   {
+    "start": 54,
+    "end": 61,
+    "label": "PERSON"
+   },
+   {
+    "start": 62,
+    "end": 72,
+    "label": "LOC"
+   },
+   {
+    "start": 83,
+    "end": 93,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "nam ‘superstitionis peregrinae’ accusata est.",
+  "spans": []
+ },
+ {
+  "text": "nomen ei fuit Pomponiae Graecinae.",
+  "spans": [
+   {
+    "start": 14,
+    "end": 33,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "sed Angli et Saxones, qui multos deos adorabant, basilicas Christianas plerumque deleverunt.",
+  "spans": [
+   {
+    "start": 4,
+    "end": 9,
+    "label": "NORP"
+   },
+   {
+    "start": 13,
+    "end": 20,
+    "label": "NORP"
+   },
+   {
+    "start": 59,
+    "end": 70,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "basilica autem Sancti Martini, quae Duroverni erat, non omnino deleta erat.",
+  "spans": [
+   {
+    "start": 15,
+    "end": 29,
+    "label": "PERSON"
+   },
+   {
+    "start": 36,
+    "end": 45,
+    "label": "LOC"
+   }
+  ]
+ },
+ {
+  "text": "Alleluia!’",
+  "spans": []
+ },
+ {
+  "text": "nam multis annis ante in foro Romano quondam fuit, cum pueros nonnullos facie pulchra, oculis caeruleis, capillis flavis vidit.",
+  "spans": [
+   {
+    "start": 30,
+    "end": 36,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "itaque mercatores, quorum in manu pueri erant, sic interrogavit:",
+  "spans": []
+ },
+ {
+  "text": "responderunt eos esse Anglos.",
+  "spans": [
+   {
+    "start": 22,
+    "end": 28,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "Non Anglos sed Angelos eos vocari oportet.",
+  "spans": [
+   {
+    "start": 4,
+    "end": 10,
+    "label": "NORP"
+   }
+  ]
+ },
+ {
+  "text": "intra semihoram vehiculum paratum erat, et in viam nos dedimus.",
+  "spans": []
+ },
+ {
+  "text": "dum in vehiculo sedebamus, muros castelli luna plena illustratos vidimus.",
+  "spans": []
+ },
+ {
+  "text": "pulchrum erat spectaculum.",
+  "spans": []
+ },
+ {
+  "text": "mox domi eramus.",
+  "spans": []
+ },
+ {
+  "text": "nos pueri longo die fatigati et semisomni eramus.",
+  "spans": []
+ },
+ {
+  "text": "ea nocte Marcus et Alexander apud nos manserunt.",
+  "spans": [
+   {
+    "start": 9,
+    "end": 15,
+    "label": "PERSON"
+   },
+   {
+    "start": 19,
+    "end": 28,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "hodie iam quinque dies post Idus Septembres elapsi sunt, et dies ille ater appropinquat qui ultimus feriarum erit.",
+  "spans": []
+ },
+ {
+  "text": "omnium dierum ille tristissimus est qui finis est feriarum.",
+  "spans": []
+ },
+ {
+  "text": "intra paucos dies patruum meum et amitam meam et Lydiam valere iubebo.",
+  "spans": [
+   {
+    "start": 49,
+    "end": 55,
+    "label": "PERSON"
+   }
+  ]
+ },
+ {
+  "text": "quam bellae fuerunt feriae a mane usque ad vesperum!",
+  "spans": []
+ },
+ {
+  "text": "quae mutatio rerum instat!",
+  "spans": []
+ },
+ {
+  "text": "pauci erunt dies feriati, multi profesti.",
   "spans": []
  }
 ]

@@ -1,19 +1,19 @@
 {
-  "corpus_version": "3.9.0",
-  "git_commit": "381c941b4e7a9ab77201f61dad3f323971a2536d",
-  "built_at": "2026-07-02T19:56:55.043389+00:00",
+  "corpus_version": "3.9.1",
+  "git_commit": "b1a1773e28221fe7a09d8ef01bcab40a73ba765a",
+  "built_at": "2026-07-03T01:16:43.502242+00:00",
   "collections_dir": "assets/splits",
   "dedup": true,
   "totals": {
     "train": {
-      "files": 1,
-      "sents": 1336,
-      "ents": 993
+      "files": 3,
+      "sents": 2579,
+      "ents": 2019
     },
     "dev": {
-      "files": 1,
-      "sents": 179,
-      "ents": 148
+      "files": 3,
+      "sents": 348,
+      "ents": 321
     },
     "test": {
       "files": 0,
@@ -22,7 +22,7 @@
     },
     "within_file_dedup": 0,
     "cross_split_dedup": 0,
-    "casing_augmented": 606
+    "casing_augmented": 1183
   },
   "files": [
     {
@@ -37,6 +37,34 @@
       "split": "train",
       "sentences": 730,
       "entities": 587,
+      "deduped": 0
+    },
+    {
+      "file": "primer/primer-sonnenschein_1902-dev.json",
+      "split": "dev",
+      "sentences": 104,
+      "entities": 97,
+      "deduped": 0
+    },
+    {
+      "file": "primer/primer-sonnenschein_1902-train.json",
+      "split": "train",
+      "sentences": 399,
+      "entities": 288,
+      "deduped": 0
+    },
+    {
+      "file": "primer/primer-sonnenschein_1903-dev.json",
+      "split": "dev",
+      "sentences": 65,
+      "entities": 77,
+      "deduped": 0
+    },
+    {
+      "file": "primer/primer-sonnenschein_1903-train.json",
+      "split": "train",
+      "sentences": 267,
+      "entities": 284,
       "deduped": 0
     }
   ]

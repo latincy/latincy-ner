@@ -60,7 +60,7 @@ assets/
 
 **`collections/`** is the primary published dataset — the citable, hand-owned singles. This is what you read, study, extend, and cite.
 
-**`splits/`** records the exact train/dev partition used for training, derived deterministically from `collections/` via `scripts/split_unsplit_singles.py` (80/20 hash split) and committed so consumers can reproduce training without any ambiguity about which sentences land where. Test sets are held-out complete documents (files carrying a `-test` suffix), kept separate from the 80/20 split; **this release ships no test set.**
+**`splits/`** records the exact train/dev partition used for training, derived deterministically from `collections/` via `scripts/split_unsplit_singles.py` (80/20 hash split) and committed so consumers can reproduce training without any ambiguity about which sentences land where. Test sets are held-out complete documents — a single whose metadata declares `"split": "test"` is written unsplit as a `-test` file and never hash-split; **this release ships no test set.**
 
 **`processed/`** is the merged, deduplicated, model-ready corpus built from `splits/` by `python main.py`. It adds cross-source deduplication and casing augmentation on top of the raw splits. Committed for convenience — anyone training a LatinCy model can use it directly without running the build pipeline.
 
@@ -70,16 +70,20 @@ assets/
 |---|---|---|---|---|
 | primer | primer-ritchies-nel | train | 730 | 587 |
 | primer | primer-ritchies-nel | dev | 179 | 148 |
+| primer | primer-sonnenschein_1902 | train | 399 | 288 |
+| primer | primer-sonnenschein_1902 | dev | 104 | 97 |
+| primer | primer-sonnenschein_1903 | train | 267 | 284 |
+| primer | primer-sonnenschein_1903 | dev | 65 | 77 |
 
 ### Totals
 
 | Split | Files | Sentences | Entities |
 |---|---|---|---|
-| train | 1 | 730 | 587 |
-| dev | 1 | 179 | 148 |
-| **Total** | **2** | **909** | **735** |
+| train | 3 | 1,396 | 1,159 |
+| dev | 3 | 348 | 322 |
+| **Total** | **6** | **1,744** | **1,481** |
 
-Counts exclude casing augmentation (train only; +606 variants at build time).
+Counts exclude casing augmentation (train only; +1,183 variants at build time).
 
 ## Setup
 
@@ -190,3 +194,9 @@ repository default recorded in `LICENSE`.
 | Single | Source text | `source_license` | `annotation_license` |
 |---|---|---|---|
 | `primer/ritchies` | Ritchie, *Fabulae Faciles* (1904), via The Latin Library | CC0 | CC BY 4.0 |
+| `primer/sonnenschein_1902` | Sonnenschein, *Ora Maritima* (1902) | CC0 | CC BY 4.0 |
+| `primer/sonnenschein_1903` | Sonnenschein, *Pro Patria* (1903) | CC0 | CC BY 4.0 |
+
+Only `primer/ritchies` carries NEL links and a reviewed NER pass; the other
+singles are NER-only at `review_level: silver` (each single's `annotation` block
+states its own level).
